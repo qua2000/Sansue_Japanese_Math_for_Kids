@@ -10,8 +10,8 @@ export default function Home() {
     <section className="hero-section">
       <div className="hero-copy">
         <div className="section-kicker">JAPANESE MATH FOR KIDS <span>V.2</span></div>
-        <h1>Explore the way<br /><em>to the answer.</em></h1>
-        <p>This site introduces problems of mathematics “Sansue” which Japanese schoolchildren learn at elementary school. Problems are selected mainly from entrance examination problems of famous junior high schools for 6th grade Japanese schoolchildren (12 years old) to take. Highly recommended to challenge as brain-teasers for math lovers. Please enjoy Sansue culture.</p>
+        <h1>Home<span className="title-mark">/</span></h1>
+        <p>This site introduces problems of mathematics "Sansue (in Japanese)" which Japanese schoolchildren learn at elementary school. Problems are selected mainly from entrance examination problems of famous junior high schools for 6th grade Japanese schoolchildren (12 years old) to take. Highly recommended to challenge as brain-teasers for math lovers. Please enjoy Sansue culture.</p>
         <Link href="/exam-l1" className="primary-link">Browse problems <ArrowUpRight size={17} /></Link>
       </div>
       <div className="hero-art"><img src="/manus-storage/math-kids-hero_0ef61b67.jpg" alt="算数のノートが置かれた学習机" /><span className="hero-caption">A quiet desk<br />for curious minds.</span></div>
