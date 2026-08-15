@@ -29,13 +29,13 @@ export default function ProblemPage() {
   if (isIndex) return <section className="listing-page">
     <div className="section-kicker">THE COLLECTION <span>03</span></div>
     <h1>{title}<span className="title-mark">/</span></h1>
-    <p className="lede">学校別・年度別に整理した算数問題です。問題を選び、式を書き、答えの理由を読みましょう。</p>
+    <p className="lede">Problems arranged by school and year. Choose a problem, write the equation, and read the reason for the answer.</p>
     <div className="listing-grid">{["ATOMIGAKUEN-2014", "JISSENJOSHIGAKUEN-2014", "SEIJO-2014", "OTSUMA-2014", "RIKKYONIIZA-2008", "TOHO-2014"].map((item, i) => <Link key={item} href={`/exam-l1/${item.toLowerCase()}`} className="listing-item"><span className="item-number">{String(i + 1).padStart(2, "0")}</span><span><strong>{item}</strong><small>Problems & solutions</small></span><ExternalLink size={16} /></Link>)}</div>
   </section>;
   return <article className="problem-page">
-    <div className="problem-meta"><span className="red-stamp">EXAM.L1</span><span>Junior high school entrance problems</span></div>
+    <div className="problem-meta"><span className="red-stamp">EXAM.L1</span><span>Junior high school entrance examination problems</span></div>
     <h1>{title}<span className="title-mark">/</span></h1>
-    <p className="article-intro">問題・答え・解説を一つの流れで読み進められるように整理しています。</p>
+    <p className="article-intro">Problems, answers, and solutions are arranged so that you can read them as one continuous study page.</p>
     <div className="problem-stack">{sampleProblems.map(problem => <section className="problem-card" key={problem.title}>
       <div className="problem-heading"><span className="problem-index">{problem.title.replace("Problem ", "")}</span><h2>{problem.title}</h2></div>
       <div className="problem-body">{problem.body.split("\n").map((line, i) => line ? <p key={i}>{line}</p> : <div className="line-gap" key={i} />)}</div>
