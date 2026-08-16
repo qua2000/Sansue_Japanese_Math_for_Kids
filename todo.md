@@ -8,12 +8,17 @@
 - [x] ページタイトル、ナビゲーション、検索UIの英語を確認する
 - [x] 代表ページとモバイル表示を検証する
 - [ ] 修正内容と未移行範囲を報告する
+- [x] batch4の画像指定・画像なし・削除ページをビルドと画面で検証する
+- [x] batch4の画像なし8ページを固定する
+- [x] batch4のPile up cubes on a square mat boardを削除する
+- [x] batch4のBring balls to moving drayへDD23画像を登録・反映する
 - [x] batch3の画像なし6ページを固定する
 - [x] batch3のHexagon is divided by two diagonal linesを削除する
 - [x] batch3のCC11、HH8、EE7画像を登録・反映する
 - [ ] 画像未割当・低確度ページの候補一覧を作成する
 - [x] 候補画像とページ本文・タイトルを手動確認する（batch2の10ページ）
 - [x] batch3の次の10ページと候補画像を確認する
+- [x] batch4の次の10ページと候補画像を確認する
 - [x] 27 pieces of gold coinの元サイト階層・学校・年度・問題番号を特定する（Find a fake gold coin／level1、Level2 LL.2）
 - [x] ユーザー指定の2ページを削除する（LA SALLE-2009、AZABU-2007）
 - [x] ユーザー指定の3ページへ画像を反映する（NDA-2003-Day2、Board on the roller、Change speed to catch up）
