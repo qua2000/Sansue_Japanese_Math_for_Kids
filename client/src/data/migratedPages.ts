@@ -30686,7 +30686,12 @@ export const migratedPages = [
     "title": "Replacement of long and hour hand (3 steps)",
     "text": "Replacement of long and hour hand (3 steps)",
     "images": [],
-    "uploadedImages": []
+    "uploadedImages": [
+      {
+        "name": "DD20Replacementoflongandhourhand.png",
+        "src": "/manus-storage/DD20Replacementoflongandhourhand_343ceb3b.png"
+      }
+    ]
   },
   {
     "path": "/home/leve/replacement-of-long-and-hour-hand-3-steps-1",
@@ -31860,7 +31865,20 @@ export const migratedPages = [
         "alt": ""
       }
     ],
-    "uploadedImages": []
+    "uploadedImages": [
+      {
+        "name": "LL17Seatsofsixpersons_1.png",
+        "src": "/manus-storage/LL17Seatsofsixpersons_1_ca61c277.png"
+      },
+      {
+        "name": "LL17Seatsofsixpersons_Answer.png",
+        "src": "/manus-storage/LL17Seatsofsixpersons_Answer_7bdd5c39.png"
+      },
+      {
+        "name": "LL17Seatsofsixpersons_Reference.png",
+        "src": "/manus-storage/LL17Seatsofsixpersons_Reference_1d995f5a.png"
+      }
+    ]
   },
   {
     "path": "/home/leve/seats-of-six-persons/seats-of-six-persons",
