@@ -34690,7 +34690,20 @@ export const migratedPages = [
         "alt": ""
       }
     ],
-    "uploadedImages": []
+    "uploadedImages": [
+      {
+        "name": "JJ22Straightlineswithcertainangles-(2).png",
+        "src": "/manus-storage/JJ22Straightlineswithcertainangles-(2)_0d28a826.png"
+      },
+      {
+        "name": "JJ22Straightlineswithcertainangles-(3).png",
+        "src": "/manus-storage/JJ22Straightlineswithcertainangles-(3)_31d5502b.png"
+      },
+      {
+        "name": "JJ22Straightlineswithcertainangles-Problem.png",
+        "src": "/manus-storage/JJ22Straightlineswithcertainangles-Problem_4954a43c.png"
+      }
+    ]
   },
   {
     "path": "/home/leve/straight-lines-with-certain-angles/straight-lines-with-certain-angles",
@@ -34724,7 +34737,24 @@ export const migratedPages = [
         "alt": ""
       }
     ],
-    "uploadedImages": []
+    "uploadedImages": [
+      {
+        "name": "KK1Suitablelidforvessel-Problem.png",
+        "src": "/manus-storage/KK1Suitablelidforvessel-Problem_46ba9d3f.png"
+      },
+      {
+        "name": "KK1Suitablelidforvessel-Solution_Fig1.png",
+        "src": "/manus-storage/KK1Suitablelidforvessel-Solution_Fig1_8be42ce8.png"
+      },
+      {
+        "name": "KK1Suitablelidforvessel-Solution_Fig2.png",
+        "src": "/manus-storage/KK1Suitablelidforvessel-Solution_Fig2_f7b1a398.png"
+      },
+      {
+        "name": "KK1Suitablelidforvessel-Solution_Fig3.png",
+        "src": "/manus-storage/KK1Suitablelidforvessel-Solution_Fig3_9e87bf4c.png"
+      }
+    ]
   },
   {
     "path": "/home/leve/suitable-lid-for-vessel/suitable-lid-for-vessel",
