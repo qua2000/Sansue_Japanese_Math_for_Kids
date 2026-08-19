@@ -39463,7 +39463,12 @@ export const migratedPages = [
         "alt": ""
       }
     ],
-    "uploadedImages": []
+    "uploadedImages": [
+      {
+        "name": "JJ23Twopersonsmoveonarectangle.png",
+        "src": "/manus-storage/JJ23Twopersonsmoveonarectangle_947c25d6.png"
+      }
+    ]
   },
   {
     "path": "/home/leve/two-persons-move-on-a-rectangle/two-persons-move-on-a-rectangle",

@@ -26,6 +26,10 @@
 - [x] batch4の次の10ページと候補画像を確認する
 - [x] batch5の次の10ページと候補画像を確認する（batch4重複8ページを除外して再生成）
 - [x] batch6の次の10ページと候補画像を確認する
+- [x] batch7の除外条件を更新し、次の10件と候補画像を抽出する
+- [x] batch7の重複3ページを明示的に除外するロジックへ修正する
+- [x] batch7のtwo persons move on a rectangleへJJ23画像を登録・反映する
+- [x] batch7の画像なし6ページを固定する
 - [x] 27 pieces of gold coinの元サイト階層・学校・年度・問題番号を特定する（Find a fake gold coin／level1、Level2 LL.2）
 - [x] ユーザー指定の2ページを削除する（LA SALLE-2009、AZABU-2007）
 - [x] ユーザー指定の3ページへ画像を反映する（NDA-2003-Day2、Board on the roller、Change speed to catch up）
