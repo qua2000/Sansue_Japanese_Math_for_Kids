@@ -1,10 +1,12 @@
 /** Study Desk Editorial: original English content is primary; navigation adds only structure and search. */
-import { Route, Switch, useLocation } from "wouter";
+import { Route, Router, Switch, useLocation } from "wouter";
+import { useHashLocation } from "wouter/use-hash-location";
 import { Search, ChevronRight, Menu, X, BookOpen, ArrowLeft } from "lucide-react";
 import { useMemo, useState } from "react";
 import Home from "./pages/Home";
 import ProblemPage from "./pages/ProblemPage";
 import { migratedIndex } from "./data/migratedIndex";
+import { assetPath } from "./lib/assetPath";
 
 const catalog = [
   { label: "Exam.L1", path: "/exam-l1", count: "2014–2024" },
@@ -14,7 +16,7 @@ const catalog = [
 
 function SiteHeader({ onMenu }: { onMenu: () => void }) {
   const [, navigate] = useLocation();
-  return <header className="site-header"><div className="header-inner"><button className="brand" onClick={() => navigate("/")} aria-label="Return to Home"><img src="/manus-storage/math-kids-logo_da704f37.png" alt="" className="brand-mark" /><span><strong>Sansue</strong><em>Japanese Math for Kids</em></span></button><nav className="top-nav" aria-label="Main navigation"><button onClick={() => navigate("/")}>Home</button><button onClick={() => navigate("/exam-l1")}>Problems</button><button onClick={() => navigate("/about")}>About</button></nav><button className="menu-button" onClick={onMenu} aria-label="Open navigation"><Menu size={22} /></button></div></header>;
+  return <header className="site-header"><div className="header-inner"><button className="brand" onClick={() => navigate("/")} aria-label="Return to Home"><img src={assetPath("/manus-storage/math-kids-logo_da704f37.png")} alt="" className="brand-mark" /><span><strong>Sansue</strong><em>Japanese Math for Kids</em></span></button><nav className="top-nav" aria-label="Main navigation"><button onClick={() => navigate("/")}>Home</button><button onClick={() => navigate("/exam-l1")}>Problems</button><button onClick={() => navigate("/about")}>About</button></nav><button className="menu-button" onClick={onMenu} aria-label="Open navigation"><Menu size={22} /></button></div></header>;
 }
 
 function Sidebar({ open, onClose }: { open: boolean; onClose: () => void }) {
@@ -35,4 +37,8 @@ function Layout({ children }: { children: React.ReactNode }) {
   return <div className="app-shell"><SiteHeader onMenu={() => setMenuOpen(true)} /><div className="page-frame"><Sidebar open={menuOpen} onClose={() => setMenuOpen(false)} /><main className="main-column"><div className="utility-row"><button className="back-link" onClick={() => navigate("/")}><ArrowLeft size={15} /> Home</button><SearchBar /></div>{location !== "/" && <div className="breadcrumb"><span>Home</span><ChevronRight size={13} /><span>Problems</span><ChevronRight size={13} /><strong>{location.split("/").filter(Boolean).at(-1)?.replaceAll("-", " ")}</strong></div>}{children}</main></div><footer className="site-footer"><span>“Sansue” = Japanese Math for Kids V.2</span><span>Problems, answers, and ways of thinking.</span></footer></div>;
 }
 
-export default function App() { return <Layout><Switch><Route path="/" component={Home} /><Route path="/exam-l1" component={ProblemPage} /><Route path="/exam-l1/:slug" component={ProblemPage} /><Route path="/exam-l2" component={ProblemPage} /><Route path="/new-drill" component={ProblemPage} /><Route path="/about" component={ProblemPage} /><Route component={ProblemPage} /></Switch></Layout>; }
+function SiteRoutes() { return <Layout><Switch><Route path="/" component={Home} /><Route path="/exam-l1" component={ProblemPage} /><Route path="/exam-l1/:slug" component={ProblemPage} /><Route path="/exam-l2" component={ProblemPage} /><Route path="/new-drill" component={ProblemPage} /><Route path="/about" component={ProblemPage} /><Route component={ProblemPage} /></Switch></Layout>; }
+
+export default function App() {
+  return import.meta.env.VITE_DEPLOY_TARGET === "github-pages" ? <Router hook={useHashLocation}><SiteRoutes /></Router> : <SiteRoutes />;
+}

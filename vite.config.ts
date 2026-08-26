@@ -216,6 +216,7 @@ export default defineConfig({
   },
   envDir: path.resolve(import.meta.dirname),
   root: path.resolve(import.meta.dirname, "client"),
+  base: process.env.VITE_DEPLOY_TARGET === "github-pages" ? "/Sansue_Japanese_Math_for_Kids/" : "/",
   build: {
     outDir: path.resolve(import.meta.dirname, "dist/public"),
     emptyOutDir: true,
