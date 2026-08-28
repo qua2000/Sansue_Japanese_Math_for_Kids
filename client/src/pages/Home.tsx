@@ -20,7 +20,20 @@ export default function Home() {
     <section className="intro-strip"><div className="strip-mark">03</div><div><span className="eyebrow">WHAT'S INSIDE</span><p>Problems, answers, and solutions are arranged in one readable study page.</p></div><div className="strip-rule" /></section>
     <section className="collection-preview">
       <div className="collection-head"><div><span className="eyebrow">THE COLLECTION</span><h2>Choose a problem.</h2></div><Link href="/exam-l1" className="text-link">View all <ArrowUpRight size={16} /></Link></div>
-      <div className="collection-layout"><div className="collection-image"><img src={assetPath("/manus-storage/math-kids-category_b17bf1ac.jpg")} alt="問題集と定規が置かれた机" /><span>01 / 03</span></div><div className="collection-list"><Link href="/exam-l1" className="collection-row"><span className="row-number">01</span><span><strong>Exam.L1</strong><small>Junior high school entrance examination problems by school and year</small></span><ArrowUpRight size={17} /></Link><Link href="/exam-l2" className="collection-row"><span className="row-number">02</span><span><strong>Exam.L2</strong><small>Problems that require one more step of thinking</small></span><ArrowUpRight size={17} /></Link><Link href="/new-drill" className="collection-row muted"><span className="row-number">03</span><span><strong>New Drill</strong><small>New practice problems are being prepared</small></span><ArrowUpRight size={17} /></Link></div></div>
+      <div className="collection-layout"><div className="collection-image"><img src={assetPath("/manus-storage/math-kids-category_b17bf1ac.jpg")} alt="問題集と定規が置かれた机" /><span>01 / 03</span></div><div className="collection-list">
+          <div className="collection-group">
+            <span className="group-label">Exam Problems</span>
+            <Link href="/exam-l1" className="collection-row"><span className="row-number">01</span><span><strong>Exam.L1</strong><small>2014–2024</small></span><ArrowUpRight size={17} /></Link>
+            <Link href="/exam-l2" className="collection-row"><span className="row-number">02</span><span><strong>Exam.L2</strong><small>2010–2024</small></span><ArrowUpRight size={17} /></Link>
+            <Link href="/exam-l3" className="collection-row"><span className="row-number">03</span><span><strong>Exam.L3</strong><small>1999–2010</small></span><ArrowUpRight size={17} /></Link>
+          </div>
+          <div className="collection-group">
+            <span className="group-label">Study Levels</span>
+            <Link href="/level-1" className="collection-row"><span className="row-number">04</span><span><strong>Level 1</strong><small>Basics</small></span><ArrowUpRight size={17} /></Link>
+            <Link href="/level-2" className="collection-row"><span className="row-number">05</span><span><strong>Level 2</strong><small>Intermediate</small></span><ArrowUpRight size={17} /></Link>
+            <Link href="/level-3" className="collection-row"><span className="row-number">06</span><span><strong>Level 3</strong><small>Advanced</small></span><ArrowUpRight size={17} /></Link>
+          </div>
+        </div></div>
     </section>
     <section className="principles"><div><span className="eyebrow">HOW TO USE</span><h2>Read the problem.<br />Write the equation.<br /><em>Read the reason.</em></h2></div><div className="principle-list"><div><Check size={17} /><p><strong>Problem</strong><br />Read the problem at your own pace.</p></div><div><Compass size={17} /><p><strong>Answer</strong><br />Check the answer and review your thinking.</p></div><div><Layers3 size={17} /><p><strong>Solution</strong><br />Find another way of seeing the problem in the solution.</p></div></div></section>
   </>;

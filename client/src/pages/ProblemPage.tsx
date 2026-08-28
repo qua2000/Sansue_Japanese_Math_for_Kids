@@ -18,8 +18,13 @@ export default function ProblemPage() {
   const [location] = useLocation();
   const normalized = location.endsWith("/") ? location.slice(0, -1) : location;
   const page = pageByPath.get(normalized) || pageByPath.get(`${normalized}/`);
-  const isCollection = ["/exam-l1", "/exam-l2", "/new-drill"].includes(normalized);
-  const sourcePrefix = normalized === "/exam-l1" ? "/home/exam-l1" : normalized === "/exam-l2" ? "/home/exam-l2" : normalized;
+  const isCollection = ["/exam-l1", "/exam-l2", "/exam-l3", "/level-1", "/level-2", "/level-3", "/new-drill"].includes(normalized);
+  const sourcePrefix = normalized === "/exam-l1" ? "/home/exam-l1" : 
+                       normalized === "/exam-l2" ? "/home/exam-l2" : 
+                       normalized === "/exam-l3" ? "/home/exam-l3" :
+                       normalized === "/level-1" ? "/home/level-1" :
+                       normalized === "/level-2" ? "/home/leve" :
+                       normalized === "/level-3" ? "/home/level-3" : normalized;
   const collectionPages = useMemo(() => migratedIndex.filter(x => x.path.startsWith(sourcePrefix + "/") && x.path.split("/").length <= sourcePrefix.split("/").length + 2).slice(0, 80), [sourcePrefix]);
   if (isCollection && !page) return <section className="listing-page"><div className="section-kicker">THE COLLECTION <span>{collectionPages.length}</span></div><h1>{normalized.replace("/", "").replaceAll("-", " ").toUpperCase()}<span className="title-mark">/</span></h1><p className="lede">Problems arranged by school and year. The original English problem pages are preserved in this collection.</p><div className="listing-grid">{collectionPages.map((item, i) => <Link key={item.path} href={item.path} className="listing-item"><span className="item-number">{String(i + 1).padStart(2, "0")}</span><span><strong>{item.title}</strong><small>{item.path}</small></span><ExternalLink size={16} /></Link>)}</div></section>;
   if (!page) return <section className="listing-page"><div className="section-kicker">PAGE NOT FOUND</div><h1>Not found<span className="title-mark">/</span></h1><p className="lede">This page has not been included in the migration data.</p><Link href="/exam-l1" className="primary-link">Browse problems <ExternalLink size={16} /></Link></section>;
