@@ -10678,7 +10678,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve",
+    "path": "/home/level-2",
     "slug": "leve",
     "title": "Level 2",
     "text": "Operations\n    AA.1    Make formula using 3 four times       \n    AA.2    Six digits integer        \n    AA.3    Transformation of formula        \nProperties\n    BB.1\nRatios and proportions\n    CC.1    Water and wine in two vessels        \n    CC.2    Fold newspaper 20 times           \n    CC.3",
@@ -10767,7 +10767,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/100th-anniversary-day-of-foundation",
+    "path": "/home/level-2/100th-anniversary-day-of-foundation",
     "slug": "100th-anniversary-day-of-foundation",
     "title": "100th anniversary day of foundation",
     "text": "The memorial day of the 100th anniversary of the foundation of A junior high school is October 24, 2027. \nWhen the years are a multiple of 4 when the years of A.D. cannot be divided by 100, it is a leap year. \nJanuary 31, 2004 is Saturday. When February 1, 2004 is set to the 1st day, what number",
@@ -10856,7 +10856,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/100th-anniversary-day-of-foundation/100th-anniversary-day-of-foundation",
+    "path": "/home/level-2/100th-anniversary-day-of-foundation/100th-anniversary-day-of-foundation",
     "slug": "100th-anniversary-day-of-foundation",
     "title": "100th anniversary day of foundation /",
     "text": "The memorial day of the 100th anniversary of the foundation of A junior high school is October 24, 2027. \nWhen the years are a multiple of 4 when the years of A.D. cannot be divided by 100, it is a leap year. \nJanuary 31, 2004 is Saturday. \nWhen February 1, 2004 is set to the 1st day, what number",
@@ -10945,7 +10945,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/112--1x--1y",
+    "path": "/home/level-2/112--1x--1y",
     "slug": "112--1x--1y",
     "title": "1/12 = 1/x + 1/y",
     "text": "Find all the groups of the integer x and y applicable to the formula of 1/12 = 1/x + 1/y. \nNoted, suppose x =< y.",
@@ -10986,7 +10986,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/112--1x--1y/112--1x--1y",
+    "path": "/home/level-2/112--1x--1y/112--1x--1y",
     "slug": "112--1x--1y",
     "title": "1/12 = 1/x + 1/y /",
     "text": "Find all the groups of the integer x and y applicable to the formula of 1/12 = 1/x + 1/y. \nNoted, suppose x =< y.\nAnswer\n（x,y） = (13,156), (14,84), (15,60), (16,48), (18,36), (20,30), (21,28), (24,24)",
@@ -11043,7 +11043,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/12-points-on-a-circumference",
+    "path": "/home/level-2/12-points-on-a-circumference",
     "slug": "12-points-on-a-circumference",
     "title": "12 points on a circumference",
     "text": "There is a circle with radius 6 cm as shown in the figure and there are 12 points are on the circumference arranged with the same interval. The height of the equilateral triangle whose length of one side is 6 cm is assumed to be 5.2 cm and Pi is assumed to be 3.14.\n(1) Find the length of AB.\n(2)",
@@ -11137,7 +11137,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/12-points-on-a-circumference/12-points-on-a-circumference",
+    "path": "/home/level-2/12-points-on-a-circumference/12-points-on-a-circumference",
     "slug": "12-points-on-a-circumference",
     "title": "12 points on a circumference /",
     "text": "There is a circle with radius 6 cm as shown in the figure and there are 12 points are on the circumference arranged with the same interval. \nThe height of the equilateral triangle whose length of one side is 6 cm is assumed to be 5.2 cm and Pi is assumed to be 3.14. \n(1) Find the length of AB.",
@@ -11231,7 +11231,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/13-persons-ordered-one-confectionery-and-drink",
+    "path": "/home/level-2/13-persons-ordered-one-confectionery-and-drink",
     "slug": "13-persons-ordered-one-confectionery-and-drink",
     "title": "13 persons ordered one confectionery and drink",
     "text": "In a certain store, a cake costs 320 yen, a pudding costs 210 yen, juice costs 70 yen, and tea costs 120 yen.\nWhen 13 persons ordered one confectionery and one cup of drink, respectively, the total amount was 4790 yen.\nFind the probable number of persons who ordered the pudding.",
@@ -11256,7 +11256,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/13-persons-ordered-one-confectionery-and-drink/13-persons-ordered-one-confectionery-and-drink",
+    "path": "/home/level-2/13-persons-ordered-one-confectionery-and-drink/13-persons-ordered-one-confectionery-and-drink",
     "slug": "13-persons-ordered-one-confectionery-and-drink",
     "title": "13 persons ordered one confectionery and drink /",
     "text": "In a certain store, a cake costs 320 yen, a pudding costs 210 yen, juice costs 70 yen, and tea costs 120 yen. \nWhen 13 persons ordered one confectionery and one cup of drink, respectively, the total amount was 4790 yen. \nFind the probable number of persons who ordered the pudding. \nAnswer\n8",
@@ -11281,7 +11281,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/1989-expressed-by-continuous-integers",
+    "path": "/home/level-2/1989-expressed-by-continuous-integers",
     "slug": "1989-expressed-by-continuous-integers",
     "title": "1989 expressed by continuous integers",
     "text": "1989 can be expressed as the sum of two or more continuous integers such as 1989 = 994 + 995 = 662 + 663 + 664. \nAnswer the following questions about such 1989.\n(1) When 1989 is expressed by the sum of continuous integers among four or more pieces and eight or less, which is the number of",
@@ -11346,7 +11346,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/1989-expressed-by-continuous-integers/1989-expressed-by-continuous-integers",
+    "path": "/home/level-2/1989-expressed-by-continuous-integers/1989-expressed-by-continuous-integers",
     "slug": "1989-expressed-by-continuous-integers",
     "title": "1989 expressed by continuous integers /",
     "text": "1989 can be expressed as the sum of two or more continuous integers such as 1989 = 994 + 995 = 662 + 663 + 664. \nAnswer the following questions about such 1989. \n(1) When 1989 is expressed by the sum of continuous integers among four or more pieces and eight or less, which is the number of",
@@ -11411,7 +11411,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/200---07-divisible-by-27-and-81",
+    "path": "/home/level-2/200---07-divisible-by-27-and-81",
     "slug": "200---07-divisible-by-27-and-81",
     "title": "200---07 divisible by 27 and 81",
     "text": "Integers of which top is 2, end is 7 and all interval numbers are 0 such as 207, 2007, 20007, ‥ ‥ ‥, are divided by 27 and 81. \nFind the smallest number among such numbers which is divisible by 27 and indivisible by 81.",
@@ -11500,7 +11500,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/200---07-divisible-by-27-and-81/200---07-divisible-by-27-and-81",
+    "path": "/home/level-2/200---07-divisible-by-27-and-81/200---07-divisible-by-27-and-81",
     "slug": "200---07-divisible-by-27-and-81",
     "title": "200---07 divisible by 27 and indivisible by 81 /",
     "text": "Integers of which top is 2, end is 7 and all interval numbers are 0 such as 207, 2007, 20007, ‥ ‥ ‥, are divided by 27 and 81. \nFind the smallest number among such numbers which is divisible by 27 and indivisible by 81.",
@@ -11594,7 +11594,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/200---07-divisible-by-27-and-indivisible-by-81",
+    "path": "/home/level-2/200---07-divisible-by-27-and-indivisible-by-81",
     "slug": "200---07-divisible-by-27-and-indivisible-by-81",
     "title": "200---07 divisible by 27 and indivisible by 81",
     "text": "Integers of which top is 2, end is 7 and all interval numbers are 0 such as 207, 2007, 20007, ‥ ‥ ‥, are divided by 27 and 81. \nFind the smallest number among such numbers which is divisible by 27 and indivisible by 81.",
@@ -11683,7 +11683,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/200---07-divisible-by-27-and-indivisible-by-81/200---07-divisible-by-27-and-indivisible-by-81",
+    "path": "/home/level-2/200---07-divisible-by-27-and-indivisible-by-81/200---07-divisible-by-27-and-indivisible-by-81",
     "slug": "200---07-divisible-by-27-and-indivisible-by-81",
     "title": "200---07 divisible by 27 and indivisible by 81 /",
     "text": "Integers of which top is 2, end is 7 and all interval numbers are 0 such as 207, 2007, 20007, ‥ ‥ ‥, are divided by 27 and 81. \nFind the smallest number among such numbers which is divisible by 27 and indivisible by 81. \nAnswer\n20000007\nSolution\n81 and 27 are factorized into prime factor",
@@ -11777,7 +11777,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/27-pieces-of-gold-coin",
+    "path": "/home/level-2/27-pieces-of-gold-coin",
     "slug": "27-pieces-of-gold-coin",
     "title": "27 pieces of gold coin",
     "text": "27 pieces of gold coin",
@@ -11785,7 +11785,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/a-circle-moves-around-a-figure",
+    "path": "/home/level-2/a-circle-moves-around-a-figure",
     "slug": "a-circle-moves-around-a-figure",
     "title": "A circle moves around a figure",
     "text": "There is a figure made with five squares whose lengths of one side are 4 cm as shown in a figure. \nA circle 1 cm in radius rotates without separating from the side of the figure and move one round on the outside of this figure. \nFind the area of the portion along which the circle passed. \nPi is",
@@ -11879,7 +11879,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/a-circle-moves-around-a-figure/a-circle-moves-around-a-figure",
+    "path": "/home/level-2/a-circle-moves-around-a-figure/a-circle-moves-around-a-figure",
     "slug": "a-circle-moves-around-a-figure",
     "title": "A circle moves around a figure /",
     "text": "There is a figure made with five squares whose lengths of one side are 4 cm as shown in a figure. \nA circle 1 cm in radius rotates without separating from the side of the figure and move one round on the outside of this figure. \nFind the area of the portion along which the circle passed. \nPi is",
@@ -11981,7 +11981,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/accumulated-cubes-and-paint",
+    "path": "/home/level-2/accumulated-cubes-and-paint",
     "slug": "accumulated-cubes-and-paint",
     "title": "Accumulated cubes and paint",
     "text": "I accumulated cubes whose one side is 2 cm as shown in the figure and I painted the surface of this solid including the bottom. \nAnd after paint got dry, I dissect it to pieces one by one.\n(1) Find the number of the cube of which three faces are painted.\n(2) Find the sum total of the area of the",
@@ -12070,7 +12070,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/accumulated-cubes-and-paint/accumulated-cubes-and-paint",
+    "path": "/home/level-2/accumulated-cubes-and-paint/accumulated-cubes-and-paint",
     "slug": "accumulated-cubes-and-paint",
     "title": "Accumulated cubes and paint /",
     "text": "I accumulated cubes whose one side is 2 cm as shown in the figure and I painted the surface of this solid including the bottom. \nAnd after paint got dry, I dissect it to pieces one by one. \n(1) Find the number of the cube of which three faces are painted. \n(2) Find the sum total of the area of the",
@@ -12159,7 +12159,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/add-3-or-8-to-a-number",
+    "path": "/home/level-2/add-3-or-8-to-a-number",
     "slug": "add-3-or-8-to-a-number",
     "title": "Add 3 or 8 to a number",
     "text": "There are numbers to become the multiple of 8 when I add 3, and those numbers becomes the multiple of 3 when I add 8. \nWhat is the smallest number of them?",
@@ -12208,7 +12208,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/add-3-or-8-to-a-number/add-3-or-8-to-a-number",
+    "path": "/home/level-2/add-3-or-8-to-a-number/add-3-or-8-to-a-number",
     "slug": "add-3-or-8-to-a-number",
     "title": "Add 3 or 8 to a number /",
     "text": "There are numbers to become the multiple of 8 when I add 3, and those numbers becomes the multiple of 3 when I add 8. \nWhat is the smallest number of them?\nAnswer\n13\nSolution\nSuch a number that becomes the multiple of 8 when I add 3 and becomes the multiple of 3 when I add 8, is the number should",
@@ -12257,7 +12257,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/admission-ticket-of-a-theater",
+    "path": "/home/level-2/admission-ticket-of-a-theater",
     "slug": "admission-ticket-of-a-theater",
     "title": "Admission ticket of a theater",
     "text": "As for the admission ticket of a certain theater, the advance tickets and the day tickets are available at a rate of 7:3. \nThe advance tickets are on sale three weeks before to the previous day and the day tickets are on sale 2 hours before opening of the performance. \nThe day ticket audience of",
@@ -12346,7 +12346,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/admission-ticket-of-a-theater/admission-ticket-of-a-theater",
+    "path": "/home/level-2/admission-ticket-of-a-theater/admission-ticket-of-a-theater",
     "slug": "admission-ticket-of-a-theater",
     "title": "Admission ticket of a theater /",
     "text": "As for the admission ticket of a certain theater, the advance tickets and the day tickets are available at a rate of 7 : 3. \nThe advance tickets are on sale three weeks before to the previous day and the day tickets are on sale 2 hours before opening of the performance. \nThe day ticket audience of",
@@ -12435,7 +12435,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/another-cut-line-on-the-development-view",
+    "path": "/home/level-2/another-cut-line-on-the-development-view",
     "slug": "another-cut-line-on-the-development-view",
     "title": "Another cut line on the development view",
     "text": "As shown in Fig. 1, there is cube ABCD-EFGH whose length of one side is 6 cm. \nThe points I and J are middle points of the sides AE and BF, respectively. \nThe points L and K are on the sides DH and CG, respectively and DL : LH = CK : KG. \nThis cube is cut by the plane which passes along four point",
@@ -12529,7 +12529,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/another-cut-line-on-the-development-view/another-cut-line-on-the-development-view",
+    "path": "/home/level-2/another-cut-line-on-the-development-view/another-cut-line-on-the-development-view",
     "slug": "another-cut-line-on-the-development-view",
     "title": "Another cut line on the development view /",
     "text": "As shown in Fig. 1, there is cube ABCD-EFGH whose length of one side is 6 cm. \nThe points I and J are middle points of the sides AE and BF, respectively. \nThe points L and K are on the sides DH and CG, respectively and DL : LH = CK : KG. \nThis cube is cut by the plane which passes along four point",
@@ -12627,7 +12627,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/another-partition-of-right-hexagon",
+    "path": "/home/level-2/another-partition-of-right-hexagon",
     "slug": "another-partition-of-right-hexagon",
     "title": "Another partition of right hexagon",
     "text": "As shown in the figure, a hexagon with all sides 6cm and same interior angles is divided into two portions by the straight line. \nFind the ratio of the area of the portion of X and Y by the ratio of the least integer.",
@@ -12657,7 +12657,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/another-partition-of-right-hexagon/another-partition-of-right-hexagon",
+    "path": "/home/level-2/another-partition-of-right-hexagon/another-partition-of-right-hexagon",
     "slug": "another-partition-of-right-hexagon",
     "title": "Another partition of right hexagon /",
     "text": "As shown in the figure, a hexagon with all sides 6cm and same interior angles is divided into two portions by the straight line. \nFind the ratio of the area of the portion of X and Y by the ratio of the least integer.",
@@ -12695,7 +12695,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/another-sharing-six-oranges",
+    "path": "/home/level-2/another-sharing-six-oranges",
     "slug": "another-sharing-six-oranges",
     "title": "Another sharing six oranges",
     "text": "How many ways of giving six oranges to four persons ? \nSuppose that there may be those who cannot get one.",
@@ -12703,7 +12703,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/another-sharing-six-oranges/another-sharing-six-oranges",
+    "path": "/home/level-2/another-sharing-six-oranges/another-sharing-six-oranges",
     "slug": "another-sharing-six-oranges",
     "title": "Another sharing six oranges /",
     "text": "How many ways of giving six oranges to four persons ? \nSuppose that there may be those who cannot get one. \nAnswer\n84 ways\nSolution\nIt is better for you to consider the way of placing which places both six oranges and three sticks. \nThe number of the ways of placing six oranges and three sticks on",
@@ -12711,7 +12711,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/another-triathlon-race",
+    "path": "/home/level-2/another-triathlon-race",
     "slug": "another-triathlon-race",
     "title": "Another triathlon race",
     "text": "Taro and Jiro participated in the competition of the triathlon. \nA triathlon is a game which carry out three athletic games in order of swimming, a bicycle (49 km), and marathon (20 km), and all athletes compete for speed there. \nIn a swimming race, the ratio of the speed of Taro and Jiro is 15 :",
@@ -12719,7 +12719,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/another-triathlon-race/another-triathlon-race",
+    "path": "/home/level-2/another-triathlon-race/another-triathlon-race",
     "slug": "another-triathlon-race",
     "title": "Another triathlon race /",
     "text": "Taro and Jiro participated in the competition of the triathlon. \nA triathlon is a game which carry out three athletic games in order of swimming, a bicycle (49 km), and marathon (20 km), and all athletes compete for speed there. \nIn a swimming race, the ratio of the speed of Taro and Jiro is 15 :",
@@ -12727,7 +12727,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/area-ratio-of-parallelogram",
+    "path": "/home/level-2/area-ratio-of-parallelogram",
     "slug": "area-ratio-of-parallelogram",
     "title": "Area ratio of parallelogram",
     "text": "There is a parallelogram ABCD as shown in a figure. \nThe points E and F are points of dividing the side BC into three equally. \nThe point G is a point of the middle of the side CD. \nFind the area ratio of the area of a shadow area and the area of parallelogram ABCD.",
@@ -12789,7 +12789,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/area-ratio-of-parallelogram/area-ratio-of-parallelogram",
+    "path": "/home/level-2/area-ratio-of-parallelogram/area-ratio-of-parallelogram",
     "slug": "area-ratio-of-parallelogram",
     "title": "Area ratio of parallelogram /",
     "text": "There is a parallelogram ABCD as shown in a figure. \nThe points E and F are points of dividing the side BC into three equally. \nThe point G is a point of the middle of the side CD. \nFind the area ratio of the area of a shadow area and the area of parallelogram ABCD.",
@@ -12855,7 +12855,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/area-ratio-of-square-and-triangle",
+    "path": "/home/level-2/area-ratio-of-square-and-triangle",
     "slug": "area-ratio-of-square-and-triangle",
     "title": "Area ratio of square and triangle",
     "text": "Quadrilateral ABCD in the figure below is a square and CE = DE. Find the area ratio of the square ABCD and the triangular BFG of shadow area.",
@@ -12893,7 +12893,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/area-ratio-of-square-and-triangle/area-ratio-of-square-and-triangle",
+    "path": "/home/level-2/area-ratio-of-square-and-triangle/area-ratio-of-square-and-triangle",
     "slug": "area-ratio-of-square-and-triangle",
     "title": "Area ratio of square and triangle /",
     "text": "Quadrilateral ABCD in the figure below is a square and CE = DE. \nFind the area ratio of the square ABCD and the triangular BFG of shadow area.",
@@ -12926,7 +12926,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/area-ratio-of-triangles",
+    "path": "/home/level-2/area-ratio-of-triangles",
     "slug": "area-ratio-of-triangles",
     "title": "Area ratio of triangles",
     "text": "Both triangle ABC and ADE in a figure are a right-angled isosceles triangle. \n(length of BD) : (length of DC) = 1 : 3. \nFind the area ratio of triangle DCE and triangle ABC.",
@@ -13020,7 +13020,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/area-ratio-of-triangles/area-ratio-of-triangles",
+    "path": "/home/level-2/area-ratio-of-triangles/area-ratio-of-triangles",
     "slug": "area-ratio-of-triangles",
     "title": "Area ratio of triangles /",
     "text": "Both triangle ABC and ADE in a figure are a right-angled isosceles triangle. \n(length of BD) : (length of DC) = 1 : 3. \nFind the area ratio of triangle DCE and triangle ABC.",
@@ -13118,7 +13118,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/area-ration-of-square-and-triangle",
+    "path": "/home/level-2/area-ration-of-square-and-triangle",
     "slug": "area-ration-of-square-and-triangle",
     "title": "Area ratio of square and triangle",
     "text": "Quadrilateral ABCD in the figure below is a square and CE = DE. Find the area ratio of the square ABCD and the triangular BFG of shadow area.",
@@ -13156,7 +13156,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/area-ration-of-square-and-triangle/area-ratio-of-square-and-triangle",
+    "path": "/home/level-2/area-ration-of-square-and-triangle/area-ratio-of-square-and-triangle",
     "slug": "area-ratio-of-square-and-triangle",
     "title": "Area ratio of square and triangle",
     "text": "Quadrilateral ABCD in the figure below is a square and CE = DE. Find the area ratio of the square ABCD and the triangular BFG of shadow area.",
@@ -13189,7 +13189,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/arrange-three-numbers-and-alphabet",
+    "path": "/home/level-2/arrange-three-numbers-and-alphabet",
     "slug": "arrange-three-numbers-and-alphabet",
     "title": "Arrange three numbers and alphabet",
     "text": "I will arrange in a row three numbers/alphabets which are selected among numbers from 0 to 9 and several types of alphabet observing the following [Promise 1] and [Promise 2].\n[Promise 1] \nI may use the same numbers and alphabets repeatedly to arrange them in a row.\n[Promise 2] \nI may not arrange",
@@ -13278,7 +13278,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/arrange-three-numbers-and-alphabet/arrange-three-numbers-and-alphabet",
+    "path": "/home/level-2/arrange-three-numbers-and-alphabet/arrange-three-numbers-and-alphabet",
     "slug": "arrange-three-numbers-and-alphabet",
     "title": "Arrange three numbers and alphabet /",
     "text": "I will arrange in a row three numbers/alphabets which are selected among numbers from 0 to 9 and several types of alphabet observing the following [Promise 1] and [Promise 2].\n[Promise 1] \nI may use the same numbers and alphabets repeatedly to arrange them in a row.\n[Promise 2] \nI may not arrange",
@@ -13367,7 +13367,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/arrangement-of-numbers-and-alphabets",
+    "path": "/home/level-2/arrangement-of-numbers-and-alphabets",
     "slug": "arrangement-of-numbers-and-alphabets",
     "title": "Arrangement of numbers and alphabets",
     "text": "Based on the following [Rule 1] and [Rule 2], three kinds of number or alphabet are lined up in a row out of ten kinds of numbers from zero to nine and several kinds of alphabet.\n[Rule 1] \nSame number and alphabet may be used repeatedly.\n[Rule 2] \nIt is not permitted that there are numbers only or",
@@ -13456,7 +13456,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/arrangement-of-numbers-and-alphabets/arrangement-of-numbers-and-alphabets",
+    "path": "/home/level-2/arrangement-of-numbers-and-alphabets/arrangement-of-numbers-and-alphabets",
     "slug": "arrangement-of-numbers-and-alphabets",
     "title": "Arrangement of numbers and alphabets /",
     "text": "Based on the following [Rule 1] and [Rule 2], three kinds of number or alphabet are lined up in a row out of ten kinds of numbers from zero to nine and several kinds of alphabet.\n[Rule 1] \nSame number and alphabet may be used repeatedly. \n[Rule 2] \nIt is not permitted that there are numbers only",
@@ -13545,7 +13545,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/arrangement-of-numbers-based-on-rules",
+    "path": "/home/level-2/arrangement-of-numbers-based-on-rules",
     "slug": "arrangement-of-numbers-based-on-rules",
     "title": "Arrangement of numbers based on rules",
     "text": "In accordance with the following rule, a number is lined up from the left to the right in order in a row.\n<Rule> \n① Both the 1st number and the 2nd number from the left is 1.\n②From the third number, it is the sum of previous two numbers. \nHowever, when the sum is 3, it turned to 0 to be written",
@@ -13634,7 +13634,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/arrangement-of-numbers-based-on-rules/arrangement-of-numbers-based-on-rules",
+    "path": "/home/level-2/arrangement-of-numbers-based-on-rules/arrangement-of-numbers-based-on-rules",
     "slug": "arrangement-of-numbers-based-on-rules",
     "title": "Arrangement of numbers based on rules /",
     "text": "In accordance with the following rule, a number is lined up from the left to the right in order in a row. \n<Rule> \n① Both the 1st number and the 2nd number from the left is 1. \n②From the third number, it is the sum of previous two numbers. \nHowever, when the sum is 3, it turned to 0 to be written",
@@ -13723,7 +13723,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/assemble-development-view",
+    "path": "/home/level-2/assemble-development-view",
     "slug": "assemble-development-view",
     "title": "Assemble development view",
     "text": "As shown in the figure, the development view was drawn in the grid sheet 1 cm in one scale.\nFind the total surface area and the volume of the solid made of being assembled this development view.",
@@ -13777,7 +13777,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/assemble-development-view/assemble-development-view",
+    "path": "/home/level-2/assemble-development-view/assemble-development-view",
     "slug": "assemble-development-view",
     "title": "Assemble development view /",
     "text": "As shown in the figure, the development view was drawn in the grid sheet 1 cm in one scale.\nFind the total surface area and the volume of the solid made of being assembled this development view.",
@@ -13835,7 +13835,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/bagging-work-by-three-persons",
+    "path": "/home/level-2/bagging-work-by-three-persons",
     "slug": "bagging-work-by-three-persons",
     "title": "Bagging work by three persons",
     "text": "Three persons, Taro, Jiro, and Hanako carry out bagging work of a certain product. \nIn order to all products are bagged, it will take 150 minutes by two persons, Taro and Jiro, and it will take 125 minutes by two persons, Taro and Hanako and it will take 600 minutes by Jiro. \nFind the time of",
@@ -13860,7 +13860,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/bagging-work-by-three-persons/bagging-work-by-three-persons",
+    "path": "/home/level-2/bagging-work-by-three-persons/bagging-work-by-three-persons",
     "slug": "bagging-work-by-three-persons",
     "title": "Bagging work by three persons /",
     "text": "Three persons, Taro, Jiro, and Hanako carry out bagging work of a certain product. \nIn order to all products are bagged, it will take 150 minutes by two persons, Taro and Jiro, and it will take 125 minutes by two persons, Taro and Hanako and it will take 600 minutes by Jiro. \nFind the time of",
@@ -13885,7 +13885,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/bending-paper-tape-right-angled",
+    "path": "/home/level-2/bending-paper-tape-right-angled",
     "slug": "bending-paper-tape-right-angled",
     "title": "Bending paper tape right-angled",
     "text": "There is paper tape 2 cm in width. \nBending this paper tape right-angled several times as shown in Fig. 1. \nAs shown in Fig. 2, it is finally made for an overlap of each end of the paper tape to be a square whose one side is 2 cm.\n(1) As shown in Fig. 1, when you bend a paper tape once, find the",
@@ -13974,7 +13974,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/bending-paper-tape-right-angled/bending-paper-tape-right-angled",
+    "path": "/home/level-2/bending-paper-tape-right-angled/bending-paper-tape-right-angled",
     "slug": "bending-paper-tape-right-angled",
     "title": "Bending paper tape right-angled /",
     "text": "There is paper tape 2 cm in width. \nBending this paper tape right-angled several times as shown in Fig. 1. \nAs shown in Fig. 2, it is finally made for an overlap of each end of the paper tape to be a square whose one side is 2 cm. \n(1) As shown in Fig. 1, when you bend a paper tape once, find the",
@@ -14063,7 +14063,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/board-on-the-roller",
+    "path": "/home/level-2/board-on-the-roller",
     "slug": "board-on-the-roller",
     "title": "Board on the roller",
     "text": "Board has been riding on the roller as shown in the figure below. \nWhen roller moves 10 cm, how long does the upper board move?",
@@ -14076,7 +14076,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/board-on-the-roller/board-on-the-roller",
+    "path": "/home/level-2/board-on-the-roller/board-on-the-roller",
     "slug": "board-on-the-roller",
     "title": "Board on the roller /",
     "text": "Board has been riding on the roller as shown in the figure below. \nWhen roller moves 10 cm, how long does the upper board move?",
@@ -14089,7 +14089,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/bring-balls-to-moving-dray",
+    "path": "/home/level-2/bring-balls-to-moving-dray",
     "slug": "bring-balls-to-moving-dray",
     "title": "Bring balls to moving dray",
     "text": "A dray moves at the speed of 30 m/m to B point 6000 m away from A point. \nWhen a dray moves 900 m, Taro in A point start to pursue the dray with a ball. \nIf he catches up with the dray, he put the ball in the dray and he will return toward A point immediately. \nHe receives a ball at A point and",
@@ -14102,7 +14102,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/bring-balls-to-moving-dray/bring-balls-to-moving-dray",
+    "path": "/home/level-2/bring-balls-to-moving-dray/bring-balls-to-moving-dray",
     "slug": "bring-balls-to-moving-dray",
     "title": "Bring balls to moving dray /",
     "text": "A dray moves at the speed of 30 m/m to B point 6000 m away from A point. \nWhen a dray moves 900 m, Taro in A point start to pursue the dray with a ball. \nIf he catches up with the dray, he put the ball in the dray and he will return toward A point immediately. \nHe receives a ball at A point and",
@@ -14115,7 +14115,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/carry-an-iron-plate",
+    "path": "/home/level-2/carry-an-iron-plate",
     "slug": "carry-an-iron-plate",
     "title": "Carry an iron plate",
     "text": "As shown in the figure, cylinders with same form and same size are rolled without sliding so that they may carry an iron plate in the direction of an arrow. \nA radius at the bottom of each cylinder is 15 cm and each cylinder rolls with a fixed speed and it is rotated one time in 12 seconds. \nAn",
@@ -14128,7 +14128,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/carry-an-iron-plate/carry-an-iron-plate",
+    "path": "/home/level-2/carry-an-iron-plate/carry-an-iron-plate",
     "slug": "carry-an-iron-plate",
     "title": "Carry an iron plate /",
     "text": "As shown in the figure, cylinders with same form and same size are rolled without sliding so that they may carry an iron plate in the direction of an arrow. \nA radius at the bottom of each cylinder is 15 cm and each cylinder rolls with a fixed speed and it is rotated one time in 12 seconds. \nAn",
@@ -14141,7 +14141,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/carry-water-to-cart",
+    "path": "/home/level-2/carry-water-to-cart",
     "slug": "carry-water-to-cart",
     "title": "Carry water to cart",
     "text": "There is a cart on which put the tank at the point 6 m away from the pond. \nTaro repeats the work of carrying water full in the vessel to transfer to the tank on the cart after drawing water from the pond and returning to the pond. \nAlthough 2L of water can be put into a vessel, there is a hole in",
@@ -14163,7 +14163,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/carry-water-to-cart/carry-water-to-cart",
+    "path": "/home/level-2/carry-water-to-cart/carry-water-to-cart",
     "slug": "carry-water-to-cart",
     "title": "Carry water to cart /",
     "text": "There is a cart on which put the tank at the point 6 m away from the pond. \nTaro repeats the work of carrying water full in the vessel to transfer to the tank on the cart after drawing water from the pond and returning to the pond. \nAlthough 2L of water can be put into a vessel, there is a hole in",
@@ -14180,7 +14180,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/change-direction-at-every-meeting",
+    "path": "/home/level-2/change-direction-at-every-meeting",
     "slug": "change-direction-at-every-meeting",
     "title": "Change direction at every meeting",
     "text": "Taro and Jiro leave P point at the same time and walk between P and Q point 90 m away from P. \nTaro goes back and forth between PQ at 120 m/m. \nJiro walks at 15 m/m and every time after he meets Taro, he changes direction and walks.\n(1) Find the distance from P point where Taro and Jiro met the",
@@ -14229,7 +14229,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/change-direction-at-every-meeting/change-direction-at-every-meeting",
+    "path": "/home/level-2/change-direction-at-every-meeting/change-direction-at-every-meeting",
     "slug": "change-direction-at-every-meeting",
     "title": "Change direction at every meeting /",
     "text": "Taro and Jiro leave P point at the same time and walk between P and Q point 90 m away from P. \nTaro goes back and forth between PQ at 120 m/m. \nJiro walks at 15 m/m and every time after he meets Taro, he changes direction and walks. \n(1) Find the distance from P point where Taro and Jiro met the",
@@ -14278,7 +14278,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/change-speed-to-catch-up",
+    "path": "/home/level-2/change-speed-to-catch-up",
     "slug": "change-speed-to-catch-up",
     "title": "Change speed to catch up",
     "text": "The way from the house of Taro and Jiro to the school joins at the point A, as shown in a figure. \nAs for the distance to A point, Taro’s house is more 750 m far than Jiro’s house. \nMoreover, it is 1000 m from A point up to the school. \nUsually, Taro leaves home at 7:50 in the morning, goes at 100",
@@ -14291,7 +14291,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/change-speed-to-catch-up/change-speed-to-catch-up",
+    "path": "/home/level-2/change-speed-to-catch-up/change-speed-to-catch-up",
     "slug": "change-speed-to-catch-up",
     "title": "Change speed to catch up /",
     "text": "The way from the house of Taro and Jiro to the school joins at the point A, as shown in a figure. \nAs for the distance to A point, Taro’s house is more 750 m far than Jiro’s house. \nMoreover, it is 1000 m from A point up to the school. \nUsually, Taro leaves home at 7:50 in the morning, goes at 100",
@@ -14304,7 +14304,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/choose-number-from-1-to-10-by-turns",
+    "path": "/home/level-2/choose-number-from-1-to-10-by-turns",
     "slug": "choose-number-from-1-to-10-by-turns",
     "title": "Choose number from 1 to 10 by turns",
     "text": "Two persons choose a number from 1 to 10 by turns and sum up all numbers both choose. \nThey may also choose the same number many times. \nWhen the sum total of the number of two persons becomes 100 or more, the person who chose the number at last is to be loser. \nWhen the first person chose 8,",
@@ -14393,7 +14393,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/choose-number-from-1-to-10-by-turns/choose-number-from-1-to-10-by-turns",
+    "path": "/home/level-2/choose-number-from-1-to-10-by-turns/choose-number-from-1-to-10-by-turns",
     "slug": "choose-number-from-1-to-10-by-turns",
     "title": "Choose number from 1 to 10 by turns /",
     "text": "Two persons choose a number from 1 to 10 by turns and sum up all numbers both choose. \nThey may also choose the same number many times. \nWhen the sum total of the number of two persons becomes 100 or more, the person who chose the number at last is to be loser. \nWhen the first person chose 8,",
@@ -14482,7 +14482,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/coin-rotating-around-another-coin",
+    "path": "/home/level-2/coin-rotating-around-another-coin",
     "slug": "coin-rotating-around-another-coin",
     "title": "Coin rotating around another coin",
     "text": "There are two ten-yen coins. \nOne is fixed and another one is rolled and rotated one time so that it might not slide along with the circumference of the fixed ten-yen coin. \nHow many rotations of the rolled ten-yen coin were made?",
@@ -14499,7 +14499,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/coin-rotating-around-another-coin/coin-rotating-around-another-coin",
+    "path": "/home/level-2/coin-rotating-around-another-coin/coin-rotating-around-another-coin",
     "slug": "coin-rotating-around-another-coin",
     "title": "Coin rotating around another coin /",
     "text": "There are two ten-yen coins. \nOne is fixed and another one is rolled and rotated one time so that it might not slide along with the circumference of the fixed ten-yen coin. \nHow many rotations of the rolled ten-yen coin were made? \nAnswer\nTwo rotations\nSolution\nIt is easy to understand best to",
@@ -14516,7 +14516,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/combination-of-five-equilateral-triangles",
+    "path": "/home/level-2/combination-of-five-equilateral-triangles",
     "slug": "combination-of-five-equilateral-triangles",
     "title": "Combination of five equilateral triangles",
     "text": "As shown in the figure,  five pieces equilateral triangle of the same size are put in order without a gap. \nAmong quarters point of BC, point D is the point closest to the B. \nThe length of AE is 9 cm. \nFind the length of AD.",
@@ -14546,7 +14546,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/combination-of-five-equilateral-triangles/combination-of-five-equilateral-triangles",
+    "path": "/home/level-2/combination-of-five-equilateral-triangles/combination-of-five-equilateral-triangles",
     "slug": "combination-of-five-equilateral-triangles",
     "title": "Combination of five equilateral triangles /",
     "text": "As shown in the figure,  five pieces equilateral triangle of the same size are put in order without a gap. \nAmong quarters point of BC, point D is the point closest to the B. \nThe length of AE is 9 cm. \nFind the length of AD.",
@@ -14584,7 +14584,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/combination-of-two-right-triangles",
+    "path": "/home/level-2/combination-of-two-right-triangles",
     "slug": "combination-of-two-right-triangles",
     "title": "Combination of two right triangles",
     "text": "The figure below is a combination of two right triangles. \nFind the area of ​​the shaded area.",
@@ -14614,7 +14614,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/combination-of-two-right-triangles/combination-of-two-right-triangles",
+    "path": "/home/level-2/combination-of-two-right-triangles/combination-of-two-right-triangles",
     "slug": "combination-of-two-right-triangles",
     "title": "Combination of two right triangles /",
     "text": "The figure below is a combination of two right triangles. \nFind the area of ​​the shaded area.",
@@ -14639,7 +14639,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/combining-small-equilateral-triangles-to-be-large-one",
+    "path": "/home/level-2/combining-small-equilateral-triangles-to-be-large-one",
     "slug": "combining-small-equilateral-triangles-to-be-large-one",
     "title": "Combining small equilateral triangles to be large one",
     "text": "Combining small equilateral triangles to be large one",
@@ -14647,7 +14647,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/combining-small-equilateral-triangles-to-be-large-one-1",
+    "path": "/home/level-2/combining-small-equilateral-triangles-to-be-large-one-1",
     "slug": "combining-small-equilateral-triangles-to-be-large-one-1",
     "title": "Combining small equilateral triangles to be large one",
     "text": "I make a large equilateral triangle by arranging small equilateral triangle 1cm of the length of one side side by side with no gap nor overlapping. \nHow many small equilateral triangles do I need to make a large equilateral triangle of 20cm of one side?",
@@ -14724,7 +14724,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/combining-small-equilateral-triangles-to-be-large-one-1/combining-small-equilateral-triangles-to-be-large-one",
+    "path": "/home/level-2/combining-small-equilateral-triangles-to-be-large-one-1/combining-small-equilateral-triangles-to-be-large-one",
     "slug": "combining-small-equilateral-triangles-to-be-large-one",
     "title": "Combining small equilateral triangles to be large one /",
     "text": "I make a large equilateral triangle by arranging small equilateral triangle 1cm of the length of one side side by side with no gap nor overlapping. \nHow many small equilateral triangles do I need to make a large equilateral triangle of 20cm of one side?\nAnswer\n400 pieces\nSolution\nIn order to make",
@@ -14801,7 +14801,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/congruent-two-sectors",
+    "path": "/home/level-2/congruent-two-sectors",
     "slug": "congruent-two-sectors",
     "title": "Congruent two sectors",
     "text": "The figure below is a graphic which overlapped sectors with 12 cm in radius and 30 degrees of central angles.\nFind the area of the shadow area.\nPi is assumed to be 3.",
@@ -14895,7 +14895,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/congruent-two-sectors/congruent-two-sectors",
+    "path": "/home/level-2/congruent-two-sectors/congruent-two-sectors",
     "slug": "congruent-two-sectors",
     "title": "Congruent two sectors /",
     "text": "The figure below is a graphic which overlapped sectors with 12 cm in radius and 30 degrees of central angles. \nFind the area of the shadow area. \nPi is assumed to be 3.",
@@ -14984,7 +14984,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/connect-red-tapes-and-white-tapes",
+    "path": "/home/level-2/connect-red-tapes-and-white-tapes",
     "slug": "connect-red-tapes-and-white-tapes",
     "title": "Connect red tapes and white tapes",
     "text": "There are a red paper tape and a white paper tape. \nRed tape is cut to every 8 cm and white tape is cut to every 9 cm. \nWhen I connected cut tapes by piling every 1 cm of the end of the cut tape with paste by turns so as to be different colors, it was 159 cm long. \nFind the number of used sheets",
@@ -15073,7 +15073,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/connect-red-tapes-and-white-tapes/connect-red-tapes-and-white-tapes",
+    "path": "/home/level-2/connect-red-tapes-and-white-tapes/connect-red-tapes-and-white-tapes",
     "slug": "connect-red-tapes-and-white-tapes",
     "title": "Connect red tapes and white tapes /",
     "text": "There are a red paper tape and a white paper tape. \nRed tape is cut to every 8 cm and white tape is cut to every 9 cm. \nWhen I connected cut tapes by piling every 1 cm of the end of the cut tape with paste by turns so as to be different colors, it was 159 cm long. \nFind the number of used sheets",
@@ -15162,7 +15162,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/connecting-three-points-to-be-triangle",
+    "path": "/home/level-2/connecting-three-points-to-be-triangle",
     "slug": "connecting-three-points-to-be-triangle",
     "title": "Connecting three points to be triangle",
     "text": "There are points of A~F which equally divide the circumference of the circle with a center point O into six parts as shown in the figure below. \nMake a triangle by connecting three points out of seven (O and A~F). \nHow many triangles can you make?",
@@ -15208,7 +15208,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/connecting-three-points-to-be-triangle/connecting-three-points-to-be-triangle",
+    "path": "/home/level-2/connecting-three-points-to-be-triangle/connecting-three-points-to-be-triangle",
     "slug": "connecting-three-points-to-be-triangle",
     "title": "Connecting three points to be triangle /",
     "text": "There are points of A~F which equally divide the circumference of the circle with a center point O into six parts as shown in the figure below. \nMake a triangle by connecting three points out of seven (O and A~F). \nHow many triangles can you make?",
@@ -15249,7 +15249,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/cows-in-the-pasture",
+    "path": "/home/level-2/cows-in-the-pasture",
     "slug": "cows-in-the-pasture",
     "title": "Cows in the pasture",
     "text": "There is a pasture where grass grows at a fixed rate every week. \nIf ten cows are kept since when grass has grown in the entire pasture, it takes sixteen weeks to be no grass in this pasture. \nIf fifteen cows are kept, it takes eight weeks to be no grass. \nIf twenty-five cows are kept, how many",
@@ -15266,7 +15266,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/cows-in-the-pasture/cows-in-the-pasture",
+    "path": "/home/level-2/cows-in-the-pasture/cows-in-the-pasture",
     "slug": "cows-in-the-pasture",
     "title": "Cows in the pasture /",
     "text": "There is a pasture where grass grows at a fixed rate every week. \nIf ten cows are kept since when grass has grown in the entire pasture, it takes sixteen weeks to be no grass in this pasture. \nIf fifteen cows are kept, it takes eight weeks to be no grass. \nIf twenty-five cows are kept, how many",
@@ -15283,7 +15283,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/cut-cube-to-be-development-view",
+    "path": "/home/level-2/cut-cube-to-be-development-view",
     "slug": "cut-cube-to-be-development-view",
     "title": "Cut cube to be development view",
     "text": "If the cube is cut along with the bold line of the figure, which is the right development view? \nChoose the right one from ① to ⑧ and answer the number. \nBoth of front and back sides shall not be distinguished.",
@@ -15333,7 +15333,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/cut-cube-to-be-development-view/cut-cube-to-be-development-view",
+    "path": "/home/level-2/cut-cube-to-be-development-view/cut-cube-to-be-development-view",
     "slug": "cut-cube-to-be-development-view",
     "title": "Cut cube to be development view /",
     "text": "If the cube is cut along with the bold line of the figure, which is the right development view? \nChoose the right one from ① to ⑧ and answer the number. \nBoth of front and back sides shall not be distinguished.",
@@ -15391,7 +15391,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/cut-line-on-the-development-view",
+    "path": "/home/level-2/cut-line-on-the-development-view",
     "slug": "cut-line-on-the-development-view",
     "title": "Cut line on the development view",
     "text": "As for the cube in a figure, the points P and Q are middle points of the side AB and AD, respectively. \nThis cube was cut by the plane which passes along the three points P, Q, and G, and the side PQ was drawn as a part of the cut surface. Draw other sides of the cut surface in a development view.",
@@ -15437,7 +15437,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/cut-line-on-the-development-view/cut-line-on-the-development-view",
+    "path": "/home/level-2/cut-line-on-the-development-view/cut-line-on-the-development-view",
     "slug": "cut-line-on-the-development-view",
     "title": "Cut line on the development view /",
     "text": "As for the cube in a figure, the points P and Q are middle points of the side AB and AD, respectively. \nThis cube was cut by the plane which passes along the three points P, Q, and G, and the side PQ was drawn as a part of the cut surface. \nDraw other sides of the cut surface in a development",
@@ -15491,7 +15491,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/cut-squares-out-of-rectangular-paper",
+    "path": "/home/level-2/cut-squares-out-of-rectangular-paper",
     "slug": "cut-squares-out-of-rectangular-paper",
     "title": "Cut squares out of rectangular paper",
     "text": "I take squares out of the rectangular paper of which width is longer than length. \nI take squares as many as possible whose one side is the shorter one of the rectangular paper first(Fig. 1). \nIf paper remains, I take squares as many as possible whose one side is the shorter one of the rectangular",
@@ -15521,7 +15521,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/cut-squares-out-of-rectangular-paper/cut-squares-out-of-rectangular-paper",
+    "path": "/home/level-2/cut-squares-out-of-rectangular-paper/cut-squares-out-of-rectangular-paper",
     "slug": "cut-squares-out-of-rectangular-paper",
     "title": "Cut squares out of rectangular paper /",
     "text": "I take squares out of the rectangular paper of which width is longer than length. \nI take squares as many as possible whose one side is the shorter one of the rectangular paper first(Fig. 1). \nIf paper remains, I take squares as many as possible whose one side is the shorter one of the rectangular",
@@ -15555,7 +15555,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/development-view-of-cube-with-numbers",
+    "path": "/home/level-2/development-view-of-cube-with-numbers",
     "slug": "development-view-of-cube-with-numbers",
     "title": "Development view of cube with numbers",
     "text": "Fig. 1 and Fig. 2 are development views of the cube in which the numbers from 1 to 6 were written to each face. \nIt is considered that the sum of numbers written to three faces gathering in the one vertex of each cube. \nAs for Fig.1, the greatest sum of numbers is 15. \nIn the case of Fig. 2, find",
@@ -15649,7 +15649,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/development-view-of-cube-with-numbers/development-view-of-cube-with-numbers",
+    "path": "/home/level-2/development-view-of-cube-with-numbers/development-view-of-cube-with-numbers",
     "slug": "development-view-of-cube-with-numbers",
     "title": "Development view of cube with numbers /",
     "text": "Fig. 1 and Fig. 2 are development views of the cube in which the numbers from 1 to 6 were written to each face. \nIt is considered that the sum of numbers written to three faces gathering in the one vertex of each cube. \nAs for Fig.1, the greatest sum of numbers is 15. \nIn the case of Fig. 2, find",
@@ -15759,7 +15759,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/development-view-of-quadrangular-pyramid",
+    "path": "/home/level-2/development-view-of-quadrangular-pyramid",
     "slug": "development-view-of-quadrangular-pyramid",
     "title": "Development view of quadrangular pyramid",
     "text": "The shadow portion in the figure is made of cutting off four isosceles triangles 2cm in height from the square which is 8 cm one side. \nFind the volume of the quadrangular pyramid made by assembling this development.",
@@ -15781,7 +15781,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/development-view-of-quadrangular-pyramid/development-view-of-quadrangular-pyramid",
+    "path": "/home/level-2/development-view-of-quadrangular-pyramid/development-view-of-quadrangular-pyramid",
     "slug": "development-view-of-quadrangular-pyramid",
     "title": "Development view of quadrangular pyramid /",
     "text": "The shadow portion in the figure is made of cutting off four isosceles triangles 2cm in height from the square which is 8 cm one side. \nFind the volume of the quadrangular pyramid made by assembling this development.",
@@ -15815,7 +15815,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/development-view-of-rectangular-prism",
+    "path": "/home/level-2/development-view-of-rectangular-prism",
     "slug": "development-view-of-rectangular-prism",
     "title": "Development view of rectangular prism",
     "text": "The character P is written to one face of a certain rectangular prism. Moreover, one diagonal line is drawn on each face of three faces. \nFig. 1 and Fig. 2 shows two types of the development view of this rectangular prism. \nThe length of the side AB is 14 cm.\n(1) Draw three diagonal lines on Fig.",
@@ -15913,7 +15913,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/development-view-of-rectangular-prism/development-view-of-rectangular-prism",
+    "path": "/home/level-2/development-view-of-rectangular-prism/development-view-of-rectangular-prism",
     "slug": "development-view-of-rectangular-prism",
     "title": "Development view of rectangular prism /",
     "text": "The character P is written to one face of a certain rectangular prism. \nMoreover, one diagonal line is drawn on each face of three faces. \nFig. 1 and Fig. 2 shows two types of the development view of this rectangular prism. \nThe length of the side AB is 14 cm. \n(1) Draw three diagonal lines on",
@@ -16015,7 +16015,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/difference-of-total-surface-area",
+    "path": "/home/level-2/difference-of-total-surface-area",
     "slug": "difference-of-total-surface-area",
     "title": "Difference of total surface area",
     "text": "As shown in a figure, there is a cube whose length of one side is 5 cm and EP is parallel to BC. \nThe difference of the total surface area of two solids which are made by cutting this cube with the plane which passes along four point A, E, F, and D was 42 cm2. \nIn this case, find the length of BE.",
@@ -16061,7 +16061,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/difference-of-total-surface-area/difference-of-total-surface-area",
+    "path": "/home/level-2/difference-of-total-surface-area/difference-of-total-surface-area",
     "slug": "difference-of-total-surface-area",
     "title": "Difference of total surface area /",
     "text": "As shown in a figure, there is a cube whose length of one side is 5 cm and EP is parallel to BC. \nThe difference of the total surface area of two solids which are made by cutting this cube with the plane which passes along four point A, E, F, and D was 42 cm2. \nIn this case, find the length of BE.",
@@ -16111,7 +16111,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/discounted-ticket-price",
+    "path": "/home/level-2/discounted-ticket-price",
     "slug": "discounted-ticket-price",
     "title": "Discounted ticket price",
     "text": "The price for the ticket from A station to B station is 2000 yen. \nBy the coupon ticket of a six-sheet set, it becomes 18% discount and by the coupon ticket of a ten-sheet set, it becomes 20% discount. \nYou buy tickets for 48 persons combining these tickets or coupon tickets. \nWhen you buy them by",
@@ -16119,7 +16119,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/discounted-ticket-price/discounted-ticket-price",
+    "path": "/home/level-2/discounted-ticket-price/discounted-ticket-price",
     "slug": "discounted-ticket-price",
     "title": "Discounted ticket price /",
     "text": "The price for the ticket from A station to B station is 2000 yen. \nBy the coupon ticket of a six-sheet set, it becomes 18% discount and by the coupon ticket of a ten-sheet set, it becomes 20% discount. \nYou buy tickets for 48 persons combining these tickets or coupon tickets. \nWhen you buy them by",
@@ -16127,7 +16127,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/disk-rolls-around-another-disk",
+    "path": "/home/level-2/disk-rolls-around-another-disk",
     "slug": "disk-rolls-around-another-disk",
     "title": "Disk rolls around another disk",
     "text": "The radius of the disk A is 4 cm and that of the disk B is 3 cm. \nAs shown in a figure, the arrow is written on the disk B. \nThe disk A is not moved. \nThe disk B rolls clockwise without sliding along with the circumference of the disk A until the arrow and the disk B come back to the original",
@@ -16221,7 +16221,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/disk-rolls-around-another-disk/disk-rolls-around-another-disk",
+    "path": "/home/level-2/disk-rolls-around-another-disk/disk-rolls-around-another-disk",
     "slug": "disk-rolls-around-another-disk",
     "title": "Disk rolls around another disk /",
     "text": "The radius of the disk A is 4 cm and that of the disk B is 3 cm. \nAs shown in a figure, the arrow is written on the disk B. \nThe disk A is not moved. \nThe disk B rolls clockwise without sliding along with the circumference of the disk A until the arrow and the disk B come back to the original",
@@ -16323,7 +16323,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/distribution-of-seeds-of-flower",
+    "path": "/home/level-2/distribution-of-seeds-of-flower",
     "slug": "distribution-of-seeds-of-flower",
     "title": "Distribution of seeds of flower",
     "text": "In a certain class of 40 students, it decided to distribute same number of the seeds of flower to applicants. \nWhen distributed to the applicants at first, there is no seed remained. \nHowever, since number of applicants was increased by three later, when redistributed, 18 seeds remained and it was",
@@ -16364,7 +16364,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/distribution-of-seeds-of-flower-1",
+    "path": "/home/level-2/distribution-of-seeds-of-flower-1",
     "slug": "distribution-of-seeds-of-flower-1",
     "title": "Distribution of seeds of flower",
     "text": "Distribution of seeds of flower",
@@ -16372,7 +16372,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/distribution-of-seeds-of-flower/distribution-of-seeds-of-flower",
+    "path": "/home/level-2/distribution-of-seeds-of-flower/distribution-of-seeds-of-flower",
     "slug": "distribution-of-seeds-of-flower",
     "title": "Distribution of seeds of flower /",
     "text": "In a certain class of 40 students, it decided to distribute same number of the seeds of flower to applicants. \nWhen distributed to the applicants at first, there is no seed remained. \nHowever, since number of applicants was increased by three later, when redistributed, 18 seeds remained and it was",
@@ -16413,7 +16413,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/divide-hexagon",
+    "path": "/home/level-2/divide-hexagon",
     "slug": "divide-hexagon",
     "title": "Divide hexagon",
     "text": "A hexagon as shown in a figure below is divided into four triangles in the inside like an <Example> by a diagonal line which does not cross one another. \nHow many ways of method of the division is there in total ?",
@@ -16426,7 +16426,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/divide-hexagon/divide-hexagon",
+    "path": "/home/level-2/divide-hexagon/divide-hexagon",
     "slug": "divide-hexagon",
     "title": "Divide hexagon /",
     "text": "A hexagon as shown in a figure below is divided into four triangles in the inside like an <Example> by a diagonal line which does not cross one another. \nHow many ways of method of the division is there in total ?",
@@ -16439,7 +16439,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/divide-quarter-sector-into-36-portion",
+    "path": "/home/level-2/divide-quarter-sector-into-36-portion",
     "slug": "divide-quarter-sector-into-36-portion",
     "title": "Divide quarter sector into 36 portion",
     "text": "The figure shows that the sector with 90 degrees of central angles centering on the point O and with radii 2, 4, 6, 8, 10 and 12 cm are drawn and in addition it is connected that the points having divided the arc AB (curving line of the sector) into six equally and the center O by a straight line.",
@@ -16528,7 +16528,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/divide-quarter-sector-into-36-portion/divide-quarter-sector-into-36-portion",
+    "path": "/home/level-2/divide-quarter-sector-into-36-portion/divide-quarter-sector-into-36-portion",
     "slug": "divide-quarter-sector-into-36-portion",
     "title": "Divide quarter sector into 36 portion /",
     "text": "The figure shows that the sector with 90 degrees of central angles centering on the point O and with radii 2, 4, 6, 8, 10 and 12 cm are drawn and in addition it is connected that the points having divided the arc AB (curving line of the sector) into six equally and the center O by a straight line.",
@@ -16617,7 +16617,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/divide-rectangle-into-three-figures",
+    "path": "/home/level-2/divide-rectangle-into-three-figures",
     "slug": "divide-rectangle-into-three-figures",
     "title": "Divide rectangle into three figures",
     "text": "Answer each of following questions.\n(1) As shown in Fig. 1, when rectangle ABCD was divided into three figures, the area of three figures became the same. \nFind the length of EF at this time.",
@@ -16655,7 +16655,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/divide-rectangle-into-three-figures/divide-rectangle-into-three-figures",
+    "path": "/home/level-2/divide-rectangle-into-three-figures/divide-rectangle-into-three-figures",
     "slug": "divide-rectangle-into-three-figures",
     "title": "Divide rectangle into three figures /",
     "text": "Answer each of following questions. \n(1) As shown in Fig. 1, when rectangle ABCD was divided into three figures, the area of three figures became the same. \nFind the length of EF at this time.",
@@ -16693,7 +16693,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/divide-three-numbers-by-the-same-number",
+    "path": "/home/level-2/divide-three-numbers-by-the-same-number",
     "slug": "divide-three-numbers-by-the-same-number",
     "title": "Divide three numbers by the same number",
     "text": "I divided 75,121 and 190 by the same divisor and I had the same remainder of each division. \nFind the divisor.",
@@ -16750,7 +16750,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/divide-three-numbers-by-the-same-number/divide-three-numbers-by-the-same-number",
+    "path": "/home/level-2/divide-three-numbers-by-the-same-number/divide-three-numbers-by-the-same-number",
     "slug": "divide-three-numbers-by-the-same-number",
     "title": "Divide three numbers by the same number /",
     "text": "I divided 75,121 and 190 by the same divisor and I had the same remainder of each division. \nFind the divisor.  \nAnswer\n23\nSolution\nThe number obtained by subtracting the remainder from three numbers can be divided by the same number. \nThat means that 190 - 121 = 69 which is the difference of 121",
@@ -16807,7 +16807,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/division-of-square",
+    "path": "/home/level-2/division-of-square",
     "slug": "division-of-square",
     "title": "Division of square",
     "text": "The outermost rectangle in the figure below is a square of 10 cm one side. \nFind the area of ​​the quadrangular shaded area.",
@@ -16820,7 +16820,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/division-of-square/division-of-square",
+    "path": "/home/level-2/division-of-square/division-of-square",
     "slug": "division-of-square",
     "title": "Division of square /",
     "text": "The outermost rectangle in the figure below is a square of 10 cm one side. \nFind the area of ​​the quadrangular shaded area.",
@@ -16833,7 +16833,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/donation-by-three-persons",
+    "path": "/home/level-2/donation-by-three-persons",
     "slug": "donation-by-three-persons",
     "title": "Donation by three persons",
     "text": "The ratio of the money which three persons, Taro, Jiro, and Hanako, have was 5 : 3 : 1. \nSince Taro passed 800 yen to Hanako and Jiro also passed some amount of money to Hanako, the ratio of three persons' money was 7 : 4 : 4. \nSince three persons donated the same amount of money after that, the",
@@ -16922,7 +16922,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/donation-by-three-persons/donation-by-three-persons",
+    "path": "/home/level-2/donation-by-three-persons/donation-by-three-persons",
     "slug": "donation-by-three-persons",
     "title": "Donation by three persons /",
     "text": "The ratio of the money which three persons, Taro, Jiro, and Hanako, have was 5 : 3 : 1. \nSince Taro passed 800 yen to Hanako and Jiro also passed some amount of money to Hanako, the ratio of three persons' money was 7 : 4 : 4. \nSince three persons donated the same amount of money after that, the",
@@ -17011,7 +17011,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/election-of-the-president-of-student-council",
+    "path": "/home/level-2/election-of-the-president-of-student-council",
     "slug": "election-of-the-president-of-student-council",
     "title": "Election of the president of student council",
     "text": "There was an election of the president of student council in a certain junior high school and three persons, Taro, Jiro, and Hanako, stood as a candidate. \nA pie chart expresses the rate of the number of votes obtained by each person. \nThe ratio of the number of boys students and girls students of",
@@ -17057,7 +17057,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/election-of-the-president-of-student-council/election-of-the-president-of-student-council",
+    "path": "/home/level-2/election-of-the-president-of-student-council/election-of-the-president-of-student-council",
     "slug": "election-of-the-president-of-student-council",
     "title": "Election of the president of student council /",
     "text": "There was an election of the president of student council in a certain junior high school and three persons, Taro, Jiro, and Hanako, stood as a candidate. \nA pie chart expresses the rate of the number of votes obtained by each person. \nThe ratio of the number of boys students and girls students of",
@@ -17098,7 +17098,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/election-of-three-committees",
+    "path": "/home/level-2/election-of-three-committees",
     "slug": "election-of-three-committees",
     "title": "Election of three committees",
     "text": "Four people ran for the election of three members of the broadcast committee in the class. \nHow many votes at least are required to win ? \nThe number of the student of this class is 45 persons.",
@@ -17179,7 +17179,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/election-of-three-committees/election-of-three-committees",
+    "path": "/home/level-2/election-of-three-committees/election-of-three-committees",
     "slug": "election-of-three-committees",
     "title": "Election of three committees /",
     "text": "Four people ran for the election of three members of the broadcast committee in the class. \nHow many votes at least are required to win ? \nThe number of the student of this class is 45 persons. \nAnswer\n12 votes\nSolution\nSince three persons are elected, the number of votes required to win is more",
@@ -17260,7 +17260,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/exchange-salt-solution-between-two",
+    "path": "/home/level-2/exchange-salt-solution-between-two",
     "slug": "exchange-salt-solution-between-two",
     "title": "Exchange salt solution between two",
     "text": "There are two salt solution with different salt concentration in the two beakers A and B, respectively. \nThe ratio of the weight of the salt solution of A and B is 2 : 3.\nThe following two operation are done 1 time respectively in order.\n- Move the half of the salt solution of A to B, and stir it",
@@ -17349,7 +17349,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/exchange-salt-solution-between-two/exchange-salt-solution-between-two",
+    "path": "/home/level-2/exchange-salt-solution-between-two/exchange-salt-solution-between-two",
     "slug": "exchange-salt-solution-between-two",
     "title": "Exchange salt solution between two /",
     "text": "There are two salt solution with different salt concentration in the two beakers A and B, respectively. \nThe ratio of the weight of the salt solution of A and B is 2 : 3. \nThe following two operation are done 1 time respectively in order. \n- Move the half of the salt solution of A to B, and stir",
@@ -17438,7 +17438,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/extension-of-sides-of-quadrangle",
+    "path": "/home/level-2/extension-of-sides-of-quadrangle",
     "slug": "extension-of-sides-of-quadrangle",
     "title": "Extension of sides of quadrangle",
     "text": "Quadrangle PQRSA was made by extending each side of quadrangle ABCD as follows.\n① The length of the side AP is 3 times of the length of the side AB.\n② The length of the side BQ is twice of the length of the side BC.\n③ The length of the side CR is 3 times of the length of side CD.\n④ The length of",
@@ -17476,7 +17476,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/extension-of-sides-of-quadrangle/extension-of-sides-of-quadrangle",
+    "path": "/home/level-2/extension-of-sides-of-quadrangle/extension-of-sides-of-quadrangle",
     "slug": "extension-of-sides-of-quadrangle",
     "title": "Extension of sides of quadrangle /",
     "text": "Quadrangle PQRSA was made by extending each side of quadrangle ABCD as follows.\n① The length of the side AP is 3 times of the length of the side AB.\n② The length of the side BQ is twice of the length of the side BC.\n③ The length of the side CR is 3 times of the length of side CD.\n④ The length of",
@@ -17522,7 +17522,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/extension-of-three-sides-of-triangle",
+    "path": "/home/level-2/extension-of-three-sides-of-triangle",
     "slug": "extension-of-three-sides-of-triangle",
     "title": "Extension of three sides of triangle",
     "text": "Point D,E and F is set by extending three sides AB, BC, and CA of triangle ABC twice respectively as shown in the figure below. \nHow many times of the area of triangle ABC is the area of triangle DEF ?",
@@ -17568,7 +17568,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/extension-of-three-sides-of-triangle/extension-of-three-sides-of-triangle",
+    "path": "/home/level-2/extension-of-three-sides-of-triangle/extension-of-three-sides-of-triangle",
     "slug": "extension-of-three-sides-of-triangle",
     "title": "Extension of three sides of triangle /",
     "text": "Point D,E and F is set by extending three sides AB, BC, and CA of triangle ABC twice respectively as shown in the figure below. \nHow many times of the area of triangle ABC is the area of triangle DEF ?",
@@ -17609,7 +17609,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/figure-in-two-circles-attached",
+    "path": "/home/level-2/figure-in-two-circles-attached",
     "slug": "figure-in-two-circles-attached",
     "title": "Figure in two circles attached",
     "text": "As shown in a figure, the circle A centering on the point A with a radius of 3 cm and the circle B centering on the point B with a radius of 2 cm have touched. \nThe points C and D are points on the circumference of the circle B. \nThe points E and F are points on the circumference of the circle A.",
@@ -17703,7 +17703,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/figure-in-two-circles-attached/figure-in-two-circles-attached",
+    "path": "/home/level-2/figure-in-two-circles-attached/figure-in-two-circles-attached",
     "slug": "figure-in-two-circles-attached",
     "title": "Figure in two circles attached /",
     "text": "As shown in a figure, the circle A centering on the point A with a radius of 3 cm and the circle B centering on the point B with a radius of 2 cm have touched. \nThe points C and D are points on the circumference of the circle B. \nThe points E and F are points on the circumference of the circle A.",
@@ -17801,7 +17801,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/find-a-bag-of-fake-gold-coins",
+    "path": "/home/level-2/find-a-bag-of-fake-gold-coins",
     "slug": "find-a-bag-of-fake-gold-coins",
     "title": "Find a bag of fake gold coins",
     "text": "There are five bags in which a lot of gold coins are put and fake gold coins only are contained in one bag of them. \nAs for the weight of one piece of gold coin, the genuine one is 10 g and the fake is 8 g. \nIs there any way to find the bag of fake gold coins by using only once the scales that can",
@@ -17826,7 +17826,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/find-a-bag-of-fake-gold-coins/find-a-bag-of-fake-gold-coins",
+    "path": "/home/level-2/find-a-bag-of-fake-gold-coins/find-a-bag-of-fake-gold-coins",
     "slug": "find-a-bag-of-fake-gold-coins",
     "title": "Find a bag of fake gold coins /",
     "text": "There are five bags in which a lot of gold coins are put and fake gold coins only are contained in one bag of them. \nAs for the weight of one piece of gold coin, the genuine one is 10 g and the fake is 8 g. \nIs there any way to find the bag of fake gold coins by using only once the scales that can",
@@ -17851,7 +17851,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/find-a-fake-gold-coin",
+    "path": "/home/level-2/find-a-fake-gold-coin",
     "slug": "find-a-fake-gold-coin",
     "title": "Find a fake gold coin",
     "text": "There are 27 pieces of gold coin. \nAmong them, 26 pieces are genuine gold coins and one is fake gold coin lighter than the genuine coin. \nHow many times should I measure it to find a false gold coin at the number of times as less as possible by putting gold coins on the even balance ?",
@@ -17859,7 +17859,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/find-a-fake-gold-coin/find-a-fake-gold-coin",
+    "path": "/home/level-2/find-a-fake-gold-coin/find-a-fake-gold-coin",
     "slug": "find-a-fake-gold-coin",
     "title": "Find a fake gold coin /",
     "text": "There are 27 pieces of gold coin. \nAmong them, 26 pieces are genuine gold coins and one is fake gold coin lighter than the genuine coin. \nHow many times should I measure it to find a false gold coin at the number of times as less as possible by putting gold coins on the even balance ?\nAnswer\nthree",
@@ -17867,7 +17867,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/find-one-heavy-ball-by-even-balance",
+    "path": "/home/level-2/find-one-heavy-ball-by-even-balance",
     "slug": "find-one-heavy-ball-by-even-balance",
     "title": "Find one heavy ball by even balance",
     "text": "Only one heavy ball is included in the balls whose form and size are same. \nI think that I will find a heavy ball using an even balance by which heavier ball is found. \nFor example, when there is only one heavy ball in three balls, it is just once to find certainly a heavy ball by using even",
@@ -17892,7 +17892,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/find-one-heavy-ball-by-even-balance/find-one-heavy-ball-by-even-balance",
+    "path": "/home/level-2/find-one-heavy-ball-by-even-balance/find-one-heavy-ball-by-even-balance",
     "slug": "find-one-heavy-ball-by-even-balance",
     "title": "Find one heavy ball by even balance /",
     "text": "Only one heavy ball is included in the balls whose form and size are same. \nI think that I will find a heavy ball using an even balance by which heavier ball is found. \nFor example, when there is only one heavy ball in three balls, it is just once to find certainly a heavy ball by using even",
@@ -17917,7 +17917,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/find-the-number-of-honest-person",
+    "path": "/home/level-2/find-the-number-of-honest-person",
     "slug": "find-the-number-of-honest-person",
     "title": "Find the number of honest person",
     "text": "Four people of Taro, Jiro, Hanako, Fujiko are a honest person or a liar respectively. \nTaro said, \"There are three liars among us.\" \nJiro said, \"There are three or more liars among us.\" \nHow many honest persons are there among four persons ?",
@@ -17994,7 +17994,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/find-the-number-of-honest-person/find-the-number-of-honest-person",
+    "path": "/home/level-2/find-the-number-of-honest-person/find-the-number-of-honest-person",
     "slug": "find-the-number-of-honest-person",
     "title": "Find the number of honest person /",
     "text": "Four people of Taro, Jiro, Hanako, Fujiko are a honest person or a liar respectively. \nTaro said, \"There are three liars among us.\" \nJiro said, \"There are three or more liars among us.\" \nHow many honest persons are there among four persons ?\nAnswer\nTwo persons\nSolution\nBecause both of Taro and",
@@ -18079,7 +18079,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/find-two-cakes-among-three",
+    "path": "/home/level-2/find-two-cakes-among-three",
     "slug": "find-two-cakes-among-three",
     "title": "Find two cakes among three",
     "text": "When I bought three cakes from four cakes A, B, C, D, the total of weight was 1030 gram. \nThe weight of A is 40g, B is 60g, C is 60g, and D is 90g. \nWhat are two cakes among three cakes I bought ?",
@@ -18104,7 +18104,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/find-two-cakes-among-three/find-two-cakes-among-three",
+    "path": "/home/level-2/find-two-cakes-among-three/find-two-cakes-among-three",
     "slug": "find-two-cakes-among-three",
     "title": "Find two cakes among three /",
     "text": "When I bought three cakes from four cakes A, B, C, D, the total of weight was 1030 gram. \nThe weight of A is 40g, B is 60g, C is 60g, and D is 90g. \nWhat are two cakes among three cakes I bought ? \nAnswer\nA and D\nSolution\nThe weight of B, C, D is a multiple of 30g, but 1030g is not a multiple of",
@@ -18129,7 +18129,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/fixed-and-proportional-rate-to-send-package",
+    "path": "/home/level-2/fixed-and-proportional-rate-to-send-package",
     "slug": "fixed-and-proportional-rate-to-send-package",
     "title": "Fixed and proportional rate to send package",
     "text": "When I send a package, fixed rate is charged until the reference weight and proportional rate is charged to the weight exceeds the reference weight. \nThere are two packages of A and B of which each weight exceeds the reference weight and total weight is 50 kg. \nIf I send each package separately, A",
@@ -18137,7 +18137,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/fixed-and-proportional-rate-to-send-package/fixed-and-proportional-rate-to-send-package",
+    "path": "/home/level-2/fixed-and-proportional-rate-to-send-package/fixed-and-proportional-rate-to-send-package",
     "slug": "fixed-and-proportional-rate-to-send-package",
     "title": "Fixed and proportional rate to send package /",
     "text": "When I send a package, fixed rate is charged until the reference weight and proportional rate is charged to the weight exceeds the reference weight. \nThere are two packages of A and B of which each weight exceeds the reference weight and total weight is 50 kg. \nIf I send each package separately, A",
@@ -18145,7 +18145,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/fold-a-circle-twice-and-open",
+    "path": "/home/level-2/fold-a-circle-twice-and-open",
     "slug": "fold-a-circle-twice-and-open",
     "title": "Fold a circle twice and open",
     "text": "A circle 9 cm in radius was folded so that semicircle might overlap exactly as a diameter AOB to be a folding line as shown in Fig. 1. \nNext, semicircle was folded again so that the point C of dividing a semicircle circumference into two equally might overlap with the center O of the circle as",
@@ -18222,7 +18222,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/fold-a-circle-twice-and-open/fold-a-circle-twice-and-open",
+    "path": "/home/level-2/fold-a-circle-twice-and-open/fold-a-circle-twice-and-open",
     "slug": "fold-a-circle-twice-and-open",
     "title": "Fold a circle twice and open /",
     "text": "A circle 9 cm in radius was folded so that semicircle might overlap exactly as a diameter AOB to be a folding line as shown in Fig. 1. \nNext, semicircle was folded again so that the point C of dividing a semicircle circumference into two equally might overlap with the center O of the circle as",
@@ -18299,7 +18299,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/fold-a-rectangular-paper",
+    "path": "/home/level-2/fold-a-rectangular-paper",
     "slug": "fold-a-rectangular-paper",
     "title": "Fold a rectangular paper",
     "text": "There is a paper of rectangle as shown in a figure. \nThe length of vertical side, horizontal side and diagonal line are 15 cm, 20 cm and 25 cm respectively. \nThis paper is folded so that A and C may overlap. \nFind the sum total of a triangular area with which paper has not overlapped in this case.",
@@ -18329,7 +18329,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/fold-a-rectangular-paper/fold-a-rectangular-paper",
+    "path": "/home/level-2/fold-a-rectangular-paper/fold-a-rectangular-paper",
     "slug": "fold-a-rectangular-paper",
     "title": "Fold a rectangular paper /",
     "text": "There is a paper of rectangle as shown in a figure. \nThe length of vertical side, horizontal side and diagonal line are 15 cm, 20 cm and 25 cm respectively. \nThis paper is folded so that A and C may overlap. \nFind the sum total of a triangular area with which paper has not overlapped in this case.",
@@ -18363,7 +18363,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/fold-and-cut-a-rectangular-paper",
+    "path": "/home/level-2/fold-and-cut-a-rectangular-paper",
     "slug": "fold-and-cut-a-rectangular-paper",
     "title": "Fold and cut a rectangular paper",
     "text": "There is a paper of rectangle as shown in Fig. 1. \nAs shown in Fig. 2, this paper was folded so that the point B might overlap with the point D.\n(1) What is the figure which will be made when ED and DF of Fig. 2 are cut with scissors and the remaining paper is opened?\n(2) Find the area of the",
@@ -18457,7 +18457,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/fold-and-cut-a-rectangular-paper/fold-and-cut-a-rectangular-paper",
+    "path": "/home/level-2/fold-and-cut-a-rectangular-paper/fold-and-cut-a-rectangular-paper",
     "slug": "fold-and-cut-a-rectangular-paper",
     "title": "Fold and cut a rectangular paper /",
     "text": "There is a paper of rectangle as shown in Fig. 1. \nAs shown in Fig. 2, this paper was folded so that the point B might overlap with the point D. \n(1) What is the figure which will be made when ED and DF of Fig. 2 are cut with scissors and the remaining paper is opened? \n(2) Find the area of the",
@@ -18551,7 +18551,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/fold-newspaper-20-times",
+    "path": "/home/level-2/fold-newspaper-20-times",
     "slug": "fold-newspaper-20-times",
     "title": "Fold newspaper 20 times",
     "text": "One sheet of newspaper whose thickness of one sheet is 0.1 mm is folded up in halves. \nSupposing it can be folded 20 times, how much does thickness become ?",
@@ -18559,7 +18559,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/fold-newspaper-20-times/fold-newspaper-20-times",
+    "path": "/home/level-2/fold-newspaper-20-times/fold-newspaper-20-times",
     "slug": "fold-newspaper-20-times",
     "title": "Fold newspaper 20 times /",
     "text": "One sheet of newspaper whose thickness of one sheet is 0.1 mm is folded up in halves. \nSupposing it can be folded 20 times, how much does thickness become ? \nAnswer\n104.8576 m\nSolution\nSince one sheet will turn into two sheets when folded once and two sheets will turn into 2 x 2 =4 sheets when",
@@ -18567,7 +18567,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/folded-and-flattened-paper-tape",
+    "path": "/home/level-2/folded-and-flattened-paper-tape",
     "slug": "folded-and-flattened-paper-tape",
     "title": "Folded and flattened paper tape",
     "text": "As shown in Fig. 1, there is a ring of paper tape 2 cm in width and 52 cm in length of circumference. \nIt is folded and flattened as shown in Fig. 2. \nA quadrangle ABCD is a horizontally long rectangle. \nThe area of the shadow area of Fig. 3 became twice the area of rectangle ABCD. \nAnswer the",
@@ -18661,7 +18661,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/folded-and-flattened-paper-tape/folded-and-flattened-paper-tape",
+    "path": "/home/level-2/folded-and-flattened-paper-tape/folded-and-flattened-paper-tape",
     "slug": "folded-and-flattened-paper-tape",
     "title": "Folded and flattened paper tape /",
     "text": "As shown in Fig. 1, there is a ring of paper tape 2 cm in width and 52 cm in length of circumference. \nIt is folded and flattened as shown in Fig. 2. \nA quadrangle ABCD is a horizontally long rectangle. \nThe area of the shadow area of Fig. 3 became twice the area of rectangle ABCD. \nAnswer the",
@@ -18763,7 +18763,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/four-animals-on-a-rectangle",
+    "path": "/home/level-2/four-animals-on-a-rectangle",
     "slug": "four-animals-on-a-rectangle",
     "title": "Four animals on a rectangle",
     "text": "As shown in the figure, a monkey, a dog, a cat, and a mouse are in each vertex of the rectangle of 4 m long and 8 m wide. \nNow, they began to turn around on the side of the rectangle counterclockwise at the same time. \nEach speed is that a monkey is at 80 cm/s, a dog is at 60 cm/s, a cat is at 50",
@@ -18776,7 +18776,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/four-animals-on-a-rectangle/four-animals-on-a-rectangle",
+    "path": "/home/level-2/four-animals-on-a-rectangle/four-animals-on-a-rectangle",
     "slug": "four-animals-on-a-rectangle",
     "title": "Four animals on a rectangle",
     "text": "Four animals on a rectangle",
@@ -18789,7 +18789,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/four-animals-on-a-rectangle/four-animals-on-a-rectangle-1",
+    "path": "/home/level-2/four-animals-on-a-rectangle/four-animals-on-a-rectangle-1",
     "slug": "four-animals-on-a-rectangle-1",
     "title": "Four animals on a rectangle /",
     "text": "As shown in the figure, a monkey, a dog, a cat, and a mouse are in each vertex of the rectangle of 4 m long and 8 m wide. \nNow, they began to turn around on the side of the rectangle counterclockwise at the same time. \nEach speed is that a monkey is at 80 cm/s, a dog is at 60 cm/s, a cat is at 50",
@@ -18878,7 +18878,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/four-different-volume-of-iron-balls",
+    "path": "/home/level-2/four-different-volume-of-iron-balls",
     "slug": "four-different-volume-of-iron-balls",
     "title": "<Deleted>  Four different volume of iron balls",
     "text": "There are four kinds of iron balls A, B, C and D and each volume is different. \nWhen balls were completely sunk into the vessels X and Y which are same form and with same amount of water poured in, and the height of the water surface was compared with them, it became as shown in (1), (2), and (3).",
@@ -18972,7 +18972,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/four-different-volume-of-iron-balls/four-different-volume-of-iron-balls",
+    "path": "/home/level-2/four-different-volume-of-iron-balls/four-different-volume-of-iron-balls",
     "slug": "four-different-volume-of-iron-balls",
     "title": "Four different volume of iron balls /",
     "text": "There are four kinds of iron balls A, B, C and D and each volume is different. \nWhen balls were completely sunk into the vessels X and Y which are same form and with same amount of water poured in, and the height of the water surface was compared with them, it became as shown in (1), (2), and (3).",
@@ -19066,7 +19066,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/four-empty-bottles-for-one-new-bottle",
+    "path": "/home/level-2/four-empty-bottles-for-one-new-bottle",
     "slug": "four-empty-bottles-for-one-new-bottle",
     "title": "Four empty bottles for one new bottle",
     "text": "Juice is 100 yen per bottle at a certain store and if you bring four empty bottles to the store, you can get one new bottle. \nFor example, you can drink nine bottles of juice if you have 700 yen.\n(1) Find the number of bottle of juice which you can drink with 1900 yen.\n(2) Find the fewest amount",
@@ -19155,7 +19155,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/four-empty-bottles-for-one-new-bottle/four-empty-bottles-for-one-new-bottle",
+    "path": "/home/level-2/four-empty-bottles-for-one-new-bottle/four-empty-bottles-for-one-new-bottle",
     "slug": "four-empty-bottles-for-one-new-bottle",
     "title": "Four empty bottles for one new bottle /",
     "text": "Juice is 100 yen per bottle at a certain store and if you bring four empty bottles to the store, you can get one new bottle. \nFor example, you can drink nine bottles of juice if you have 700 yen. \n(1) Find the number of bottle of juice which you can drink with 1900 yen. \n(2) Find the fewest amount",
@@ -19244,7 +19244,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/four-figures-containing-5",
+    "path": "/home/level-2/four-figures-containing-5",
     "slug": "four-figures-containing-5",
     "title": "Four figures containing 5",
     "text": "Find the number of numbers which contain two or more 5 such as 0545 among 4 figures number which are used for the telephone numbers from 0000 to 9999.",
@@ -19333,7 +19333,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/four-figures-containing-5/four-figures-containing-5",
+    "path": "/home/level-2/four-figures-containing-5/four-figures-containing-5",
     "slug": "four-figures-containing-5",
     "title": "Four figures containing 5 /",
     "text": "Find the number of numbers which contain two or more 5 such as 0545 among 4 figures number which are used for the telephone numbers from 0000 to 9999. \nAnswer\n523",
@@ -19422,7 +19422,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/four-numbers-in-square-cards",
+    "path": "/home/level-2/four-numbers-in-square-cards",
     "slug": "four-numbers-in-square-cards",
     "title": "Four numbers in square cards",
     "text": "As shown in a figure, the square card was equally divided into four and the integer was written to each portion sequentially from 1. \nA lot of these cards were made. \nAll the sizes of the card are same. \nAnswer the following questions.",
@@ -19468,7 +19468,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/four-numbers-in-square-cards/four-numbers-in-square-cards",
+    "path": "/home/level-2/four-numbers-in-square-cards/four-numbers-in-square-cards",
     "slug": "four-numbers-in-square-cards",
     "title": "Four numbers in square cards /",
     "text": "As shown in a figure, the square card was equally divided into four and the integer was written to each portion sequentially from 1. \nA lot of these cards were made. \nAll the sizes of the card are same. \nAnswer the following questions.",
@@ -19514,7 +19514,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/four-points-on-the-side-of-rectangle",
+    "path": "/home/level-2/four-points-on-the-side-of-rectangle",
     "slug": "four-points-on-the-side-of-rectangle",
     "title": "Four points on the side of rectangle",
     "text": "As shown in a figure, there are four points E, F, G and H on the side of rectangle ABCD.\n(1) Find the area of the quadrangle EFGH.\n(2) When point H is moved on the side CD in the direction to D, the area of the quadrangle EFGH became 30 cm2. \nFind the length to which the point H was moved from the",
@@ -19608,7 +19608,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/four-points-on-the-side-of-rectangle/four-points-on-the-side-of-rectangle",
+    "path": "/home/level-2/four-points-on-the-side-of-rectangle/four-points-on-the-side-of-rectangle",
     "slug": "four-points-on-the-side-of-rectangle",
     "title": "Four points on the side of rectangle /",
     "text": "As shown in a figure, there are four points E, F, G and H on the side of rectangle ABCD. \n(1) Find the area of the quadrangle EFGH. \n(2) When point H is moved on the side CD in the direction to D, the area of the quadrangle EFGH became 30 cm2. \nFind the length to which the point H was moved from",
@@ -19702,7 +19702,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/four-sectors-in-a-square",
+    "path": "/home/level-2/four-sectors-in-a-square",
     "slug": "four-sectors-in-a-square",
     "title": "Four sectors in a square",
     "text": "As shown in a figure, there are four sectors in the square ABCD whose length of one side is 12 cm. \nThe area of triangle CDE measures 9.6 cm2. \nFind the area of the shadow portion. \nPi is assumed to be 3.14.",
@@ -19796,7 +19796,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/four-sectors-in-a-square/four-sectors-in-a-square",
+    "path": "/home/level-2/four-sectors-in-a-square/four-sectors-in-a-square",
     "slug": "four-sectors-in-a-square",
     "title": "Four sectors in a square /",
     "text": "As shown in a figure, there are four sectors in the square ABCD whose length of one side is 12 cm. \nThe area of triangle CDE measures 9.6 cm2. \nFind the area of the shadow portion. \nPi is assumed to be 3.14.",
@@ -19894,7 +19894,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/four-solids-in-water-tank",
+    "path": "/home/level-2/four-solids-in-water-tank",
     "slug": "four-solids-in-water-tank",
     "title": "Four solids in water tank",
     "text": "In the water tank of the rectangular prism of Fig. 1, four solids as shown in Fig. 2 are placed for the shadow face to be as the bottom. Then, water is poured into this water tank every 10 cm3/s.\n(1) When the depth of water is to be 2 cm, find the area of the water surface.\n(2) After (1), find the",
@@ -19988,7 +19988,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/four-solids-in-water-tank/four-solids-in-water-tank",
+    "path": "/home/level-2/four-solids-in-water-tank/four-solids-in-water-tank",
     "slug": "four-solids-in-water-tank",
     "title": "Four solids in water tank /",
     "text": "In the water tank of the rectangular prism of Fig. 1, four solids as shown in Fig. 2 are placed for the shadow face to be as the bottom. \nThen, water is poured into this water tank every 10 cm3/s. \n(1) When the depth of water is to be 2 cm, find the area of the water surface. \n(2) After (1), find",
@@ -20090,7 +20090,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/four-wins-and-three-losses-at-world-series",
+    "path": "/home/level-2/four-wins-and-three-losses-at-world-series",
     "slug": "four-wins-and-three-losses-at-world-series",
     "title": "Four wins and three losses at World Series",
     "text": "At the World Series of MLB, a certain team wins the championship at four wins three losses. \nHow many ways of order of win or loss are there?",
@@ -20098,7 +20098,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/four-wins-and-three-losses-at-world-series/four-wins-and-three-losses-at-world-series",
+    "path": "/home/level-2/four-wins-and-three-losses-at-world-series/four-wins-and-three-losses-at-world-series",
     "slug": "four-wins-and-three-losses-at-world-series",
     "title": "Four wins and three losses at World Series /",
     "text": "At the World Series of MLB, a certain team wins the championship at four wins three losses. \nHow many ways of order of win or loss are there?\nAnswer\n20 ways\nSolution\nIt becomes three wins three losses to win the championship at four wins three losses and counts how many ways of order of three wins",
@@ -20106,7 +20106,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/game-walking-around-a-pond",
+    "path": "/home/level-2/game-walking-around-a-pond",
     "slug": "game-walking-around-a-pond",
     "title": "Game walking around a pond",
     "text": "Taro and Jiro play a game around the pond. \nTaro turns around the pond in the clockwise direction. \nIt takes 12 minutes for one round by walking. \nJiro turns around the pond in the counterclockwise direction. \nThe speed along which Taro walks is 5/4 times the speed along which Jiro walks. \nTwo",
@@ -20195,7 +20195,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/game-walking-around-a-pond/game-walking-around-a-pond",
+    "path": "/home/level-2/game-walking-around-a-pond/game-walking-around-a-pond",
     "slug": "game-walking-around-a-pond",
     "title": "Game walking around a pond /",
     "text": "Taro and Jiro play a game around the pond. \nTaro turns around the pond in the clockwise direction. \nIt takes 12 minutes for one round by walking. \nJiro turns around the pond in the counterclockwise direction. \nThe speed along which Taro walks is 5/4 times the speed along which Jiro walks. \nTwo",
@@ -20284,7 +20284,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/gather-flower-petals-in-a-schoolyard",
+    "path": "/home/level-2/gather-flower-petals-in-a-schoolyard",
     "slug": "gather-flower-petals-in-a-schoolyard",
     "title": "Gather flower petals in a schoolyard",
     "text": "Gather flower petals in a schoolyard",
@@ -20292,7 +20292,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/gather-flower-petals-in-a-schoolyard-1",
+    "path": "/home/level-2/gather-flower-petals-in-a-schoolyard-1",
     "slug": "gather-flower-petals-in-a-schoolyard-1",
     "title": "Gather flower petals in a schoolyard",
     "text": "Since the beautiful petals were scattered in the schoolyard, Taro decided to gather them together with some friends to make pressed flowers. \nAlthough it was decided that each person gather 15 petals at a time, there were three persons who were able to gather only 14 sheets and three persons who",
@@ -20349,7 +20349,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/gather-flower-petals-in-a-schoolyard-1/gather-flower-petals-in-a-schoolyard",
+    "path": "/home/level-2/gather-flower-petals-in-a-schoolyard-1/gather-flower-petals-in-a-schoolyard",
     "slug": "gather-flower-petals-in-a-schoolyard",
     "title": "Gather flower petals in a schoolyard /",
     "text": "Since the beautiful petals were scattered in the schoolyard, Taro decided to gather them together with some friends to make pressed flowers. \nAlthough it was decided that each person gather 15 petals at a time, there were three persons who were able to gather only 14 sheets and three persons who",
@@ -20406,7 +20406,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/go-forth-by-three-steps-and-back-by-two-steps",
+    "path": "/home/level-2/go-forth-by-three-steps-and-back-by-two-steps",
     "slug": "go-forth-by-three-steps-and-back-by-two-steps",
     "title": "Go forth by three steps and back by two steps",
     "text": "When Hanako who can walk 15 m with ten steps for ten seconds advances by a method \"going forth by three steps and going back by two steps\", how many seconds does she take to advance 15m ? It shall take one second for one step of going back and forth.",
@@ -20447,7 +20447,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/go-forth-by-three-steps-and-back-by-two-steps/go-forth-by-three-steps-and-back-by-two-steps",
+    "path": "/home/level-2/go-forth-by-three-steps-and-back-by-two-steps/go-forth-by-three-steps-and-back-by-two-steps",
     "slug": "go-forth-by-three-steps-and-back-by-two-steps",
     "title": "Go forth by three steps and back by two steps /",
     "text": "When Hanako who can walk 15 m with ten steps for ten seconds advances by a method \"going forth by three steps and going back by two steps\", how many seconds does she take to advance 15m ? \nIt shall take one second for one step of going back and forth.\nAnswer\n38 seconds\nSolution\nAs it takes one",
@@ -20488,7 +20488,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/go-to-another-town-by-bicycle-and-on-foot",
+    "path": "/home/level-2/go-to-another-town-by-bicycle-and-on-foot",
     "slug": "go-to-another-town-by-bicycle-and-on-foot",
     "title": "Go to another town by bicycle and on foot",
     "text": "Taro and Jiro left A town at the same time and went to B town. \nTaro went by bicycle and Jiro went on foot. \nThe ratio of the speed of Taro and Jiro is 5 : 1. \nAs Taro noticed that he left something at point P on the way, he returned toward A town and passed each other with Jiro 4 minutes",
@@ -20577,7 +20577,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/go-to-another-town-by-bicycle-and-on-foot/go-to-another-town-by-bicycle-and-on-foot",
+    "path": "/home/level-2/go-to-another-town-by-bicycle-and-on-foot/go-to-another-town-by-bicycle-and-on-foot",
     "slug": "go-to-another-town-by-bicycle-and-on-foot",
     "title": "Go to another town by bicycle and on foot /",
     "text": "Taro and Jiro left A town at the same time and went to B town. \nTaro went by bicycle and Jiro went on foot. \nThe ratio of the speed of Taro and Jiro is 5 : 1. \nAs Taro noticed that he left something at point P on the way, he returned toward A town and passed each other with Jiro 4 minutes",
@@ -20683,7 +20683,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/graph-of-distance-of-two-persons",
+    "path": "/home/level-2/graph-of-distance-of-two-persons",
     "slug": "graph-of-distance-of-two-persons",
     "title": "Graph of distance of two persons",
     "text": "There are the two points A and B. \nTaro leaves A point, Jiro leaves B point at the same time and they go back and forth between A and B repeatedly with fixed speed, respectively. \nTaro walks faster than Jiro. \nThe graph expresses the relation of the distance between Taro and Jiro, and time.",
@@ -20737,7 +20737,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/graph-of-distance-of-two-persons/graph-of-distance-of-two-persons",
+    "path": "/home/level-2/graph-of-distance-of-two-persons/graph-of-distance-of-two-persons",
     "slug": "graph-of-distance-of-two-persons",
     "title": "Graph of distance of two persons /",
     "text": "There are the two points A and B. \nTaro leaves A point, Jiro leaves B point at the same time and they go back and forth between A and B repeatedly with fixed speed, respectively. \nTaro walks faster than Jiro. \nThe graph expresses the relation of the distance between Taro and Jiro, and time.",
@@ -20786,7 +20786,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/guess-the-color-of-the-card",
+    "path": "/home/level-2/guess-the-color-of-the-card",
     "slug": "guess-the-color-of-the-card",
     "title": "Guess the color of the card",
     "text": "There are one red card and two black cards. \nI pass these three cards to Taro, Jiro, and Hanako. \nThey look at the color of their own and find the color of the card of other two. \nI asked Taro but Taro said \"I can not find.\" \nJiro heard the answer of Taro then said \"I can guess by hearing the",
@@ -20859,7 +20859,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/guess-the-color-of-the-card/guess-the-color-of-the-card",
+    "path": "/home/level-2/guess-the-color-of-the-card/guess-the-color-of-the-card",
     "slug": "guess-the-color-of-the-card",
     "title": "Guess the color of the card /",
     "text": "There are one red card and two black cards. \nI pass these three cards to Taro, Jiro, and Hanako. \nThey look at the color of their own and find the color of the card of other two. \nI asked Taro but Taro said \"I can not find.\" \nJiro heard the answer of Taro then said \"I can guess by hearing the",
@@ -20932,7 +20932,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/guess-the-color-of-the-hut-wearing",
+    "path": "/home/level-2/guess-the-color-of-the-hut-wearing",
     "slug": "guess-the-color-of-the-hut-wearing",
     "title": "Guess the color of the hut wearing",
     "text": "There are three red hats and two white hats. \nAfter showing these hats to three persons, Taro, Jiro and Hanako, I put a hat on each person which can not be visible to each and hide remaining two hats. \nI asked the color of their own hat in order of Taro, Jiro and Hanako. \nThree persons should find",
@@ -21005,7 +21005,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/guess-the-color-of-the-hut-wearing/guess-the-color-of-the-hut-wearing",
+    "path": "/home/level-2/guess-the-color-of-the-hut-wearing/guess-the-color-of-the-hut-wearing",
     "slug": "guess-the-color-of-the-hut-wearing",
     "title": "Guess the color of the hut wearing /",
     "text": "There are three red hats and two white hats. \nAfter showing these hats to three persons, Taro, Jiro and Hanako, I put a hat on each person which can not be visible to each and hide remaining two hats. \nI asked the color of their own hat in order of Taro, Jiro and Hanako. \nThree persons should find",
@@ -21078,7 +21078,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/guess-what-im-thinking",
+    "path": "/home/level-2/guess-what-im-thinking",
     "slug": "guess-what-im-thinking",
     "title": "Guess what I'm thinking",
     "text": "The father said to the son.\n\"Here is 1000 yen. If you can estimate what I consider, I will give you this 1000 yen.\" \nIs there any answer by which he can get 1000 yen ?",
@@ -21086,7 +21086,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/guess-what-im-thinking/guess-what-im-thinking",
+    "path": "/home/level-2/guess-what-im-thinking/guess-what-im-thinking",
     "slug": "guess-what-im-thinking",
     "title": "Guess what I'm thinking /",
     "text": "The father said to the son. \n\"Here is 1000 yen. If you can estimate what I consider, I will give you this 1000 yen.\" \nIs there any answer by which he can get 1000 yen ? \nAnswer\nYes, there is.\nSolution\nThe answer is \n\"You think that you believe that you do not give 1000 yen to me\".\nIf the father",
@@ -21094,7 +21094,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/homework-of-summer-vacation",
+    "path": "/home/level-2/homework-of-summer-vacation",
     "slug": "homework-of-summer-vacation",
     "title": "Homework of summer vacation",
     "text": "Taro and Jiro respectively decided to make a plan to do homework of the mathematics of the summer vacation. \nTaro decided to solve three problems a day from the first day of the summer vacation. \nJiro decided not do its homework for six days of the beginning of the summer vacation and from seventh",
@@ -21107,7 +21107,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/homework-of-summer-vacation/homework-of-summer-vacation",
+    "path": "/home/level-2/homework-of-summer-vacation/homework-of-summer-vacation",
     "slug": "homework-of-summer-vacation",
     "title": "Homework of summer vacation /",
     "text": "Taro and Jiro respectively decided to make a plan to do homework of the mathematics of the summer vacation. \nTaro decided to solve three problems a day from the first day of the summer vacation. \nJiro decided not do its homework for six days of the beginning of the summer vacation and from seventh",
@@ -21120,7 +21120,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/how-many-numbers-of-0-in-the-product",
+    "path": "/home/level-2/how-many-numbers-of-0-in-the-product",
     "slug": "how-many-numbers-of-0-in-the-product",
     "title": "How many numbers of 0 in the product",
     "text": "How many 0 continues from the place of one, as for the product multiplied by the integers from 1 to 40?",
@@ -21137,7 +21137,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/how-many-numbers-of-0-in-the-product/how-many-numbers-of-0-in-the-product",
+    "path": "/home/level-2/how-many-numbers-of-0-in-the-product/how-many-numbers-of-0-in-the-product",
     "slug": "how-many-numbers-of-0-in-the-product",
     "title": "How many numbers of 0 in the product /",
     "text": "How many 0 continues from the place of one, as for the product multiplied by the integers from 1 to 40? \nAnswer\nNine\nSolution\nIt is checked how many times the product obtained by multiplying from 1 to 40 can be divided by 10. \nSince 10 = 2 x 5, check the numbers both of multiples of 2 and 5 in",
@@ -21226,7 +21226,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/how-old-am-i-now",
+    "path": "/home/level-2/how-old-am-i-now",
     "slug": "how-old-am-i-now",
     "title": "How old am I now?",
     "text": "Since I was asked the age niece, I answered as follows. \"My age now is five years younger than your mother and after five years my age will be five times of your present age and your mother's age will be three times of your age at that time.\"\nHow old am I now ?",
@@ -21234,7 +21234,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/how-old-am-i-now/how-old-am-i-now",
+    "path": "/home/level-2/how-old-am-i-now/how-old-am-i-now",
     "slug": "how-old-am-i-now",
     "title": "How old am I now? /",
     "text": "Since I was asked the age niece, I answered as follows.\n\"My age now is five years younger than your mother and after five years my age will be five times of your present age and your mother's age will be three times of your age at that time.\"\nHow old am I now ?   \nAnswer\n20 years old\nSolution\nWhen",
@@ -21242,7 +21242,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/i-was-born-in-abcd",
+    "path": "/home/level-2/i-was-born-in-abcd",
     "slug": "i-was-born-in-abcd",
     "title": "I was born in ABCD",
     "text": "I was born in ABCD which is the year of the Christian era. \nIn 1997, I became (A+B+C+D) years old. \nHow old was I in 1997 ?",
@@ -21250,7 +21250,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/i-was-born-in-abcd/i-was-born-in-abcd",
+    "path": "/home/level-2/i-was-born-in-abcd/i-was-born-in-abcd",
     "slug": "i-was-born-in-abcd",
     "title": "I was born in ABCD /",
     "text": "I was born in ABCD which is the year of the Christian era. \nIn 1997, I became (A+B+C+D) years old. \nHow old was I in 1997 ?\nAnswer \n22 years old\nSolution\n1997 - (1000 x A + 100 x B + 10 x C + D) =A + B + C + D. \nThen, 1997=1001 x A + 101 x B + 11 x C + 2 x D.\nSince A, B, C, and D is the integer of",
@@ -21258,7 +21258,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/insect-moving-along-the-side-of-solid",
+    "path": "/home/level-2/insect-moving-along-the-side-of-solid",
     "slug": "insect-moving-along-the-side-of-solid",
     "title": "Insect moving along the side of solid",
     "text": "A certain insect is moving along the side of the pentagonal pyramid of the figure below. \nWhen it started to move from the vertex A and come back to the vertex A again, how many ways are there on condition it never pass through the vertex twice and side passing through once ?",
@@ -21271,7 +21271,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/insect-moving-along-the-side-of-solid/insect-moving-along-the-side-of-solid",
+    "path": "/home/level-2/insect-moving-along-the-side-of-solid/insect-moving-along-the-side-of-solid",
     "slug": "insect-moving-along-the-side-of-solid",
     "title": "Insect moving along the side of solid /",
     "text": "A certain insect is moving along the side of the pentagonal pyramid of the figure below. \nWhen it started to move from the vertex A and come back to the vertex A again, how many ways are there on condition it never pass through the vertex twice and side passing through once ?",
@@ -21284,7 +21284,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/integer-divided-by-4-5-7-with-some-remainder",
+    "path": "/home/level-2/integer-divided-by-4-5-7-with-some-remainder",
     "slug": "integer-divided-by-4-5-7-with-some-remainder",
     "title": "Integer divided by 4, 5, 7 with some remainder",
     "text": "There is an integer which is divided by 4 leaves a remainder of 1 and divided by 5 leaves a remainder of 2 and divided by 7 leaves a remainder of 2. \nFind the number closest to 500 among those integers.",
@@ -21373,7 +21373,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/integer-divided-by-4-5-7-with-some-remainder/integer-divided-by-4-5-7-with-some-remainder",
+    "path": "/home/level-2/integer-divided-by-4-5-7-with-some-remainder/integer-divided-by-4-5-7-with-some-remainder",
     "slug": "integer-divided-by-4-5-7-with-some-remainder",
     "title": "Integer divided by 4, 5, 7 with some remainder /",
     "text": "There is an integer which is divided by 4 leaves a remainder of 1 and divided by 5 leaves a remainder of 2 and divided by 7 leaves a remainder of 2. \nFind the number closest to 500 among those integers.  \nAnswer\n457\nSolution\nSuch a integer which is divided either by 5 or 7 leaves a remainder of 2",
@@ -21462,7 +21462,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/integers-of-remainder-one-divided-by-three",
+    "path": "/home/level-2/integers-of-remainder-one-divided-by-three",
     "slug": "integers-of-remainder-one-divided-by-three",
     "title": "Integers of remainder one divided by three",
     "text": "When 1 and 1000 are such integers as it is divided by 3 leaving a remainder of one. \nOut of the integers from 1 to 1000, answer the following question about the integer which remainder is one when it is divide by 3.\n(1) Find the number of multiple of 2 and the number of multiple of 5, respectively",
@@ -21551,7 +21551,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/integers-of-remainder-one-divided-by-three/integers-of-remainder-one-divided-by-three",
+    "path": "/home/level-2/integers-of-remainder-one-divided-by-three/integers-of-remainder-one-divided-by-three",
     "slug": "integers-of-remainder-one-divided-by-three",
     "title": "Integers of remainder one divided by three /",
     "text": "When 1 and 1000 are such integers as it is divided by 3 leaving a remainder of one. \nOut of the integers from 1 to 1000, answer the following question about the integer which remainder is one when it is divide by 3.\n(1) Find the number of multiple of 2 and the number of multiple of 5, respectively",
@@ -21645,7 +21645,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/janken-game-among-three-persons",
+    "path": "/home/level-2/janken-game-among-three-persons",
     "slug": "janken-game-among-three-persons",
     "title": "\"Janken\" game among three persons",
     "text": "Taro, Jiro and Hanako played a janken (rock-paper-scissors) and one person won, two people lost. \nTaro and Jiro said as follows: \nTaro :  \"Jiro gave a stone.\" \nJiro :  \"Hanako gave a stone.\" \nThe person who won says the truth and the person who lost says a lie. \nWhat did Jiro give ?",
@@ -21702,7 +21702,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/janken-game-among-three-persons/janken-game-among-three-persons",
+    "path": "/home/level-2/janken-game-among-three-persons/janken-game-among-three-persons",
     "slug": "janken-game-among-three-persons",
     "title": "\"Janken\" game among three persons /",
     "text": "Taro, Jiro and Hanako played a janken (rock-paper-scissors) and one person won, two people lost. \nTaro and Jiro said as follows: \nTaro :  \"Jiro gave a stone.\" \nJiro :  \"Hanako gave a stone.\" \nThe person who won says the truth and the person who lost says a lie. \nWhat did Jiro give ?",
@@ -21759,7 +21759,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/length-in-a-triangle",
+    "path": "/home/level-2/length-in-a-triangle",
     "slug": "length-in-a-triangle",
     "title": "Length in a triangle",
     "text": "In a figure, AG is vertical to BC. \nThe points D and E are the middle points of AG and AC, respectively. \nThe point F is an intersection of BE and CD. \nThe length of DE is 2 cm. \nThe area of triangle ABC is 36 cm2. \nThe area of the triangle CEF is 2 cm2. \nFind the length of AG.",
@@ -21849,7 +21849,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/length-in-a-triangle/length-in-a-triangle",
+    "path": "/home/level-2/length-in-a-triangle/length-in-a-triangle",
     "slug": "length-in-a-triangle",
     "title": "Length in a triangle /",
     "text": "In a figure, AG is vertical to BC. \nThe points D and E are the middle points of AG and AC, respectively. \nThe point F is an intersection of BE and CD. \nThe length of DE is 2 cm. \nThe area of triangle ABC is 36 cm2. \nThe area of the triangle CEF is 2 cm2. \nFind the length of AG.",
@@ -21943,7 +21943,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/length-of-a-candle",
+    "path": "/home/level-2/length-of-a-candle",
     "slug": "length-of-a-candle",
     "title": "Length of a candle",
     "text": "There is a candle which is becoming short at a fixed rate when setting fire to the candle.\nI was going to investigate in how many minutes it would be burned out when fire is set to this candle. \nSince I wanted to go to a toilet suddenly 6 minutes after beginning observation, I extinguished fire",
@@ -21956,7 +21956,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/length-of-a-candle/length-of-a-candle",
+    "path": "/home/level-2/length-of-a-candle/length-of-a-candle",
     "slug": "length-of-a-candle",
     "title": "Length of a candle /",
     "text": "There is a candle which is becoming short at a fixed rate when setting fire to the candle. \nI was going to investigate in how many minutes it would be burned out when fire is set to this candle. \nSince I wanted to go to a toilet suddenly 6 minutes after beginning observation, I extinguished fire",
@@ -21969,7 +21969,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/library-between-school-and-station",
+    "path": "/home/level-2/library-between-school-and-station",
     "slug": "library-between-school-and-station",
     "title": "Library between school and station",
     "text": "Taro and Jiro left the school at the same time and went to the station through the front of library. \nTaro ran to the library and walked at 40 m/m from there up to the station. \nJiro walked with the speed of 1/3 of the speed which Taro ran up to the library and arrived at the library 8 minutes",
@@ -22058,7 +22058,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/library-between-school-and-station/library-between-school-and-station",
+    "path": "/home/level-2/library-between-school-and-station/library-between-school-and-station",
     "slug": "library-between-school-and-station",
     "title": "Library between school and station /",
     "text": "Taro and Jiro left the school at the same time and went to the station through the front of library. \nTaro ran to the library and walked at 40 m/m from there up to the station. \nJiro walked with the speed of 1/3 of the speed which Taro ran up to the library and arrived at the library 8 minutes",
@@ -22147,7 +22147,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/load-dropped-to-a-river-from-ship",
+    "path": "/home/level-2/load-dropped-to-a-river-from-ship",
     "slug": "load-dropped-to-a-river-from-ship",
     "title": "Load dropped to a river from ship",
     "text": "There is a ship which moves at 45 m/m with a load and moves at 60 m/m without a load under no flow of the water. \nThis ship goes back and forth the river whose speed of a flow is 15 m/m. \n(1) One day this ship carried the load from A point to downstream B point. \nWhen the load was taken down at B",
@@ -22180,7 +22180,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/load-dropped-to-a-river-from-ship/load-dropped-to-a-river-from-ship",
+    "path": "/home/level-2/load-dropped-to-a-river-from-ship/load-dropped-to-a-river-from-ship",
     "slug": "load-dropped-to-a-river-from-ship",
     "title": "Load dropped to a river from ship /",
     "text": "There is a ship which moves at 45 m/m with a load and moves at 60 m/m without a load under no flow of the water. \nThis ship goes back and forth the river whose speed of a flow is 15 m/m. \n(1) One day this ship carried the load from A point to downstream B point. \nWhen the load was taken down at B",
@@ -22213,7 +22213,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/long-distance-train",
+    "path": "/home/level-2/long-distance-train",
     "slug": "long-distance-train",
     "title": "Long-distance train",
     "text": "A certain long-distance train is operated as follows.\n<1> Every day the train leaves A station at 12:00 noon and arrives at B station at 9:00 of the next morning.\n<2> The train which arrived at B station leaves B station in the afternoon of the day and returns to A station.\n<3> Since the speed of",
@@ -22302,7 +22302,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/long-distance-train/long-distance-train",
+    "path": "/home/level-2/long-distance-train/long-distance-train",
     "slug": "long-distance-train",
     "title": "Long-distance train /",
     "text": "A certain long-distance train is operated as follows. \n<1> Every day the train leaves A station at 12:00 noon and arrives at B station at 9:00 of the next morning.\n<2> The train which arrived at B station leaves B station in the afternoon of the day and returns to A station. \n<3> Since the speed",
@@ -22400,7 +22400,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/long-hand-and-hour-hand-of-flower-clock",
+    "path": "/home/level-2/long-hand-and-hour-hand-of-flower-clock",
     "slug": "long-hand-and-hour-hand-of-flower-clock",
     "title": "Long hand and hour hand of flower clock",
     "text": "There is a flower clock in a certain town and the long hand advances one round in one hour with a fixed speed. \nThe hour hand stands still first 59 seconds in every minute and advances 1 of 720 round with a fixed speed in last one second.\nThe long hand and the hour hand have overlapped exactly at",
@@ -22441,7 +22441,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/long-hand-and-hour-hand-of-flower-clock/long-hand-and-hour-hand-of-flower-clock",
+    "path": "/home/level-2/long-hand-and-hour-hand-of-flower-clock/long-hand-and-hour-hand-of-flower-clock",
     "slug": "long-hand-and-hour-hand-of-flower-clock",
     "title": "Long hand and hour hand of flower clock /",
     "text": "There is a flower clock in a certain town and the long hand advances one round in one hour with a fixed speed. \nThe hour hand stands still first 59 seconds in every minute and advances 1 of 720 round with a fixed speed in last one second.\nThe long hand and the hour hand have overlapped exactly at",
@@ -22482,7 +22482,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/machine-displays-numbers-of-two-digits",
+    "path": "/home/level-2/machine-displays-numbers-of-two-digits",
     "slug": "machine-displays-numbers-of-two-digits",
     "title": "Machine displays numbers of two digits",
     "text": "There is a machine A which displays the number of 2 digits and when a switch is turned on, numbers will be displayed according to the following rule for every second.\n<Rule 1>\nTens digit changes for every second in order of 1, 2, 3, 4, 5, 6, 7, and 8, and after 8 returns to 1 again and changes in",
@@ -22571,7 +22571,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/machine-displays-numbers-of-two-digits/machine-displays-numbers-of-two-digits",
+    "path": "/home/level-2/machine-displays-numbers-of-two-digits/machine-displays-numbers-of-two-digits",
     "slug": "machine-displays-numbers-of-two-digits",
     "title": "Machine displays numbers of two digits /",
     "text": "There is a machine A which displays the number of 2 digits and when a switch is turned on, numbers will be displayed according to the following rule for every second. \n<Rule 1>\nTens digit changes for every second in order of 1, 2, 3, 4, 5, 6, 7, and 8, and after 8 returns to 1 again and changes in",
@@ -22660,7 +22660,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/make-big-equilateral-triangle-by-putting-small-ones",
+    "path": "/home/level-2/make-big-equilateral-triangle-by-putting-small-ones",
     "slug": "make-big-equilateral-triangle-by-putting-small-ones",
     "title": "Make big equilateral triangle by putting small ones",
     "text": "By putting the equilateral triangles with 1cm one side in order without any gap nor overlap, a big equilateral triangle is made.\n(1) How many equilateral triangles with 1cm one side are used for the equilateral triangle with 4cm one side?\n(2) The equilateral triangle of 1cm, 2cm, 3cm, 4cm ---- one",
@@ -22749,7 +22749,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/make-big-equilateral-triangle-by-putting-small-ones/make-big-equilateral-triangle-by-putting-small-ones",
+    "path": "/home/level-2/make-big-equilateral-triangle-by-putting-small-ones/make-big-equilateral-triangle-by-putting-small-ones",
     "slug": "make-big-equilateral-triangle-by-putting-small-ones",
     "title": "Make big equilateral triangle by putting small ones /",
     "text": "By putting the equilateral triangles with 1cm one side in order without any gap nor overlap, a big equilateral triangle is made.\n(1) How many equilateral triangles with 1cm one side are used for the equilateral triangle with 4cm one side?\n(2) The equilateral triangle of 1cm, 2cm, 3cm, 4cm ---- one",
@@ -22838,7 +22838,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/make-formula-using-3-four-times",
+    "path": "/home/level-2/make-formula-using-3-four-times",
     "slug": "make-formula-using-3-four-times",
     "title": "Make formula using 3 four times",
     "text": "Is it possible to set the calculating formula from which the answer is from 1 to 10 by using 3 four times exactly? \nOnly +, -, x, /, ( ) can be used.",
@@ -22927,7 +22927,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/make-formula-using-3-four-times/make-formula-using-3-four-times",
+    "path": "/home/level-2/make-formula-using-3-four-times/make-formula-using-3-four-times",
     "slug": "make-formula-using-3-four-times",
     "title": "Make formula using 3 four times /",
     "text": "Is it possible to set the calculating formula from which the answer is from 1 to 10 by using 3 four times exactly? \nOnly +, -, x, /, ( ) can be used.\nAnswer\nPossible\nSolution\nSample of the answer :\n(3 + 3)/(3 + 3) = 1 \n3/3 + 3/3 = 2 \n(3 + 3 + 3) / 3 = 3 \n(3 × 3 + 3) /3= 4 \n(3 + 3) 3 + 3= 5 \n(3 +",
@@ -23016,7 +23016,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/make-right-hexagon-of-parallelograms-and-trapezoids",
+    "path": "/home/level-2/make-right-hexagon-of-parallelograms-and-trapezoids",
     "slug": "make-right-hexagon-of-parallelograms-and-trapezoids",
     "title": "Make right hexagon of parallelograms and trapezoids",
     "text": "As shown in a figure, two kinds of parallelograms A and B are made of using four equilateral triangles of which one side is 1 cm and trapezoid C is made of using three equilateral triangles of which one side is 1 cm in large numbers, respectively. \nWhen these parallelograms and trapezoids are",
@@ -23106,7 +23106,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/make-right-hexagon-of-parallelograms-and-trapezoids/make-right-hexagon-of-parallelograms-and-trapezoids",
+    "path": "/home/level-2/make-right-hexagon-of-parallelograms-and-trapezoids/make-right-hexagon-of-parallelograms-and-trapezoids",
     "slug": "make-right-hexagon-of-parallelograms-and-trapezoids",
     "title": "Make right hexagon of parallelograms and trapezoids /",
     "text": "As shown in a figure, two kinds of parallelograms A and B are made of using four equilateral triangles of which one side is 1 cm and trapezoid C is made of using three equilateral triangles of which one side is 1 cm in large numbers, respectively. \nWhen these parallelograms and trapezoids are",
@@ -23200,7 +23200,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/management-of-the-party",
+    "path": "/home/level-2/management-of-the-party",
     "slug": "management-of-the-party",
     "title": "Management of the party",
     "text": "I became a manager of the party. \nI can buy 90 juice exactly with the amount of the budget. \nIf it is sandwiches, I can buy 36 pieces exactly and if it is cakes, I can buy 40 pieces exactly. \nWhen one juice, one sandwiches, and one cake are made into 1 set for one person, I can buy them for all",
@@ -23241,7 +23241,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/management-of-the-party/management-of-the-party",
+    "path": "/home/level-2/management-of-the-party/management-of-the-party",
     "slug": "management-of-the-party",
     "title": "Management of the party /",
     "text": "I became a manager of the party. \nI can buy 90 juice exactly with the amount of the budget. \nIf it is sandwiches, I can buy 36 pieces exactly and if it is cakes, I can buy 40 pieces exactly. \nWhen one juice, one sandwiches, and one cake are made into 1 set for one person, I can buy them for all",
@@ -23282,7 +23282,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/move-of-the-side-of-regular-tetrahedron",
+    "path": "/home/level-2/move-of-the-side-of-regular-tetrahedron",
     "slug": "move-of-the-side-of-regular-tetrahedron",
     "title": "Move of the side of regular tetrahedron",
     "text": "There is a solid surrounded with four equilateral triangles as shown in a figure. \nThe point P is at the vertex A at first and moves to one of other three vertex for every second. \nFor example, as for ways of movement where the point P is at the vertex A in 2 seconds, there is A→B→A, A→C→A and",
@@ -23368,7 +23368,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/move-of-the-side-of-regular-tetrahedron/move-of-the-side-of-regular-tetrahedron",
+    "path": "/home/level-2/move-of-the-side-of-regular-tetrahedron/move-of-the-side-of-regular-tetrahedron",
     "slug": "move-of-the-side-of-regular-tetrahedron",
     "title": "Move of the side of regular tetrahedron /",
     "text": "There is a solid surrounded with four equilateral triangles as shown in a figure. \nThe point P is at the vertex A at first and moves to one of other three vertex for every second. \nFor example, as for ways of movement where the point P is at the vertex A in 2 seconds, there is A→B→A, A→C→A and",
@@ -23449,7 +23449,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/movement-of-rectangle-overlapping-triangle",
+    "path": "/home/level-2/movement-of-rectangle-overlapping-triangle",
     "slug": "movement-of-rectangle-overlapping-triangle",
     "title": "Movement of rectangle overlapping triangle",
     "text": "As shown in a figure, there are rectangle ABCD and right triangle PQR. Rectangle ABCD moves at the speed of 1 cm/s to the right along the straight line XY from the position of a figure.\n(1) Find the area of the portion with which the rectangle and the triangle have overlapped in 2 seconds.\n(2)",
@@ -23543,7 +23543,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/movement-of-rectangle-overlapping-triangle/movement-of-rectangle-overlapping-triangle",
+    "path": "/home/level-2/movement-of-rectangle-overlapping-triangle/movement-of-rectangle-overlapping-triangle",
     "slug": "movement-of-rectangle-overlapping-triangle",
     "title": "Movement of rectangle overlapping triangle /",
     "text": "As shown in a figure, there are rectangle ABCD and right triangle PQR. Rectangle ABCD moves at the speed of 1 cm/s to the right along the straight line XY from the position of a figure. \n(1) Find the area of the portion with which the rectangle and the triangle have overlapped in 2 seconds. \n(2)",
@@ -23649,7 +23649,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/moving-by-running-and-a-car",
+    "path": "/home/level-2/moving-by-running-and-a-car",
     "slug": "moving-by-running-and-a-car",
     "title": "Moving by running and a car",
     "text": "Hanako and Taro go to B point 12 km away from A point. \nHanako rides a car from A point first and getting down on the way, runs the remaining distance. \nTaro runs from A point and rides the car on the way which took down Hanako and returned immediately on the way and goes to B point. They leave at",
@@ -23657,7 +23657,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/moving-by-running-and-a-car/moving-by-running-and-a-car",
+    "path": "/home/level-2/moving-by-running-and-a-car/moving-by-running-and-a-car",
     "slug": "moving-by-running-and-a-car",
     "title": "Moving by running and a car /",
     "text": "Hanako and Taro go to B point 12 km away from A point. \nHanako rides a car from A point first and getting down on the way, runs the remaining distance. \nTaro runs from A point and rides the car on the way which took down Hanako and returned immediately on the way and goes to B point. \nThey leave",
@@ -23665,7 +23665,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/moving-point-on-the-side-of-rectangle",
+    "path": "/home/level-2/moving-point-on-the-side-of-rectangle",
     "slug": "moving-point-on-the-side-of-rectangle",
     "title": "Moving point on the side of rectangle",
     "text": "There is a rectangle ABCD as shown in the figure. \nAB = 6 cm and AD = 12 cm. AM : MB = 2 : 1 and DN : NC = 1 : 2. \nThe point P moves on the side AD. \nThe intersection of the extension of PM and the extension of BC is set to Q. \nThe intersection of the extension of PN and the extension of BC is set",
@@ -23759,7 +23759,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/moving-point-on-the-side-of-rectangle/moving-point-on-the-side-of-rectangle",
+    "path": "/home/level-2/moving-point-on-the-side-of-rectangle/moving-point-on-the-side-of-rectangle",
     "slug": "moving-point-on-the-side-of-rectangle",
     "title": "Moving point on the side of rectangle /",
     "text": "There is a rectangle ABCD as shown in the figure. \nAB = 6 cm and AD = 12 cm. AM : MB = 2 : 1 and DN : NC = 1 : 2. \nThe point P moves on the side AD. \nThe intersection of the extension of PM and the extension of BC is set to Q. \nThe intersection of the extension of PN and the extension of BC is set",
@@ -23861,7 +23861,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/multiple-of-each-number-of-digit",
+    "path": "/home/level-2/multiple-of-each-number-of-digit",
     "slug": "multiple-of-each-number-of-digit",
     "title": "Multiple of each number of digit",
     "text": "According to the following example, the number of all digits of a certain integer is multiplied and this operation is repeated until the answer becomes the number of single digit. \nAnswer the following questions.\n<Example> \n327 → 3 x 2 x 7 = 42 → 4 x 2 = 8\n73 → 7 x 3 = 21 → 2 x 1 = 2\n(1) Find the",
@@ -23950,7 +23950,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/multiple-of-each-number-of-digit/multiple-of-each-number-of-digit",
+    "path": "/home/level-2/multiple-of-each-number-of-digit/multiple-of-each-number-of-digit",
     "slug": "multiple-of-each-number-of-digit",
     "title": "Multiple of each number of digit /",
     "text": "According to the following example, the number of all digits of a certain integer is multiplied and this operation is repeated until the answer becomes the number of single digit. \nAnswer the following questions. \n<Example> \n327 → 3 x 2 x 7 = 42 → 4 x 2 = 8 \n73 → 7 x 3 = 21 → 2 x 1 = 2 \n(1) Find",
@@ -24039,7 +24039,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/multiple-of-even-numbers",
+    "path": "/home/level-2/multiple-of-even-numbers",
     "slug": "multiple-of-even-numbers",
     "title": "Multiple of even numbers",
     "text": "The number multiplied by all the even numbers from 2 to 100 as 2 x 4 x 6 x ------x 100 is set to N. \nFind the number of 0 which continues from ones digit. \nMoreover, when N is divided by 3 repeatedly, find the number of times of being divisible.",
@@ -24128,7 +24128,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/multiple-of-even-numbers/multiple-of-even-numbers",
+    "path": "/home/level-2/multiple-of-even-numbers/multiple-of-even-numbers",
     "slug": "multiple-of-even-numbers",
     "title": "Multiple of even numbers /",
     "text": "The number multiplied by all the even numbers from 2 to 100 as 2 x 4 x 6 x ------x 100 is set to N. \nFind the number of 0 which continues from ones digit. \nMoreover, when N is divided by 3 repeatedly, find the number of times of being divisible. \nAnswer\n12\n22 times",
@@ -24217,7 +24217,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/multiply-27-50-times",
+    "path": "/home/level-2/multiply-27-50-times",
     "slug": "multiply-27-50-times",
     "title": "Multiply 27 50 times",
     "text": "What is the number of ones digit when you multiply 27 50 times ?",
@@ -24225,7 +24225,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/multiply-27-50-times/multiply-27-50-times",
+    "path": "/home/level-2/multiply-27-50-times/multiply-27-50-times",
     "slug": "multiply-27-50-times",
     "title": "Multiply 27 50 times /",
     "text": "What is the number of ones digit when you multiply 27 50 times ?\nAnswer\n9\nSolution\nYou should focus on the number of ones digit even if two digits number is multiplied. \nThe number of ones digit is to be in a cycle of 7-9-3-1. \nCalculate the number of this cycle in 50 times which is 50/4=12 cycles",
@@ -24233,7 +24233,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/no-multiple-of-9-and-no-9-in-any-digit",
+    "path": "/home/level-2/no-multiple-of-9-and-no-9-in-any-digit",
     "slug": "no-multiple-of-9-and-no-9-in-any-digit",
     "title": "No multiple of 9 and no 9 in any digit",
     "text": "(1) Find the number of an integer more than or equal to 1 and less than or equal to 999 which are not a multiple of 9 and do not contain 9 in the number of each digit.\n(2) For the integer applicable to (1), find the 999th number counting from the least one in all integers.",
@@ -24322,7 +24322,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/no-multiple-of-9-and-no-9-in-any-digit/no-multiple-of-9-and-no-9-in-any-digit",
+    "path": "/home/level-2/no-multiple-of-9-and-no-9-in-any-digit/no-multiple-of-9-and-no-9-in-any-digit",
     "slug": "no-multiple-of-9-and-no-9-in-any-digit",
     "title": "No multiple of 9 and no 9 in any digit /",
     "text": "(1) Find the number of an integer more than or equal to 1 and less than or equal to 999 which are not a multiple of 9 and do not contain 9 in the number of each digit. \n(2) For the integer applicable to (1), find the 999th number counting from the least one in all integers. \nAnswer\n(1) 648",
@@ -24411,7 +24411,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/no-number-as-a-price-including-tax",
+    "path": "/home/level-2/no-number-as-a-price-including-tax",
     "slug": "no-number-as-a-price-including-tax",
     "title": "No number as a price including tax",
     "text": "When doing some shopping, the consumption tax is 5% of sales price and less than 1 yen is omitted. \nFor example, if sales price is 219 yen, 10 yen consumption tax will be cost and 229 yen will be paid. \nWhen sales price is 220 yen, 231 yen will be paid. \nTherefore, 230 yen does not emerge with the",
@@ -24500,7 +24500,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/no-number-as-a-price-including-tax/no-number-as-a-price-including-tax",
+    "path": "/home/level-2/no-number-as-a-price-including-tax/no-number-as-a-price-including-tax",
     "slug": "no-number-as-a-price-including-tax",
     "title": "No number as a price including tax /",
     "text": "When doing some shopping, the consumption tax is 5% of sales price and less than 1 yen is omitted. \nFor example, if sales price is 219 yen, 10 yen consumption tax will be cost and 229 yen will be paid. \nWhen sales price is 220 yen, 231 yen will be paid. \nTherefore, 230 yen does not emerge with the",
@@ -24589,7 +24589,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/notice-an-article-left-behind",
+    "path": "/home/level-2/notice-an-article-left-behind",
     "slug": "notice-an-article-left-behind",
     "title": "Notice an article left behind",
     "text": "There are 2400 m between A point and B point. \nTaro left at 60 m/m and Jiro left at 50 m/m A point at the same time and they went to B point. \nWhen Taro arrived at intermediate C point, it was 320 m between Taro and Jiro.\n(1) Taro went to B point as he is. \nWhen Jiro arrives at C point, find the",
@@ -24630,7 +24630,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/notice-an-article-left-behind/notice-an-article-left-behind",
+    "path": "/home/level-2/notice-an-article-left-behind/notice-an-article-left-behind",
     "slug": "notice-an-article-left-behind",
     "title": "Notice an article left behind /",
     "text": "There are 2400 m between A point and B point. \nTaro left at 60 m/m and Jiro left at 50 m/m A point at the same time and they went to B point. \nWhen Taro arrived at intermediate C point, it was 320 m between Taro and Jiro. \n(1) Taro went to B point as he is. \nWhen Jiro arrives at C point, find the",
@@ -24671,7 +24671,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/number-and-cost-price-of-apple",
+    "path": "/home/level-2/number-and-cost-price-of-apple",
     "slug": "number-and-cost-price-of-apple",
     "title": "Number and cost price of apple",
     "text": "I purchased some apples at a certain cost price.  \nWhen I sell all apples at 80 yen per piece, there are 500 yen loss and I sell all at 100 yen per piece, there are 1500 yen profits.\nHow many pieces did I purchase and how much is the cost price per piece ?",
@@ -24679,7 +24679,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/number-and-cost-price-of-apple/number-and-cost-price-of-apple",
+    "path": "/home/level-2/number-and-cost-price-of-apple/number-and-cost-price-of-apple",
     "slug": "number-and-cost-price-of-apple",
     "title": "Number and cost price of apple /",
     "text": "I purchased some apples at a certain cost price.  \nWhen I sell all apples at 80 yen per piece, there are 500 yen loss and I sell all at 100 yen per piece, there are 1500 yen profits. \nHow many pieces did I purchase and how much is the cost price per piece ? \nAnswer\n100 pieces \n85",
@@ -24687,7 +24687,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/number-of-days-of-friday-13th",
+    "path": "/home/level-2/number-of-days-of-friday-13th",
     "slug": "number-of-days-of-friday-13th",
     "title": "Number of days of Friday 13th",
     "text": "Among one year (365 days), the number of days of “ Friday the 13th” is considered.\n(1) What day of the week does the 1st day of February to December in the case of the year whose January 1st is Monday? \n Write a day of the week in a table below.",
@@ -24712,7 +24712,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/number-of-days-of-friday-13th/number-of-days-of-friday-13th",
+    "path": "/home/level-2/number-of-days-of-friday-13th/number-of-days-of-friday-13th",
     "slug": "number-of-days-of-friday-13th",
     "title": "Number of days of Friday 13th /",
     "text": "Among one year (365 days), the number of days of “ Friday the 13th” is considered.\n(1) What day of the week does the 1st day of February to December in the case of the year whose January 1st is Monday? \n Write a day of the week in a table below.",
@@ -24742,7 +24742,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/number-of-sheets-of-origami",
+    "path": "/home/level-2/number-of-sheets-of-origami",
     "slug": "number-of-sheets-of-origami",
     "title": "Number of sheets of origami",
     "text": "We are going to make some origami cranes by some sheets of origami (paper folding). \nIn order to fold all cranes, the time does not change even if it is done by five persons group or six persons group. \nHowever if it is done by seven persons party, the time will be shorter.\nHow many sheets of",
@@ -24750,7 +24750,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/number-of-sheets-of-origami-crane",
+    "path": "/home/level-2/number-of-sheets-of-origami-crane",
     "slug": "number-of-sheets-of-origami-crane",
     "title": "Number of sheets of origami crane",
     "text": "Number of sheets of origami crane",
@@ -24758,7 +24758,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/number-of-sheets-of-origami-crane-1",
+    "path": "/home/level-2/number-of-sheets-of-origami-crane-1",
     "slug": "number-of-sheets-of-origami-crane-1",
     "title": "Number of sheets of origami crane",
     "text": "Number of sheets of origami crane",
@@ -24775,7 +24775,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/number-of-sheets-of-origami/number-of-sheets-of-origami",
+    "path": "/home/level-2/number-of-sheets-of-origami/number-of-sheets-of-origami",
     "slug": "number-of-sheets-of-origami",
     "title": "Number of sheets of origami /",
     "text": "We are going to make some origami cranes by some sheets of origami (paper folding). \nIn order to fold all cranes, the time does not change even if it is done by five persons group or six persons group. \nHowever if it is done by seven persons party, the time will be shorter. \nHow many sheets of",
@@ -24783,7 +24783,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/number-of-spots-of-dice",
+    "path": "/home/level-2/number-of-spots-of-dice",
     "slug": "number-of-spots-of-dice",
     "title": "Number of spots of dice",
     "text": "The sum total of the spots of the upper face and down face of a die is set to 7. \nFor example, the spots of the under face of the die of Fig. 1 is 6. \nAs shown in Fig. 2, the rectangular prism was made by attaching the same number of spots of six dice.\n(1) Find the number of the spots of the face",
@@ -24877,7 +24877,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/number-of-spots-of-dice/number-of-spots-of-dice",
+    "path": "/home/level-2/number-of-spots-of-dice/number-of-spots-of-dice",
     "slug": "number-of-spots-of-dice",
     "title": "Number of spots of dice /",
     "text": "The sum total of the spots of the upper face and down face of a die is set to 7. \nFor example, the spots of the under face of the die of Fig. 1 is 6. \nAs shown in Fig. 2, the rectangular prism was made by attaching the same number of spots of six dice. \n(1) Find the number of the spots of the face",
@@ -24979,7 +24979,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/number-of-steps-to-catch-up",
+    "path": "/home/level-2/number-of-steps-to-catch-up",
     "slug": "number-of-steps-to-catch-up",
     "title": "Number of steps to catch up",
     "text": "While Taro takes four steps forward, Jiro takes five steps forward. Jiro goes to the distance by three steps where Taro goes by two steps. \nWhen Jiro started and walked 200 steps, Taro pursues Jiro. \nHow many steps does Taro take to catch up Jiro ?",
@@ -25020,7 +25020,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/number-of-steps-to-catch-up/number-of-steps-to-catch-up",
+    "path": "/home/level-2/number-of-steps-to-catch-up/number-of-steps-to-catch-up",
     "slug": "number-of-steps-to-catch-up",
     "title": "Number of steps to catch up /",
     "text": "While Taro takes four steps forward, Jiro takes five steps forward. Jiro goes to the distance by three steps where Taro goes by two steps. \nWhen Jiro started and walked 200 steps, Taro pursues Jiro. \nHow many steps does Taro take to catch up Jiro ? \nAnswer\n800 steps\nSolution\nSpeed is described by",
@@ -25061,7 +25061,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/number-of-teams-are-multiples-of-two-in-tournament",
+    "path": "/home/level-2/number-of-teams-are-multiples-of-two-in-tournament",
     "slug": "number-of-teams-are-multiples-of-two-in-tournament",
     "title": "Number of teams are multiples of two in tournament",
     "text": "The tournament game in which number of teams participated is multiplied some 2 like 2, 4, 8, 16, -----, is considered. \nIt is expressed as N which is the number added all of several numbers that shows which round game is each game held on one tournament.\nFor example, when the number of teams is 8,",
@@ -25155,7 +25155,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/number-of-teams-are-multiples-of-two-in-tournament/number-of-teams-are-multiples-of-two-in-tournament",
+    "path": "/home/level-2/number-of-teams-are-multiples-of-two-in-tournament/number-of-teams-are-multiples-of-two-in-tournament",
     "slug": "number-of-teams-are-multiples-of-two-in-tournament",
     "title": "Number of teams are multiples of two in tournament /",
     "text": "The tournament game in which number of teams participated is multiplied some 2 like 2, 4, 8, 16, -----, is considered. \nIt is expressed as N which is the number added all of several numbers that shows which round game is each game held on one tournament.\nFor example, when the number of teams is 8,",
@@ -25249,7 +25249,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/number-of-times-divided-by-3",
+    "path": "/home/level-2/number-of-times-divided-by-3",
     "slug": "number-of-times-divided-by-3",
     "title": "Number of times divided by 3",
     "text": "How many times can the product of multiplied by integers from 1 to 20 be divided by three ?",
@@ -25338,7 +25338,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/number-of-times-divided-by-3/number-of-times-divided-by-3",
+    "path": "/home/level-2/number-of-times-divided-by-3/number-of-times-divided-by-3",
     "slug": "number-of-times-divided-by-3",
     "title": "Number of times divided by 3",
     "text": "Number of times divided by 3",
@@ -25355,7 +25355,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/number-of-times-divided-by-3/number-of-times-divided-by-3-1",
+    "path": "/home/level-2/number-of-times-divided-by-3/number-of-times-divided-by-3-1",
     "slug": "number-of-times-divided-by-3-1",
     "title": "Number of times divided by 3 /",
     "text": "How many times can the product of multiplied by integers from 1 to 20 be divided by three ?\nAnswer\nEight times\nSolution\nSince there are six multiples of 3 during 1 - 20, it is divided 6 times by three. \nAccording to the calculation of 20/3 = 6 remainder 2. \nThe multiple of 9 can be divided further",
@@ -25444,7 +25444,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/number-of-ways-from-p-to-a",
+    "path": "/home/level-2/number-of-ways-from-p-to-a",
     "slug": "number-of-ways-from-p-to-a",
     "title": "Number of ways from P to A",
     "text": "A figure shows the equilateral triangles whose one side is 1 cm are arranged. \nThe point leaves the point P and moves with the speed of 1 cm/s on the side.\n(1) How many ways of going are there for the point to go to point A from point P in 3 seconds exactly without passing along the same point",
@@ -25538,7 +25538,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/number-of-ways-from-p-to-a/number-of-ways-from-p-to-a",
+    "path": "/home/level-2/number-of-ways-from-p-to-a/number-of-ways-from-p-to-a",
     "slug": "number-of-ways-from-p-to-a",
     "title": "Number of ways from P to A /",
     "text": "A figure shows the equilateral triangles whose one side is 1 cm are arranged. \nThe point leaves the point P and moves with the speed of 1 cm/s on the side. \n(1) How many ways of going are there for the point to go to point A from point P in 3 seconds exactly without passing along the same point",
@@ -25632,7 +25632,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/number-to-buy-to-drink-100-bottles",
+    "path": "/home/level-2/number-to-buy-to-drink-100-bottles",
     "slug": "number-to-buy-to-drink-100-bottles",
     "title": "Number to buy to drink 100 bottles",
     "text": "There is juice sold at a store which you can exchange for another new bottle with three empty bottles. \nIn order to drink 100 bottles in all of this juice, how many bottles should I buy this juice at least ?",
@@ -25673,7 +25673,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/number-to-buy-to-drink-100-bottles/number-to-buy-to-drink-100-bottles",
+    "path": "/home/level-2/number-to-buy-to-drink-100-bottles/number-to-buy-to-drink-100-bottles",
     "slug": "number-to-buy-to-drink-100-bottles",
     "title": "Number to buy to drink 100 bottles /",
     "text": "There is juice sold at a store which you can exchange for another new bottle with three empty bottles. \nIn order to drink 100 bottles in all of this juice, how many bottles should I buy this juice at least ? \nAnswer\n67 bottles\nSolution\nYou can consider this problem by the figure below. \nTotal",
@@ -25719,7 +25719,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/numbers-of-stone-taken-out-to-make-pair",
+    "path": "/home/level-2/numbers-of-stone-taken-out-to-make-pair",
     "slug": "numbers-of-stone-taken-out-to-make-pair",
     "title": "Numbers of stone taken out to make pair",
     "text": "Stones of green and black and red of the same form are contained every ten piece in one box.  \nHow many pieces at least do you have to take out stones to align pair of the same color without looking in the box ?",
@@ -25784,7 +25784,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/numbers-of-stone-taken-out-to-make-pair/numbers-of-stone-taken-out-to-make-pair",
+    "path": "/home/level-2/numbers-of-stone-taken-out-to-make-pair/numbers-of-stone-taken-out-to-make-pair",
     "slug": "numbers-of-stone-taken-out-to-make-pair",
     "title": "Numbers of stone taken out to make pair /",
     "text": "Stones of green and black and red of the same form are contained every ten piece in one box.  \nHow many pieces at least do you have to take out stones to align pair of the same color without looking in the box ?\nAnswer\nFour stones\nSolution\nThere is certainly the same color stones in four pieces.",
@@ -25849,7 +25849,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/numbers-with-no-4",
+    "path": "/home/level-2/numbers-with-no-4",
     "slug": "numbers-with-no-4",
     "title": "Numbers with no 4",
     "text": "How many integers not using the number 4 in any digit at all are there in the integers from 1 to 5999?",
@@ -25938,7 +25938,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/numbers-with-no-4/numbers-with-no-4",
+    "path": "/home/level-2/numbers-with-no-4/numbers-with-no-4",
     "slug": "numbers-with-no-4",
     "title": "Numbers with no 4 /",
     "text": "How many integers not using the number 4 in any digit at all are there in the integers from 1 to 5999? \nAnswer\n3644 \nSolution\nThe integers from 1 to 5999 are considered to be the number of 4 digits like 5 = 0005, 55 = 0055, and 555 = 0555 for example, and the number of the integer not using 4 in",
@@ -26027,7 +26027,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/one-integer-added-to-12-after-another",
+    "path": "/home/level-2/one-integer-added-to-12-after-another",
     "slug": "one-integer-added-to-12-after-another",
     "title": "One integer added to 12 after another",
     "text": "One integer A after another is added to 12. \nThen integers as 12, 12 + A, 12 + A + A, -------- are coming out. \nWhen these numbers is rounded off at ones digit, it will become at order 10, x, 40, 50, 70, y -------.\nAnswer to the following questions.\n(1) Find A.\n(2) Find the number filled in x and",
@@ -26116,7 +26116,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/one-integer-added-to-12-after-another/one-integer-added-to-12-after-another",
+    "path": "/home/level-2/one-integer-added-to-12-after-another/one-integer-added-to-12-after-another",
     "slug": "one-integer-added-to-12-after-another",
     "title": "One integer added to 12 after another /",
     "text": "One integer A after another is added to 12. \nThen integers as 12, 12 + A, 12 + A + A, -------- are coming out. \nWhen these numbers is rounded off at ones digit, it will become at order 10, x, 40, 50, 70, y -------. \nAnswer to the following questions. \n(1) Find A. \n(2) Find the number filled in x",
@@ -26205,7 +26205,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/one-number-after-another-is-multiplied-from-1",
+    "path": "/home/level-2/one-number-after-another-is-multiplied-from-1",
     "slug": "one-number-after-another-is-multiplied-from-1",
     "title": "One number after another is multiplied from 1",
     "text": "Numbers are being multiplied as follows. \nMultiplying 1 by 2 first and multiply 3 to the product and further multiply 4 to the product--------. \nThus, one number after another is multiplied sequentially from 1. Answer the following questions.\n(1) When multiplied to a certain number, the multiplied",
@@ -26294,7 +26294,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/one-number-after-another-is-multiplied-from-1/one-number-after-another-is-multiplied-from-1",
+    "path": "/home/level-2/one-number-after-another-is-multiplied-from-1/one-number-after-another-is-multiplied-from-1",
     "slug": "one-number-after-another-is-multiplied-from-1",
     "title": "One number after another is multiplied from 1 /",
     "text": "Numbers are being multiplied as follows. \nMultiplying 1 by 2 first and multiply 3 to the product and further multiply 4 to the product--------. \nThus, one number after another is multiplied sequentially from 1. Answer the following questions.\n(1) When multiplied to a certain number, the multiplied",
@@ -26383,7 +26383,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/one-water-feeding-pipe-and-two-draining-pipes",
+    "path": "/home/level-2/one-water-feeding-pipe-and-two-draining-pipes",
     "slug": "one-water-feeding-pipe-and-two-draining-pipes",
     "title": "One water feeding pipe and two draining pipes",
     "text": "Fig. 1 shows a vessel of the square pillar whose area of the bottom is 300 cm2 and depth is 50 cm. \nWater pours in from A pipe and water comes out from B pipe and C pipe. \nThe graph of Fig. 2 expresses the relation of the depth of water and time. \nAnswer the following questions.\n(1) Water is",
@@ -26477,7 +26477,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/one-water-feeding-pipe-and-two-draining-pipes/one-water-feeding-pipe-and-two-draining-pipes",
+    "path": "/home/level-2/one-water-feeding-pipe-and-two-draining-pipes/one-water-feeding-pipe-and-two-draining-pipes",
     "slug": "one-water-feeding-pipe-and-two-draining-pipes",
     "title": "One water feeding pipe and two draining pipes /",
     "text": "Fig. 1 shows a vessel of the square pillar whose area of the bottom is 300 cm2 and depth is 50 cm. \nWater pours in from A pipe and water comes out from B pipe and C pipe. \nThe graph of Fig. 2 expresses the relation of the depth of water and time. \nAnswer the following questions.\n(1) Water is",
@@ -26566,7 +26566,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/operational-rule-of-integers",
+    "path": "/home/level-2/operational-rule-of-integers",
     "slug": "operational-rule-of-integers",
     "title": "Operational rule of integers",
     "text": "As for two integers, calculation by < , > is defined as the following [Example].\n[Example] \n< 3, 4 > = 1 / 3x(3+4) =1 / 3x7 = 1/21\n< 5, 3 > =1 / 5x(5+3) =1 / 5x8= 1/40\n(1) Execute the following calculation in accordance with the rule of a [Example].\n① < 8,3 > + < 3,8 >\n② < 3,6 > + < 7,2 > + < 6,3",
@@ -26655,7 +26655,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/operational-rule-of-integers/operational-rule-of-integers",
+    "path": "/home/level-2/operational-rule-of-integers/operational-rule-of-integers",
     "slug": "operational-rule-of-integers",
     "title": "Operational rule of integers /",
     "text": "As for two integers, calculation by < , > is defined as the following [Example]. \n[Example] \n< 3, 4 > = 1 / 3x(3+4) =1 / 3x7 = 1/21\n< 5, 3 > =1 / 5x(5+3) =1 / 5x8= 1/40\n(1) Execute the following calculation in accordance with the rule of a [Example]. \n① < 8,3 > + < 3,8 >\n② < 3,6 > + < 7,2 > + <",
@@ -26744,7 +26744,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/overlapped-right-angle-triangles",
+    "path": "/home/level-2/overlapped-right-angle-triangles",
     "slug": "overlapped-right-angle-triangles",
     "title": "Overlapped right angle triangles",
     "text": "There is a right-angled isosceles triangle ABC. \nThere is another right triangle DBE width is shorter than ABC by 3 cm and length is longer than ABC by 6 cm. \nThe figure shows two triangles overlap. \nThe point F is an intersection of AC and DE. \nThe ratio of the area of triangle CEF to ADF is 3 :",
@@ -26838,7 +26838,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/overlapped-right-angle-triangles/overlapped-right-angle-triangles",
+    "path": "/home/level-2/overlapped-right-angle-triangles/overlapped-right-angle-triangles",
     "slug": "overlapped-right-angle-triangles",
     "title": "Overlapped right angle triangles /",
     "text": "There is a right-angled isosceles triangle ABC. \nThere is another right triangle DBE width is shorter than ABC by 3 cm and length is longer than ABC by 6 cm. \nThe figure shows two triangles overlap. \nThe point F is an intersection of AC and DE. \nThe ratio of the area of triangle CEF to ADF is 3 :",
@@ -26940,7 +26940,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/overlapped-two-circles-and-rectangle",
+    "path": "/home/level-2/overlapped-two-circles-and-rectangle",
     "slug": "overlapped-two-circles-and-rectangle",
     "title": "Overlapped two circles and rectangle",
     "text": "The figure shows two circles 8 cm in radius and rectangle ABCD whose two sides are diameters of the circles. \nAs for the shadow portion, when the sum total of the area of X and Z is equal to the area of Y, find the length of the side AD. \nPi is assumed to be 3.14.",
@@ -27018,7 +27018,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/overlapped-two-circles-and-rectangle/overlapped-two-circles-and-rectangle",
+    "path": "/home/level-2/overlapped-two-circles-and-rectangle/overlapped-two-circles-and-rectangle",
     "slug": "overlapped-two-circles-and-rectangle",
     "title": "Overlapped two circles and rectangle",
     "text": "The figure shows two circles 8 cm in radius and rectangle ABCD whose two sides are diameters of the circles. \nAs for the shadow portion, when the sum total of the area of X and Z is equal to the area of Y, find the length of the side AD. \nPi is assumed to be 3.14.",
@@ -27096,7 +27096,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/overlapping-of-rectangle-and-circle",
+    "path": "/home/level-2/overlapping-of-rectangle-and-circle",
     "slug": "overlapping-of-rectangle-and-circle",
     "title": "Overlapping of rectangle and circle",
     "text": "Find the area of the shaded portion in the rectangle of the figure. \nA and B are the centers of each circle. \nPi is assumed to be 3.14 and the answer should round off the 2nd decimal place.",
@@ -27150,7 +27150,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/overlapping-of-rectangle-and-circle/overlapping-of-rectangle-and-circle",
+    "path": "/home/level-2/overlapping-of-rectangle-and-circle/overlapping-of-rectangle-and-circle",
     "slug": "overlapping-of-rectangle-and-circle",
     "title": "Overlapping of rectangle and circle /",
     "text": "Find the area of the shaded portion in the rectangle of the figure. \nA and B are the centers of each circle. \nPi is assumed to be 3.14 and the answer should round off the 2nd decimal place.",
@@ -27216,7 +27216,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/paper-tape-is-cut-at-3-5-7-equal-parts",
+    "path": "/home/level-2/paper-tape-is-cut-at-3-5-7-equal-parts",
     "slug": "paper-tape-is-cut-at-3-5-7-equal-parts",
     "title": "Paper tape is cut at 3, 5, 7 equal parts",
     "text": "There is a paper tape 1 m in length. \nAfter marking the points where this tape is divided into three equal parts , five equal parts and seven equal parts, respectively, this tape is cut off at the point marked. \nFind all the kinds of length of the tape after cutting.",
@@ -27305,7 +27305,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/paper-tape-is-cut-at-3-5-7-equal-parts/paper-tape-is-cut-at-3-5-7-equal-parts",
+    "path": "/home/level-2/paper-tape-is-cut-at-3-5-7-equal-parts/paper-tape-is-cut-at-3-5-7-equal-parts",
     "slug": "paper-tape-is-cut-at-3-5-7-equal-parts",
     "title": "Paper tape is cut at 3, 5, 7 equal parts /",
     "text": "There is a paper tape 1 m in length. \nAfter marking the points where this tape is divided into three equal parts , five equal parts and seven equal parts, respectively, this tape is cut off at the point marked. \nFind all the kinds of length of the tape after cutting.\nAnswer\n1/7 m, 2/35 m, 3/35 m,",
@@ -27407,7 +27407,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/partition-in-a-water-tank",
+    "path": "/home/level-2/partition-in-a-water-tank",
     "slug": "partition-in-a-water-tank",
     "title": "Partition in a water tank",
     "text": "As shown in Fig. 1, the tank of a rectangular prism is divided into X and Y by partition of a rectangle. \nWater is poured into X and Y from the water pipes A and B respectively at the same time at a fixed rate. \nThe graph of Fig. 2 shows the relation of the height of each water surface of X and Y",
@@ -27505,7 +27505,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/partition-in-a-water-tank/partition-in-a-water-tank",
+    "path": "/home/level-2/partition-in-a-water-tank/partition-in-a-water-tank",
     "slug": "partition-in-a-water-tank",
     "title": "Partition in a water tank /",
     "text": "As shown in Fig. 1, the tank of a rectangular prism is divided into X and Y by partition of a rectangle. \nWater is poured into X and Y from the water pipes A and B respectively at the same time at a fixed rate. \nThe graph of Fig. 2 shows the relation of the height of each water surface of X and Y",
@@ -27594,7 +27594,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/partition-of-a-circle",
+    "path": "/home/level-2/partition-of-a-circle",
     "slug": "partition-of-a-circle",
     "title": "Partition of a circle",
     "text": "A figure is a circle with a radius of 3 cm and AB is a diameter of the circle. \nAll ● in a figure is 15 degrees. Pi is assumed to be 3.14.\n(1) Find the sum of the area of the slash portion of P and Q.\n(2) Find the area of the slash portion of Q.",
@@ -27688,7 +27688,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/partition-of-a-circle/partition-of-a-circle",
+    "path": "/home/level-2/partition-of-a-circle/partition-of-a-circle",
     "slug": "partition-of-a-circle",
     "title": "Partition of a circle /",
     "text": "A figure is a circle with a radius of 3 cm and AB is a diameter of the circle. \nAll ● in a figure is 15 degrees. Pi is assumed to be 3.14.\n(1) Find the sum of the area of the slash portion of P and Q. \n(2) Find the area of the slash portion of Q.",
@@ -27782,7 +27782,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/partition-of-parallelogram-to-find-area",
+    "path": "/home/level-2/partition-of-parallelogram-to-find-area",
     "slug": "partition-of-parallelogram-to-find-area",
     "title": "Partition of parallelogram to find area",
     "text": "As for parallelogram ABCD of 252 cm2 in the area as shown in a figure, it is referred as AE : ED = 1 : 1, BF : FC = 2 : 5 and BG : GE = 11 : 7. Answer the following questions.\n(1) Find the area of a quadrangle ABFE.\n(2) Find BF : FI.\n(3) Find the area of the triangle EGH.",
@@ -27876,7 +27876,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/partition-of-parallelogram-to-find-area/partition-of-parallelogram-to-find-area",
+    "path": "/home/level-2/partition-of-parallelogram-to-find-area/partition-of-parallelogram-to-find-area",
     "slug": "partition-of-parallelogram-to-find-area",
     "title": "Partition of parallelogram to find area /",
     "text": "As for parallelogram ABCD of 252 cm2 in the area as shown in a figure, it is referred as AE : ED = 1 : 1, BF : FC = 2 : 5 and BG : GE = 11 : 7. Answer the following questions. \n(1) Find the area of a quadrangle ABFE. \n(2) Find BF : FI. \n(3) Find the area of the triangle EGH.",
@@ -27970,7 +27970,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/partition-of-rectangle-and-three-points",
+    "path": "/home/level-2/partition-of-rectangle-and-three-points",
     "slug": "partition-of-rectangle-and-three-points",
     "title": "Partition of rectangle and three points",
     "text": "There is a rectangle ABCD of which area is 140cm2. \nAs shown in a figure, the point E is inside the rectangle. \nThe area of the triangle ABE is 42cm2 and the area of the the triangle BCE is 21cm2. \nAnswer the following questions.\n(1) Find the area of triangle CDE.\n(2) Find the area of triangle",
@@ -28064,7 +28064,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/partition-of-rectangle-and-three-points/partition-of-rectangle-and-three-points",
+    "path": "/home/level-2/partition-of-rectangle-and-three-points/partition-of-rectangle-and-three-points",
     "slug": "partition-of-rectangle-and-three-points",
     "title": "Partition of rectangle and three points /",
     "text": "There is a rectangle ABCD of which area is 140cm2. \nAs shown in a figure, the point E is inside the rectangle. \nThe area of the triangle ABE is 42cm2 and the area of the the triangle BCE is 21cm2. \nAnswer the following questions. \n(1) Find the area of triangle CDE. \n(2) Find the area of triangle",
@@ -28170,7 +28170,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/partition-of-right-hexagon",
+    "path": "/home/level-2/partition-of-right-hexagon",
     "slug": "partition-of-right-hexagon",
     "title": "Partition of right hexagon",
     "text": "The side AB of the right hexagon ABCDEF is equally divided into two and the side CD is equally divided into four. \nFind the ratio of the area of the quadrangle BCNM of a figure, and Hexagon AMNDEF in the figure. \nThe answer should be by the least integer.",
@@ -28216,7 +28216,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/partition-of-right-hexagon/partition-of-right-hexagon",
+    "path": "/home/level-2/partition-of-right-hexagon/partition-of-right-hexagon",
     "slug": "partition-of-right-hexagon",
     "title": "Partition of right hexagon /",
     "text": "The side AB of the right hexagon ABCDEF is equally divided into two and the side CD is equally divided into four. \nFind the ratio of the area of the quadrangle BCNM of a figure, and Hexagon AMNDEF in the figure. \nThe answer should be by the least integer.",
@@ -28266,7 +28266,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/partition-of-square",
+    "path": "/home/level-2/partition-of-square",
     "slug": "partition-of-square",
     "title": "Partition of square",
     "text": "The quadrangle ABCD in a figure is a square with 5 cm one-side. \nAll the length of AE, BF, CG, and DH is 2 cm. \nFind the area of a shadow area.",
@@ -28360,7 +28360,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/partition-of-square/partition-of-square",
+    "path": "/home/level-2/partition-of-square/partition-of-square",
     "slug": "partition-of-square",
     "title": "Partition of square /",
     "text": "The quadrangle ABCD in a figure is a square with 5 cm one-side. \nAll the length of AE, BF, CG, and DH is 2 cm. \nFind the area of a shadow area.",
@@ -28458,7 +28458,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/partition-of-trapezoid",
+    "path": "/home/level-2/partition-of-trapezoid",
     "slug": "partition-of-trapezoid",
     "title": "Partition of trapezoid",
     "text": "As for trapezoid ABCD in a figure, AD : BC = 2 : 3 and AD and BC are parallel. \nPoint P is the point on the side AB and point Q is the point on the side CD. \nThe area of the triangle ADQ, the triangle APQ, the triangle CPQ, and the triangle BCP is 3 cm2, 5 cm2, 4 cm2, 3 cm2, respectively. \nThe",
@@ -28552,7 +28552,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/partition-of-trapezoid-to-be-triangle",
+    "path": "/home/level-2/partition-of-trapezoid-to-be-triangle",
     "slug": "partition-of-trapezoid-to-be-triangle",
     "title": "Partition of trapezoid to be triangle",
     "text": "As for trapezoid ABCD in a figure, AD and BC are parallel and AD = 6 cm, BC = 9 cm. \nWhen point P was set on the side AB, the area ratio of the triangle PCD and trapezoid ABCD was 5 : 9. \nAnswer the following questions.\n(1) The intersection of the straight line passing along the point P and being",
@@ -28646,7 +28646,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/partition-of-trapezoid-to-be-triangle/partition-of-trapezoid-to-be-triangle",
+    "path": "/home/level-2/partition-of-trapezoid-to-be-triangle/partition-of-trapezoid-to-be-triangle",
     "slug": "partition-of-trapezoid-to-be-triangle",
     "title": "Partition of trapezoid to be triangle /",
     "text": "As for trapezoid ABCD in a figure, AD and BC are parallel and AD = 6 cm, BC = 9 cm. \nWhen point P was set on the side AB, the area ratio of the triangle PCD and trapezoid ABCD was 5 : 9. \nAnswer the following questions. \n(1) The intersection of the straight line passing along the point P and being",
@@ -28748,7 +28748,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/partition-of-trapezoid/partition-of-trapezoid",
+    "path": "/home/level-2/partition-of-trapezoid/partition-of-trapezoid",
     "slug": "partition-of-trapezoid",
     "title": "Partition of trapezoid /",
     "text": "As for trapezoid ABCD in a figure, AD : BC = 2 : 3 and AD and BC are parallel. \nPoint P is the point on the side AB and point Q is the point on the side CD. \nThe area of the triangle ADQ, the triangle APQ, the triangle CPQ, and the triangle BCP is 3 cm2, 5 cm2, 4 cm2, 3 cm2, respectively. \nThe",
@@ -28846,7 +28846,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/pass-money-among-three-persons",
+    "path": "/home/level-2/pass-money-among-three-persons",
     "slug": "pass-money-among-three-persons",
     "title": "Pass money among three persons",
     "text": "Three persons, Taro, Jiro, and Hanako, had some money, respectively. Taro passed the half of money in hand to Jiro. \nNext, Jiro passed 1/3 of the money in hand to Hanako. \nThen, Hanako’s money in hand became the same as the money in hand which Taro had first. \nMoreover, the ratio of the money in",
@@ -28935,7 +28935,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/pass-money-among-three-persons/pass-money-among-three-persons",
+    "path": "/home/level-2/pass-money-among-three-persons/pass-money-among-three-persons",
     "slug": "pass-money-among-three-persons",
     "title": "Pass money among three persons /",
     "text": "Three persons, Taro, Jiro, and Hanako, had some money, respectively. Taro passed the half of money in hand to Jiro. \nNext, Jiro passed 1/3 of the money in hand to Hanako. \nThen, Hanako’s money in hand became the same as the money in hand which Taro had first. \nMoreover, the ratio of the money in",
@@ -29024,7 +29024,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/pass-traffic-jam-section",
+    "path": "/home/level-2/pass-traffic-jam-section",
     "slug": "pass-traffic-jam-section",
     "title": "Pass traffic jam section",
     "text": "The motorcycle and the car departed from A point simultaneously toward 105 km away B point. \nThere is a the traffic jam section (section which it is crowded and cannot be run fast) on the way. \nIt took two hours for a car and one hour for a motorcycle to pass through the section. \nThe motorcycle",
@@ -29032,7 +29032,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/pass-traffic-jam-section/pass-traffic-jam-section",
+    "path": "/home/level-2/pass-traffic-jam-section/pass-traffic-jam-section",
     "slug": "pass-traffic-jam-section",
     "title": "Pass traffic jam section /",
     "text": "The motorcycle and the car departed from A point simultaneously toward 105 km away B point. \nThere is a the traffic jam section (section which it is crowded and cannot be run fast) on the way. \nIt took two hours for a car and one hour for a motorcycle to pass through the section. \nThe motorcycle",
@@ -29045,7 +29045,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/passing-every-five-minutes",
+    "path": "/home/level-2/passing-every-five-minutes",
     "slug": "passing-every-five-minutes",
     "title": "Passing every five minutes",
     "text": "The train which I got on at A station passed by the train which goes to A station every five minutes. \nAs for all trains, it is moving at same speed and same interval. How many trains arrive at A station in one hour ?",
@@ -29062,7 +29062,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/passing-every-five-minutes/passing-every-five-minutes",
+    "path": "/home/level-2/passing-every-five-minutes/passing-every-five-minutes",
     "slug": "passing-every-five-minutes",
     "title": "Passing every five minutes /",
     "text": "The train which I got on at A station passed by the train which goes to A station every five minutes. \nAs for all trains, it is moving at same speed and same interval. \nHow many trains arrive at A station in one hour ?\nAnswer\nSix trains\nSolution\nThe train of the same speed passing each other every",
@@ -29079,7 +29079,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/piled-up-two-face-coins",
+    "path": "/home/level-2/piled-up-two-face-coins",
     "slug": "piled-up-two-face-coins",
     "title": "Piled up two-face coins",
     "text": "There are some two-faced coins and piles up every coin of which heads face upward initially. \nAnswer the following questions.\n(1) In case there are three coins, as the 1st operation, flip one piece of the top of coins. \nAs the 2nd operation, flip piled two pieces from the top of coins. \nAs the 3rd",
@@ -29144,7 +29144,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/piled-up-two-face-coins/piled-up-two-face-coins",
+    "path": "/home/level-2/piled-up-two-face-coins/piled-up-two-face-coins",
     "slug": "piled-up-two-face-coins",
     "title": "Piled up two-face coins /",
     "text": "There are some two-faced coins and piles up every coin of which heads face upward initially. \nAnswer the following questions.\n(1) In case there are three coins, as the 1st operation, flip one piece of the top of coins.\nAs the 2nd operation, flip piled two pieces from the top of coins.\nAs the 3rd",
@@ -29209,7 +29209,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/play-at-dice-using-figure",
+    "path": "/home/level-2/play-at-dice-using-figure",
     "slug": "play-at-dice-using-figure",
     "title": "Play at dice using figure",
     "text": "Play at dice using the figure. \nWhen rolling dice and the spot of 1 or 2 comes out, move to the right by one. \nWhen rolling dice and the spot of 3 or 4 comes out, move to the diagonal right by one. \nWhen rolling dice and the spot of 5 or 6 comes out, move upwards by one. \nWhen there is no way to",
@@ -29303,7 +29303,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/play-at-dice-using-figure/play-at-dice-using-figure",
+    "path": "/home/level-2/play-at-dice-using-figure/play-at-dice-using-figure",
     "slug": "play-at-dice-using-figure",
     "title": "Play at dice using figure /",
     "text": "Play at dice using the figure. \nWhen rolling dice and the spot of 1 or 2 comes out, move to the right by one. \nWhen rolling dice and the spot of 3 or 4 comes out, move to the diagonal right by one. \nWhen rolling dice and the spot of 5 or 6 comes out, move upwards by one. \nWhen there is no way to",
@@ -29397,7 +29397,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/price-of-consumption-tax-included",
+    "path": "/home/level-2/price-of-consumption-tax-included",
     "slug": "price-of-consumption-tax-included",
     "title": "Price of consumption tax included",
     "text": "When we buy an article, consumption tax of 5% (less than 1 yen is omitted) of the price of the article is levied. \nFor example, since when you buy a 1250 yen article, a 62 yen consumption tax is levied, you should pay 1312 yen including a consumption tax. \nHere, 1312 yen are defined as “the price",
@@ -29486,7 +29486,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/price-of-consumption-tax-included/price-of-consumption-tax-included",
+    "path": "/home/level-2/price-of-consumption-tax-included/price-of-consumption-tax-included",
     "slug": "price-of-consumption-tax-included",
     "title": "Price of consumption tax included /",
     "text": "When we buy an article, consumption tax of 5% (less than 1 yen is omitted) of the price of the article is levied. \nFor example, since when you buy a 1250 yen article, a 62 yen consumption tax is levied, you should pay 1312 yen including a consumption tax. \nHere, 1312 yen are defined as “the price",
@@ -29575,7 +29575,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/product-of-two-integers-is-44448888",
+    "path": "/home/level-2/product-of-two-integers-is-44448888",
     "slug": "product-of-two-integers-is-44448888",
     "title": "Product of two integers is 44448888",
     "text": "A is a number with same number of each place in a four-digit integer. \nB is a four-digit integer which consists of two kinds of numbers. In case of A × B = 44448888, find the number of B.",
@@ -29616,7 +29616,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/product-of-two-integers-is-44448888/product-of-two-integers-is-44448888",
+    "path": "/home/level-2/product-of-two-integers-is-44448888/product-of-two-integers-is-44448888",
     "slug": "product-of-two-integers-is-44448888",
     "title": "Product of two integers is 44448888 /",
     "text": "A is a number with same number of each place in a four-digit integer. \nB is a four-digit integer which consists of two kinds of numbers. \nIn case of A × B = 44448888, find the number of B.\nAnswer\n6668\nSolution\nAccording to that A is a number with same number of each place in a four-digit integer,",
@@ -29657,7 +29657,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/projection-view-of-solid",
+    "path": "/home/level-2/projection-view-of-solid",
     "slug": "projection-view-of-solid",
     "title": "Projection view of solid",
     "text": "When a certain solid surrounded in the five faces is seen from right above, it is as it is shown in Fig. 1, and when it is seen from right in front, it is as it is shown in Fig. 2. \nFind the volume of this solid.",
@@ -29751,7 +29751,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/projection-view-of-solid/projection-view-of-solid",
+    "path": "/home/level-2/projection-view-of-solid/projection-view-of-solid",
     "slug": "projection-view-of-solid",
     "title": "Projection view of solid /",
     "text": "When a certain solid surrounded in the five faces is seen from right above, it is as it is shown in Fig. 1, and when it is seen from right in front, it is as it is shown in Fig. 2. \nFind the volume of this solid.",
@@ -29849,7 +29849,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/put-in-soy-sauce-by-1l",
+    "path": "/home/level-2/put-in-soy-sauce-by-1l",
     "slug": "put-in-soy-sauce-by-1l",
     "title": "Put in soy sauce by 1L",
     "text": "There is a vessel that contains 4L of water. \nBy pumping 1L out of the vessel and put in 1L of soy sauce instead. Then, pumping 1L out of the vessel and put in 1L of soy sauce instead. \nWhen I repeat this operation four times in total, how many does the soy sauce  remain in this vessel ?",
@@ -29857,7 +29857,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/put-in-soy-sauce-by-1l/put-in-soy-sauce-by-1l",
+    "path": "/home/level-2/put-in-soy-sauce-by-1l/put-in-soy-sauce-by-1l",
     "slug": "put-in-soy-sauce-by-1l",
     "title": "Put in soy sauce by 1L /",
     "text": "Put in soy sauce by 1L /",
@@ -29865,7 +29865,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/put-in-soy-sauce-by-1l/put-in-soy-sauce-by-1l-1",
+    "path": "/home/level-2/put-in-soy-sauce-by-1l/put-in-soy-sauce-by-1l-1",
     "slug": "put-in-soy-sauce-by-1l-1",
     "title": "Put in soy sauce by 1L /",
     "text": "There is a vessel that contains 4L of water. \nBy pumping 1L out of the vessel and put in 1L of soy sauce instead. \nThen, pumping 1L out of the vessel and put in 1L of soy sauce instead. \nWhen I repeat this operation four times in total, how many does the soy sauce  remain in this vessel",
@@ -29898,7 +29898,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/put-two-rectangular-prism-into-water",
+    "path": "/home/level-2/put-two-rectangular-prism-into-water",
     "slug": "put-two-rectangular-prism-into-water",
     "title": "Put two rectangular prism into water",
     "text": "There are two large and small rectangular prisms 10 cm in height. \nAs shown in Fig. 1, a small rectangular prism is put on a large rectangular prism. \nMoreover, water is contained in the tank of the rectangular prism as shown in Fig. 2. \nThe solid of Fig. 1 is straightly sunk to the bottom of the",
@@ -29992,7 +29992,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/put-two-rectangular-prism-into-water/put-two-rectangular-prism-into-water",
+    "path": "/home/level-2/put-two-rectangular-prism-into-water/put-two-rectangular-prism-into-water",
     "slug": "put-two-rectangular-prism-into-water",
     "title": "Put two rectangular prism into water /",
     "text": "There are two large and small rectangular prisms 10 cm in height. \nAs shown in Fig. 1, a small rectangular prism is put on a large rectangular prism. \nMoreover, water is contained in the tank of the rectangular prism as shown in Fig. 2. \nThe solid of Fig. 1 is straightly sunk to the bottom of the",
@@ -30094,7 +30094,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/quotient-and-remainder-are-same",
+    "path": "/home/level-2/quotient-and-remainder-are-same",
     "slug": "quotient-and-remainder-are-same",
     "title": "Quotient and remainder are same",
     "text": "Even when the integer X which is larger than 49 is divided by 29 or divided by 49, each quotient and remainder became the same integer. Find the sum of such all the integers X.",
@@ -30119,7 +30119,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/quotient-and-remainder-are-same/quotient-and-remainder-are-same",
+    "path": "/home/level-2/quotient-and-remainder-are-same/quotient-and-remainder-are-same",
     "slug": "quotient-and-remainder-are-same",
     "title": "Quotient and remainder are same /",
     "text": "Even when the integer X which is larger than 49 is divided by 29 or divided by 49, each quotient and remainder became the same integer. Find the sum of such all the integers X. \nAnswer\n2250",
@@ -30144,7 +30144,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/rabbits-in-the-hut",
+    "path": "/home/level-2/rabbits-in-the-hut",
     "slug": "rabbits-in-the-hut",
     "title": "Rabbits in the hut",
     "text": "In a certain zoo, rabbits are kept in the hut which looks like the form as shown in Fig. 1 when it is seen from right above. \nIn the inside of the hut, there are transparent boards at the position of the dotted line in the figure and it is divided into eight rooms. \nThe shadow portion in the",
@@ -30186,7 +30186,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/rabbits-in-the-hut/rabbits-in-the-hut",
+    "path": "/home/level-2/rabbits-in-the-hut/rabbits-in-the-hut",
     "slug": "rabbits-in-the-hut",
     "title": "Rabbits in the hut /",
     "text": "In a certain zoo, rabbits are kept in the hut which looks like the form as shown in Fig. 1 when it is seen from right above. \nIn the inside of the hut, there are transparent boards at the position of the dotted line in the figure and it is divided into eight rooms. \nThe shadow portion in the",
@@ -30240,7 +30240,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/ranking-of-shogi-game-among-three",
+    "path": "/home/level-2/ranking-of-shogi-game-among-three",
     "slug": "ranking-of-shogi-game-among-three",
     "title": "Ranking of shogi game among three",
     "text": "Taro, Jiro, and Hanako played shogi (Japanese chess) and the ranking of the three was decided. \nAnyone in the three says a lie about the ranking of the upper rank person than oneself and we do not know the talk about the ranking of the lower rank than oneself is the truth nor lie. \nTaro said,",
@@ -30248,7 +30248,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/ranking-of-shogi-game-among-three/ranking-of-shogi-game-among-three",
+    "path": "/home/level-2/ranking-of-shogi-game-among-three/ranking-of-shogi-game-among-three",
     "slug": "ranking-of-shogi-game-among-three",
     "title": "Ranking of shogi game among three /",
     "text": "Taro, Jiro, and Hanako played shogi (Japanese chess) and the ranking of the three was decided. \nAnyone in the three says a lie about the ranking of the upper rank person than oneself and we do not know the talk about the ranking of the lower rank than oneself is the truth nor lie. \nTaro said,",
@@ -30256,7 +30256,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/ratio-of-area-and-length-of-sides",
+    "path": "/home/level-2/ratio-of-area-and-length-of-sides",
     "slug": "ratio-of-area-and-length-of-sides",
     "title": "Ratio of area and length of sides",
     "text": "As shown in the figure, the point P is in the inside of triangle ABC. \nThe points that the straight line which passes along the vertex A, B, C and the point P crosses the sides BC, CA, and AB is set to D, E, and F, respectively.\nThe intersection of a straight line passing through the point F and",
@@ -30310,7 +30310,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/ratio-of-area-and-length-of-sides/ratio-of-area-and-length-of-sides",
+    "path": "/home/level-2/ratio-of-area-and-length-of-sides/ratio-of-area-and-length-of-sides",
     "slug": "ratio-of-area-and-length-of-sides",
     "title": "Ratio of area and length of sides",
     "text": "As shown in the figure, the point P is in the inside of triangle ABC. \nThe points that the straight line which passes along the vertex A, B, C and the point P crosses the sides BC, CA, and AB is set to D, E, and F, respectively. \nThe intersection of a straight line passing through the point F and",
@@ -30364,7 +30364,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/rearrangement-of-12-cards",
+    "path": "/home/level-2/rearrangement-of-12-cards",
     "slug": "rearrangement-of-12-cards",
     "title": "Rearrangement of 12 cards",
     "text": "Twelve cards in which the numbers from 1 to 12 were written are put in order like #1 in a figure at first. \nIn accordance with the same rule, it rearranges with #2, #3, #4, and .... after that. Answer each of following questions.\n(1) Fill in the blank of #5 in a figure.\n(2) Find the number which",
@@ -30458,7 +30458,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/rearrangement-of-12-cards/rearrangement-of-12-cards",
+    "path": "/home/level-2/rearrangement-of-12-cards/rearrangement-of-12-cards",
     "slug": "rearrangement-of-12-cards",
     "title": "Rearrangement of 12 cards /",
     "text": "Twelve cards in which the numbers from 1 to 12 were written are put in order like #1 in a figure at first. \nIn accordance with the same rule, it rearranges with #2, #3, #4, and .... after that. \nAnswer each of following questions. \n(1) Fill in the blank of #5 in a figure. \n(2) Find the number",
@@ -30560,7 +30560,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/remain-5l-in-7l-vessel",
+    "path": "/home/level-2/remain-5l-in-7l-vessel",
     "slug": "remain-5l-in-7l-vessel",
     "title": "Remain 5L in 7L vessel",
     "text": "There is a vessel of 3L, 4L, and 7L, and the scale is not attached on each. Water is in the vessel of 7L full. \nHow many times as less as possible do you need leaving 5L in 7L vessel by using three vessels ?",
@@ -30568,7 +30568,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/remain-5l-in-7l-vessel/remain-5l-in-7l-vessel",
+    "path": "/home/level-2/remain-5l-in-7l-vessel/remain-5l-in-7l-vessel",
     "slug": "remain-5l-in-7l-vessel",
     "title": "Remain 5L in 7L vessel /",
     "text": "There is a vessel of 3L, 4L, and 7L, and the scale is not attached on each. \nWater is in the vessel of 7L full. \nHow many times as less as possible do you need leaving 5L in 7L vessel by using three vessels ?\nAnswer\nFive times\nSolution\n1st round : \nTransfer 3L out of 7L vessel to 3L vessel. \n 2nd",
@@ -30576,7 +30576,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/repeat-operation-of-integers",
+    "path": "/home/level-2/repeat-operation-of-integers",
     "slug": "repeat-operation-of-integers",
     "title": "Repeat operation of integers",
     "text": "The following operation is repeated for a certain integer repeatedly.\n<Operation>\nIt doubles.\nHowever,\nWhen the doubled number is 150 or more, 100 is subtracted from this doubled number.\nWhen the doubled numbers is 101 or more and 149 or less, 50 is subtracted from this doubled number.\nWhen the",
@@ -30584,7 +30584,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/repeat-operation-of-integers/repeat-operation-of-integers",
+    "path": "/home/level-2/repeat-operation-of-integers/repeat-operation-of-integers",
     "slug": "repeat-operation-of-integers",
     "title": "Repeat operation of integers /",
     "text": "The following operation is repeated for a certain integer repeatedly. \n<Operation>\nIt doubles. \nHowever, \nWhen the doubled number is 150 or more, 100 is subtracted from this doubled number. \nWhen the doubled numbers is 101 or more and 149 or less, 50 is subtracted from this doubled number. \nWhen",
@@ -30592,7 +30592,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/replacement-of-long-and-hour-hand",
+    "path": "/home/level-2/replacement-of-long-and-hour-hand",
     "slug": "replacement-of-long-and-hour-hand",
     "title": "Replacement of long and hour hand",
     "text": "When Taro went out a house in the evening, he saw the clock and the long hand pointed between 5:35 and 5:40. \nTaro came back within 2 hours and saw the clock. \nThe position of the long hand and the hour hand was reverse exactly comparing to the position when he went out.\nAnswer the following",
@@ -30681,7 +30681,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/replacement-of-long-and-hour-hand-3-steps",
+    "path": "/home/level-2/replacement-of-long-and-hour-hand-3-steps",
     "slug": "replacement-of-long-and-hour-hand-3-steps",
     "title": "Replacement of long and hour hand (3 steps)",
     "text": "Replacement of long and hour hand (3 steps)",
@@ -30694,7 +30694,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/replacement-of-long-and-hour-hand-3-steps-1",
+    "path": "/home/level-2/replacement-of-long-and-hour-hand-3-steps-1",
     "slug": "replacement-of-long-and-hour-hand-3-steps-1",
     "title": "Replacement of long and hour hand, 3 steps",
     "text": "Replacement of long and hour hand, 3 steps",
@@ -30783,7 +30783,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/replacement-of-long-and-hour-hand/replacement-of-long-and-hour-hand",
+    "path": "/home/level-2/replacement-of-long-and-hour-hand/replacement-of-long-and-hour-hand",
     "slug": "replacement-of-long-and-hour-hand",
     "title": "Replacement of long and hour hand /",
     "text": "When Taro went out a house in the evening, he saw the clock and the long hand pointed between 5:35 and 5:40. \nTaro came back within 2 hours and saw the clock. \nThe position of the long hand and the hour hand was reverse exactly comparing to the position when he went out.\nAnswer the following",
@@ -30877,7 +30877,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/rope-going-around-the-earth",
+    "path": "/home/level-2/rope-going-around-the-earth",
     "slug": "rope-going-around-the-earth",
     "title": "Rope going around the earth",
     "text": "How long does the rope go away from the earth if I add a rope for the length of 6m to the rope which goes around the earth? Assume the radius of the earth is 6,400km and Pi is 3 for calculation.",
@@ -30962,7 +30962,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/rope-going-around-the-earth/rope-going-around-the-earth",
+    "path": "/home/level-2/rope-going-around-the-earth/rope-going-around-the-earth",
     "slug": "rope-going-around-the-earth",
     "title": "Rope going around the earth /",
     "text": "How long does the rope go away from the earth if I add a rope for the length of 6m to the rope which goes around the earth? \nAssume the radius of the earth is 6,400km and Pi is 3 for calculation.\nAnswer\n1 m\nSolution\nThe length of the circumference of the earth is 6400 km x 2 x Pi = 12800 km x Pi.",
@@ -31051,7 +31051,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/rotate-triangle-around-a-rectangle",
+    "path": "/home/level-2/rotate-triangle-around-a-rectangle",
     "slug": "rotate-triangle-around-a-rectangle",
     "title": "Rotate triangle around a rectangle",
     "text": "There are rectangle PQRS and a right-angled triangle ABC whose angle B is right as shown in a figure. \nTriangle ABC is rotated for the surroundings of rectangle PQRS as follows. \nThe point A is at point P and point B is on the side PS at first.\n① Triangle ABC is clockwise rotated around point B",
@@ -31073,7 +31073,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/rotate-triangle-around-a-rectangle/rotate-triangle-around-a-rectangle",
+    "path": "/home/level-2/rotate-triangle-around-a-rectangle/rotate-triangle-around-a-rectangle",
     "slug": "rotate-triangle-around-a-rectangle",
     "title": "Rotate triangle around a rectangle /",
     "text": "There are rectangle PQRS and a right-angled triangle ABC whose angle B is right as shown in a figure. \nTriangle ABC is rotated for the surroundings of rectangle PQRS as follows. \nThe point A is at point P and point B is on the side PS at first. \n① Triangle ABC is clockwise rotated around point B",
@@ -31099,7 +31099,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/rotation-of-a-triangle",
+    "path": "/home/level-2/rotation-of-a-triangle",
     "slug": "rotation-of-a-triangle",
     "title": "Rotation of a triangle",
     "text": "As shown in a figure, right triangle ABC is clockwise rotated around C as the center of the rotation until the side CA overlaps with the straight line L for the first.\nIn this case, find the area of the portion where the side AB passes.\nPi is assumed to be 3.14.",
@@ -31181,7 +31181,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/rotation-of-a-triangle/rotation-of-a-triangle",
+    "path": "/home/level-2/rotation-of-a-triangle/rotation-of-a-triangle",
     "slug": "rotation-of-a-triangle",
     "title": "Rotation of a triangle /",
     "text": "As shown in a figure, right triangle ABC is clockwise rotated around C as the center of the rotation until the side CA overlaps with the straight line L for the first.\nIn this case, find the area of the portion where the side AB passes.\nPi is assumed to be 3.14.",
@@ -31271,7 +31271,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/round-robin-tournament-in-five-teams",
+    "path": "/home/level-2/round-robin-tournament-in-five-teams",
     "slug": "round-robin-tournament-in-five-teams",
     "title": "Round-robin tournament in five teams",
     "text": "Five teams, A, B, C, D, and E held the round-robin tournament to which every team plays a game against other teams 1 time respectively. \nThe number of victories of A and B is same and that of C and D is same ,too. \nThe sum total of the number of victories of these four teams is six. \nSupposing A",
@@ -31348,7 +31348,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/round-robin-tournament-in-five-teams/round-robin-tournament-in-five-teams",
+    "path": "/home/level-2/round-robin-tournament-in-five-teams/round-robin-tournament-in-five-teams",
     "slug": "round-robin-tournament-in-five-teams",
     "title": "Round-robin tournament in five teams /",
     "text": "Five teams, A, B, C, D, and E held the round-robin tournament to which every team plays a game against other teams 1 time respectively. \nThe number of victories of A and B is same and that of C and D is same ,too. \nThe sum total of the number of victories of these four teams is six. \nSupposing A",
@@ -31425,7 +31425,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/round-trip-of-the-mountain-path",
+    "path": "/home/level-2/round-trip-of-the-mountain-path",
     "slug": "round-trip-of-the-mountain-path",
     "title": "Round trip of the mountain path",
     "text": "Taro made a round trip to the mountain path in five hours. \nIn the flat way, walked at 3km/h, in the downhill paths walked 4km/h and in the ascent walked at 6km/h. \nFind the distance of a round trip.",
@@ -31450,7 +31450,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/round-trip-of-the-mountain-path/round-trip-of-the-mountain-path",
+    "path": "/home/level-2/round-trip-of-the-mountain-path/round-trip-of-the-mountain-path",
     "slug": "round-trip-of-the-mountain-path",
     "title": "Round trip of the mountain path /",
     "text": "Taro made a round trip to the mountain path in five hours. \nIn the flat way, walked at 3km/h, in the downhill paths walked 4km/h and in the ascent walked at 6km/h. \nFind the distance of a round trip.\nAnswer\n20 km\nSolution\nAverage speed of 6km/h and 3km/h become 4km/h, it comes to that Taro walked",
@@ -31475,7 +31475,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/rounded-book",
+    "path": "/home/level-2/rounded-book",
     "slug": "rounded-book",
     "title": "Rounded book",
     "text": "When the book was rounded as shown in Fig. 1 and looked at from right above, it was seen as shown in Fig. 2. \nThe figure of Fig. 2 is made of a straight line and a semicircle. \nIn this case, how many times of the thickness of the book is the length of x of Fig. 2? \nThe answer should be rounded off",
@@ -31569,7 +31569,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/rounded-book/rounded-book",
+    "path": "/home/level-2/rounded-book/rounded-book",
     "slug": "rounded-book",
     "title": "Rounded book /",
     "text": "When the book was rounded as shown in Fig. 1 and looked at from right above, it was seen as shown in Fig. 2. \nThe figure of Fig. 2 is made of a straight line and a semicircle. \nIn this case, how many times of the thickness of the book is the length of x of Fig. 2? \nThe answer should be rounded off",
@@ -31671,7 +31671,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/run-around-the-pond",
+    "path": "/home/level-2/run-around-the-pond",
     "slug": "run-around-the-pond",
     "title": "Run around the pond",
     "text": "Taro and Hanako ran around the pond to the opposite direction.\nWhen Taro ran 7-laps and Hanako ran 3-laps, they came across exactly at the starting point.\nHow many times did they passed each other on the way?",
@@ -31744,7 +31744,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/run-around-the-pond/run-around-the-pond",
+    "path": "/home/level-2/run-around-the-pond/run-around-the-pond",
     "slug": "run-around-the-pond",
     "title": "Run around the pond /",
     "text": "Taro and Hanako ran around the pond to the opposite direction. \nWhen Taro ran 7-laps and Hanako ran 3-laps, they came across exactly at the starting point. \nHow many times did they passed each other on the way? \nAnswer\nNine times\nSolution\nSince Taro takes seven round and Hanako takes three round",
@@ -31821,7 +31821,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/same-departure-time-of-two-trains",
+    "path": "/home/level-2/same-departure-time-of-two-trains",
     "slug": "same-departure-time-of-two-trains",
     "title": "Same departure time of two trains",
     "text": "There are two trains, A and B which depart from a certain station. The departure time of the first train and the last train both of A and B is same. \nTrain A departs from the station 21 times a day and Train B departs 31 times a day. \nHow many times do A and B depart at the same time ?",
@@ -31838,7 +31838,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/same-departure-time-of-two-trains/same-departure-time-of-two-trains",
+    "path": "/home/level-2/same-departure-time-of-two-trains/same-departure-time-of-two-trains",
     "slug": "same-departure-time-of-two-trains",
     "title": "Same departure time of two trains /",
     "text": "There are two trains, A and B which depart from a certain station. \nThe departure time of the first train and the last train both of A and B is same. \nTrain A departs from the station 21 times a day and Train B departs 31 times a day. \nHow many times do A and B depart at the same time ?\nAnswer\n11",
@@ -31855,7 +31855,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/seats-of-six-persons",
+    "path": "/home/level-2/seats-of-six-persons",
     "slug": "seats-of-six-persons",
     "title": "Seats of six persons",
     "text": "Six persons, A, B, C, D, E, and F, sat down groups of three face to face as shown in the figure. \nThese six persons explained how to sit down as follows.\nA : I sat on the edge.\nB : A was on the right hand side of the front looked at from me.\nC : I sat on the front of E.\nD : F was sitting on the",
@@ -31881,7 +31881,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/seats-of-six-persons/seats-of-six-persons",
+    "path": "/home/level-2/seats-of-six-persons/seats-of-six-persons",
     "slug": "seats-of-six-persons",
     "title": "Seats of six persons /",
     "text": "Six persons, A, B, C, D, E, and F, sat down groups of three face to face as shown in the figure. \nThese six persons explained how to sit down as follows. \nA : I sat on the edge. \nB : A was on the right hand side of the front looked at from me. \nC : I sat on the front of E. \nD : F was sitting on",
@@ -31902,7 +31902,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/sequence-of-integers-after-separation-of-each-digit",
+    "path": "/home/level-2/sequence-of-integers-after-separation-of-each-digit",
     "slug": "sequence-of-integers-after-separation-of-each-digit",
     "title": "Sequence of integers after separation of each digit",
     "text": "If two or above digit of an integer are separated and put in order, it becomes 1,2,3,4,5,6,7,8,9,1,0,1,1,1,2,1,3,1,4, ----. \nWhat is the 250th number of this sequence of numbers?",
@@ -31991,7 +31991,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/sequence-of-integers-after-separation-of-each-digit/sequence-of-integers-after-separation-of-each-digit",
+    "path": "/home/level-2/sequence-of-integers-after-separation-of-each-digit/sequence-of-integers-after-separation-of-each-digit",
     "slug": "sequence-of-integers-after-separation-of-each-digit",
     "title": "Sequence of integers after separation of each digit /",
     "text": "If two or above digit of an integer are separated and put in order, it becomes 1,2,3,4,5,6,7,8,9,1,0,1,1,1,2,1,3,1,4, ----. \nWhat is the 250th number of this sequence of numbers? \nAnswer\n1\nSolution\nNumber of the numbers of one digit is 9. \nNumber of the numbers of two digits from 10 to 99 is 2 x",
@@ -32080,7 +32080,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/sequences-on-a-certain-condition",
+    "path": "/home/level-2/sequences-on-a-certain-condition",
     "slug": "sequences-on-a-certain-condition",
     "title": "Sequences on a certain condition",
     "text": "Regarding the integers from 212 to 2009, such numbers as when it is divided by 3, remain 1, and when it is divided by 4 remain 3 are arranged in small order. \nFind the number in the middle exactly.",
@@ -32169,7 +32169,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/sequences-on-a-certain-condition/sequences-on-a-certain-condition",
+    "path": "/home/level-2/sequences-on-a-certain-condition/sequences-on-a-certain-condition",
     "slug": "sequences-on-a-certain-condition",
     "title": "Sequences on a certain condition /",
     "text": "Regarding the integers from 212 to 2009, such numbers as when it is divided by 3, remainder is 1 and when it is divided by 4, remainder is 3 are arranged in small order. \nFind the number in the middle exactly. \nAnswer\n1111",
@@ -32258,7 +32258,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/sequences-on-a-certain-rule",
+    "path": "/home/level-2/sequences-on-a-certain-rule",
     "slug": "sequences-on-a-certain-rule",
     "title": "Sequences on a certain rule",
     "text": "As shown in a figure, the number is arranged under a certain rule.\nAnswer the following questions.\n(1) Find the 10th number from the left in the 1st level.\n(2) As for 32, find the number of level and the number counted from the left.",
@@ -32352,7 +32352,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/sequences-on-a-certain-rule/sequences-on-a-certain-rule",
+    "path": "/home/level-2/sequences-on-a-certain-rule/sequences-on-a-certain-rule",
     "slug": "sequences-on-a-certain-rule",
     "title": "Sequences on a certain rule /",
     "text": "As shown in a figure, the number is arranged under a certain rule. \nAnswer the following questions. \n(1) Find the 10th number from the left in the 1st level. \n(2) As for 32, find the number of level and the number counted from the left.",
@@ -32441,7 +32441,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/set-of-apple-and-orange-juice",
+    "path": "/home/level-2/set-of-apple-and-orange-juice",
     "slug": "set-of-apple-and-orange-juice",
     "title": "Set of apple and orange juice",
     "text": "There are apple juice and orange juice. \nThe ratio of each number of bottles is 53 : 54. \nThe following sets are ready by putting these juice bottles in. \nA set : One bottle of apple juice and two bottles of orange juice\nB set : Two bottles of apple juice and two bottles of orange juice\nC set :",
@@ -32449,7 +32449,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/set-of-apple-and-orange-juice/set-of-apple-and-orange-juice",
+    "path": "/home/level-2/set-of-apple-and-orange-juice/set-of-apple-and-orange-juice",
     "slug": "set-of-apple-and-orange-juice",
     "title": "Set of apple and orange juice /",
     "text": "There are apple juice and orange juice. \nThe ratio of each number of bottles is 53 : 54. \nThe following sets are ready by putting these juice bottles in. \nA set : One bottle of apple juice and two bottles of orange juice \nB set : Two bottles of apple juice and two bottles of orange juice \nC set :",
@@ -32457,7 +32457,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/shadow-of-quadratic-prism",
+    "path": "/home/level-2/shadow-of-quadratic-prism",
     "slug": "shadow-of-quadratic-prism",
     "title": "Shadow of quadratic prism",
     "text": "There is a big wall which stands vertically to the ground. \nThe bottom of the square pillar of Fig.2 is a trapezoid as shown in Fig.1. The height is 30 cm. \nIt is placed as the side CD is parallel to the wall and the distance to the wall is 10 cm. \nThe angle to look up at the sun from the ground",
@@ -32555,7 +32555,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/shadow-of-quadratic-prism/shadow-of-quadratic-prism",
+    "path": "/home/level-2/shadow-of-quadratic-prism/shadow-of-quadratic-prism",
     "slug": "shadow-of-quadratic-prism",
     "title": "Shadow of quadratic prism /",
     "text": "There is a big wall which stands vertically to the ground. \nThe bottom of the square pillar of Fig.2 is a trapezoid as shown in Fig.1. \nThe height is 30 cm. \nIt is placed as the side CD is parallel to the wall and the distance to the wall is 10 cm. \nThe angle to look up at the sun from the ground",
@@ -32665,7 +32665,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/share-oranges-with-several-persons",
+    "path": "/home/level-2/share-oranges-with-several-persons",
     "slug": "share-oranges-with-several-persons",
     "title": "Share oranges with several persons",
     "text": "Even when it is going to share many orange with seven persons or with five persons or with three persons, two pieces remain. \nHow many orange are there at fewest ?",
@@ -32706,7 +32706,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/share-oranges-with-several-persons/share-oranges-with-several-persons",
+    "path": "/home/level-2/share-oranges-with-several-persons/share-oranges-with-several-persons",
     "slug": "share-oranges-with-several-persons",
     "title": "Share oranges with several persons /",
     "text": "Even when it is going to share many orange with seven persons or with five persons or with three persons, two pieces remain. \nHow many orange are there at fewest ?  \nAnswer\n107 pieces\nSolution\nThe number of the common multiple of 7, 5, and 3 plus two turns into the number of oranges.\nSince it is",
@@ -32795,7 +32795,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/share-six-oranges-with-four-persons",
+    "path": "/home/level-2/share-six-oranges-with-four-persons",
     "slug": "share-six-oranges-with-four-persons",
     "title": "Share six oranges with four persons",
     "text": "How many ways of giving six oranges to four persons ? \nI shall give at least one to everyone.",
@@ -32803,7 +32803,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/share-six-oranges-with-four-persons/share-six-oranges-with-four-persons",
+    "path": "/home/level-2/share-six-oranges-with-four-persons/share-six-oranges-with-four-persons",
     "slug": "share-six-oranges-with-four-persons",
     "title": "Share six oranges with four persons /",
     "text": "How many ways of giving six oranges to four persons ? \nI shall give at least one to everyone.\nAnswer\n10 ways\nSolution\nThink about the way of partition of 6 oranges being set out by putting 3 pieces of stick between oranges. \nThe number of place putting 3 sticks is five which is the number of gap",
@@ -32892,7 +32892,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/shortest-line-on-solid",
+    "path": "/home/level-2/shortest-line-on-solid",
     "slug": "shortest-line-on-solid",
     "title": "Shortest line on solid",
     "text": "There is a solid OABC surrounded with the four sheets of the equilateral triangle whose length of one side is 10 cm. \nThe point of the middle of the side AC is set to M and the points P and Q are on the sides OB and OC, respectively. \nAs shown in a figure, the straight line AP, PQ, and QM are",
@@ -32962,7 +32962,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/shortest-line-on-solid/shortest-line-on-solid",
+    "path": "/home/level-2/shortest-line-on-solid/shortest-line-on-solid",
     "slug": "shortest-line-on-solid",
     "title": "Shortest line on solid /",
     "text": "There is a solid OABC surrounded with the four sheets of the equilateral triangle whose length of one side is 10 cm. \nThe point of the middle of the side AC is set to M and the points P and Q are on the sides OB and OC, respectively. \nAs shown in a figure, the straight line AP, PQ, and QM are",
@@ -33036,7 +33036,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/six-digits-integer",
+    "path": "/home/level-2/six-digits-integer",
     "slug": "six-digits-integer",
     "title": "Six digits integer",
     "text": "When integer of 6 digits 5ABC15 becomes a multiple of 999, find the integer ABC of 3 digits.",
@@ -33121,7 +33121,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/six-digits-integer/six-digits-integer",
+    "path": "/home/level-2/six-digits-integer/six-digits-integer",
     "slug": "six-digits-integer",
     "title": "Six digits integer /",
     "text": "When integer of 6 digits 5ABC15 becomes a multiple of 999, find the integer ABC of 3 digits.\nAnswer\n844\nSolution\nWhen 5ABC15 is divided by 999, it is considered what digit a quotient will be. \nSince it is 5ABC15/1000=5AB.C15, the quotient of 5ABC15 / 999 is also understood that it becomes three",
@@ -33210,7 +33210,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/six-light-bulbs",
+    "path": "/home/level-2/six-light-bulbs",
     "slug": "six-light-bulbs",
     "title": "Six light bulbs",
     "text": "There are light bulbs from A to F and bulb A is always turned on.\nBulb B repeats \"it is turned on for one minute and turned off for one minute.”\nBulb C repeats\"it is turned on for one minute and turned off for two minutes.\"\nBulb D repeats \"it is turned on for one minute and turned off for three",
@@ -33218,7 +33218,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/six-light-bulbs/six-light-bulbs",
+    "path": "/home/level-2/six-light-bulbs/six-light-bulbs",
     "slug": "six-light-bulbs",
     "title": "Six light bulbs",
     "text": "Six light bulbs",
@@ -33226,7 +33226,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/six-light-bulbs/six-light-bulbs-1",
+    "path": "/home/level-2/six-light-bulbs/six-light-bulbs-1",
     "slug": "six-light-bulbs-1",
     "title": "Six light bulbs /",
     "text": "There are light bulbs from A to F and bulb A is always turned on. \nBulb B repeats \"it is turned on for one minute and turned off for one minute.”\nBulb C repeats\"it is turned on for one minute and turned off for two minutes.\" \nBulb D repeats \"it is turned on for one minute and turned off for three",
@@ -33275,7 +33275,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/six-squares-overlap-sectors",
+    "path": "/home/level-2/six-squares-overlap-sectors",
     "slug": "six-squares-overlap-sectors",
     "title": "Six squares overlap sectors",
     "text": "As shown in a figure, there are six squares whose one side is 4 cm and some circles there. \nFind the area of the shadow area. \nPi is assumed to be 3.14.",
@@ -33369,7 +33369,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/six-squares-overlap-sectors/six-squares-overlap-sectors",
+    "path": "/home/level-2/six-squares-overlap-sectors/six-squares-overlap-sectors",
     "slug": "six-squares-overlap-sectors",
     "title": "Six squares overlap sectors /",
     "text": "As shown in a figure, there are six squares whose one side is 4 cm and some circles there. \nFind the area of the shadow area. \nPi is assumed to be 3.14.",
@@ -33463,7 +33463,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/skip-every-2-piece-on-the-stones-around-a-pond",
+    "path": "/home/level-2/skip-every-2-piece-on-the-stones-around-a-pond",
     "slug": "skip-every-2-piece-on-the-stones-around-a-pond",
     "title": "Skip every 2 piece on the stones around a pond",
     "text": "Stones are arranged around the pond. \nI walk around the pond clockwise by skipping every two pieces on the stones. \nI start from a certain stone and when I stop on the stone at 2 round exactly, the number of stones stepped on while I was walking will become 18 in the stones around the pond. \nFind",
@@ -33557,7 +33557,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/skip-every-2-piece-on-the-stones-around-a-pond/skip-every-2-piece-on-the-stones-around-a-pond",
+    "path": "/home/level-2/skip-every-2-piece-on-the-stones-around-a-pond/skip-every-2-piece-on-the-stones-around-a-pond",
     "slug": "skip-every-2-piece-on-the-stones-around-a-pond",
     "title": "Skip every 2 piece on the stones around a pond /",
     "text": "Stones are arranged around the pond. \nI walk around the pond clockwise by skipping every two pieces on the stones. \nI start from a certain stone and when I stop on the stone at 2 round exactly, the number of stones stepped on while I was walking will become 18 in the stones around the pond. \nFind",
@@ -33646,7 +33646,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/solid-made-by-cutting-quadrangular-pyramid",
+    "path": "/home/level-2/solid-made-by-cutting-quadrangular-pyramid",
     "slug": "solid-made-by-cutting-quadrangular-pyramid",
     "title": "Solid made by cutting quadrangular pyramid",
     "text": "The figure is a development view of the solid which was made of cutting a certain quadrangular pyramid by the plane parallel to the bottom.\n(1) Find the height of the original quadrangular pyramid.\n(2) Find for the volume of this solid.",
@@ -33740,7 +33740,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/solid-made-by-cutting-quadrangular-pyramid/solid-made-by-cutting-quadrangular-pyramid",
+    "path": "/home/level-2/solid-made-by-cutting-quadrangular-pyramid/solid-made-by-cutting-quadrangular-pyramid",
     "slug": "solid-made-by-cutting-quadrangular-pyramid",
     "title": "Solid made by cutting quadrangular pyramid /",
     "text": "The figure is a development view of the solid which was made of cutting a certain quadrangular pyramid by the plane parallel to the bottom. \n(1) Find the height of the original quadrangular pyramid. \n(2) Find for the volume of this solid.",
@@ -33838,7 +33838,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/solid-of-revolution-of-trapezoid",
+    "path": "/home/level-2/solid-of-revolution-of-trapezoid",
     "slug": "solid-of-revolution-of-trapezoid",
     "title": "Solid of revolution of trapezoid",
     "text": "As shown in the figure, there is a trapezoid ABCD whose sides AB = 5 cm, BC = 4 cm and CD = 8 cm. \nFind the volume of the solid which is made by rotating the trapezoid one time around the side AB as a rotation axis. \nPi is assumed to be 3.14.",
@@ -33932,7 +33932,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/solid-of-revolution-of-trapezoid/solid-of-revolution-of-trapezoid",
+    "path": "/home/level-2/solid-of-revolution-of-trapezoid/solid-of-revolution-of-trapezoid",
     "slug": "solid-of-revolution-of-trapezoid",
     "title": "Solid of revolution of trapezoid /",
     "text": "As shown in the figure, there is a trapezoid ABCD whose sides AB = 5 cm, BC = 4 cm and CD = 8 cm. \nFind the volume of the solid which is made by rotating the trapezoid one time around the side AB as a rotation axis. \nPi is assumed to be 3.14.",
@@ -34030,7 +34030,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/solid-with-eight-equilateral-triangles",
+    "path": "/home/level-2/solid-with-eight-equilateral-triangles",
     "slug": "solid-with-eight-equilateral-triangles",
     "title": "Solid with eight equilateral triangles",
     "text": "A certain solid was made as shown Fig.1 of eight equilateral triangles. Also as shown in Fig. 1, the point in the middle of each side of this solid was connected by the straight line and this solid was developed as shown in Fig. 2. \nDraw the remaining straight lines drawn on the solid on the",
@@ -34124,7 +34124,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/solid-with-eight-equilateral-triangles/solid-with-eight-equilateral-triangles",
+    "path": "/home/level-2/solid-with-eight-equilateral-triangles/solid-with-eight-equilateral-triangles",
     "slug": "solid-with-eight-equilateral-triangles",
     "title": "Solid with eight equilateral triangles /",
     "text": "A certain solid was made as shown Fig.1 of eight equilateral triangles. \nAlso as shown in Fig. 1, the point in the middle of each side of this solid was connected by the straight line and this solid was developed as shown in Fig. 2. \nDraw the remaining straight lines drawn on the solid on the",
@@ -34222,7 +34222,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/special-digital-clock",
+    "path": "/home/level-2/special-digital-clock",
     "slug": "special-digital-clock",
     "title": "Special digital clock",
     "text": "It expresses as A < B that B is larger than A. \nThere is a relation among the six integers A, B, C, D, E, and F called 0 < A < B < C < D < E < F and A + B + C + D = 15.\n(1) How many kinds of combination of (A, B, C, D) is considered in this situation ?\n(2) Furthermore, there is additional relation",
@@ -34324,7 +34324,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/special-digital-clock/special-digital-clock",
+    "path": "/home/level-2/special-digital-clock/special-digital-clock",
     "slug": "special-digital-clock",
     "title": "Special digital clock /",
     "text": "It expresses as A < B that B is larger than A. \nThere is a relation among the six integers A, B, C, D, E, and F called 0 < A < B < C < D < E < F and A + B + C + D = 15. \n(1) How many kinds of combination of (A, B, C, D) is considered in this situation ? \n(2) Furthermore, there is additional",
@@ -34422,7 +34422,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/speed-ratio-is-7--5",
+    "path": "/home/level-2/speed-ratio-is-7--5",
     "slug": "speed-ratio-is-7--5",
     "title": "Speed ratio is 7 : 5",
     "text": "Taro and Jiro leave A point at the same time walk to B point. \nThe speed along which Taro and Jiro walk is constant respectively and the ratio of speed is Taro : Jiro = 7 : 5. \n18 minutes after Taro arrived at B point, Jiro arrived at B point.\n(1) After Taro arrived at B point, he rested for 10",
@@ -34511,7 +34511,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/speed-ratio-is-7--5/speed-ratio-is-7--5",
+    "path": "/home/level-2/speed-ratio-is-7--5/speed-ratio-is-7--5",
     "slug": "speed-ratio-is-7--5",
     "title": "Speed ratio is 7 : 5 /",
     "text": "Taro and Jiro leave A point at the same time walk to B point. \nThe speed along which Taro and Jiro walk is constant respectively and the ratio of speed is Taro : Jiro = 7 : 5. \n18 minutes after Taro arrived at B point, Jiro arrived at B point. \n(1) After Taro arrived at B point, he rested for 10",
@@ -34600,7 +34600,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/speed-ratio-of-two-persons",
+    "path": "/home/level-2/speed-ratio-of-two-persons",
     "slug": "speed-ratio-of-two-persons",
     "title": "Speed ratio of two persons",
     "text": "There is a straight road connecting A point and B point. \nTaro walks from A point to B point and Jiro walks from B point to A point with a fixed speed respectively. \nBoth of them started at the same time and passed on the way. \n25 minutes after passing, Taro arrived at B point and Jiro arrived at",
@@ -34608,7 +34608,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/speed-ratio-of-two-persons/speed-ratio-of-two-persons",
+    "path": "/home/level-2/speed-ratio-of-two-persons/speed-ratio-of-two-persons",
     "slug": "speed-ratio-of-two-persons",
     "title": "Speed ratio of two persons /",
     "text": "There is a straight road connecting A point and B point. \nTaro walks from A point to B point and Jiro walks from B point to A point with a fixed speed respectively. \nBoth of them started at the same time and passed on the way. \n25 minutes after passing, Taro arrived at B point and Jiro arrived at",
@@ -34616,7 +34616,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/square-in-the-right-triangle",
+    "path": "/home/level-2/square-in-the-right-triangle",
     "slug": "square-in-the-right-triangle",
     "title": "Square in the right triangle",
     "text": "Find the area of ​​the square CDEF that is inscribed in the right triangle ABC as shown in the figure below.",
@@ -34638,7 +34638,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/square-in-the-right-triangle/square-in-the-right-triangle",
+    "path": "/home/level-2/square-in-the-right-triangle/square-in-the-right-triangle",
     "slug": "square-in-the-right-triangle",
     "title": "Square in the right triangle /",
     "text": "Find the area of ​​the square CDEF that is inscribed in the right triangle ABC as shown in the figure below.",
@@ -34655,7 +34655,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/steam-whistle-from-steam-train",
+    "path": "/home/level-2/steam-whistle-from-steam-train",
     "slug": "steam-whistle-from-steam-train",
     "title": "Steam whistle from steam train",
     "text": "When a steam train of 34 m/s sounds a steam whistle for 10 seconds from the point 1700 m before a station, for how many seconds can the steam whistle be heard at the station?\nThe speed of sound shall be 340 m/s.",
@@ -34663,7 +34663,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/steam-whistle-from-steam-train/steam-whistle-from-steam-train",
+    "path": "/home/level-2/steam-whistle-from-steam-train/steam-whistle-from-steam-train",
     "slug": "steam-whistle-from-steam-train",
     "title": "Steam whistle from steam train /",
     "text": "When a steam train of 34 m/s sounds a steam whistle for 10 seconds from the point 1700 m before a station, for how many seconds can the steam whistle be heard at the station? \nThe speed of sound shall be 340 m/s. \nAnswer\nNine seconds\nSolution\nIt takes 5 seconds for the beginning sound to reach the",
@@ -34680,7 +34680,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/straight-lines-with-certain-angles",
+    "path": "/home/level-2/straight-lines-with-certain-angles",
     "slug": "straight-lines-with-certain-angles",
     "title": "Straight lines with certain angles",
     "text": "As shown in a figure, there is a point A on the straight line ① and the straight line ② is drawn from point A. \nLine ② is drawn as the angle with line ① to be 10 degrees. \nNext, the point B is set on the straight line ② and the straight line ③ is drawn from point B. \nLine ③ is drawn as the angle",
@@ -34706,7 +34706,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/straight-lines-with-certain-angles/straight-lines-with-certain-angles",
+    "path": "/home/level-2/straight-lines-with-certain-angles/straight-lines-with-certain-angles",
     "slug": "straight-lines-with-certain-angles",
     "title": "Straight lines with certain angles /",
     "text": "As shown in a figure, there is a point A on the straight line ① and the straight line ② is drawn from point A. \nLine ② is drawn as the angle with line ① to be 10 degrees. \nNext, the point B is set on the straight line ② and the straight line ③ is drawn from point B. \nLine ③ is drawn as the angle",
@@ -34727,7 +34727,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/suitable-lid-for-vessel",
+    "path": "/home/level-2/suitable-lid-for-vessel",
     "slug": "suitable-lid-for-vessel",
     "title": "Suitable lid for vessel",
     "text": "A figure is a development view of a vessel without a lid. \nFind the area of the lid fitting to this vessel. \nMoreover, find the volume of the water included in this vessel.",
@@ -34757,7 +34757,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/suitable-lid-for-vessel/suitable-lid-for-vessel",
+    "path": "/home/level-2/suitable-lid-for-vessel/suitable-lid-for-vessel",
     "slug": "suitable-lid-for-vessel",
     "title": "Suitable lid for vessel /",
     "text": "A figure is a development view of a vessel without a lid. \nFind the area of the lid fitting to this vessel. \nMoreover, find the volume of the water included in this vessel.",
@@ -34782,7 +34782,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/sum-of-each-digit-is-10",
+    "path": "/home/level-2/sum-of-each-digit-is-10",
     "slug": "sum-of-each-digit-is-10",
     "title": "Sum of each digit is 10",
     "text": "As for the integer of three digit that the sum becomes 10 when add the number of hundreds digit, the number of tens digit and the number of ones digit like 235 and 307, answer the following questions.\n(1) In such integers, find the number of integer that hundreds digit is 1.\n(2) In such integers,",
@@ -34871,7 +34871,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/sum-of-each-digit-is-10/sum-of-each-digit-is-10",
+    "path": "/home/level-2/sum-of-each-digit-is-10/sum-of-each-digit-is-10",
     "slug": "sum-of-each-digit-is-10",
     "title": "Sum of each digit is 10 /",
     "text": "As for the integer of three digit that the sum becomes 10 when add the number of hundreds digit, the number of tens digit and the number of ones digit like 235 and 307, answer the following questions.\n(1) In such integers, find the number of integer that hundreds digit is 1.\n(2) In such integers,",
@@ -34960,7 +34960,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/sum-of-fractions-whose-numerator-is-1",
+    "path": "/home/level-2/sum-of-fractions-whose-numerator-is-1",
     "slug": "sum-of-fractions-whose-numerator-is-1",
     "title": "Sum of fractions whose numerator is 1",
     "text": "It is considered that a certain fraction is expressed by the formula of addition of some fractions whose numerator is 1 and whose denominator is different such as the following [Example].\n[Example] \n⅔ = ½ + ⅙, ⅔ = ⅓ + ¼ + 1/12, etc.\n13/20 = ½ + 3/20 = ½ + 1/7 + 1/140, 13/20=(10 + 2 + 1)/20 \n= ½ +",
@@ -35049,7 +35049,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/sum-of-fractions-whose-numerator-is-1/sum-of-fractions-whose-numerator-is-1",
+    "path": "/home/level-2/sum-of-fractions-whose-numerator-is-1/sum-of-fractions-whose-numerator-is-1",
     "slug": "sum-of-fractions-whose-numerator-is-1",
     "title": "Sum of fractions whose numerator is 1 /",
     "text": "It is considered that a certain fraction is expressed by the formula of addition of some fractions whose numerator is 1 and whose denominator is different such as the following [Example]. \n[Example] \n⅔ = ½ + ⅙, ⅔ = ⅓ + ¼ + 1/12, etc.\n13/20 = ½ + 3/20 = ½ + 1/7 + 1/140, 13/20=(10 + 2 + 1)/20 \n= ½ +",
@@ -35138,7 +35138,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/sum-of-number-of-spots-of-dice",
+    "path": "/home/level-2/sum-of-number-of-spots-of-dice",
     "slug": "sum-of-number-of-spots-of-dice",
     "title": "Sum of number of spots of dice",
     "text": "The spots from one to six are drawn on each face of a die and the spots on opposite sides of the dice is to be total seven. \nNow, one connected solid is made by attaching each face of the dice of the same size. \nAt this time, the overlapping faces are called “ Inside face “ and other faces are",
@@ -35179,7 +35179,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/sum-of-number-of-spots-of-dice/sum-of-number-of-spots-of-dice",
+    "path": "/home/level-2/sum-of-number-of-spots-of-dice/sum-of-number-of-spots-of-dice",
     "slug": "sum-of-number-of-spots-of-dice",
     "title": "Sum of number of spots of dice /",
     "text": "The spots from one to six are drawn on each face of a die and the spots on opposite sides of the dice is to be total seven. \nNow, one connected solid is made by attaching each face of the dice of the same size. \nAt this time, the overlapping faces are called “ Inside face “ and other faces are",
@@ -35220,7 +35220,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/sum-of-three-integers-is-1000",
+    "path": "/home/level-2/sum-of-three-integers-is-1000",
     "slug": "sum-of-three-integers-is-1000",
     "title": "Sum of three integers is 1000",
     "text": "There are three integers A, B and C which are A + B + C = 1000. \nB/A is calculated to the first decimal place and it is 7 when rounding off the first decimal place of the quotient. \nMoreover, when C is divided by B, the quotient is 2 and remainder is 16. \nAnswer the following questions.\n(1) When",
@@ -35309,7 +35309,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/sum-of-three-integers-is-1000/sum-of-three-integers-is-1000",
+    "path": "/home/level-2/sum-of-three-integers-is-1000/sum-of-three-integers-is-1000",
     "slug": "sum-of-three-integers-is-1000",
     "title": "Sum of three integers is 1000 /",
     "text": "There are three integers A, B and C which are A + B + C = 1000. \nB/A is calculated to the first decimal place and it is 7 when rounding off the first decimal place of the quotient. \nMoreover, when C is divided by B, the quotient is 2 and remainder is 16. \nAnswer the following questions.\n(1) When",
@@ -35398,7 +35398,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/sum-of-two-integers-is-divided-by-gcd",
+    "path": "/home/level-2/sum-of-two-integers-is-divided-by-gcd",
     "slug": "sum-of-two-integers-is-divided-by-gcd",
     "title": "Sum of two integers is divided by G.C.D.",
     "text": "The sum of two integers is divided by the greatest common divisor of the two. \nFor example, since the greatest common divisor of 12 and 8 is 4, it is (12+8) / 4 = 5. \nThis will be expressed as 12 # 8 = 5. \nMoreover, the product of two integers is divided by the least common multiple of the two.",
@@ -35471,7 +35471,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/sum-of-two-integers-is-divided-by-gcd/sum-of-two-integers-is-divided-by-gcd",
+    "path": "/home/level-2/sum-of-two-integers-is-divided-by-gcd/sum-of-two-integers-is-divided-by-gcd",
     "slug": "sum-of-two-integers-is-divided-by-gcd",
     "title": "Sum of two integers is divided by G.C.D. /",
     "text": "The sum of two integers is divided by the greatest common divisor of the two. \nFor example, since the greatest common divisor of 12 and 8 is 4, it is (12+8) / 4 = 5. \nThis will be expressed as 12 # 8 = 5. \nMoreover, the product of two integers is divided by the least common multiple of the two.",
@@ -35553,7 +35553,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/take-out-50kg-gold-dust",
+    "path": "/home/level-2/take-out-50kg-gold-dust",
     "slug": "take-out-50kg-gold-dust",
     "title": "Take out 50kg gold dust",
     "text": "There are an even balance and one weight of 2 kg and 9 kg each. How many times as few as possible should I use even balance in order to take 50 kg gold dust out of a heap of gold dust in front of me ? \n I can use gold dust that was already weighed and taken as a weight.",
@@ -35582,7 +35582,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/take-out-50kg-gold-dust/take-out-50kg-gold-dust",
+    "path": "/home/level-2/take-out-50kg-gold-dust/take-out-50kg-gold-dust",
     "slug": "take-out-50kg-gold-dust",
     "title": "Take out 50kg gold dust /",
     "text": "There are an even balance and one weight of 2 kg and 9 kg each. \nHow many times as few as possible should I use even balance in order to take 50 kg gold dust out of a heap of gold dust in front of me ? \nI can use gold dust that was already weighed and taken as a weight. \nAnswer\nThree",
@@ -35619,7 +35619,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/take-out-three-kind-of-ball",
+    "path": "/home/level-2/take-out-three-kind-of-ball",
     "slug": "take-out-three-kind-of-ball",
     "title": "Take out three kind of ball",
     "text": "There are three kinds of ball, A, B, and C and one piece of A, two pieces of B and three pieces of C are the same weight. \nMoreover, when A, B, and C were mixed and 30 pieces were taken out, sum total weight was 232g. \nWhen they were divided for every kind of A, B, and C, the weight ratio of each",
@@ -35636,7 +35636,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/take-out-three-kind-of-ball/take-out-three-kind-of-ball",
+    "path": "/home/level-2/take-out-three-kind-of-ball/take-out-three-kind-of-ball",
     "slug": "take-out-three-kind-of-ball",
     "title": "Take out three kind of ball /",
     "text": "There are three kinds of ball, A, B, and C and one piece of A, two pieces of B and three pieces of C are the same weight. \nMoreover, when A, B, and C were mixed and 30 pieces were taken out, sum total weight was 232g. \nWhen they were divided for every kind of A, B, and C, the weight ratio of each",
@@ -35653,7 +35653,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/talk-a-rumor-to-ten-persons",
+    "path": "/home/level-2/talk-a-rumor-to-ten-persons",
     "slug": "talk-a-rumor-to-ten-persons",
     "title": "Talk a rumor to ten persons /",
     "text": "I heard others' rumor just now and I talked the rumor to ten persons ten minutes later. \nAnd these 11 persons talked it to ten persons respectively ten minutes afterward. \nFurthermore, all persons that heard this rumor talked to ten persons 10 minutes afterward, respectively. \nOne hour after the",
@@ -35661,7 +35661,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/talk-a-rumor-to-ten-persons-1",
+    "path": "/home/level-2/talk-a-rumor-to-ten-persons-1",
     "slug": "talk-a-rumor-to-ten-persons-1",
     "title": "Talk a rumor to ten persons",
     "text": "I heard others' rumor just now and I talked the rumor to ten persons ten minutes later. \nAnd these 11 persons talked it to ten persons respectively ten minutes afterward. \nFurthermore, all persons that heard this rumor talked to ten persons 10 minutes afterward, respectively. \nOne hour after the",
@@ -35726,7 +35726,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/telephone-rate-of-two-companies",
+    "path": "/home/level-2/telephone-rate-of-two-companies",
     "slug": "telephone-rate-of-two-companies",
     "title": "Telephone rate of two companies",
     "text": "The telephone rate of the two telecommunications companies A and B is calculated as follows every month.\nA company : Base rate  : 3500 yen\n                       Telephone rate per minute : 25 yen\n                       However, if telephone rate is less than 500 yen, only the",
@@ -35748,7 +35748,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/telephone-rate-of-two-companies/telephone-rate-of-two-companies",
+    "path": "/home/level-2/telephone-rate-of-two-companies/telephone-rate-of-two-companies",
     "slug": "telephone-rate-of-two-companies",
     "title": "Telephone rate of two companies /",
     "text": "The telephone rate of the two telecommunications companies A and B is calculated as follows every month. \nA company : Base rate  : 3500 yen\n                       Telephone rate per minute : 25 yen\n                       However, if telephone rate is less than 500 yen, only the base rate is",
@@ -35770,7 +35770,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/ten-cars-passing-on-the-highway",
+    "path": "/home/level-2/ten-cars-passing-on-the-highway",
     "slug": "ten-cars-passing-on-the-highway",
     "title": "Ten cars passing on the highway",
     "text": "As shown in a figure, there is a highway of the two lanes with same direction of movement. \nA car runs at 80 km/h in A lane and at 110 km/h in B lane and when passing, it goes into B lane. \nThe car of ① ~ ⑩ is running A lane while maintaining the interval of 100 m (Fig. 1). \nNow, the car ⑩ at the",
@@ -35832,7 +35832,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/ten-cars-passing-on-the-highway/ten-cars-passing-on-the-highway",
+    "path": "/home/level-2/ten-cars-passing-on-the-highway/ten-cars-passing-on-the-highway",
     "slug": "ten-cars-passing-on-the-highway",
     "title": "Ten cars passing on the highway /",
     "text": "As shown in a figure, there is a highway of the two lanes with same direction of movement. \nA car runs at 80 km/h in A lane and at 110 km/h in B lane and when passing, it goes into B lane. \nThe car of ① ~ ⑩ is running A lane while maintaining the interval of 100 m (Fig. 1). \nNow, the car ⑩ at the",
@@ -35894,7 +35894,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/test-of-four-questions",
+    "path": "/home/level-2/test-of-four-questions",
     "slug": "test-of-four-questions",
     "title": "Test of four questions",
     "text": "In the class of 50 students, I did a test of mathematics with four questions in total. \nThe students who gave the right answers of each question were 42 persons, 30 persons, 45 persons, and 37 persons, respectively. Find a range of the number of students who got a perfect score.",
@@ -35951,7 +35951,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/test-of-four-questions/test-of-four-questions",
+    "path": "/home/level-2/test-of-four-questions/test-of-four-questions",
     "slug": "test-of-four-questions",
     "title": "Test of four questions",
     "text": "In the class of 50 students, I did a test of mathematics with four questions in total. \nThe students who gave the right answers of each question were 42 persons, 30 persons, 45 persons, and 37 persons, respectively. \nFind a range of the number of students who got a perfect score. \nAnswer\n4 or more",
@@ -36036,7 +36036,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/test-of-ten-problems-of-o-or-x",
+    "path": "/home/level-2/test-of-ten-problems-of-o-or-x",
     "slug": "test-of-ten-problems-of-o-or-x",
     "title": "Test of ten problems of O or X",
     "text": "There was a test of ten problems to answer with O or X. \nIf answer is correct, it is ten points on each problem. \nAs a result, Taro got 70 points and Jiro got 30 points. \nThe table below shows an answer of two people. \nHow many problems are there which you can find the correct answer according to",
@@ -36093,7 +36093,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/test-of-ten-problems-of-o-or-x/test-of-ten-problems-of-o-or-x",
+    "path": "/home/level-2/test-of-ten-problems-of-o-or-x/test-of-ten-problems-of-o-or-x",
     "slug": "test-of-ten-problems-of-o-or-x",
     "title": "Test of ten problems of O or X /",
     "text": "There was a test of ten problems to answer with O or X. \nIf answer is correct, it is ten points on each problem. \nAs a result, Taro got 70 points and Jiro got 30 points. \nThe table below shows an answer of two people. \nHow many problems are there which you can find the correct answer according to",
@@ -36155,7 +36155,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/test-of-three-problems",
+    "path": "/home/level-2/test-of-three-problems",
     "slug": "test-of-three-problems",
     "title": "Test of three problems",
     "text": "In a certain grade, there was a test of three problems A, B and C. \nThe percentage of the students who gave the right answer of A was 60%, who gave the right answer of B was 70% and who gave the right answer of C only was 15%. \nMoreover, those who gave the right answer of A and did not give right",
@@ -36163,7 +36163,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/test-of-three-problems/test-of-three-problems",
+    "path": "/home/level-2/test-of-three-problems/test-of-three-problems",
     "slug": "test-of-three-problems",
     "title": "Test of three problems /",
     "text": "In a certain grade, there was a test of three problems A, B and C. \nThe percentage of the students who gave the right answer of A was 60%, who gave the right answer of B was 70% and who gave the right answer of C only was 15%. \nMoreover, those who gave the right answer of A and did not give right",
@@ -36171,7 +36171,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/three-angles-in-two-figures",
+    "path": "/home/level-2/three-angles-in-two-figures",
     "slug": "three-angles-in-two-figures",
     "title": "Three angles in two figures",
     "text": "Find the degree of angle X, Y, and Z in a figure.\nIn Fig. 1, quadrangle ABCD is a square and curve is a part of circle with a vertex of the square as a center.\nIn Fig. 2, triangle ABC is an equilateral triangle and pentagon ADEFG is an equilateral pentagon.",
@@ -36269,7 +36269,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/three-angles-in-two-figures/three-angles-in-two-figures",
+    "path": "/home/level-2/three-angles-in-two-figures/three-angles-in-two-figures",
     "slug": "three-angles-in-two-figures",
     "title": "Three angles in two figures /",
     "text": "Find the degree of angle X, Y, and Z in a figure. \nIn Fig. 1, quadrangle ABCD is a square and curve is a part of circle with a vertex of the square as a center. \nIn Fig. 2, triangle ABC is an equilateral triangle and pentagon ADEFG is an equilateral pentagon.",
@@ -36371,7 +36371,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/three-cylinders-in-water-tank",
+    "path": "/home/level-2/three-cylinders-in-water-tank",
     "slug": "three-cylinders-in-water-tank",
     "title": "Three cylinders in water tank",
     "text": "As shown in the figure, three cylinders A, B, and C were stood right in the water tank and water was put in until the height of the water surface was set to 18 cm. \nWhen A and B were taken out of the tank, the height of the water surface was 5 cm. \nWhen A and C were taken out, the height of the",
@@ -36393,7 +36393,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/three-cylinders-in-water-tank/three-cylinders-in-water-tank",
+    "path": "/home/level-2/three-cylinders-in-water-tank/three-cylinders-in-water-tank",
     "slug": "three-cylinders-in-water-tank",
     "title": "Three cylinders in water tank /",
     "text": "As shown in the figure, three cylinders A, B, and C were stood right in the water tank and water was put in until the height of the water surface was set to 18 cm. \nWhen A and B were taken out of the tank, the height of the water surface was 5 cm. \nWhen A and C were taken out, the height of the",
@@ -36415,7 +36415,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/three-digit-integers-divided-by-35-and-40",
+    "path": "/home/level-2/three-digit-integers-divided-by-35-and-40",
     "slug": "three-digit-integers-divided-by-35-and-40",
     "title": "Three digit integers divided by 35 and 40",
     "text": "When 100 is divided by 35, a quotient is 2 and remainder is 30. \nWhen 100 is divided by 40, a quotient is 2 and remainder is 20. \nFind the number of three digits integer including 100 which a quotient becomes the same, when it is divided by 35 and 40. \nAnd also find the largest integer among them.",
@@ -36496,7 +36496,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/three-digit-integers-divided-by-35-and-40/three-digit-integers-divided-by-35-and-40",
+    "path": "/home/level-2/three-digit-integers-divided-by-35-and-40/three-digit-integers-divided-by-35-and-40",
     "slug": "three-digit-integers-divided-by-35-and-40",
     "title": "Three digit integers divided by 35 and 40",
     "text": "Three digit integers divided by 35 and 40",
@@ -36513,7 +36513,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/three-digit-integers-divided-by-35-and-40/three-digit-integers-divided-by-35-and-40-1",
+    "path": "/home/level-2/three-digit-integers-divided-by-35-and-40/three-digit-integers-divided-by-35-and-40-1",
     "slug": "three-digit-integers-divided-by-35-and-40-1",
     "title": "Three digit integers divided by 35 and 40 /",
     "text": "When 100 is divided by 35, a quotient is 2 and remainder is 30. \nWhen 100 is divided by 40, a quotient is 2 and remainder is 20. \nFind the number of three digits integer including 100 which a quotient becomes the same, when it is divided by 35 and 40. \nAnd also find the largest integer among",
@@ -36607,7 +36607,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/three-persons-from-home-to-a-park",
+    "path": "/home/level-2/three-persons-from-home-to-a-park",
     "slug": "three-persons-from-home-to-a-park",
     "title": "Three persons from home to a park",
     "text": "Taro left home at 9:00 and ran to the park where is 14 km away from home at the speed of 200 m/m. \nWhenever he ran for 10 minutes, he took a rest for 2 minutes.\n(1) Find the time when Taro arrived at the park.\n(2) The elder sister of Taro left home at 9:50 and she went to the park by bicycle",
@@ -36696,7 +36696,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/three-persons-from-home-to-a-park/three-persons-from-home-to-a-park",
+    "path": "/home/level-2/three-persons-from-home-to-a-park/three-persons-from-home-to-a-park",
     "slug": "three-persons-from-home-to-a-park",
     "title": "Three persons from home to a park /",
     "text": "Taro left home at 9:00 and ran to the park where is 14 km away from home at the speed of 200 m/m. \nWhenever he ran for 10 minutes, he took a rest for 2 minutes. \n(1) Find the time when Taro arrived at the park. \n(2) The elder sister of Taro left home at 9:50 and she went to the park by bicycle",
@@ -36785,7 +36785,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/three-persons-in-the-train",
+    "path": "/home/level-2/three-persons-in-the-train",
     "slug": "three-persons-in-the-train",
     "title": "Three persons in the train",
     "text": "Taro, Jiro and Hanako took the train for 1 hour and 12 minutes. Since only one seat opened, they decided to sit down by turns. Jiro stood for the double of the time Taro stood. \nHanako stood for a time of 3/2 times that of Taro. \nHow long minutes did Taro stand?",
@@ -36874,7 +36874,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/three-persons-in-the-train/three-persons-in-the-train",
+    "path": "/home/level-2/three-persons-in-the-train/three-persons-in-the-train",
     "slug": "three-persons-in-the-train",
     "title": "Three persons in the train /",
     "text": "Taro, Jiro and Hanako took the train for 1 hour and 12 minutes. \nSince only one seat opened, they decided to sit down by turns. \nJiro stood for the double of the time Taro stood. \nHanako stood for a time of 3/2 times that of Taro. \nHow long minutes did Taro stand? \nAnswer\n32",
@@ -36963,7 +36963,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/three-persons-read-books-with-different-pages",
+    "path": "/home/level-2/three-persons-read-books-with-different-pages",
     "slug": "three-persons-read-books-with-different-pages",
     "title": "Three persons read books with different pages",
     "text": "Taro reads a book of 151 pages, Jiro reads a book of 216 pages and Hanako reads a book of 294 pages. \nFor example, if everyone reads 4 pages a day, as for the number of pages read on the day which each finishes reading, it is 3 pages for Taro, 4 pages for Jiro and 2 pages for Hanako. \nHow many",
@@ -37052,7 +37052,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/three-persons-read-books-with-different-pages/three-persons-read-books-with-different-pages",
+    "path": "/home/level-2/three-persons-read-books-with-different-pages/three-persons-read-books-with-different-pages",
     "slug": "three-persons-read-books-with-different-pages",
     "title": "Three persons read books with different pages /",
     "text": "Taro reads a book of 151 pages, Jiro reads a book of 216 pages and Hanako reads a book of 294 pages. \nFor example, if everyone reads 4 pages a day, as for the number of pages read on the day which each finishes reading, it is 3 pages for Taro, 4 pages for Jiro and 2 pages for Hanako. \nHow many",
@@ -37141,7 +37141,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/three-persons-run-in-the-school-ground",
+    "path": "/home/level-2/three-persons-run-in-the-school-ground",
     "slug": "three-persons-run-in-the-school-ground",
     "title": "Three persons run in the school ground",
     "text": "Taro, Jiro and Hanako run in the school grounds of one lap of 360m from a starting line with the constant speed, respectively. Taro and Jiro run in clockwise and Hanako runs counterclockwise. \nWhen Hanako ran 135m, she met Taro and met Jiro when Hanako ran 25m more. \nWhen Taro was one lap, how",
@@ -37182,7 +37182,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/three-persons-run-in-the-school-ground/three-persons-run-in-the-school-ground",
+    "path": "/home/level-2/three-persons-run-in-the-school-ground/three-persons-run-in-the-school-ground",
     "slug": "three-persons-run-in-the-school-ground",
     "title": "Three persons run in the school ground /",
     "text": "Taro, Jiro and Hanako run in the school grounds of one lap of 360m from a starting line with the constant speed, respectively. \nTaro and Jiro run in clockwise and Hanako runs counterclockwise. \nWhen Hanako ran 135m, she met Taro and met Jiro when Hanako ran 25m more. \nWhen Taro was one lap, how",
@@ -37223,7 +37223,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/three-persons-start-at-different-time",
+    "path": "/home/level-2/three-persons-start-at-different-time",
     "slug": "three-persons-start-at-different-time",
     "title": "Three persons start at different time",
     "text": "Taro, Jiro, and Hanako move forward from a certain point in the same direction at constant speed respectively. \nFirst, Hanako left at 9:00, Jiro left at 9:06 and Taro left at 9:08, respectively. \nJiro caught up with Hanako at 9:16 and Taro caught up with Hanako at 9:20. \nFind the time when Taro",
@@ -37280,7 +37280,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/three-persons-start-at-different-time/three-persons-start-at-different-time",
+    "path": "/home/level-2/three-persons-start-at-different-time/three-persons-start-at-different-time",
     "slug": "three-persons-start-at-different-time",
     "title": "Three persons start at different time /",
     "text": "Taro, Jiro, and Hanako move forward from a certain point in the same direction at constant speed respectively. \nFirst, Hanako left at 9:00, Jiro left at 9:06 and Taro left at 9:08, respectively. \nJiro caught up with Hanako at 9:16 and Taro caught up with Hanako at 9:20. \nFind the time when Taro",
@@ -37337,7 +37337,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/three-persons-take-out-red-and-white-ball",
+    "path": "/home/level-2/three-persons-take-out-red-and-white-ball",
     "slug": "three-persons-take-out-red-and-white-ball",
     "title": "Three persons take out red and white ball",
     "text": "There are ten red balls and ten white balls in the bag. \nThree of Taro, Jiro and Hanako take out one ball at a time from this bag. \nThe taken-out ball is not returned to the bag. \nWhen taken out at 1st time, the colors of the balls of Taro and Jiro are different and the colors of Jiro and Hanako",
@@ -37345,7 +37345,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/three-persons-take-out-red-and-white-ball/three-persons-take-out-red-and-white-ball",
+    "path": "/home/level-2/three-persons-take-out-red-and-white-ball/three-persons-take-out-red-and-white-ball",
     "slug": "three-persons-take-out-red-and-white-ball",
     "title": "Three persons take out red and white ball /",
     "text": "There are ten red balls and ten white balls in the bag. \nThree of Taro, Jiro and Hanako take out one ball at a time from this bag. \nThe taken-out ball is not returned to the bag. \nWhen taken out at 1st time, the colors of the balls of Taro and Jiro are different and the colors of Jiro and Hanako",
@@ -37353,7 +37353,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/three-pieces-among-red-blue-and-black",
+    "path": "/home/level-2/three-pieces-among-red-blue-and-black",
     "slug": "three-pieces-among-red-blue-and-black",
     "title": "Three pieces among red, blue, and black",
     "text": "How many ways are there by taking out three balls out of two red balls, two blue balls, and five black balls and lining up them in a row ?",
@@ -37361,7 +37361,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/three-pieces-among-red-blue-and-black/three-pieces-among-red-blue-and-black",
+    "path": "/home/level-2/three-pieces-among-red-blue-and-black/three-pieces-among-red-blue-and-black",
     "slug": "three-pieces-among-red-blue-and-black",
     "title": "Three pieces among red, blue, and black /",
     "text": "How many ways are there by taking out three balls out of two red balls, two blue balls, and five black balls and lining up them in a row ?\nAnswer\n25 ways\nSolution\nIf there are three red balls and three blue balls, you can pick up one of three balls as a first ball and also three ways as both of a",
@@ -37369,7 +37369,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/three-points-moving-on-three-circles",
+    "path": "/home/level-2/three-points-moving-on-three-circles",
     "slug": "three-points-moving-on-three-circles",
     "title": "Three points moving on three circles",
     "text": "As shown in a figure, there are three circles centering on the point O and radii are 1m, 2m, and 3m, respectively. \nPoint A on the most inside circumference, point B on the next circumference, point C on the most outside circumference are moving clockwise, respectively. \nThe ratio of the speed of",
@@ -37415,7 +37415,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/three-points-moving-on-three-circles/three-points-moving-on-three-circles",
+    "path": "/home/level-2/three-points-moving-on-three-circles/three-points-moving-on-three-circles",
     "slug": "three-points-moving-on-three-circles",
     "title": "Three points moving on three circles /",
     "text": "As shown in a figure, there are three circles centering on the point O and radii are 1m, 2m, and 3m, respectively. \nPoint A on the most inside circumference, point B on the next circumference, point C on the most outside circumference are moving clockwise, respectively. \nThe ratio of the speed of",
@@ -37456,7 +37456,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/time-of-passing-each-other",
+    "path": "/home/level-2/time-of-passing-each-other",
     "slug": "time-of-passing-each-other",
     "title": "Time of passing each other",
     "text": "Time of passing each other",
@@ -37464,7 +37464,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/time-one-passed-another",
+    "path": "/home/level-2/time-one-passed-another",
     "slug": "time-one-passed-another",
     "title": "Time one passed another",
     "text": "Taro left P point at 9:00 a.m. and went to Q point with a fixed speed. He rested for 6 minutes on the way at R point. \nThen, he walked with the same speed as before and he arrived at Q point at 10:42 a.m. \nOn the other hand, Jiro left P point at 9:13 a.m. and went to Q point with a fixed speed.",
@@ -37481,7 +37481,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/time-one-passed-another/time-one-passed-another",
+    "path": "/home/level-2/time-one-passed-another/time-one-passed-another",
     "slug": "time-one-passed-another",
     "title": "Time one passed another /",
     "text": "Taro left P point at 9:00 a.m. and went to Q point with a fixed speed. He rested for 6 minutes on the way at R point. \nThen, he walked with the same speed as before and he arrived at Q point at 10:42 a.m. \nOn the other hand, Jiro left P point at 9:13 a.m. and went to Q point with a fixed speed.",
@@ -37498,7 +37498,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/time-when-passing-each-other",
+    "path": "/home/level-2/time-when-passing-each-other",
     "slug": "time-when-passing-each-other",
     "title": "Time when passing each other",
     "text": "There is a train which leaves point A at 10:00 and will arrive at point B at 11:30. \nThere is another train which leaves point B at 10:20 and goes to point A. Both trains have the same speed .\nWhat time does two trains pass each other?",
@@ -37515,7 +37515,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/time-when-passing-each-other/time-when-passing-each-other",
+    "path": "/home/level-2/time-when-passing-each-other/time-when-passing-each-other",
     "slug": "time-when-passing-each-other",
     "title": "Time when passing each other /",
     "text": "There is a train which leaves point A at 10:00 and will arrive at point B at 11:30. \nThere is another train which leaves point B at 10:20 and goes to point A. Both trains have the same speed . \nWhat time does two trains pass each other?\nAnswer\n10:55\nSolution\nWriting a diagram is the best way to",
@@ -37532,7 +37532,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/tournament-games-of-soccer-in-7-teams",
+    "path": "/home/level-2/tournament-games-of-soccer-in-7-teams",
     "slug": "tournament-games-of-soccer-in-7-teams",
     "title": "Tournament games of soccer in 7 teams",
     "text": "The competition of soccer was held in 7 teams. \nThe game was held by the round-robin tournament (game system which every team matches one game with every other 6 teams). \nWhen winning in each game, the team is given two points, when losing, given zero point and when drawing, given one points.",
@@ -37609,7 +37609,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/tournament-games-of-soccer-in-7-teams/tournament-games-of-soccer-in-7-teams",
+    "path": "/home/level-2/tournament-games-of-soccer-in-7-teams/tournament-games-of-soccer-in-7-teams",
     "slug": "tournament-games-of-soccer-in-7-teams",
     "title": "Tournament games of soccer in 7 teams /",
     "text": "The competition of soccer was held in 7 teams. \nThe game was held by the round-robin tournament (game system which every team matches one game with every other 6 teams). \nWhen winning in each game, the team is given two points, when losing, given zero point and when drawing, given one points.",
@@ -37686,7 +37686,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/tournament-of-soccer-in-eight-teams",
+    "path": "/home/level-2/tournament-of-soccer-in-eight-teams",
     "slug": "tournament-of-soccer-in-eight-teams",
     "title": "Tournament of soccer in eight teams",
     "text": "Put in the character or number applicable to following [    ].\n8 teams of A~H held the tournament game of soccer in pairing as shown in a figure. \nThe table shows the sum total of scored points and lost points (opposition’s score) of each team after the end of the tournament. \nIn the table the",
@@ -37732,7 +37732,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/tournament-of-soccer-in-eight-teams/tournament-of-soccer-in-eight-teams",
+    "path": "/home/level-2/tournament-of-soccer-in-eight-teams/tournament-of-soccer-in-eight-teams",
     "slug": "tournament-of-soccer-in-eight-teams",
     "title": "Tournament of soccer in eight teams /",
     "text": "Put in the character or number applicable to following [    ]. \n8 teams of A~H held the tournament game of soccer in pairing as shown in a figure. \nThe table shows the sum total of scored points and lost points (opposition’s score) of each team after the end of the tournament. \nIn the table the",
@@ -37778,7 +37778,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/town-on-the-top-of-mountain",
+    "path": "/home/level-2/town-on-the-top-of-mountain",
     "slug": "town-on-the-top-of-mountain",
     "title": "Town on the top of mountain",
     "text": "There is A town on the top of the mountain and B town at the foot of the mountain. \nHanako left A town and Taro left B town at the same time and they went back and forth one time without taking rest between A and B. \nThey met first at intermediate C point. \nAnd they met again at D point where is",
@@ -37786,7 +37786,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/town-on-the-top-of-mountain/town-on-the-top-of-mountain",
+    "path": "/home/level-2/town-on-the-top-of-mountain/town-on-the-top-of-mountain",
     "slug": "town-on-the-top-of-mountain",
     "title": "Town on the top of mountain /",
     "text": "There is A town on the top of the mountain and B town at the foot of the mountain. \nHanako left A town and Taro left B town at the same time and they went back and forth one time without taking rest between A and B. \nThey met first at intermediate C point. \nAnd they met again at D point where is",
@@ -37794,7 +37794,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/transformation-of-formula",
+    "path": "/home/level-2/transformation-of-formula",
     "slug": "transformation-of-formula",
     "title": "Transformation of formula",
     "text": "3 x 5 x 5 x 5 + 4 x 5 x 5 + 2 x 5 + 1 \n= A x A x A + B x A x A + C x A + 3.\nFind A, B and C, respectively.\nA, B and C are the integers from 1 to 9.",
@@ -37883,7 +37883,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/transformation-of-formula/transformation-of-formula",
+    "path": "/home/level-2/transformation-of-formula/transformation-of-formula",
     "slug": "transformation-of-formula",
     "title": "Transformation of formula /",
     "text": "3 x 5 x 5 x 5 + 4 x 5 x 5 + 2 x 5 + 1 \n= A x A x A + B x A x A + C x A + 3.\nFind A, B and C, respectively.\nA, B and C are the integers from 1 to 9. \nAnswer\nA = 7, B = 2, C = 6",
@@ -37972,7 +37972,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/trapezoid-and-three-sectors",
+    "path": "/home/level-2/trapezoid-and-three-sectors",
     "slug": "trapezoid-and-three-sectors",
     "title": "Trapezoid and three sectors",
     "text": "The figure shows trapezoid whose side AD and BC are parallel and AB = CD = 5cm, BC = 8cm and angle C = angle B = 60 degrees. \nThree sectors were drawn in this trapezoid. \nFind the area of the shadow area. \nPi is assumed to be 3.14.",
@@ -38050,7 +38050,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/trapezoid-and-three-sectors/trapezoid-and-three-sectors",
+    "path": "/home/level-2/trapezoid-and-three-sectors/trapezoid-and-three-sectors",
     "slug": "trapezoid-and-three-sectors",
     "title": "Trapezoid and three sectors /",
     "text": "The figure shows trapezoid whose side AD and BC are parallel and AB = CD = 5cm, BC = 8cm and angle C = angle B = 60 degrees. \nThree sectors were drawn in this trapezoid. \nFind the area of the shadow area. \nPi is assumed to be 3.14.",
@@ -38128,7 +38128,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/travel-distance-and-railway-fare",
+    "path": "/home/level-2/travel-distance-and-railway-fare",
     "slug": "travel-distance-and-railway-fare",
     "title": "Travel distance and railway fare",
     "text": "Table 1 expresses the travel distance between the stations of a certain railroad. \nMoreover, the relation between the travel distance of this railroad and a fare is shown as Fig. 1. \nIn the graph of Fig. 1, the point indicated by ○ is not included in a graph the point indicated by ● is included in",
@@ -38170,7 +38170,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/travel-distance-and-railway-fare/travel-distance-and-railway-fare",
+    "path": "/home/level-2/travel-distance-and-railway-fare/travel-distance-and-railway-fare",
     "slug": "travel-distance-and-railway-fare",
     "title": "Travel distance and railway fare /",
     "text": "Table 1 expresses the travel distance between the stations of a certain railroad. \nMoreover, the relation between the travel distance of this railroad and a fare is shown as Fig. 1. \nIn the graph of Fig. 1, the point indicated by ○ is not included in a graph the point indicated by ● is included in",
@@ -38203,7 +38203,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/triangle-and-trapezoid",
+    "path": "/home/level-2/triangle-and-trapezoid",
     "slug": "triangle-and-trapezoid",
     "title": "Triangle and trapezoid",
     "text": "In the figure, triangle ABC is an isosceles triangle and a quadrangle ACDE is a trapezoid. \nFind the area of X and Y.",
@@ -38257,7 +38257,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/triangle-and-trapezoid/triangle-and-trapezoid",
+    "path": "/home/level-2/triangle-and-trapezoid/triangle-and-trapezoid",
     "slug": "triangle-and-trapezoid",
     "title": "Triangle and trapezoid /",
     "text": "In the figure, triangle ABC is an isosceles triangle and a quadrangle ACDE is a trapezoid. \nFind the area of X and Y.",
@@ -38311,7 +38311,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/triangle-in-hexagon",
+    "path": "/home/level-2/triangle-in-hexagon",
     "slug": "triangle-in-hexagon",
     "title": "Triangle in hexagon",
     "text": "3 sets of sides of the hexagon in the figure faced each other are parallel. \nAs for each of 3 sets, the ratio of the length of a short side and a long side is 1 : 3. \nFind the area ratio of the area of a shadow area, and the area of a hexagon.",
@@ -38405,7 +38405,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/triangle-in-hexagon/triangle-in-hexagon",
+    "path": "/home/level-2/triangle-in-hexagon/triangle-in-hexagon",
     "slug": "triangle-in-hexagon",
     "title": "Triangle in hexagon /",
     "text": "3 sets of sides of the hexagon in the figure faced each other are parallel. \nAs for each of 3 sets, the ratio of the length of a short side and a long side is 1 : 3. \nFind the area ratio of the area of a shadow area, and the area of a hexagon.",
@@ -38503,7 +38503,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/triangle-in-rectangle",
+    "path": "/home/level-2/triangle-in-rectangle",
     "slug": "triangle-in-rectangle",
     "title": "Triangle in rectangle",
     "text": "As shown in the figure, the triangle AEF is in rectangle ABCD. \nThe area of the triangle AEF is 30cm2. \nThe points E and F are on the side BC and CD, respectively and are BE = 8cm and DF = 4cm. \nFind the area of rectangle ABCD at this time.",
@@ -38568,7 +38568,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/triangle-in-rectangle/triangle-in-rectangle",
+    "path": "/home/level-2/triangle-in-rectangle/triangle-in-rectangle",
     "slug": "triangle-in-rectangle",
     "title": "Triangle in rectangle /",
     "text": "As shown in the figure, the triangle AEF is in rectangle ABCD. \nThe area of the triangle AEF is 30cm2. \nThe points E and F are on the side BC and CD, respectively and are BE = 8cm and DF = 4cm. \nFind the area of rectangle ABCD at this time.",
@@ -38633,7 +38633,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/triangular-pyramid-from-rectangular-paper",
+    "path": "/home/level-2/triangular-pyramid-from-rectangular-paper",
     "slug": "triangular-pyramid-from-rectangular-paper",
     "title": "Triangular pyramid from rectangular paper",
     "text": "Some rectangular pasteboard is cut off along a diagonal line, as shown in Fig. 1. \nBy using this I would like to make the glass which has the form of the triangular pyramid as shown in Fig. 2.\nHowever, it may be unable to make or able to make depending on the length of the side AB.\nAnswer the",
@@ -38731,7 +38731,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/triangular-pyramid-from-rectangular-paper/triangular-pyramid-from-rectangular-paper",
+    "path": "/home/level-2/triangular-pyramid-from-rectangular-paper/triangular-pyramid-from-rectangular-paper",
     "slug": "triangular-pyramid-from-rectangular-paper",
     "title": "Triangular pyramid from rectangular paper /",
     "text": "Some rectangular pasteboard is cut off along a diagonal line, as shown in Fig. 1. \nBy using this I would like to make the glass which has the form of the triangular pyramid as shown in Fig. 2. \nHowever, it may be unable to make or able to make depending on the length of the side AB. \nAnswer the",
@@ -38829,7 +38829,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/triathlon-race",
+    "path": "/home/level-2/triathlon-race",
     "slug": "triathlon-race",
     "title": "Triathlon race",
     "text": "Taro and Jiro participated in the triathlon carrying out 1.5 km of swimming, 40 km of bicycle, and 10 km of running in order.\n(1) The time of swimming of Taro was 20 minutes and 50 seconds. Find the speed per minute of swimming of Taro. \nThe speed ratio of swimming and pedaling a bicycle of Taro",
@@ -38918,7 +38918,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/triathlon-race/triathlon-race",
+    "path": "/home/level-2/triathlon-race/triathlon-race",
     "slug": "triathlon-race",
     "title": "Triathlon race /",
     "text": "Taro and Jiro participated in the triathlon carrying out 1.5 km of swimming, 40 km of bicycle, and 10 km of running in order. \n(1) The time of swimming of Taro was 20 minutes and 50 seconds. \nFind the speed per minute of swimming of Taro. \nThe speed ratio of swimming and pedaling a bicycle of Taro",
@@ -39007,7 +39007,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/two-circles-with-a-shaded-area",
+    "path": "/home/level-2/two-circles-with-a-shaded-area",
     "slug": "two-circles-with-a-shaded-area",
     "title": "Two circles with a shaded area",
     "text": "As shown in a figure, there are a circle with a radius of 3 cm whose center is point A and a circle with a radius of 9 cm whose center is point B. \nThe area of the shadow portion is 10.53 cm2. \nFind the length of straight line CD. \nPi is assumed to be 3.14.",
@@ -39093,7 +39093,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/two-circles-with-a-shaded-area/two-circles-with-a-shaded-area",
+    "path": "/home/level-2/two-circles-with-a-shaded-area/two-circles-with-a-shaded-area",
     "slug": "two-circles-with-a-shaded-area",
     "title": "Two circles with a shaded area /",
     "text": "As shown in a figure, there are a circle with a radius of 3 cm whose center is point A and a circle with a radius of 9 cm whose center is point B. \nThe area of the shadow portion is 10.53 cm2. \nFind the length of straight line CD. \nPi is assumed to be 3.14.",
@@ -39179,7 +39179,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/two-different-styles-of-moving",
+    "path": "/home/level-2/two-different-styles-of-moving",
     "slug": "two-different-styles-of-moving",
     "title": "Two different styles of moving",
     "text": "The distance between A point and B point is 10 km.\nTaro walks from A point at 4 km/h to B point. \nHe walks for 30 minutes and take a rest for 5 minutes and he repeat this time cycle. \nJiro goes to A point from B point at 12 km/h by a bicycle without taking a rest and return to B point. \nTaro and",
@@ -39256,7 +39256,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/two-different-styles-of-moving/two-different-styles-of-moving",
+    "path": "/home/level-2/two-different-styles-of-moving/two-different-styles-of-moving",
     "slug": "two-different-styles-of-moving",
     "title": "Two different styles of moving /",
     "text": "The distance between A point and B point is 10 km.\nTaro walks from A point at 4 km/h to B point. \nHe walks for 30 minutes and take a rest for 5 minutes and he repeat this time cycle. \nJiro goes to A point from B point at 12 km/h by a bicycle without taking a rest and return to B point. \nTaro and",
@@ -39333,7 +39333,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/two-persons-go-to-house-each-other",
+    "path": "/home/level-2/two-persons-go-to-house-each-other",
     "slug": "two-persons-go-to-house-each-other",
     "title": "Two persons go to house each other",
     "text": "The distance between Taro’s house and Jiro’s house is 960 m. \nThey walked from their house toward partner's house yesterday and today. \nTaro left his house at the same time yesterday and today. \nYesterday Jiro left his house after Taro and they met at the place 648 m from the taro’s house. \nToday",
@@ -39341,7 +39341,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/two-persons-go-to-house-each-other/two-persons-go-to-house-each-other",
+    "path": "/home/level-2/two-persons-go-to-house-each-other/two-persons-go-to-house-each-other",
     "slug": "two-persons-go-to-house-each-other",
     "title": "Two persons go to house each other /",
     "text": "The distance between Taro’s house and Jiro’s house is 960 m. \nThey walked from their house toward partner's house yesterday and today. \nTaro left his house at the same time yesterday and today. \nYesterday Jiro left his house after Taro and they met at the place 648 m from the taro’s house. \nToday",
@@ -39349,7 +39349,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/two-persons-meet-and-janken",
+    "path": "/home/level-2/two-persons-meet-and-janken",
     "slug": "two-persons-meet-and-janken",
     "title": "Two persons meet and janken",
     "text": "Taro and Jiro are in A and B, respectively in the figure at first. \nThey begin to walk at the same time with the same speed and they play rock-paper-scissors at the place where they met. \nThe person who won at rock-paper-scissors walks as it is and the person who lost runs with speed 3 times the",
@@ -39395,7 +39395,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/two-persons-meet-and-janken/two-persons-meet-and-janken",
+    "path": "/home/level-2/two-persons-meet-and-janken/two-persons-meet-and-janken",
     "slug": "two-persons-meet-and-janken",
     "title": "Two persons meet and janken /",
     "text": "Taro and Jiro are in A and B, respectively in the figure at first. \nThey begin to walk at the same time with the same speed and they play rock-paper-scissors at the place where they met. \nThe person who won at rock-paper-scissors walks as it is and the person who lost runs with speed 3 times the",
@@ -39453,7 +39453,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/two-persons-move-on-a-rectangle",
+    "path": "/home/level-2/two-persons-move-on-a-rectangle",
     "slug": "two-persons-move-on-a-rectangle",
     "title": "Two persons move on a rectangle",
     "text": "There is a ground of a rectangle as shown in a figure. \nTaro and Jiro left A point at the same time and Taro walked to B point and Jiro walked to E point, respectively. \nWhen they walked with the same speed, they arrived at B point and E point at the same time. \nJiro who arrived at E point turned",
@@ -39471,7 +39471,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/two-persons-move-on-a-rectangle/two-persons-move-on-a-rectangle",
+    "path": "/home/level-2/two-persons-move-on-a-rectangle/two-persons-move-on-a-rectangle",
     "slug": "two-persons-move-on-a-rectangle",
     "title": "Two persons move on a rectangle /",
     "text": "There is a ground of a rectangle as shown in a figure. \nTaro and Jiro left A point at the same time and Taro walked to B point and Jiro walked to E point, respectively. \nWhen they walked with the same speed, they arrived at B point and E point at the same time. \nJiro who arrived at E point turned",
@@ -39484,7 +39484,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/two-persons-moving-around-a-pond",
+    "path": "/home/level-2/two-persons-moving-around-a-pond",
     "slug": "two-persons-moving-around-a-pond",
     "title": "Two persons moving around a pond",
     "text": "Taro walks around a certain pond with fixed speed and Jiro runs with fixed speed to opposite direction. \nTaro passed by Jiro again 10 minutes after passing by Jiro. \nJust after first passing, Taro also started running increasing the speed by 120 m/m more than the speed at walking. \nThen he passed",
@@ -39501,7 +39501,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/two-persons-moving-around-a-pond/two-persons-moving-around-a-pond",
+    "path": "/home/level-2/two-persons-moving-around-a-pond/two-persons-moving-around-a-pond",
     "slug": "two-persons-moving-around-a-pond",
     "title": "Two persons moving around a pond /",
     "text": "Taro walks around a certain pond with fixed speed and Jiro runs with fixed speed to opposite direction. \nTaro passed by Jiro again 10 minutes after passing by Jiro. \nJust after first passing, Taro also started running increasing the speed by 120 m/m more than the speed at walking. \nThen he passed",
@@ -39518,7 +39518,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/two-persons-moving-by-bicycle",
+    "path": "/home/level-2/two-persons-moving-by-bicycle",
     "slug": "two-persons-moving-by-bicycle",
     "title": "Two persons' moving by bicycle",
     "text": "Both Taro and Jiro went to Q city from P city by a bicycle. \nTaro left P city at 7:00 a.m. and arrived Q city at 10:55 a.m. \nJiro left at 7:30 a.m. and arrived at 10:40 a.m. \nBoth of them took a rest for 10 minutes only once respectively on the way. \nAnswer the following questions. \nNoted that the",
@@ -39535,7 +39535,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/two-persons-moving-by-bicycle/two-persons-moving-by-bicycle",
+    "path": "/home/level-2/two-persons-moving-by-bicycle/two-persons-moving-by-bicycle",
     "slug": "two-persons-moving-by-bicycle",
     "title": "Two persons' moving by bicycle /",
     "text": "Both Taro and Jiro went to Q city from P city by a bicycle. \nTaro left P city at 7:00 a.m. and arrived Q city at 10:55 a.m. \nJiro left at 7:30 a.m. and arrived at 10:40 a.m. \nBoth of them took a rest for 10 minutes only once respectively on the way. \nAnswer the following questions. \nNoted that the",
@@ -39552,7 +39552,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/two-persons-roll-a-die",
+    "path": "/home/level-2/two-persons-roll-a-die",
     "slug": "two-persons-roll-a-die",
     "title": "Two persons roll a die",
     "text": "Taro rolls a die and then Jiro rolls a die next.\nIn this case, find the probability that Taro's number is larger than Jiro's number.",
@@ -39577,7 +39577,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/two-persons-roll-a-die/two-persons-roll-a-die",
+    "path": "/home/level-2/two-persons-roll-a-die/two-persons-roll-a-die",
     "slug": "two-persons-roll-a-die",
     "title": "Two persons roll a die /",
     "text": "Taro rolls a die and then Jiro rolls a die next. \nIn this case, find the probability that Taro's number is larger than Jiro's number.\nAnswer\n5/12\nSolution\nThe probability when I roll two dice and the number of one is larger than another is 5/6, which is the probability 1/6 of the same number of",
@@ -39666,7 +39666,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/two-points-between-school-and-park",
+    "path": "/home/level-2/two-points-between-school-and-park",
     "slug": "two-points-between-school-and-park",
     "title": "Two points between school and park",
     "text": "There are A point and B point in order on the way from the school to the park. \nHanako left the school at 9:00 a.m. and walked to the park. \nShe took a rest for 7 minutes at A point and took a rest for 12 minutes at B point. \nTaro left the school at 9:20 a.m. and went to the park by bicycle. \nHe",
@@ -39683,7 +39683,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/two-points-between-school-and-park/two-points-between-school-and-park",
+    "path": "/home/level-2/two-points-between-school-and-park/two-points-between-school-and-park",
     "slug": "two-points-between-school-and-park",
     "title": "Two points between school and park /",
     "text": "There are A point and B point in order on the way from the school to the park. \nHanako left the school at 9:00 a.m. and walked to the park. \nShe took a rest for 7 minutes at A point and took a rest for 12 minutes at B point. \nTaro left the school at 9:20 a.m. and went to the park by bicycle. \nHe",
@@ -39700,7 +39700,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/two-points-moving-on-a-diameter",
+    "path": "/home/level-2/two-points-moving-on-a-diameter",
     "slug": "two-points-moving-on-a-diameter",
     "title": "Two points moving on a diameter",
     "text": "The figure is a circle centering on the point O with radius of 6 cm. \nThe diameters AB and CD cross right-angled. \nThe point P leaves A and goes back and forth between A and O at 3 cm/s without stopping. \nThe point Q leaves B and goes back and forth between B and O at 2 cm/s without stopping. \nP",
@@ -39794,7 +39794,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/two-points-moving-on-a-diameter/two-points-moving-on-a-diameter",
+    "path": "/home/level-2/two-points-moving-on-a-diameter/two-points-moving-on-a-diameter",
     "slug": "two-points-moving-on-a-diameter",
     "title": "Two points moving on a diameter /",
     "text": "The figure is a circle centering on the point O with radius of 6 cm. \nThe diameters AB and CD cross right-angled. \nThe point P leaves A and goes back and forth between A and O at 3 cm/s without stopping. \nThe point Q leaves B and goes back and forth between B and O at 2 cm/s without stopping. \nP",
@@ -39883,7 +39883,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/two-squares-and-one-circle",
+    "path": "/home/level-2/two-squares-and-one-circle",
     "slug": "two-squares-and-one-circle",
     "title": "Two squares and one circle",
     "text": "As shown in a figure, there are two squares and there is a circle in a small square.\nFind the area of a shadow area. \nPi is assumed to be 3.14.",
@@ -39945,7 +39945,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/two-squares-and-one-circle/two-squares-and-one-circle",
+    "path": "/home/level-2/two-squares-and-one-circle/two-squares-and-one-circle",
     "slug": "two-squares-and-one-circle",
     "title": "Two squares and one circle /",
     "text": "As shown in a figure, there are two squares and there is a circle in a small square. \nFind the area of a shadow area. \nPi is assumed to be 3.14.",
@@ -40007,7 +40007,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/two-way-speed-walking-on-the-escalator",
+    "path": "/home/level-2/two-way-speed-walking-on-the-escalator",
     "slug": "two-way-speed-walking-on-the-escalator",
     "title": "Two way speed walking on the escalator",
     "text": "There is a escalator going up to the second floor from the first floor. \nIf you go up to walk on the escalator, you will reach the second floor by 50 steps. \nIf you walk on the escalator doubled the speed of walking, you will reach the second floor by 60 steps. \nHow many steps are there in this",
@@ -40015,7 +40015,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/two-way-speed-walking-on-the-escalator/two-way-speed-walking-on-the-escalator",
+    "path": "/home/level-2/two-way-speed-walking-on-the-escalator/two-way-speed-walking-on-the-escalator",
     "slug": "two-way-speed-walking-on-the-escalator",
     "title": "Two way speed walking on the escalator /",
     "text": "There is a escalator going up to the second floor from the first floor. \nIf you go up to walk on the escalator, you will reach the second floor by 50 steps. \nIf you walk on the escalator doubled the speed of walking, you will reach the second floor by 60 steps. \nHow many steps are there in this",
@@ -40023,7 +40023,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/visitors-line-at-aquarium",
+    "path": "/home/level-2/visitors-line-at-aquarium",
     "slug": "visitors-line-at-aquarium",
     "title": "Visitors' line at aquarium",
     "text": "In a certain aquarium there began to become a visitors' line  before opening and number of visitors are increasing in the line at a fixed rate per minute. \nIf three windows of admission ticket sale are opened simultaneously at the time of opening of the aquarium, the visitors' line will disappear",
@@ -40064,7 +40064,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/visitors-line-at-aquarium/visitors-line-at-aquarium",
+    "path": "/home/level-2/visitors-line-at-aquarium/visitors-line-at-aquarium",
     "slug": "visitors-line-at-aquarium",
     "title": "Visitors' line at aquarium /",
     "text": "In a certain aquarium there began to become a visitors' line  before opening and number of visitors are increasing in the line at a fixed rate per minute. \nIf three windows of admission ticket sale are opened simultaneously at the time of opening of the aquarium, the visitors' line will disappear",
@@ -40105,7 +40105,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/walk-along-riverside-and-ship-in-the-river",
+    "path": "/home/level-2/walk-along-riverside-and-ship-in-the-river",
     "slug": "walk-along-riverside-and-ship-in-the-river",
     "title": "Walk along riverside and ship in the river",
     "text": "There are P point where is upstream of the river and Q point where is downstream. \nThere is a ship which repeats going back and forth between PQ and this ship stops at P and Q for 18 minutes, respectively. \nTaro walked along the riverside way from Q to P. When Taro left Q, the ship left P at the",
@@ -40113,7 +40113,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/walk-along-riverside-and-ship-in-the-river/walk-along-riverside-and-ship-in-the-river",
+    "path": "/home/level-2/walk-along-riverside-and-ship-in-the-river/walk-along-riverside-and-ship-in-the-river",
     "slug": "walk-along-riverside-and-ship-in-the-river",
     "title": "Walk along riverside and ship in the river /",
     "text": "There are P point where is upstream of the river and Q point where is downstream. \nThere is a ship which repeats going back and forth between PQ and this ship stops at P and Q for 18 minutes, respectively. \nTaro walked along the riverside way from Q to P. \nWhen Taro left Q, the ship left P at the",
@@ -40121,7 +40121,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/walk-on-40-steps-escalator",
+    "path": "/home/level-2/walk-on-40-steps-escalator",
     "slug": "walk-on-40-steps-escalator",
     "title": "Walk on 40 steps escalator",
     "text": "There is the up escalator in which there are 40 steps when it stops. \nIt was just in 16 steps when I walked on this escalator from the 1st floor to the 2nd floor. \nWhat ratio is it between the speed of escalator and the speed of walk ?",
@@ -40129,7 +40129,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/walk-on-40-steps-escalator/walk-on-40-steps-escalator",
+    "path": "/home/level-2/walk-on-40-steps-escalator/walk-on-40-steps-escalator",
     "slug": "walk-on-40-steps-escalator",
     "title": "Walk on 40 steps escalator /",
     "text": "There is the up escalator in which there are 40 steps when it stops. \nIt was just in 16 steps when I walked on this escalator from the 1st floor to the 2nd floor. \nWhat ratio is it between the speed of escalator and the speed of walk ?  \nAnswer\n3 : 2\nSolution\nBecause there is 40 steps of number of",
@@ -40218,7 +40218,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/walk-to-the-next-bus-stop",
+    "path": "/home/level-2/walk-to-the-next-bus-stop",
     "slug": "walk-to-the-next-bus-stop",
     "title": "Walk to the next bus stop",
     "text": "In order for Taro to take a bus, he went to the bus stop A. \nHe had to wait for the bus for 24 minutes. \nThen, he walked at the speed of 70 m per minute to the next bus stop B. \nHe was passed by the bus 27 minutes after having begun to walk. \nHe walked for 18 minutes furthermore and arrived at the",
@@ -40226,7 +40226,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/walk-to-the-next-bus-stop/walk-to-the-next-bus-stop",
+    "path": "/home/level-2/walk-to-the-next-bus-stop/walk-to-the-next-bus-stop",
     "slug": "walk-to-the-next-bus-stop",
     "title": "Walk to the next bus stop /",
     "text": "In order for Taro to take a bus, he went to the bus stop A. \nHe had to wait for the bus for 24 minutes. \nThen, he walked at the speed of 70 m per minute to the next bus stop B. \nHe was passed by the bus 27 minutes after having begun to walk. \nHe walked for 18 minutes furthermore and arrived at the",
@@ -40234,7 +40234,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/walking-and-running-around-a-pond",
+    "path": "/home/level-2/walking-and-running-around-a-pond",
     "slug": "walking-and-running-around-a-pond",
     "title": "Walking and running around a pond",
     "text": "Taro walks around a certain pond with fixed speed and Jiro is running with fixed speed in the opposite direction of Taro. \n20 minutes after passing each other first time, Taro and Jiro passed each other again. \nThen when Taro began running with the increased speed by 150 m/m, they passed each",
@@ -40251,7 +40251,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/walking-and-running-around-a-pond/walking-and-running-around-a-pond",
+    "path": "/home/level-2/walking-and-running-around-a-pond/walking-and-running-around-a-pond",
     "slug": "walking-and-running-around-a-pond",
     "title": "Walking and running around a pond /",
     "text": "Taro walks around a certain pond with fixed speed and Jiro is running with fixed speed in the opposite direction of Taro. \n20 minutes after passing each other first time, Taro and Jiro passed each other again. \nThen when Taro began running with the increased speed by 150 m/m, they passed each",
@@ -40268,7 +40268,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/water-and-wine-in-two-vessels",
+    "path": "/home/level-2/water-and-wine-in-two-vessels",
     "slug": "water-and-wine-in-two-vessels",
     "title": "Water and wine in two vessels",
     "text": "There are two vessels, A and B, the water of 1L is contained in A, and the wine of 1L is contained in B. \nAfter having taken out the water of 1dL from A into B and stirring enough, the mixed-solution of 1dL was returned to A from B. \nIs there more amount of the water in B than the amount of the",
@@ -40276,7 +40276,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/water-and-wine-in-two-vessels/water-and-wine-in-two-vessels",
+    "path": "/home/level-2/water-and-wine-in-two-vessels/water-and-wine-in-two-vessels",
     "slug": "water-and-wine-in-two-vessels",
     "title": "Water and wine in two vessels /",
     "text": "There are two vessels, A and B, the water of 1L is contained in A, and the wine of 1L is contained in B. \nAfter having taken out the water of 1dL from A into B and stirring enough, the mixed-solution of 1dL was returned to A from B. \nIs there more amount of the water in B than the amount of the",
@@ -40284,7 +40284,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/leve/water-into-three-tanks",
+    "path": "/home/level-2/water-into-three-tanks",
     "slug": "water-into-three-tanks",
     "title": "Water into three tanks",
     "text": "There are three kinds of tanks with equal capacity which are the rectangular prism as shown in the figure. \nThe side of the tank on which there is the same mark expresses the same length. \nThe graph expresses a relation with the depth of the water and time when the same amount of water per minute",
@@ -40346,7 +40346,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/water-into-three-tanks/water-into-three-tanks",
+    "path": "/home/level-2/water-into-three-tanks/water-into-three-tanks",
     "slug": "water-into-three-tanks",
     "title": "Water into three tanks /",
     "text": "There are three kinds of tanks with equal capacity which are the rectangular prism as shown in the figure. \nThe side of the tank on which there is the same mark expresses the same length. \nThe graph expresses a relation with the depth of the water and time when the same amount of water per minute",
@@ -40399,7 +40399,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/water-moves-in-three-tanks",
+    "path": "/home/level-2/water-moves-in-three-tanks",
     "slug": "water-moves-in-three-tanks",
     "title": "Water moves in three tanks",
     "text": "As shown in a figure, there are three water tank of different sizes. Every tank is a rectangular prism. \nIn addition, A and B, B and C are connected by a thin pipe with a cock X, Y respectively. \nWhen the cock is opened, water in connected two water tanks moves through the pipe until height of the",
@@ -40461,7 +40461,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/water-moves-in-three-tanks/water-moves-in-three-tanks",
+    "path": "/home/level-2/water-moves-in-three-tanks/water-moves-in-three-tanks",
     "slug": "water-moves-in-three-tanks",
     "title": "Water moves in three tanks /",
     "text": "As shown in a figure, there are three water tank of different sizes. Every tank is a rectangular prism. \nIn addition, A and B, B and C are connected by a thin pipe with a cock X, Y respectively. \nWhen the cock is opened, water in connected two water tanks moves through the pipe until height of the",
@@ -40518,7 +40518,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/which-house-is-whose",
+    "path": "/home/level-2/which-house-is-whose",
     "slug": "which-house-is-whose",
     "title": "Which house is whose",
     "text": "The house of Taro, Hanako, Jiro, and Sakura is either A ~ D in the figure below. \n4 people said as follows. \nOnly 3 people are telling the truth. \nWhich is a house of four people each ? \nTaro said \"Hanako's house is located due east of mine.\" \nHanako said \"Jiro's house is located due south of",
@@ -40607,7 +40607,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/which-house-is-whose/which-house-is-whose",
+    "path": "/home/level-2/which-house-is-whose/which-house-is-whose",
     "slug": "which-house-is-whose",
     "title": "Which house is whose /",
     "text": "The house of Taro, Hanako, Jiro, and Sakura is either A ~ D in the figure below. \n4 people said as follows. \nOnly 3 people are telling the truth. \nWhich is a house of four people each ? \nTaro said \"Hanako's house is located due east of mine.\" \nHanako said \"Jiro's house is located due south of",
@@ -40701,7 +40701,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/whistle-from-express-train",
+    "path": "/home/level-2/whistle-from-express-train",
     "slug": "whistle-from-express-train",
     "title": "Whistle from express train",
     "text": "When the express train approached the nonstop station and sounded a whistle for 5 seconds, I could hear it for 4.8 seconds at the station. \nWhen this train goes away from the station and sound a whistle for 5 seconds, how long do I hear the sound of whistle ? \nThe speed of the sound assumes 340m",
@@ -40758,7 +40758,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/whistle-from-express-train/whistle-from-express-train",
+    "path": "/home/level-2/whistle-from-express-train/whistle-from-express-train",
     "slug": "whistle-from-express-train",
     "title": "Whistle from express train /",
     "text": "When the express train approached the nonstop station and sounded a whistle for 5 seconds, I could hear it for 4.8 seconds at the station. \nWhen this train goes away from the station and sound a whistle for 5 seconds, how long do I hear the sound of whistle ? \nThe speed of the sound assumes 340m",
@@ -40815,7 +40815,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/year-of-showa-era-and-ad",
+    "path": "/home/level-2/year-of-showa-era-and-ad",
     "slug": "year-of-showa-era-and-ad",
     "title": "Year of Showa era and A.D.",
     "text": "In Japan, as a method of representing a number of years, utilizing era in addition to A.D.\nThe previous era of the current era Heisei was Showa.\nShowa 1 is A.D. 1926 and Showa era is until Showa 64 which is A.D. 1989. \nFind the number of times of the year which the year of A.D. can be divided by",
@@ -40864,7 +40864,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/leve/year-of-showa-era-and-ad/year-of-showa-era-and-ad",
+    "path": "/home/level-2/year-of-showa-era-and-ad/year-of-showa-era-and-ad",
     "slug": "year-of-showa-era-and-ad",
     "title": "Year of Showa era and A.D. /",
     "text": "In Japan, as a method of representing a number of years, utilizing era in addition to A.D. \nThe previous era of the current era Heisei was Showa. \nShowa 1 is A.D. 1926 and Showa era is until Showa 64 which is A.D. 1989. \nFind the number of times of the year which the year of A.D. can be divided by",
@@ -40913,7 +40913,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1",
+    "path": "/home/level-2l-1",
     "slug": "level-1",
     "title": "Level 1",
     "text": "Operations\n    A.1    Number added to be over 1000 of the sum          \n    A.2    2/3 of 5 hours and 15 minutes        \n    A.3    Number of bottles filled with water       \n    A.4    Magic square 3 x 3            \n    A.5    Magic square 3 x 3 (2)       \nProperties\n    B.1    Operation with",
@@ -41002,7 +41002,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/1--4--7--10---------58-1",
+    "path": "/home/level-2l-1/1--4--7--10---------58-1",
     "slug": "1--4--7--10---------58-1",
     "title": "1 + 4 + 7 + 10 + ----- + 58 = ?",
     "text": "1＋4＋7＋10＋・・・・＋58 = ?",
@@ -41091,7 +41091,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/1--4--7--10---------58-1/1--4--7--10---------58",
+    "path": "/home/level-2l-1/1--4--7--10---------58-1/1--4--7--10---------58",
     "slug": "1--4--7--10---------58",
     "title": "1 + 4 + 7 + 10 + ----- + 58 = ? /",
     "text": "1＋4＋7＋10＋・・・・＋58 = ?\nAnswer\n590\nSolution\nThis sequence of numbers is arithmetic progression with first number 1 and equal difference 3. \nWe can find that 58 is 20th number in this progression by the calculation of (58 - 1)/3 + 1 = 20. \nTherefore, the sum of them is (1+58) x 20/2 = 590",
@@ -41180,7 +41180,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/100-m-dash",
+    "path": "/home/level-2l-1/100-m-dash",
     "slug": "100-m-dash",
     "title": "100 m dash",
     "text": "Taro races with Jiro 100m. Jiro was 10m this side to the goal when Taro made a goal. If Taro starts from 10m back from a start point, who will win ? \n<Answer>",
@@ -41213,7 +41213,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/100-m-dash/100-m-dash",
+    "path": "/home/level-2l-1/100-m-dash/100-m-dash",
     "slug": "100-m-dash",
     "title": "100 m dash",
     "text": "Taro raced with Jiro 100m dash. \nJiro was 10m this side to the goal when Taro made a goal. \nIf Taro starts from 10m back from a start point, who will win ?",
@@ -41246,7 +41246,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/100-m-dash/100-m-dash-1",
+    "path": "/home/level-2l-1/100-m-dash/100-m-dash-1",
     "slug": "100-m-dash-1",
     "title": "100 m dash /",
     "text": "Taro raced with Jiro 100m dash. \nJiro was 10m this side to the goal when Taro made a goal. \nIf Taro starts from 10m back from a start point, who will win ? \nAnswer\nTaro\nSolution\nSince Jiro can run only 90m while Taro runs 100m, Taro and Jiro stand in a line at 10m before the goal. \nWhile running",
@@ -41287,7 +41287,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/100-steps-of-escalator",
+    "path": "/home/level-2l-1/100-steps-of-escalator",
     "slug": "100-steps-of-escalator",
     "title": "100 steps of escalator",
     "text": "When having stopped, there is an escalator with 100 steps. \nWhen uphill escalator was moving and I went walking up from the first floor, I could take 96 steps to reach the second floor. \nThen, if I would go walking down this uphill escalator from the second floor to the first floor with the same",
@@ -41320,7 +41320,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/100-steps-of-escalator/100-steps-of-escalator",
+    "path": "/home/level-2l-1/100-steps-of-escalator/100-steps-of-escalator",
     "slug": "100-steps-of-escalator",
     "title": "100 steps of escalator /",
     "text": "When having stopped, there is an escalator with 100 steps. \nWhen uphill escalator was moving and I went walking up from the first floor, I could take 96 steps to reach the second floor. \nThen, if I would go walking down this uphill escalator from the second floor to the first floor with the same",
@@ -41353,7 +41353,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/111111111-x-111111111",
+    "path": "/home/level-2l-1/111111111-x-111111111",
     "slug": "111111111-x-111111111",
     "title": "111111111 x 111111111 = ?",
     "text": "11×11＝121 \n111×111＝12321  \nthen \n111111111×111111111=?",
@@ -41382,7 +41382,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/111111111-x-111111111/111111111-x-111111111",
+    "path": "/home/level-2l-1/111111111-x-111111111/111111111-x-111111111",
     "slug": "111111111-x-111111111",
     "title": "111111111 x 111111111 = ? /",
     "text": "11×11＝121 \n111×111＝12321  \nthen \n111111111×111111111=?\nAnswer\n12345678987654321\nSolution\nYou can understand the pattern / regularity from two examples. \n111111111 x 111111111 = 12345678987654321.",
@@ -41443,7 +41443,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/2006-times-multiple-of-two",
+    "path": "/home/level-2l-1/2006-times-multiple-of-two",
     "slug": "2006-times-multiple-of-two",
     "title": "2006 times multiple of two",
     "text": "What is the number of ones digit of which 2 is multiplied 2006 times ?",
@@ -41532,7 +41532,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/2006-times-multiple-of-two/2006-times-multiple-of-two",
+    "path": "/home/level-2l-1/2006-times-multiple-of-two/2006-times-multiple-of-two",
     "slug": "2006-times-multiple-of-two",
     "title": "2006 times multiple of two /",
     "text": "What is the number of ones digit of which 2 is multiplied 2006 times ?\nAnswer\n4\nSolution\nCheck the number of ones digit. \n2 x 2 = 4 --> ones digit is 4. \n2 x 2 x 2 = 8 --> ones digit is 8. \n2 x 2 x 2 x 2 --> 6. \n2 x 2 x 2 x 2 x 2 --->2. \nAs for ones digit, 2-4-8-6 is one cycle of the number. \nThen",
@@ -41621,7 +41621,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/20th-number-of-sequences",
+    "path": "/home/level-2l-1/20th-number-of-sequences",
     "slug": "20th-number-of-sequences",
     "title": "20th number of sequences",
     "text": "There is a sequence of numbers as follows with which the number is located in a line under a certain rule. \nWhat is the 20th number?  \n1，2，2，4，3，6，4，8，5，10，……",
@@ -41710,7 +41710,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/20th-number-of-sequences/20th-number-of-sequences",
+    "path": "/home/level-2l-1/20th-number-of-sequences/20th-number-of-sequences",
     "slug": "20th-number-of-sequences",
     "title": "20th number of sequences /",
     "text": "There is a sequence of numbers as follows with which the number is located in a line under a certain rule. \nWhat is the 20th number?        \n                            \n1，2，2，4，3，6，4，8，5，10，……\nAnswer\n20\nSolution\nThis sequence of numbers is combined by two types of sequence of numbers and arranged",
@@ -41799,7 +41799,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/23-of-5-hours-and-15-minutes",
+    "path": "/home/level-2l-1/23-of-5-hours-and-15-minutes",
     "slug": "23-of-5-hours-and-15-minutes",
     "title": "2/3 of 5 hours and 15 minutes",
     "text": "How many hours and how many minutes are ⅔ of 5 hours and 15 minutes?",
@@ -41888,7 +41888,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/23-of-5-hours-and-15-minutes/23-of-5-hours-and-15-minutes",
+    "path": "/home/level-2l-1/23-of-5-hours-and-15-minutes/23-of-5-hours-and-15-minutes",
     "slug": "23-of-5-hours-and-15-minutes",
     "title": "2/3 of 5 hours and 15 minutes /",
     "text": "How many hours and how many minutes are ⅔ of 5 hours and 15 minutes?",
@@ -41977,7 +41977,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/50-times-multiple-of-three",
+    "path": "/home/level-2l-1/50-times-multiple-of-three",
     "slug": "50-times-multiple-of-three",
     "title": "50 times multiple of three",
     "text": "What is the number of ones digit when you multiply three 50 times (50th power of 3)?",
@@ -42066,7 +42066,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/50-times-multiple-of-three/50-times-multiple-of-three",
+    "path": "/home/level-2l-1/50-times-multiple-of-three/50-times-multiple-of-three",
     "slug": "50-times-multiple-of-three",
     "title": "50 times multiple of three /",
     "text": "What is the number of ones digit when you multiply three 50 times (50th power of 3)?\nAnswer\n9\nSolution\n3 x 3 = 9, 9 x 3 = 27, 27 x 3 = 81, 81 x 3 = 243, ---------.\nThe number of ones digit comes to a repetition of 3-9-7-1. \nCalculates how many times four repetitions are contained in 50 times, it",
@@ -42155,7 +42155,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/55-pieces-of-one-and-five-yen-coins",
+    "path": "/home/level-2l-1/55-pieces-of-one-and-five-yen-coins",
     "slug": "55-pieces-of-one-and-five-yen-coins",
     "title": "55 pieces of one and five yen coins",
     "text": "There were one yen and five yen coins in total 55 pieces. \nThey were exchanged into ten yen coins so that the number of coins might decrease as many as possible. \nThe number of coins became 15 pieces and the number of one yen coins was 2. \nThe one yen coin which suited first should ask for number",
@@ -42244,7 +42244,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/55-pieces-of-one-and-five-yen-coins/55-pieces-of-one-and-five-yen-coins",
+    "path": "/home/level-2l-1/55-pieces-of-one-and-five-yen-coins/55-pieces-of-one-and-five-yen-coins",
     "slug": "55-pieces-of-one-and-five-yen-coins",
     "title": "55 pieces of one and five yen coins /",
     "text": "There were one yen and five yen coins in total 55 pieces. \nThey were exchanged into ten yen coins so that the number of coins might decrease as many as possible. \nThe number of coins became 15 pieces and the number of one yen coins was 2. \nThe one yen coin which suited first should ask for number",
@@ -42333,7 +42333,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/70th-number-of-sequences",
+    "path": "/home/level-2l-1/70th-number-of-sequences",
     "slug": "70th-number-of-sequences",
     "title": "70th number of sequences",
     "text": "There is a following sequence of numbers. \nWhat is the 70th number? \n2, 2, 2, 4, 4, 4, 6, 6, 6, 8, 8, 8, ----------",
@@ -42422,7 +42422,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/70th-number-of-sequences/70th-number-of-sequences",
+    "path": "/home/level-2l-1/70th-number-of-sequences/70th-number-of-sequences",
     "slug": "70th-number-of-sequences",
     "title": "70th number of sequences /",
     "text": "There is a following sequence of numbers. \nWhat is the 70th number? \n2, 2, 2, 4, 4, 4, 6, 6, 6, 8, 8, 8, ----------\nAnswer\n48\nSolution\nSince every three of 2, 4, 6, and 8, are located in a line, three numbers are made into one group in this case. \nFor example, three 6 is the 3rd group. \nIt is",
@@ -42511,7 +42511,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/add-5-or-2-to-a-integer-to-be-multiple",
+    "path": "/home/level-2l-1/add-5-or-2-to-a-integer-to-be-multiple",
     "slug": "add-5-or-2-to-a-integer-to-be-multiple",
     "title": "Add 5 or 2 to a integer to be multiple",
     "text": "Find the largest integer of triple figure which turns into a multiple of 7 when 5 is added and turns into a multiple of 5 when 2 is added.",
@@ -42600,7 +42600,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/add-5-or-2-to-a-integer-to-be-multiple/add-5-or-2-to-a-integer-to-be-multiple",
+    "path": "/home/level-2l-1/add-5-or-2-to-a-integer-to-be-multiple/add-5-or-2-to-a-integer-to-be-multiple",
     "slug": "add-5-or-2-to-a-integer-to-be-multiple",
     "title": "Add 5 or 2 to a integer to be multiple /",
     "text": "Find the largest integer of triple figure which turns into a multiple of 7 when 5 is added and turns into a multiple of 5 when 2 is added. \nAnswer\n968",
@@ -42689,7 +42689,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/angle-at-718",
+    "path": "/home/level-2l-1/angle-at-718",
     "slug": "angle-at-718",
     "title": "Angle at 7:18",
     "text": "What degrees of the smaller angle made with the long hand and an hour hand at 7:18?",
@@ -42778,7 +42778,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/angle-at-718/angle-at-718",
+    "path": "/home/level-2l-1/angle-at-718/angle-at-718",
     "slug": "angle-at-718",
     "title": "Angle at 7:18 /",
     "text": "What degrees of the smaller angle made with the long hand and an hour hand at 7:18?\nAnswer\n111 degrees\nSolution\nAn angle of the long hand and the hour hand is 30°x7=210 degrees at 7:00. \nWhen a clock advances from seven o’clock, the long hand will run after the hour hand. \nBecause the long hand",
@@ -42867,7 +42867,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/angle-in-a-quadrangle",
+    "path": "/home/level-2l-1/angle-in-a-quadrangle",
     "slug": "angle-in-a-quadrangle",
     "title": "Angle in a quadrangle",
     "text": "Find the angle of A in a figure.",
@@ -42889,7 +42889,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/angle-in-a-quadrangle/angle-in-a-quadrangle",
+    "path": "/home/level-2l-1/angle-in-a-quadrangle/angle-in-a-quadrangle",
     "slug": "angle-in-a-quadrangle",
     "title": "Angle in a quadrangle /",
     "text": "Find the angle of A in a figure.",
@@ -42906,7 +42906,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/another-100m-dash",
+    "path": "/home/level-2l-1/another-100m-dash",
     "slug": "another-100m-dash",
     "title": "Another 100m dash",
     "text": "Taro runs 60 m in 8.4 seconds and Jiro runs 60 m in 9.6 seconds. They started at the same time at 100 m race. \nWhen Taro makes a goal, find the distance to the goal for Jiro.",
@@ -42995,7 +42995,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/another-100m-dash/another-100m-dash",
+    "path": "/home/level-2l-1/another-100m-dash/another-100m-dash",
     "slug": "another-100m-dash",
     "title": "Another 100m dash /",
     "text": "Taro runs 60 m in 8.4 seconds and Jiro runs 60 m in 9.6 seconds. \nThey started at the same time at 100 m race. \nWhen Taro makes a goal, find the distance to the goal for Jiro. \nAnswer\n12.5 m",
@@ -43084,7 +43084,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/another-three-digits-number-of-cards",
+    "path": "/home/level-2l-1/another-three-digits-number-of-cards",
     "slug": "another-three-digits-number-of-cards",
     "title": "Another three digits number of cards",
     "text": "When choosing and putting three sheets in order out of  four cards, 0, 1, 3, and 4 and making the number of three digits, how many ways of number of multiple of 2 are made?",
@@ -43173,7 +43173,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/another-three-digits-number-of-cards/another-three-digits-number-of-cards",
+    "path": "/home/level-2l-1/another-three-digits-number-of-cards/another-three-digits-number-of-cards",
     "slug": "another-three-digits-number-of-cards",
     "title": "Another three digits number of cards /",
     "text": "When choosing and putting three sheets in order out of  four cards, 0, 1, 3, and 4 and making the number of three digits, how many ways of number of multiple of 2 are made? \nAnswer\n10 ways\nSolution\nIn this case, it is considered to two cases of placing 4 or 0 in ones digit. \nIn case that 0 placed",
@@ -43262,7 +43262,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/area-of-shadow-area-in-a-circle",
+    "path": "/home/level-2l-1/area-of-shadow-area-in-a-circle",
     "slug": "area-of-shadow-area-in-a-circle",
     "title": "Area of shadow area in a circle",
     "text": "In a figure, AB and CD are vertical. \nAE = 24 cm, BE = 6 cm, CE = 18 cm, DE = 8 cm. \nThe area of a circle is 785 cm2. \nFind the sum of the area of a shadow area.",
@@ -43356,7 +43356,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/area-of-shadow-area-in-a-circle/area-of-shadow-area-in-a-circle",
+    "path": "/home/level-2l-1/area-of-shadow-area-in-a-circle/area-of-shadow-area-in-a-circle",
     "slug": "area-of-shadow-area-in-a-circle",
     "title": "Area of shadow area in a circle /",
     "text": "In a figure, AB and CD are vertical. \nAE = 24 cm, BE = 6 cm, CE = 18 cm, DE = 8 cm. \nThe area of a circle is 785 cm2. \nFind the sum of the area of a shadow area.",
@@ -43454,7 +43454,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/area-of-trapezoid",
+    "path": "/home/level-2l-1/area-of-trapezoid",
     "slug": "area-of-trapezoid",
     "title": "Area of trapezoid",
     "text": "Find the area of trapezoid of the figure.",
@@ -43492,7 +43492,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/area-of-trapezoid/area-of-trapezoid",
+    "path": "/home/level-2l-1/area-of-trapezoid/area-of-trapezoid",
     "slug": "area-of-trapezoid",
     "title": "Area of trapezoid /",
     "text": "Find the area of trapezoid of the figure.",
@@ -43530,7 +43530,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/area-ratio-of--parallelogram-and-two-triangles",
+    "path": "/home/level-2l-1/area-ratio-of--parallelogram-and-two-triangles",
     "slug": "area-ratio-of--parallelogram-and-two-triangles",
     "title": "Area ratio of parallelogram and two triangles",
     "text": "The quadrangle ABCD in a figure is a parallelogram. QS and BC are parallel and RT and CD are also parallel. \nThe point P which is an intersection of QS and RT is on the diagonal line BD. \n(The length of BP) : (length of PD) = 2 : 1. \nFind the area ratio between the sum of the area of the triangle",
@@ -43624,7 +43624,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/area-ratio-of--parallelogram-and-two-triangles/area-ratio-of-parallelogram-and-two-triangles",
+    "path": "/home/level-2l-1/area-ratio-of--parallelogram-and-two-triangles/area-ratio-of-parallelogram-and-two-triangles",
     "slug": "area-ratio-of-parallelogram-and-two-triangles",
     "title": "Area ratio of parallelogram and two triangles /",
     "text": "The quadrangle ABCD in a figure is a parallelogram. QS and BC are parallel and RT and CD are also parallel. \nThe point P which is an intersection of QS and RT is on the diagonal line BD. \n(The length of BP) : (length of PD) = 2 : 1. \nFind the area ratio between the sum of the area of the triangle",
@@ -43722,7 +43722,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/arrangement-of--and",
+    "path": "/home/level-2l-1/arrangement-of--and",
     "slug": "arrangement-of--and",
     "title": "Arrangement of ● and ○",
     "text": "In accordance with a certain rule, ○ and ● are written as follows. It stopped writing with the place which wrote eight ● exactly. How many are there written in all ?",
@@ -43760,7 +43760,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/arrangement-of--and/arrangement-of--and",
+    "path": "/home/level-2l-1/arrangement-of--and/arrangement-of--and",
     "slug": "arrangement-of--and",
     "title": "Arrangement of ● and ○ /",
     "text": "In accordance with a certain rule, ○ and ● are written as follows. It stopped writing with the place which wrote eight ● exactly. \nHow many are there written in all ?",
@@ -43793,7 +43793,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/assemble-development-view",
+    "path": "/home/level-2l-1/assemble-development-view",
     "slug": "assemble-development-view",
     "title": "Assemble development view",
     "text": "The solid represented by the development view of the figure was assembled. \nWhen the developed view of A~D is assembled, which is that becomes the same pattern as this solid to be arranged?",
@@ -43819,7 +43819,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/assemble-development-view-and-water-in",
+    "path": "/home/level-2l-1/assemble-development-view-and-water-in",
     "slug": "assemble-development-view-and-water-in",
     "title": "Assemble development view and water in",
     "text": "The development view of the figure was assembled and the solid with six faces was made.\n(1) Answer all points overlapping with the point G.\n(2) The solid was placed with the face X as the bottom and water was put into half height in this. \nNext, the solid was replaced with the face Y as the",
@@ -43913,7 +43913,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/assemble-development-view-and-water-in/assemble-development-view-and-water-in",
+    "path": "/home/level-2l-1/assemble-development-view-and-water-in/assemble-development-view-and-water-in",
     "slug": "assemble-development-view-and-water-in",
     "title": "Assemble development view and water in /",
     "text": "The development view of the figure was assembled and the solid with six faces was made. \n(1) Answer all points overlapping with the point G. \n(2) The solid was placed with the face X as the bottom and water was put into half height in this. \nNext, the solid was replaced with the face Y as the",
@@ -44002,7 +44002,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/assemble-development-view/assemble-development-view",
+    "path": "/home/level-2l-1/assemble-development-view/assemble-development-view",
     "slug": "assemble-development-view",
     "title": "Assemble development view /",
     "text": "The solid represented by the development view of the figure was assembled. \nWhen the developed view of A~D is assembled, which is that becomes the same pattern as this solid to be arranged?",
@@ -44019,7 +44019,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/average-speed",
+    "path": "/home/level-2l-1/average-speed",
     "slug": "average-speed",
     "title": "Average speed",
     "text": "I went to Point B from point A at 3 km/h and returned to A from B at 6 km/h. \nFind the speed of the average.",
@@ -44108,7 +44108,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/average-speed/average-speed",
+    "path": "/home/level-2l-1/average-speed/average-speed",
     "slug": "average-speed",
     "title": "Average speed /",
     "text": "I went to Point B from point A at 3 km/h and returned to A from B at 6 km/h. \nFind the speed of the average. \nAnswer\n4 km/h\nSolution\nAverage speed should be calculated by the formula of (total of advanced distance) / (total of the taken time). \nFirst of all, because we do not know the distance",
@@ -44197,7 +44197,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/bring-all-poles-to-one-point",
+    "path": "/home/level-2l-1/bring-all-poles-to-one-point",
     "slug": "bring-all-poles-to-one-point",
     "title": "Bring all poles to one point",
     "text": "The pole stands every 5 m between 2 points A and B which are 50 m away. \nI am at A point now thinking that all poles would be brought together to A point. \n Whenever I collect one pole, I return to A point. \nFind the distance where I will walk by the time I bring all poles together to A point.",
@@ -44286,7 +44286,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/bring-all-poles-to-one-point/bring-all-poles-to-one-point",
+    "path": "/home/level-2l-1/bring-all-poles-to-one-point/bring-all-poles-to-one-point",
     "slug": "bring-all-poles-to-one-point",
     "title": "Bring all poles to one point /",
     "text": "The pole stands every 5 m between 2 points A and B which are 50 m away. \nI am at A point now thinking that all poles would be brought together to A point. \nWhenever I collect one pole, I return to A point. \nFind the distance where I will walk by the time I bring all poles together to A point.",
@@ -44375,7 +44375,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/buy-apple-and-orange",
+    "path": "/home/level-2l-1/buy-apple-and-orange",
     "slug": "buy-apple-and-orange",
     "title": "Buy apple and orange",
     "text": "I planed to buy 20 apples and oranges in total. one apple costs 70 yen and one orange costs 40 yen. \nHowever, because I bought the number of apples and oranges adversely, 120 yen remained. \nFind the amount of money planned?",
@@ -44424,7 +44424,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/buy-apple-and-orange/buy-apple-and-orange",
+    "path": "/home/level-2l-1/buy-apple-and-orange/buy-apple-and-orange",
     "slug": "buy-apple-and-orange",
     "title": "Buy apple and orange /",
     "text": "I planed to buy 20 apples and oranges in total. one apple costs 70 yen and one orange costs 40 yen. \nHowever, because I bought the number of apples and oranges adversely, 120 yen remained. \nFind the amount of money planned?\nAnswer\n1160 yen\nSolution\nAs for buying the number of apples and oranges",
@@ -44473,7 +44473,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/calculation-of-measure-of-time",
+    "path": "/home/level-2l-1/calculation-of-measure-of-time",
     "slug": "calculation-of-measure-of-time",
     "title": "Calculation of measure of time",
     "text": "How many times of 1 hour and 20 minutes and 24 seconds is 3 hours and 54 seconds?",
@@ -44562,7 +44562,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/calculation-of-measure-of-time/calculation-of-measure-of-time",
+    "path": "/home/level-2l-1/calculation-of-measure-of-time/calculation-of-measure-of-time",
     "slug": "calculation-of-measure-of-time",
     "title": "Calculation of measure of time /",
     "text": "How many times of 1 hour and 20 minutes and 24 seconds is 3 hours and 54 seconds?\nAnswer\n9/4 times",
@@ -44651,7 +44651,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/change-of-pondage-of-a-dam",
+    "path": "/home/level-2l-1/change-of-pondage-of-a-dam",
     "slug": "change-of-pondage-of-a-dam",
     "title": "Change of pondage of a dam",
     "text": "The pondage of a certain dam this year decreased by 17.5% compared with last year and decreased by 34% compared with the year before last. \nWhat% did the pondage last year decrease compared with the year before last?",
@@ -44740,7 +44740,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/change-of-pondage-of-a-dam/change-of-pondage-of-a-dam",
+    "path": "/home/level-2l-1/change-of-pondage-of-a-dam/change-of-pondage-of-a-dam",
     "slug": "change-of-pondage-of-a-dam",
     "title": "Change of pondage of a dam /",
     "text": "The pondage of a certain dam this year decreased by 17.5% compared with last year and decreased by 34% compared with the year before last. \nWhat% did the pondage last year decrease compared with the year before last?\nAnswer\n20%\nSolution\nAssuming pondage of this year to be 100. Pondage of the last",
@@ -44829,7 +44829,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/change-one-yen-coins-to-five-and-ten-coins",
+    "path": "/home/level-2l-1/change-one-yen-coins-to-five-and-ten-coins",
     "slug": "change-one-yen-coins-to-five-and-ten-coins",
     "title": "Change one yen coins to five and ten coins",
     "text": "There are some one-yen coins. \nWhen I change these into five-yen coins as many as possible, the total number of coins is decreased by 60 pieces. \nFurthermore, when I changes those coins into ten-coins as many as possible, the total number of coins becomes ten pieces. \nFind the number of one-yen",
@@ -44878,7 +44878,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/change-one-yen-coins-to-five-and-ten-coins/change-one-yen-coins-to-five-and-ten-coins",
+    "path": "/home/level-2l-1/change-one-yen-coins-to-five-and-ten-coins/change-one-yen-coins-to-five-and-ten-coins",
     "slug": "change-one-yen-coins-to-five-and-ten-coins",
     "title": "Change one yen coins to five and ten coins /",
     "text": "There are some one-yen coins. \nWhen I change these into five-yen coins as many as possible, the total number of coins is decreased by 60 pieces. \nFurthermore, when I changes those coins into ten-coins as many as possible, the total number of coins becomes ten pieces. \nFind the number of one-yen",
@@ -44927,7 +44927,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/chess-tournament-of-four-peopl",
+    "path": "/home/level-2l-1/chess-tournament-of-four-peopl",
     "slug": "chess-tournament-of-four-peopl",
     "title": "Chess tournament of four people",
     "text": "The chess tournament to play each other at least once was held among four people Taro, Jiro, Hanako, and Fujiko. \nTaro was three wins and one loss, Jiro was one win and two losses, Hanako was three wins and zero losses. \nHow many wins and losses was Fujiko ?",
@@ -45012,7 +45012,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/chess-tournament-of-four-peopl/chess-tournament-of-four-people",
+    "path": "/home/level-2l-1/chess-tournament-of-four-peopl/chess-tournament-of-four-people",
     "slug": "chess-tournament-of-four-people",
     "title": "Chess tournament of four people /",
     "text": "The chess tournament to play each other at least once was held among four people Taro, Jiro, Hanako, and Fujiko. \nTaro was three wins and one loss, Jiro was one win and two losses, Hanako was three wins and zero losses. \nHow many wins and losses was Fujiko ? \nAnswer\nZero win and four",
@@ -45097,7 +45097,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/circle-and-angle",
+    "path": "/home/level-2l-1/circle-and-angle",
     "slug": "circle-and-angle",
     "title": "Circle and angle",
     "text": "In a figure, the point O is the center of a circle and A, B, C, E are points on the circumference.\nIn case OA = DE, find the angle of X and Y.",
@@ -45151,7 +45151,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/circle-and-angle/circle-and-angle",
+    "path": "/home/level-2l-1/circle-and-angle/circle-and-angle",
     "slug": "circle-and-angle",
     "title": "Circle and angle /",
     "text": "In a figure, the point O is the center of a circle and A, B, C, E are points on the circumference. \nIn case OA = DE, find the angle of X and Y.",
@@ -45200,7 +45200,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/circle-and-square-in-a-square",
+    "path": "/home/level-2l-1/circle-and-square-in-a-square",
     "slug": "circle-and-square-in-a-square",
     "title": "Circle and square in a square",
     "text": "As shown in a figure, there are a circle which touches inner side of the square 10 cm one side and a square whose each vertex is on the circumference. \nFind the area of the inside square.",
@@ -45274,7 +45274,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/circle-and-square-in-a-square/circle-and-square-in-a-square",
+    "path": "/home/level-2l-1/circle-and-square-in-a-square/circle-and-square-in-a-square",
     "slug": "circle-and-square-in-a-square",
     "title": "Circle and square in a square /",
     "text": "As shown in a figure, there are a circle which touches inner side of the square 10 cm one side and a square whose each vertex is on the circumference. \nFind the area of the inside square.",
@@ -45348,7 +45348,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/circle-and-triangle",
+    "path": "/home/level-2l-1/circle-and-triangle",
     "slug": "circle-and-triangle",
     "title": "Circle and triangle",
     "text": "There is a circle with a diameter AB as shown in the figure. \nFind the area of the shadow area in the figure. \nPi is assumed to be 3.14.",
@@ -45442,7 +45442,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/circle-and-triangle/circle-and-triangle",
+    "path": "/home/level-2l-1/circle-and-triangle/circle-and-triangle",
     "slug": "circle-and-triangle",
     "title": "Circle and triangle /",
     "text": "There is a circle with a diameter AB as shown in the figure. \nFind the area of the shadow area in the figure. \nPi is assumed to be 3.14.",
@@ -45531,7 +45531,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/compare-height-of-three--mountains",
+    "path": "/home/level-2l-1/compare-height-of-three--mountains",
     "slug": "compare-height-of-three--mountains",
     "title": "Compare height of three  mountains",
     "text": "There are three mountains, A, B, and C. \nIn case that B is 30% higher than A and C is 40 % higher than B, what % is C higher than A ?",
@@ -45556,7 +45556,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/compare-height-of-three--mountains/compare-height-of-three--mountains",
+    "path": "/home/level-2l-1/compare-height-of-three--mountains/compare-height-of-three--mountains",
     "slug": "compare-height-of-three--mountains",
     "title": "Compare height of three  mountains /",
     "text": "There are three mountains, A, B, and C. \nIn case that B is 30% higher than A and C is 40 % higher than B, what % is C higher than A ?\nAnswer\n82%\nSolution\nAssuming that the height of A is 1, the height of B is 1 x (1+0.3) =1.3 and the height of C is 1.3 x (1+0.4) =1.82. \nTherefore C is 82% higher",
@@ -45645,7 +45645,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/concentration-of-salt-solution-after-operation",
+    "path": "/home/level-2l-1/concentration-of-salt-solution-after-operation",
     "slug": "concentration-of-salt-solution-after-operation",
     "title": "Concentration of salt solution after operation",
     "text": "Salt solution 100g is taken out of 1000g of salt solution with 10% concentration and 100g of water is added to the remaining salt solution. \nAfter stirring well, the salt solution 200g is taken out and 200g of water is added. \nFind the concentration of the salt solution at this time.",
@@ -45714,7 +45714,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/concentration-of-salt-solution-after-operation/concentration-of-salt-solution-after-operation",
+    "path": "/home/level-2l-1/concentration-of-salt-solution-after-operation/concentration-of-salt-solution-after-operation",
     "slug": "concentration-of-salt-solution-after-operation",
     "title": "Concentration of salt solution after operation /",
     "text": "Salt solution 100g is taken out of 1000g of salt solution with 10% concentration and 100g of water is added to the remaining salt solution. \nAfter stirring well, the salt solution 200g is taken out and 200g of water is added. \nFind the concentration of the salt solution at this time. \nAnswer\n7.2 %",
@@ -45803,7 +45803,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/consumption-tax-inclusive-price",
+    "path": "/home/level-2l-1/consumption-tax-inclusive-price",
     "slug": "consumption-tax-inclusive-price",
     "title": "Consumption tax inclusive price",
     "text": "The tax-inclusive price which is added 5% of the consumption tax to the product cost is considered. \nThe product cost is considered as an integer and tax-inclusive price is made of omitting figures below a decimal point. \nFor example, when the product cost is 10 yen, the tax-inclusive price is",
@@ -45892,7 +45892,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/consumption-tax-inclusive-price/consumption-tax-inclusive-price",
+    "path": "/home/level-2l-1/consumption-tax-inclusive-price/consumption-tax-inclusive-price",
     "slug": "consumption-tax-inclusive-price",
     "title": "Consumption tax inclusive price /",
     "text": "The tax-inclusive price which is added 5% of the consumption tax to the product cost is considered. \nThe product cost is considered as an integer and tax-inclusive price is made of omitting figures below a decimal point. \nFor example, when the product cost is 10 yen, the tax-inclusive price is",
@@ -45981,7 +45981,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/crack-chocolate-bar",
+    "path": "/home/level-2l-1/crack-chocolate-bar",
     "slug": "crack-chocolate-bar",
     "title": "Crack chocolate bar",
     "text": "There is a chocolate bar which is cracked into 25 pieces in total with the length and width on five lines. \nHow many times must I crack it at least number of times to divide this chocolate bar into 25 pieces without cracking in piles?",
@@ -46038,7 +46038,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/crack-chocolate-bar/crack-chocolate-bar",
+    "path": "/home/level-2l-1/crack-chocolate-bar/crack-chocolate-bar",
     "slug": "crack-chocolate-bar",
     "title": "Crack chocolate bar /",
     "text": "There is a chocolate bar which is cracked into 25 pieces in total with the length and width on five lines. \nHow many times must I crack it at least number of times to divide this chocolate bar into 25 pieces without cracking in piles? \nAnswer\n24 times\nSolution\nIf it is divided once without piling",
@@ -46095,7 +46095,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/cutting-a-cylinder",
+    "path": "/home/level-2l-1/cutting-a-cylinder",
     "slug": "cutting-a-cylinder",
     "title": "Cutting a cylinder",
     "text": "The figure below is a solid obtained by cutting the cylinder on a slant. \nFind its volume. \n Pi is assumed to be 3.",
@@ -46189,7 +46189,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/cutting-a-cylinder/cutting-a-cylinder",
+    "path": "/home/level-2l-1/cutting-a-cylinder/cutting-a-cylinder",
     "slug": "cutting-a-cylinder",
     "title": "Cutting a cylinder /",
     "text": "The figure below is a solid obtained by cutting the cylinder on a slant. \nFind its volume. \nPi is assumed to be 3.",
@@ -46278,7 +46278,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/decimals-to-be-represented-by-fraction",
+    "path": "/home/level-2l-1/decimals-to-be-represented-by-fraction",
     "slug": "decimals-to-be-represented-by-fraction",
     "title": "Decimals to be represented by fraction",
     "text": "Represent 0.214214214214 -------- by a fraction.",
@@ -46286,7 +46286,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/level-1/decimals-to-be-represented-by-fraction/decimals-to-be-represented-by-fraction",
+    "path": "/home/level-2l-1/decimals-to-be-represented-by-fraction/decimals-to-be-represented-by-fraction",
     "slug": "decimals-to-be-represented-by-fraction",
     "title": "Decimals to be represented by fraction /",
     "text": "Represent 0.214214214214 -------- by a fraction. \nAnswer\n214/999\nSolution\n0.214214214… × 1000 = 214.214214214…\n214.214214214...... - 0.214214214214… = 214.\n214 = 0.214214214214… × (1000 -1 ) = 0.214214214214… × 999\nTherefore, 0.214214214214…＝ 214/999",
@@ -46294,7 +46294,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/level-1/development-view-is-square",
+    "path": "/home/level-2l-1/development-view-is-square",
     "slug": "development-view-is-square",
     "title": "Development view is square",
     "text": "Find the volume of the solid that can be assembled by the deployment view as shown below.",
@@ -46316,7 +46316,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/development-view-is-square/development-view-is-square",
+    "path": "/home/level-2l-1/development-view-is-square/development-view-is-square",
     "slug": "development-view-is-square",
     "title": "Development view is square /",
     "text": "Find the volume of the solid that can be assembled by the deployment view as shown below.",
@@ -46333,7 +46333,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/difference-of-three-clocks",
+    "path": "/home/level-2l-1/difference-of-three-clocks",
     "slug": "difference-of-three-clocks",
     "title": "Difference of three clocks",
     "text": "Three clocks, A, B and C were set at noon of one day. \nWhen it was 6:00 p.m. by A, it was 5:50 p.m. by B In the same day. \nWhen it was 7:00 p.m. by B, it was 7:20 p.m. by C. \nWhen it is 11:00 p.m. by C of the day, find the time of A and B.",
@@ -46422,7 +46422,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/difference-of-three-clocks/difference-of-three-clocks",
+    "path": "/home/level-2l-1/difference-of-three-clocks/difference-of-three-clocks",
     "slug": "difference-of-three-clocks",
     "title": "Difference of three clocks /",
     "text": "Three clocks, A, B and C were set at noon of one day. \nWhen it was 6:00 p.m. by A, it was 5:50 p.m. by B In the same day. \nWhen it was 7:00 p.m. by B, it was 7:20 p.m. by C. \nWhen it is 11:00 p.m. by C of the day, find the time of A and B.\nAnswer\nA : 10:48 p.m.   B : 10:30 p.m.\nSolution\nBecause",
@@ -46511,7 +46511,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/discounted-price-with-no-loss",
+    "path": "/home/level-2l-1/discounted-price-with-no-loss",
     "slug": "discounted-price-with-no-loss",
     "title": "Discounted price with no loss",
     "text": "Taro bought in 150 goods whose one cost price is 3000 yen. \nHe started to sell goods at the fixed price with the expected profit of 60 percent of the cost price, but only 50 pieces were sold. \nThen, he decided to make the price of remaining goods discounted by 20 percent of the fixed price and",
@@ -46544,7 +46544,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/discounted-price-with-no-loss/discounted-price-with-no-loss",
+    "path": "/home/level-2l-1/discounted-price-with-no-loss/discounted-price-with-no-loss",
     "slug": "discounted-price-with-no-loss",
     "title": "Discounted price with no loss /",
     "text": "Taro bought in 150 goods whose one cost price is 3000 yen. \nHe started to sell goods at the fixed price with the expected profit of 60 percent of the cost price, but only 50 pieces were sold. \nThen, he decided to make the price of remaining goods discounted by 20 percent of the fixed price and",
@@ -46577,7 +46577,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/distribution-of-three--fruits",
+    "path": "/home/level-2l-1/distribution-of-three--fruits",
     "slug": "distribution-of-three--fruits",
     "title": "Distribution of three  fruits",
     "text": "Many people gathered in the party. \nI prepared three kinds of fruit to be distributed to each person. \nRate of allocation was that one melon for seven people, one apple for three people and one pear for four people. \nThere was no rest and all fruit could be distributed. \nThe total number of the",
@@ -46662,7 +46662,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/distribution-of-three--fruits/distribution-of-three--fruits",
+    "path": "/home/level-2l-1/distribution-of-three--fruits/distribution-of-three--fruits",
     "slug": "distribution-of-three--fruits",
     "title": "Distribution of three  fruits /",
     "text": "Many people gathered in the party. \nI prepared three kinds of fruit to be distributed to each person. \nRate of allocation was that one melon for seven people, one apple for three people and one pear for four people. \nThere was no rest and all fruit could be distributed. The total number of the",
@@ -46747,7 +46747,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/divide-l-character-type-figure",
+    "path": "/home/level-2l-1/divide-l-character-type-figure",
     "slug": "divide-l-character-type-figure",
     "title": "Divide L character type figure",
     "text": "There is an L character type figure which cut off 1/4 of the square as shown in the figure below. \nDivide this figure into four congruent figures.",
@@ -46841,7 +46841,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/divide-l-character-type-figure/divide-l-character-type-figure",
+    "path": "/home/level-2l-1/divide-l-character-type-figure/divide-l-character-type-figure",
     "slug": "divide-l-character-type-figure",
     "title": "Divide L character type figure /",
     "text": "There is an L character type figure which cut off 1/4 of the square as shown in the figure below. \nDivide this figure into four congruent figures.",
@@ -46935,7 +46935,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/divided-by-4-and-5",
+    "path": "/home/level-2l-1/divided-by-4-and-5",
     "slug": "divided-by-4-and-5",
     "title": "Divided by 4 and 5",
     "text": "Among the numbers which will remain 2 when it is divided by 4, and will remain 3 when it is divided by 5, what is the largest number of two-digit numbers?",
@@ -47024,7 +47024,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/divided-by-4-and-5/divided-by-4-and-5",
+    "path": "/home/level-2l-1/divided-by-4-and-5/divided-by-4-and-5",
     "slug": "divided-by-4-and-5",
     "title": "Divided by 4 and 5 /",
     "text": "Among the numbers which will remain 2 when it is divided by 4, and will remain 3 when it is divided by 5, what is the largest number \nof two-digit numbers? \nAnswer\n98\nSolution\nA number which will remain 2 when it is divided by 4 and remain 3 when it is divided by 5 is to be a number which can be",
@@ -47113,7 +47113,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/divisible-number-of-the-product-of-integers",
+    "path": "/home/level-2l-1/divisible-number-of-the-product-of-integers",
     "slug": "divisible-number-of-the-product-of-integers",
     "title": "Divisible number of the product of integers",
     "text": "When you divide by 78 the product of the integers multiplied from 1 in order, what is the smallest integer that you can divide by 78?",
@@ -47138,7 +47138,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/divisible-number-of-the-product-of-integers/divisible-number-of-the-product-of-integers",
+    "path": "/home/level-2l-1/divisible-number-of-the-product-of-integers/divisible-number-of-the-product-of-integers",
     "slug": "divisible-number-of-the-product-of-integers",
     "title": "Divisible number of the product of integers /",
     "text": "When you divide by 78 the product of the integers multiplied from 1 in order, what is the smallest integer that you can divide by 78?\nAnswer\n13\nSolution\n78 is factorized into prime factor as 78 = 2 x 3 x 13. \nSince if you multiply from 1 to 13, then 2, 3, and 13 are contained, the product of",
@@ -47227,7 +47227,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/division-of-quadrangle",
+    "path": "/home/level-2l-1/division-of-quadrangle",
     "slug": "division-of-quadrangle",
     "title": "Division of quadrangle",
     "text": "As shown in the figure below, the quadrangle PQRS is divided into four parts by the diagonal line. \nThe area of ​​A is 4 cm2, B is 12 cm2, C is 15 cm2. \nFind the area of D.",
@@ -47316,7 +47316,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/division-of-quadrangle/division-of-quadrangle",
+    "path": "/home/level-2l-1/division-of-quadrangle/division-of-quadrangle",
     "slug": "division-of-quadrangle",
     "title": "Division of quadrangle /",
     "text": "As shown in the figure below, the quadrangle PQRS is divided into four parts by the diagonal line. \nThe area of ​​A is 4 cm2, B is 12 cm2, C is 15 cm2. \nFind the area of D.",
@@ -47410,7 +47410,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/division-of-triangle-into-six",
+    "path": "/home/level-2l-1/division-of-triangle-into-six",
     "slug": "division-of-triangle-into-six",
     "title": "Division of triangle into six",
     "text": "The figure below is a graphic of six triangles with equal area created by drawing a line in the interior of the triangle ABC. \nBC = 24 cm. \nFind the length of DF.",
@@ -47496,7 +47496,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/division-of-triangle-into-six/division-of-triangle-into-six",
+    "path": "/home/level-2l-1/division-of-triangle-into-six/division-of-triangle-into-six",
     "slug": "division-of-triangle-into-six",
     "title": "Division of triangle into six /",
     "text": "The figure below is a graphic of six triangles with equal area created by drawing a line in the interior of the triangle ABC. \nBC = 24 cm. \nFind the length of DF.",
@@ -47577,7 +47577,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/division-to-the-3rd-decimal",
+    "path": "/home/level-2l-1/division-to-the-3rd-decimal",
     "slug": "division-to-the-3rd-decimal",
     "title": "Division to the 3rd decimal",
     "text": "When the integer A was divided by the integer B, the quotient was 32 and remainder was 10.\nFurthermore, when division process was continued to the 3rd decimal digit, it was 32.322 and it was not divisible yet. \nFind the integers A and B.",
@@ -47638,7 +47638,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/division-to-the-3rd-decimal/division-to-the-3rd-decimal",
+    "path": "/home/level-2l-1/division-to-the-3rd-decimal/division-to-the-3rd-decimal",
     "slug": "division-to-the-3rd-decimal",
     "title": "Division to the 3rd decimal /",
     "text": "When the integer A was divided by the integer B, the quotient was 32 and remainder was 10.\nFurthermore, when division process was continued to the 3rd decimal digit, it was 32.322 and it was not divisible yet. \nFind the integers A and B. \nAnswer\nA = 1002\nB = 31\nSolution\nAccording to the problem",
@@ -47707,7 +47707,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/drain-away-the-water-in-the-tank",
+    "path": "/home/level-2l-1/drain-away-the-water-in-the-tank",
     "slug": "drain-away-the-water-in-the-tank",
     "title": "Drain away the water in the tank",
     "text": "There was water full in the tank. I scheduled to drain away the water in the tank at the rate of 6m3 per minute. \nAfter started draining, the volume of water in the tank became ¾ of the full and it was rescheduled. \nAfter the change, I drained at the ratio of 7m3 per minute until the volume of the",
@@ -47732,7 +47732,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/drain-away-the-water-in-the-tank/drain-away-the-water-in-the-tank",
+    "path": "/home/level-2l-1/drain-away-the-water-in-the-tank/drain-away-the-water-in-the-tank",
     "slug": "drain-away-the-water-in-the-tank",
     "title": "Drain away the water in the tank /",
     "text": "There was water full in the tank. I scheduled to drain away the water in the tank at the rate of 6m3 per minute.\nAfter started draining, the volume of water in the tank became ¾ of the full and it was rescheduled.\nAfter the change, I drained at the ratio of 7m3 per minute until the volume of the",
@@ -47757,7 +47757,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/exchange-rate-of-pound-and-won",
+    "path": "/home/level-2l-1/exchange-rate-of-pound-and-won",
     "slug": "exchange-rate-of-pound-and-won",
     "title": "Exchange rate of pound and won",
     "text": "The unit of British money is pound and the unit of South Korean money is won. \nWhen 1 pound = 180 yen and 1 won = 0.11 yen, how much is 77 pounds in won?",
@@ -47802,7 +47802,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/exchange-rate-of-pound-and-won/exchange-rate-of-pound-and-won",
+    "path": "/home/level-2l-1/exchange-rate-of-pound-and-won/exchange-rate-of-pound-and-won",
     "slug": "exchange-rate-of-pound-and-won",
     "title": "Exchange rate of pound and won /",
     "text": "The unit of British money is pound and the unit of South Korean money is won. \nWhen 1 pound = 180 yen and 1 won = 0.11 yen, how much is 77 pounds in won?\nAnswer\n126000 won",
@@ -47847,7 +47847,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/exchange-rate-of-yen-and-us-dollar",
+    "path": "/home/level-2l-1/exchange-rate-of-yen-and-us-dollar",
     "slug": "exchange-rate-of-yen-and-us-dollar",
     "title": "Exchange rate of Yen and US dollar",
     "text": "Yesterday I could exchange some amount of Japanese yen I had into 100 US dollars. \nToday the Japanese yen of the same amount as yesterday can be exchanged for 1.02 times as many dollars, but I exchanged 12750 yen into 100 US dollars. \nFind the amount of money of the Japanese yen which it had",
@@ -47896,7 +47896,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/exchange-rate-of-yen-and-us-dollar/exchange-rate-of-yen-and-us-dollar",
+    "path": "/home/level-2l-1/exchange-rate-of-yen-and-us-dollar/exchange-rate-of-yen-and-us-dollar",
     "slug": "exchange-rate-of-yen-and-us-dollar",
     "title": "Exchange rate of Yen and US dollar /",
     "text": "Yesterday I could exchange some amount of Japanese yen I had into 100 US dollars.\nToday the Japanese yen of the same amount as yesterday can be exchanged for 1.02 times as many dollars, but I exchanged 12750 yen into 100 US dollars. \nFind the amount of money of the Japanese yen which it had",
@@ -47945,7 +47945,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/famous-problem-of-bacteria",
+    "path": "/home/level-2l-1/famous-problem-of-bacteria",
     "slug": "famous-problem-of-bacteria",
     "title": "Famous problem of bacteria",
     "text": "If you put one bacteria in the bottle which split into two bacteria in one minute, the bottle was filled with bacteria in 120 minutes. How many minutes does it take for this bottle to be half by bacteria ?",
@@ -48002,7 +48002,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/famous-problem-of-bacteria/famous-problem-of-bacteria",
+    "path": "/home/level-2l-1/famous-problem-of-bacteria/famous-problem-of-bacteria",
     "slug": "famous-problem-of-bacteria",
     "title": "Famous problem of bacteria /",
     "text": "If you put one bacteria in the bottle which split into two bacteria in one minute, the bottle was filled with bacteria in 120 minutes. How many minutes does it take for this bottle to be half by bacteria ?  \nAnswer\n119 minutes\nSolution\nIt takes 119 minutes to be exactly half of the bottle because",
@@ -48059,7 +48059,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/fast-clock-and-slow-clock",
+    "path": "/home/level-2l-1/fast-clock-and-slow-clock",
     "slug": "fast-clock-and-slow-clock",
     "title": "Fast clock and slow clock",
     "text": "There are the two clocks A and B. \nThe clock A moves too slow by 1 minute in 2 hours and the clock B moves too fast by 2 minutes in 3 hours. \nIn the evening of one day, the clock A pointed 6:05 and the clock B pointed 6:00. \nWhen setting the alarm of the clock B to 7:00, the bell of the clock B",
@@ -48148,7 +48148,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/fast-clock-and-slow-clock/fast-clock-and-slow-clock",
+    "path": "/home/level-2l-1/fast-clock-and-slow-clock/fast-clock-and-slow-clock",
     "slug": "fast-clock-and-slow-clock",
     "title": "Fast clock and slow clock /",
     "text": "There are the two clocks A and B. \nThe clock A moves too slow by 1 minute in 2 hours and the clock B moves too fast by 2 minutes in 3 hours. \nIn the evening of one day, the clock A pointed 6:05 and the clock B pointed 6:00. \nWhen setting the alarm of the clock B to 7:00, the bell of the clock B",
@@ -48237,7 +48237,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/fish-burning-machine",
+    "path": "/home/level-2l-1/fish-burning-machine",
     "slug": "fish-burning-machine",
     "title": "Fish burning machine",
     "text": "There is a fish burning machine which can burn up to two fish at once, and it takes 5 minutes to burn one side.\nHow many minutes does it take for three fish to be burned double-sided at the shortest ?",
@@ -48326,7 +48326,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/fish-burning-machine/fish-burning-machine",
+    "path": "/home/level-2l-1/fish-burning-machine/fish-burning-machine",
     "slug": "fish-burning-machine",
     "title": "Fish burning machine /",
     "text": "There is a fish burning machine which can burn up to two fish at once, and it takes 5 minutes to burn one side. \nHow many minutes does it take for three fish to be burned double-sided at the shortest ?\nAnswer\n15 minutes\nSolution\nAssume that we burn three fish, A, B, and C.\nFirst, we burn one side",
@@ -48415,7 +48415,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/five-persons-in-the-train",
+    "path": "/home/level-2l-1/five-persons-in-the-train",
     "slug": "five-persons-in-the-train",
     "title": "Five persons in the train",
     "text": "Five persons took the train for 2 hours. \nSince only three seat were available, they sat down by turns in the same time. \nHow many minutes is the time for one person to sit down?",
@@ -48504,7 +48504,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/five-persons-in-the-train/five-persons-in-the-train",
+    "path": "/home/level-2l-1/five-persons-in-the-train/five-persons-in-the-train",
     "slug": "five-persons-in-the-train",
     "title": "Five persons in the train /",
     "text": "Five persons took the train for 2 hours. \nSince only three seat were available, they sat down by turns in the same time. \nHow many minutes is the time for one person to sit down? \nAnswer\n72 minutes\nSolution\nOne seat is available for 2 hour = 120 minutes. \nAs the number of seats is three, it can be",
@@ -48593,7 +48593,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/five-persons-standing-in-a-line",
+    "path": "/home/level-2l-1/five-persons-standing-in-a-line",
     "slug": "five-persons-standing-in-a-line",
     "title": "Five persons standing in a line",
     "text": "Five persons, A, B, C, D, and E, are standing in a line.\n- A is not the foremost.\n- E is close behind A.\n- There are two persons between C and A.\n- D is close behind C.\nWrite five persons in order from the first.",
@@ -48642,7 +48642,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/five-persons-standing-in-a-line/five-persons-standing-in-a-line",
+    "path": "/home/level-2l-1/five-persons-standing-in-a-line/five-persons-standing-in-a-line",
     "slug": "five-persons-standing-in-a-line",
     "title": "Five persons standing in a line /",
     "text": "Five persons, A, B, C, D, and E, are standing in a line. \n- A is not the foremost. \n- E is close behind A. \n- There are two persons between C and A. \n- D is close behind C. \nWrite five persons in order from the first. \nAnswer\nC, D, B, A, E",
@@ -48691,7 +48691,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/five-rectangles-of-same-area",
+    "path": "/home/level-2l-1/five-rectangles-of-same-area",
     "slug": "five-rectangles-of-same-area",
     "title": "Five rectangles of same area",
     "text": "It is considered such rectangles (including squares) as the length of each side is integers (measure is cm). \nThere are five kinds of rectangles of which the area is same. \nFind the smallest area among such areas. \nNoted that two rectangles which can overlap exactly should be considered as the",
@@ -48732,7 +48732,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/five-rectangles-of-same-area/five-rectangles-of-same-area",
+    "path": "/home/level-2l-1/five-rectangles-of-same-area/five-rectangles-of-same-area",
     "slug": "five-rectangles-of-same-area",
     "title": "Five rectangles of same area /",
     "text": "It is considered such rectangles (including squares) as the length of each side is integers (measure is cm). \nThere are five kinds of rectangles of which the area is same. \nFind the smallest area among such areas. \nNoted that two rectangles which can overlap exactly should be considered as the",
@@ -48773,7 +48773,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/folding-back-of-square",
+    "path": "/home/level-2l-1/folding-back-of-square",
     "slug": "folding-back-of-square",
     "title": "Folding back of square",
     "text": "The quadrangle ABCD in figure is a square. When the triangle BCE is folded at CE as crease, B overlaps with F. \nWhen you connect E and F, A and C with a line, find the angle of the smaller one among the angles in the corners where EF and AC cross.",
@@ -48863,7 +48863,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/folding-back-of-square/folding-back-of-square",
+    "path": "/home/level-2l-1/folding-back-of-square/folding-back-of-square",
     "slug": "folding-back-of-square",
     "title": "Folding back of square /",
     "text": "The quadrangle ABCD in figure is a square. \nWhen the triangle BCE is folded at CE as crease, B overlaps with F. \nWhen you connect E and F, A and C with a line, find the angle of the smaller one among the angles in the corners where EF and AC cross.",
@@ -48953,7 +48953,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/four-articles-in-four-boxes-with-price-tag",
+    "path": "/home/level-2l-1/four-articles-in-four-boxes-with-price-tag",
     "slug": "four-articles-in-four-boxes-with-price-tag",
     "title": "Four articles in four boxes with price tag /",
     "text": "Since the article of 100 yen, 200 yen, 300 yen, and 400 yen had been put into four boxes of the same size, it was not distinguishable anymore from outside. \nWhen attaching a 100 yen, 200 yen, 300 yen, and 400 yen price tag to these four boxes, respectively, how many ways are there to attach price",
@@ -48994,7 +48994,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/four-articles-in-four-boxes-with-price-tag-1",
+    "path": "/home/level-2l-1/four-articles-in-four-boxes-with-price-tag-1",
     "slug": "four-articles-in-four-boxes-with-price-tag-1",
     "title": "Four articles in four boxes with price tag",
     "text": "Since the article of 100 yen, 200 yen, 300 yen, and 400 yen had been put into four boxes of the same size, it was not distinguishable anymore from outside. \nWhen attaching a 100 yen, 200 yen, 300 yen, and 400 yen price tag to these four boxes, respectively, how many ways are there to attach price",
@@ -49035,7 +49035,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/four-children-between-parents",
+    "path": "/home/level-2l-1/four-children-between-parents",
     "slug": "four-children-between-parents",
     "title": "Four children between parents",
     "text": "How many ways of forming line that four children stand in one line of side among parents are there? \nParents stand at the both ends of the line.",
@@ -49060,7 +49060,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/four-children-between-parents/four-children-between-parents",
+    "path": "/home/level-2l-1/four-children-between-parents/four-children-between-parents",
     "slug": "four-children-between-parents",
     "title": "Four children between parents /",
     "text": "How many ways of forming line that four children stand in one line of side among parents are there? \nParents stand at the both ends of the line.\nAnswer\n48 ways\nSolution\nThe way of forming line of four children is 4 x 3 x 2 x 1 = 24 ways. The way of forming both ends of parents is two ways of",
@@ -49149,7 +49149,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/four-integers-of-two-digit",
+    "path": "/home/level-2l-1/four-integers-of-two-digit",
     "slug": "four-integers-of-two-digit",
     "title": "Four integers of two digit",
     "text": "There are four integers of two digit. \nThe sum and difference of two numbers of these four numbers were all investigated. \nThe largest number in sum is 187 and the smallest number is 137. \nThe largest number in difference is 40 and the smallest number is 10. \nFind the 2nd smallest number among",
@@ -49238,7 +49238,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/four-integers-of-two-digit/four-integers-of-two-digit",
+    "path": "/home/level-2l-1/four-integers-of-two-digit/four-integers-of-two-digit",
     "slug": "four-integers-of-two-digit",
     "title": "Four integers of two digit /",
     "text": "There are four integers of two digit. \nThe sum and difference of two numbers of these four numbers were all investigated. \nThe largest number in sum is 187 and the smallest number is 137. \nThe largest number in difference is 40 and the smallest number is 10. \nFind the 2nd smallest number among",
@@ -49327,7 +49327,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/fraction-between-two-fractions",
+    "path": "/home/level-2l-1/fraction-between-two-fractions",
     "slug": "fraction-between-two-fractions",
     "title": "Fraction between two fractions",
     "text": "Find all the fractions in the fraction in lowest terms of which a denominator is 60 and which is larger than 3/5 and smaller than 13/18.",
@@ -49416,7 +49416,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/fraction-between-two-fractions/fraction-between-two-fractions",
+    "path": "/home/level-2l-1/fraction-between-two-fractions/fraction-between-two-fractions",
     "slug": "fraction-between-two-fractions",
     "title": "Fraction between two fractions /",
     "text": "Find all the fractions in the fraction in lowest terms of which a denominator is 60 and which is larger than 3/5 and smaller than 13/18. \nAnswer\n37/60,  41/60,  43/60",
@@ -49505,7 +49505,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/fraction-can-not-be-reduced",
+    "path": "/home/level-2l-1/fraction-can-not-be-reduced",
     "slug": "fraction-can-not-be-reduced",
     "title": "Fraction can not be reduced",
     "text": "How many fractions are there which cannot be reduced to its lowest numbers among 1/45, 2/45, 3/45 -- 44/45 ?",
@@ -49594,7 +49594,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/fraction-can-not-be-reduced/fraction-can-not-be-reduced",
+    "path": "/home/level-2l-1/fraction-can-not-be-reduced/fraction-can-not-be-reduced",
     "slug": "fraction-can-not-be-reduced",
     "title": "Fraction can not be reduced /",
     "text": "How many fractions are there which cannot be reduced to its lowest numbers among 1/45, 2/45, 3/45 -- 44/45 ?  \nAnswer\n24 fractions\nSolution\nSince 45= 3 x 3 x 5, it turns out that the fraction of which denominator is 45 can be reduced by the multiple of 3 and 5.\nNamely, we should find the number",
@@ -49683,7 +49683,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/fraction-denoted-by-the-decimal",
+    "path": "/home/level-2l-1/fraction-denoted-by-the-decimal",
     "slug": "fraction-denoted-by-the-decimal",
     "title": "Fraction denoted by the decimal",
     "text": "When a certain fraction was denoted by the decimal and the 3rd decimal place was rounded off, it was to be 0.32. \nFind the smallest denominator among such fractions.",
@@ -49724,7 +49724,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/fraction-denoted-by-the-decimal/fraction-denoted-by-the-decimal",
+    "path": "/home/level-2l-1/fraction-denoted-by-the-decimal/fraction-denoted-by-the-decimal",
     "slug": "fraction-denoted-by-the-decimal",
     "title": "Fraction denoted by the decimal /",
     "text": "When a certain fraction was denoted by the decimal and the 3rd decimal place was rounded off, it was to be 0.32. \nFind the smallest denominator among such fractions. \nAnswer\n6/19\nSolution\nThe fraction to be found is that it is 0.315 or more and smaller than 0.325 when it is changed to a decimal.",
@@ -49813,7 +49813,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/gcd-is-8",
+    "path": "/home/level-2l-1/gcd-is-8",
     "slug": "gcd-is-8",
     "title": "G.C.D. is 8",
     "text": "Greatest common divisor of 16 and a certain number is 8, the least common multiple is 48. \nFind a certain number.",
@@ -49902,7 +49902,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/gcd-is-8/gcd-is-8",
+    "path": "/home/level-2l-1/gcd-is-8/gcd-is-8",
     "slug": "gcd-is-8",
     "title": "G.C.D. is 8 /",
     "text": "Greatest common divisor of 16 and a certain number is 8, the least common multiple is 48. \nFind a certain number.\nAnswer\n24\nSolution\nThe product of a certain number and 16 is equal to the product of the greatest common divisor and the least common multiple. Therefore, a certain number is (the",
@@ -49991,7 +49991,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/give-and-take-between-two-persons",
+    "path": "/home/level-2l-1/give-and-take-between-two-persons",
     "slug": "give-and-take-between-two-persons",
     "title": "Give and take between two persons",
     "text": "The ratio of the amount of the money that Taro and Jiro had was 7 : 4. When Taro gave 150 yen to Jiro, the ratio of the money that Taro and Jiro had became 8 : 5.\nFind the amount of the money Taro had first.",
@@ -50080,7 +50080,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/give-and-take-between-two-persons/give-and-take-between-two-persons",
+    "path": "/home/level-2l-1/give-and-take-between-two-persons/give-and-take-between-two-persons",
     "slug": "give-and-take-between-two-persons",
     "title": "Give and take between two persons /",
     "text": "The ratio of the amount of the money that Taro and Jiro had was 7 : 4. \nWhen Taro gave 150 yen to Jiro, the ratio of the money that Taro and Jiro had became 8 : 5. \nFind the amount of the money Taro had first.\nAnswer\n4550 yen\nSolution\nSince the sum total of two persons' money in hand does not",
@@ -50169,7 +50169,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/got-over-a-pass",
+    "path": "/home/level-2l-1/got-over-a-pass",
     "slug": "got-over-a-pass",
     "title": "Got over a pass",
     "text": "I got over a pass after leaving the departure point and went to a certain destination and returned to the departure point through the way to which I came. \nAt this time it took 6 hours and a half of going and 7 hours and a half of returning. \nFind the distance from a departure point to the",
@@ -50258,7 +50258,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/got-over-a-pass/got-over-a-pass",
+    "path": "/home/level-2l-1/got-over-a-pass/got-over-a-pass",
     "slug": "got-over-a-pass",
     "title": "Got over a pass /",
     "text": "I got over a pass after leaving the departure point and went to a certain destination and returned to the departure point through the way to which I came. \nAt this time it took 6 hours and a half of going and 7 hours and a half of returning. \nFind the distance from a departure point to the",
@@ -50347,7 +50347,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/hand-out-apples-oranges-and-bananas-1",
+    "path": "/home/level-2l-1/hand-out-apples-oranges-and-bananas-1",
     "slug": "hand-out-apples-oranges-and-bananas-1",
     "title": "Hand out apples, oranges, and bananas",
     "text": "When I tried to hand out equally to children 43 apples, 60 oranges and 48 bananas, three of apples remained and lack of four oranges.\nAll bananas were handed out. \nHow many children are there ?",
@@ -50380,7 +50380,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/hand-out-apples-oranges-and-bananas-1/hand-out-apples-oranges-and-bananas",
+    "path": "/home/level-2l-1/hand-out-apples-oranges-and-bananas-1/hand-out-apples-oranges-and-bananas",
     "slug": "hand-out-apples-oranges-and-bananas",
     "title": "Hand out apples, oranges, and bananas /",
     "text": "When I tried to hand out equally to children 43 apples, 60 oranges and 48 bananas, three of apples remained and lack of four oranges.\nAll bananas were handed out. \nHow many children are there ?\nAnswer\n8 persons\nSolution\nAs for apples, the number I can hand out with no remainder is 40 ( 43 - 3 =",
@@ -50469,7 +50469,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/hand-out-presents-to-two-of-four-persons",
+    "path": "/home/level-2l-1/hand-out-presents-to-two-of-four-persons",
     "slug": "hand-out-presents-to-two-of-four-persons",
     "title": "Hand out presents to two of four persons",
     "text": "There are two kinds of goods. \nHow many ways of the delivery which I pass one of them to two persons each out of four persons ?",
@@ -50518,7 +50518,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/hand-out-presents-to-two-of-four-persons/hand-out-presents-to-two-of-four-persons",
+    "path": "/home/level-2l-1/hand-out-presents-to-two-of-four-persons/hand-out-presents-to-two-of-four-persons",
     "slug": "hand-out-presents-to-two-of-four-persons",
     "title": "Hand out presents to two of four persons /",
     "text": "There are two kinds of goods. \nHow many ways of the delivery which I pass one of them to two persons each out of four persons ? \nAnswer\n12 ways\nSolution\nThe number of ways of choosing two persons among four persons is (4 x 3)/ ( 2 x 1) =6 ways. \nThe number of ways of handing out 2 goods to to two",
@@ -50607,7 +50607,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/hand-out-presents-to-two-persons",
+    "path": "/home/level-2l-1/hand-out-presents-to-two-persons",
     "slug": "hand-out-presents-to-two-persons",
     "title": "Hand out presents to two persons",
     "text": "How many ways of handing out one of four kinds of presents to two persons each ?",
@@ -50648,7 +50648,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/hand-out-presents-to-two-persons/hand-out-presents-to-two-persons",
+    "path": "/home/level-2l-1/hand-out-presents-to-two-persons/hand-out-presents-to-two-persons",
     "slug": "hand-out-presents-to-two-persons",
     "title": "Hand out presents to two persons /",
     "text": "How many ways of handing out one of four kinds of presents to two persons each ?\nAnswer\n12 ways\nSolution\nThe number of ways of choosing two from four kinds is (4 x 3) /  (2 x 1) = 6 ways. \nThe number of ways of handing out two kind to two persons is 2 x 1 = 2 ways. \nIn all, 6 x 2 = 12 ways.",
@@ -50737,7 +50737,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/hexagonal-column",
+    "path": "/home/level-2l-1/hexagonal-column",
     "slug": "hexagonal-column",
     "title": "Hexagonal column",
     "text": "The solid of the figure is a hexagonal column whose bottom is a right hexagon.\n(1) Find the number of sides parallel to side AB.\n(2) Find the number of faces vertical to the face X.\n(3) Find the number of faces vertical to the side AG.",
@@ -50831,7 +50831,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/hexagonal-column/hexagonal-column",
+    "path": "/home/level-2l-1/hexagonal-column/hexagonal-column",
     "slug": "hexagonal-column",
     "title": "Hexagonal column /",
     "text": "The solid of the figure is a hexagonal column whose bottom is a right hexagon. \n(1) Find the number of sides parallel to side AB. \n(2) Find the number of faces vertical to the face X. \n(3) Find the number of faces vertical to the side AG.",
@@ -50920,7 +50920,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/home-work-plan-in-summer-vacation",
+    "path": "/home/level-2l-1/home-work-plan-in-summer-vacation",
     "slug": "home-work-plan-in-summer-vacation",
     "title": "Home work plan in summer vacation",
     "text": "Taro and Jiro respectively decided to make a plan to do homework of the mathematics in the summer vacation. \n Taro decided to solve three problems a day from the first day of the summer vacation. Jiro decided not do its homework for six days of the beginning of the summer vacation and from seventh",
@@ -50953,7 +50953,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/home-work-plan-in-summer-vacation/home-work-plan-in-summer-vacation",
+    "path": "/home/level-2l-1/home-work-plan-in-summer-vacation/home-work-plan-in-summer-vacation",
     "slug": "home-work-plan-in-summer-vacation",
     "title": "Home work plan in summer vacation /",
     "text": "Home work plan in summer vacation /",
@@ -50961,7 +50961,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/level-1/how-many-liars-in-four",
+    "path": "/home/level-2l-1/how-many-liars-in-four",
     "slug": "how-many-liars-in-four",
     "title": "How many liars in four ?",
     "text": "Four persons, A, B, C, and D, said as follows : \nA said \"B is a liar.\" \nB said \"C is a liar.\" \nC said \"D is a liar.\" \nD said \"A is a liar.\" \nHow many liars are there among these four persons ?",
@@ -50986,7 +50986,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/how-many-liars-in-four/how-many-liars-in-four",
+    "path": "/home/level-2l-1/how-many-liars-in-four/how-many-liars-in-four",
     "slug": "how-many-liars-in-four",
     "title": "How many liars in four ? /",
     "text": "Four persons, A, B, C, and D, said as follows : \nA said \"B is a liar.\" \nB said \"C is a liar.\" \nC said \"D is a liar.\" \nD said \"A is a liar.\" \nHow many liars are there among these four persons ? \nAnswer\nTwo persons\nSolution\nIn case A is a liar, C is also a liar and B and D are the honest. \nIn case A",
@@ -51043,7 +51043,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/how-many-rectangles",
+    "path": "/home/level-2l-1/how-many-rectangles",
     "slug": "how-many-rectangles",
     "title": "How many rectangles",
     "text": "How many rectangles ( if that is the square included) are there in the figure below?",
@@ -51065,7 +51065,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/how-many-rectangles/how-many-rectangles",
+    "path": "/home/level-2l-1/how-many-rectangles/how-many-rectangles",
     "slug": "how-many-rectangles",
     "title": "How many rectangles /",
     "text": "How many rectangles ( if that is the square included) are there in the figure below?",
@@ -51082,7 +51082,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/integer-dived-by-4-and-5",
+    "path": "/home/level-2l-1/integer-dived-by-4-and-5",
     "slug": "integer-dived-by-4-and-5",
     "title": "Integer divided by 4 and 5",
     "text": "When a integer is divided by 4, remainder is 2 and when it is divided by 5, remainder is 3.\nFind the largest integer of tens digit applicable to this result.",
@@ -51171,7 +51171,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/integer-dived-by-4-and-5/integer-dived-by-4-and-5",
+    "path": "/home/level-2l-1/integer-dived-by-4-and-5/integer-dived-by-4-and-5",
     "slug": "integer-dived-by-4-and-5",
     "title": "Integer divided by 4 and 5 /",
     "text": "When a integer is divided by 4, remainder is 2 and when it is divided by 5, remainder is 3.\nFind the largest integer of tens digit applicable to this result.\nAnswer\n98\nSolution\nWhat remainder is 2 when a certain number is divided by 4 means that if you add 2 to the certain number, it can be",
@@ -51260,7 +51260,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/intersections-with-straight-lines-1",
+    "path": "/home/level-2l-1/intersections-with-straight-lines-1",
     "slug": "intersections-with-straight-lines-1",
     "title": "Intersections with straight lines",
     "text": "I make a point of intersection with straight lines as many as possible. \nThere is one point of intersection at most with two lines and there are three points at most with three lines. \nHow many points are there at most with eight lines ?",
@@ -51333,7 +51333,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/intersections-with-straight-lines-1/intersections-with-straight-lines",
+    "path": "/home/level-2l-1/intersections-with-straight-lines-1/intersections-with-straight-lines",
     "slug": "intersections-with-straight-lines",
     "title": "Intersections with straight lines /",
     "text": "I make a point of intersection with straight lines as many as possible. \nThere is one point of intersection at most with two lines and there are three points at most with three lines. \nHow many points are there at most with eight lines ?\nAnswer\n28 points\nSolution\nWhen you increase one straight",
@@ -51406,7 +51406,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/janken-and-take-marbles",
+    "path": "/home/level-2l-1/janken-and-take-marbles",
     "slug": "janken-and-take-marbles",
     "title": "Janken and take marbles",
     "text": "Three persons, A, B, and C played the following game.\nWhen they play a janken (scissors-paper-rock) and only one person wins, the winner can get same number of marbles as marbles which the winner has from losers, respectively.\nThe game is over at the time someone's marbles are lost.\nAt first game",
@@ -51471,7 +51471,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/janken-and-take-marbles/janken-and-take-marbles",
+    "path": "/home/level-2l-1/janken-and-take-marbles/janken-and-take-marbles",
     "slug": "janken-and-take-marbles",
     "title": "Janken and take marbles /",
     "text": "Three persons, A, B, and C played the following game. \nWhen they play a janken (scissors-paper-rock) and only one person wins, the winner can get same number of marbles as marbles which the winner has from losers, respectively. \nThe game is over at the time someone's marbles are lost. \nAt first",
@@ -51536,7 +51536,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/jiro-pursue-taro",
+    "path": "/home/level-2l-1/jiro-pursue-taro",
     "slug": "jiro-pursue-taro",
     "title": "Jiro pursue Taro",
     "text": "Answer the following questions.\n(1) Taro continues walking first 3km at 4 km/h and afterwards at 3 km/h. \nFind the distance he walks in 2 hours.\n(2) 2 hours after Taro leaves, Jiro pursues Taro from the same point. Jiro moves first 4 km at 15 km/h and afterwards at 12 km/h by bicycle. \nFind the",
@@ -51625,7 +51625,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/jiro-pursue-taro/jiro-pursue-taro",
+    "path": "/home/level-2l-1/jiro-pursue-taro/jiro-pursue-taro",
     "slug": "jiro-pursue-taro",
     "title": "Jiro pursue Taro /",
     "text": "Answer the following questions. \n(1) Taro continues walking first 3km at 4 km/h and afterwards at 3 km/h. \nFind the distance he walks in 2 hours. \n(2) 2 hours after Taro leaves, Jiro pursues Taro from the same point. Jiro moves first 4 km at 15 km/h and afterwards at 12 km/h by bicycle. \nFind the",
@@ -51714,7 +51714,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/length-in-quadrangle",
+    "path": "/home/level-2l-1/length-in-quadrangle",
     "slug": "length-in-quadrangle",
     "title": "Length in quadrangle",
     "text": "Find X in the quadrangle in the figure.",
@@ -51736,7 +51736,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/length-in-quadrangle/length-in-quadrangle",
+    "path": "/home/level-2l-1/length-in-quadrangle/length-in-quadrangle",
     "slug": "length-in-quadrangle",
     "title": "Length in quadrangle /",
     "text": "Find X in the quadrangle in the figure.",
@@ -51753,7 +51753,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/length-in-rectangle",
+    "path": "/home/level-2l-1/length-in-rectangle",
     "slug": "length-in-rectangle",
     "title": "Length in rectangle",
     "text": "There is a rectangle as shown in the figure. \nAB = 3.5 cm, AD = 8.4 cm, BD = 9.1 cm. \nAE is vertical to BD. \nFind the length of AE at this time.",
@@ -51847,7 +51847,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/length-in-rectangle/length-in-rectangle",
+    "path": "/home/level-2l-1/length-in-rectangle/length-in-rectangle",
     "slug": "length-in-rectangle",
     "title": "Length in rectangle /",
     "text": "There is a rectangle as shown in the figure. \nAB = 3.5 cm, AD = 8.4 cm, BD = 9.1 cm. \nAE is vertical to BD. \nFind the length of AE at this time.",
@@ -51936,7 +51936,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/length-of-extended-toilet-paper",
+    "path": "/home/level-2l-1/length-of-extended-toilet-paper",
     "slug": "length-of-extended-toilet-paper",
     "title": "Length of extended toilet paper",
     "text": "There is toilet paper whose diameter of the core is 4 cm and 10 cm in diameter. \nThe thickness of paper is 0.2 mm. \nWhen this toilet paper is lengthened without breaking is, find the full length. \nPi is assumed to be 3.14. \nAnswer rounding off the 1st decimal place.",
@@ -52030,7 +52030,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/length-of-extended-toilet-paper/length-of-extended-toilet-paper",
+    "path": "/home/level-2l-1/length-of-extended-toilet-paper/length-of-extended-toilet-paper",
     "slug": "length-of-extended-toilet-paper",
     "title": "Length of extended toilet paper /",
     "text": "There is toilet paper whose diameter of the core is 4 cm and 10 cm in diameter. \nThe thickness of paper is 0.2 mm. \nWhen this toilet paper is lengthened without breaking is, find the full length. \nPi is assumed to be 3.14. \nAnswer rounding off the 1st decimal place.",
@@ -52119,7 +52119,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/level1drill",
+    "path": "/home/level-2l-1/level1drill",
     "slug": "level1drill",
     "title": "Level1Drill",
     "text": "Day1\nDay2",
@@ -52156,7 +52156,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/level1drill/day1",
+    "path": "/home/level-2l-1/level1drill/day1",
     "slug": "day1",
     "title": "Day1",
     "text": "Answer&Solution\nP1 Operation with fraction (distribution)\nFind the number in X. \n X/4 - X/7 = 3\nP2 Magic square 3 × 3 \nAs shown in the figure, five numbers are put in nine grids. \nOther numbers are put into the remaining grids and it is arranged that products of three numbers in any vertical or",
@@ -52266,7 +52266,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/level1drill/day1/level1day1-answersolution",
+    "path": "/home/level-2l-1/level1drill/day1/level1day1-answersolution",
     "slug": "level1day1-answersolution",
     "title": "Level1Day1-Answer&Solution",
     "text": "P1 Operation with fraction (distribution)\nFind the number in X. \n X/4 - X/7 = 3\nAnswer\n28\nSolution\nX/4 - X/7 = 3 \nX x 1/4 - X  x 1/7 = 3\n \nAccording to the distributive principle, this formula is to be \nX x (1/4 - 1/7) = 3 \n1/4 - 1/7 = 3/28 \nX x 3/28 = 3\n \n∴ X = 3 / (3/28) = 28\nP2 Magic square 3 ×",
@@ -52376,7 +52376,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/list-price-discounted",
+    "path": "/home/level-2l-1/list-price-discounted",
     "slug": "list-price-discounted",
     "title": "List price discounted",
     "text": "If you sell a product of list price 100yen at 20% discount, it is the loss of 10yen. \nHow much is the cost price of this product?",
@@ -52393,7 +52393,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/list-price-discounted/list-price-discounted",
+    "path": "/home/level-2l-1/list-price-discounted/list-price-discounted",
     "slug": "list-price-discounted",
     "title": "List price discounted /",
     "text": "If you sell a product of list price 100yen at 20% discount, it is the loss of 10yen. \n How much is the cost price of this product?\nAnswer\n90 yen\nSolution\nThe 20% discount of 100 yen is this for 100 yen X (1-0.2) = 80 yen. \nAs for the cost price, it is 80 yen +10 yen = 90 yen to lose 10 yen.",
@@ -52482,7 +52482,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/magic-square-3-x-3-1",
+    "path": "/home/level-2l-1/magic-square-3-x-3-1",
     "slug": "magic-square-3-x-3-1",
     "title": "Magic square 3 x 3",
     "text": "In the table it is made that sum total of each three integers in the line of length, width, and slant become equal. \nFind the number applicable to A.",
@@ -52571,7 +52571,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/magic-square-3-x-3-1/magic-square-3-x-3",
+    "path": "/home/level-2l-1/magic-square-3-x-3-1/magic-square-3-x-3",
     "slug": "magic-square-3-x-3",
     "title": "Magic square 3 x 3 /",
     "text": "In the table it is made that sum total of each three integers in the line of length, width, and slant become equal. \nFind the number applicable to A.",
@@ -52660,7 +52660,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/magic-square-3-x-3-2",
+    "path": "/home/level-2l-1/magic-square-3-x-3-2",
     "slug": "magic-square-3-x-3-2",
     "title": "Magic square 3 x 3 (2)",
     "text": "As shown in the figure, five numbers are put in nine grids. \nOther numbers are put into the remaining grids and it is arranged that products of three numbers in any vertical or horizontal row become same. \nFind the number in A at this time.",
@@ -52754,7 +52754,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/magic-square-3-x-3-2/magic-square-3-x-3-2",
+    "path": "/home/level-2l-1/magic-square-3-x-3-2/magic-square-3-x-3-2",
     "slug": "magic-square-3-x-3-2",
     "title": "Magic square 3 x 3 (2) /",
     "text": "As shown in the figure, five numbers are put in nine grids. \nOther numbers are put into the remaining grids and it is arranged that products of three numbers in any vertical or horizontal row become same. \nFind the number in A at this time.",
@@ -52843,7 +52843,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/make-a-square-of-go-stones",
+    "path": "/home/level-2l-1/make-a-square-of-go-stones",
     "slug": "make-a-square-of-go-stones",
     "title": "Make a square of \"go\" stones",
     "text": "When I arranged \"go\" stones without a gap to make a square, 8 pieces remained. \nTried to increase one line of length and width, but lacked 11 pieces. \nHow many go stones are there? \n(\"go\" is a board game for two players who place white or black stone on a grid.)",
@@ -52932,7 +52932,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/make-a-square-of-go-stones/make-a-square-of-go-stones",
+    "path": "/home/level-2l-1/make-a-square-of-go-stones/make-a-square-of-go-stones",
     "slug": "make-a-square-of-go-stones",
     "title": "Make a square of \"go\" stones /",
     "text": "When I arranged \"go\" stones without a gap to make a square, 8 pieces remained. \nTried to increase one line of length and width, but lacked 11 pieces. \nHow many go stones are there? \n(\"go\" is a board game for two players who place white or black stone on a grid.)\nAnswer\n89 pieces\nSolution\nIt is",
@@ -53021,7 +53021,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/merger-of-three-towns",
+    "path": "/home/level-2l-1/merger-of-three-towns",
     "slug": "merger-of-three-towns",
     "title": "Merger of three towns",
     "text": "There are three towns of A, B and C in a certain district. \nThe ratio of the area of the town is A : B : C = 3 : 5 : 2, the ratio of the population is A : B : C = 5 : 4 : 3. \nIf A town merges with B town, there is a new town of the population density of 7065 people per 1 km2. \n If A town merges",
@@ -53110,7 +53110,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/merger-of-three-towns/merger-of-three-towns",
+    "path": "/home/level-2l-1/merger-of-three-towns/merger-of-three-towns",
     "slug": "merger-of-three-towns",
     "title": "Merger of three towns /",
     "text": "There are three towns of A, B and C in a certain district. \nThe ratio of the area of the town is A : B : C = 3 : 5 : 2, the ratio of the population is A : B : C = 5 : 4 : 3. \nIf A town merges with B town, there is a new town of the population density of 7065 people per 1 km2. \n If A town merges",
@@ -53199,7 +53199,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/move-half-distance-of-before",
+    "path": "/home/level-2l-1/move-half-distance-of-before",
     "slug": "move-half-distance-of-before",
     "title": "Move half distance of before",
     "text": "In order to go to a certain place 10 km from here, I'm going to move forward as follows : \nFirst time, I move 5 km. \nSecond time I move 2.5 km of the half of 5 km. \nThird time I move 1.25 km of half of 2.5 km. -------- \nWhen I move forward like above, how many times does it it take to reach the",
@@ -53288,7 +53288,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/move-half-distance-of-before/move-half-distance-of-before",
+    "path": "/home/level-2l-1/move-half-distance-of-before/move-half-distance-of-before",
     "slug": "move-half-distance-of-before",
     "title": "Move half distance of before /",
     "text": "In order to go to a certain place 10 km from here, I'm going to move forward as follows : \nFirst time, I move 5 km. \nSecond time I move 2.5 km of the half of 5 km. \nThird time I move 1.25 km of half of 2.5 km. -------- \nWhen I move forward like above, how many times does it it take to reach the",
@@ -53377,7 +53377,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/move-water-among-three-tanks",
+    "path": "/home/level-2l-1/move-water-among-three-tanks",
     "slug": "move-water-among-three-tanks",
     "title": "Move water among three tanks",
     "text": "Water is contained in the three tanks A, B, and C. \nFirst, after moving 1/3 of the water of A to B, 1/3 of the water remaining in A was moved to C. \nNext, after moving 1/3 of the water of B to C, 1/3 of the water remaining in B was moved to A. \nAs a result, the volume ratio of water remaining in",
@@ -53466,7 +53466,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/move-water-among-three-tanks/move-water-among-three-tanks",
+    "path": "/home/level-2l-1/move-water-among-three-tanks/move-water-among-three-tanks",
     "slug": "move-water-among-three-tanks",
     "title": "Move water among three tanks /",
     "text": "Water is contained in the three tanks A, B, and C.\nFirst, after moving 1/3 of the water of A to B, 1/3 of the water remaining in A was moved to C.\nNext, after moving 1/3 of the water of B to C, 1/3 of the water remaining in B was moved to A.\nAs a result, the volume ratio of water remaining in A,",
@@ -53555,7 +53555,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/no-pair-of-two-persons",
+    "path": "/home/level-2l-1/no-pair-of-two-persons",
     "slug": "no-pair-of-two-persons",
     "title": "No pair of two persons",
     "text": "Five people of A,B,C,D,E stand in one line of side. \nHow many ways of forming line in case A and B should not be side-by-side are there?",
@@ -53604,7 +53604,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/no-pair-of-two-persons/no-pair-of-two-persons",
+    "path": "/home/level-2l-1/no-pair-of-two-persons/no-pair-of-two-persons",
     "slug": "no-pair-of-two-persons",
     "title": "No pair of two persons /",
     "text": "Five people of A,B,C,D,E stand in one line of side. \nHow many ways of forming line in case A and B should not be side-by-side are there?\nAnswer\n72 ways\nSolution\nThe way of forming line in case A and B should be side-by-side was 4 x 3 x 2 x 1 x 2 = 48 ways as you remember. \nThe answer of ways of",
@@ -53693,7 +53693,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/number-added-to-be-over-1000-of-the-sum",
+    "path": "/home/level-2l-1/number-added-to-be-over-1000-of-the-sum",
     "slug": "number-added-to-be-over-1000-of-the-sum",
     "title": "Number added to be over 1000 of the sum",
     "text": "A number is added in an order from 1 as 1 + 2 + 3 + ------. \nWhen a certain number was added, the sum exceeded 1000 for the first time. Find both of the number and the sum.",
@@ -53782,7 +53782,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/number-added-to-be-over-1000-of-the-sum/number-added-to-be-over-1000-of-the-sum",
+    "path": "/home/level-2l-1/number-added-to-be-over-1000-of-the-sum/number-added-to-be-over-1000-of-the-sum",
     "slug": "number-added-to-be-over-1000-of-the-sum",
     "title": "A1   Number added to be over 1000 of the sum /",
     "text": "A number is added in an order from 1 as 1 + 2 + 3 + ------. \nWhen a certain number was added, the sum exceeded 1000 for the first time. Find both of the number and the sum. \nAnswer\nNumber is 45, sum is 1035",
@@ -53871,7 +53871,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/number-of-50th-decimal-place",
+    "path": "/home/level-2l-1/number-of-50th-decimal-place",
     "slug": "number-of-50th-decimal-place",
     "title": "Number of 50th decimal place",
     "text": "When you calculate 6/7 (6 divided by 7), what is the number of 50th decimal place?",
@@ -53960,7 +53960,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/number-of-50th-decimal-place/number-of-50th-decimal-place",
+    "path": "/home/level-2l-1/number-of-50th-decimal-place/number-of-50th-decimal-place",
     "slug": "number-of-50th-decimal-place",
     "title": "Number of 50th decimal place /",
     "text": "When you calculate 6/7 (6 divided by 7), what is the number of 50th decimal place?\nAnswer\n5\nSolution\n6/7 = 0.857141857 ・・・・・.  \n857141 becomes a recurring decimal used as one cycle. \nIt is set to 50/6 = 8 remainder 2. \nRemainder 2 indicates that the number of 50th decimal places is the 2nd number",
@@ -54049,7 +54049,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/number-of-bottles-filled-with-water",
+    "path": "/home/level-2l-1/number-of-bottles-filled-with-water",
     "slug": "number-of-bottles-filled-with-water",
     "title": "Number of bottles filled with water",
     "text": "2 m3 of water is put into the plastic bottles with 1.8L capacity per bottle. \nIn this case, find the number of the plastic bottles filled with water and the volume (mL) of the remaining water.",
@@ -54138,7 +54138,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/number-of-bottles-filled-with-water/number-of-bottles-filled-with-water",
+    "path": "/home/level-2l-1/number-of-bottles-filled-with-water/number-of-bottles-filled-with-water",
     "slug": "number-of-bottles-filled-with-water",
     "title": "Number of bottles filled with water /",
     "text": "2 m3 of water is put into the plastic bottles with 1.8L capacity per bottle. \nIn this case, find the number of the plastic bottles filled with water and the volume (mL) of the remaining water. \nAnswer\n1111 bottles\n200 mL",
@@ -54227,7 +54227,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/number-of-games-of-round-robin-tournament",
+    "path": "/home/level-2l-1/number-of-games-of-round-robin-tournament",
     "slug": "number-of-games-of-round-robin-tournament",
     "title": "Number of games of round-robin tournament",
     "text": "A league match (round-robin tournament) is held with 10 teams. In case each team plays a match against other teams only once, how many games is it carried out in all?",
@@ -54288,7 +54288,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/number-of-games-of-round-robin-tournament/number-of-games-of-round-robin-tournament",
+    "path": "/home/level-2l-1/number-of-games-of-round-robin-tournament/number-of-games-of-round-robin-tournament",
     "slug": "number-of-games-of-round-robin-tournament",
     "title": "Number of games of round-robin tournament /",
     "text": "A league match (round-robin tournament) is held with 10 teams. \nIn case each team plays a match against other teams only once, how many games is it carried out in all? \nAnswer\n45 games\nSolution\nSince ten team plays a match against 9 (10-1) teams once, the number of games will be 10 x 9 = 90 games.",
@@ -54373,7 +54373,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/number-of-games-of-tournament-game-1",
+    "path": "/home/level-2l-1/number-of-games-of-tournament-game-1",
     "slug": "number-of-games-of-tournament-game-1",
     "title": "Number of games of tournament game",
     "text": "A tournament game is held with 10 teams. \nSupposing there is no draw, by the time a championship is decided, how many games are required?",
@@ -54450,7 +54450,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/number-of-games-of-tournament-game-1/number-of-games-of-tournament-game",
+    "path": "/home/level-2l-1/number-of-games-of-tournament-game-1/number-of-games-of-tournament-game",
     "slug": "number-of-games-of-tournament-game",
     "title": "Number of games of tournament game /",
     "text": "A tournament game is held with 10 teams. \nSupposing there is no draw, by the time a championship is decided, how many games are required?\nAnswer\n9 games\nSolution\nSince each team other than a championship team is defeated only once, the number of games is 10 - 1 = 9 games.",
@@ -54539,7 +54539,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/number-of-steps-and-length-of-stride",
+    "path": "/home/level-2l-1/number-of-steps-and-length-of-stride",
     "slug": "number-of-steps-and-length-of-stride",
     "title": "Number of steps and length of stride",
     "text": "While Taro takes four steps forward, Jiro takes five steps forward.\nJiro goes to the distance by three steps to which Taro goes by two steps.\nFind the ratio of the speed of Taro and Jiro ?",
@@ -54628,7 +54628,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/number-of-steps-and-length-of-stride/number-of-steps-and-length-of-stride",
+    "path": "/home/level-2l-1/number-of-steps-and-length-of-stride/number-of-steps-and-length-of-stride",
     "slug": "number-of-steps-and-length-of-stride",
     "title": "Number of steps and length of stride /",
     "text": "While Taro takes four steps forward, Jiro takes five steps forward. \nJiro goes to the distance by three steps to which Taro goes by two steps. \nFind the ratio of the speed of Taro and Jiro ? \nAnswer\n6:5\nSolution\nSpeed is described by (length of one step)x (number of steps of a definite period of",
@@ -54717,7 +54717,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/number-of-successive-victories",
+    "path": "/home/level-2l-1/number-of-successive-victories",
     "slug": "number-of-successive-victories",
     "title": "Number of successive victories",
     "text": "Taro and Jiro played game that the victory or defeat was decided on every once by all means. \nTaro started winning successive victories in Jiro, but he lost five consecutive games afterwards and thereafter finished a game by five successive victories. \nWinning rate (ratio of the number of the",
@@ -54766,7 +54766,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/number-of-successive-victories/number-of-successive-victories",
+    "path": "/home/level-2l-1/number-of-successive-victories/number-of-successive-victories",
     "slug": "number-of-successive-victories",
     "title": "Number of successive victories /",
     "text": "Taro and Jiro played game that the victory or defeat was decided on every once by all means. \nTaro started winning successive victories in Jiro, but he lost five consecutive games afterwards and thereafter finished a game by five successive victories. \nWinning rate (ratio of the number of the",
@@ -54815,7 +54815,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/number-of-work-days-of-three-machines",
+    "path": "/home/level-2l-1/number-of-work-days-of-three-machines",
     "slug": "number-of-work-days-of-three-machines",
     "title": "Number of work days of three machines",
     "text": "There are three kinds of machines A, B, and C for doing a certain work. \nThe work will be completed exactly in 35 days if I use one A and one B simultaneously. \nThe same work will be exactly completed in 20 days if I use one A and three B simultaneously. \nMoreover, it will be exactly completed in",
@@ -54872,7 +54872,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/number-of-work-days-of-three-machines/number-of-work-days-of-three-machines",
+    "path": "/home/level-2l-1/number-of-work-days-of-three-machines/number-of-work-days-of-three-machines",
     "slug": "number-of-work-days-of-three-machines",
     "title": "Number of work days of three machines /",
     "text": "There are three kinds of machines A, B, and C for doing a certain work. \nThe work will be completed exactly in 35 days if I use one A and one B simultaneously. \nThe same work will be exactly completed in 20 days if I use one A and three B simultaneously. \nMoreover, it will be exactly completed in",
@@ -54929,7 +54929,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/operation-of-integers",
+    "path": "/home/level-2l-1/operation-of-integers",
     "slug": "operation-of-integers",
     "title": "Operation of integers",
     "text": "As for the integer N, it is considered as A(N) = N, B(N) = N x N and C(N) = N x N x N. \nFor example, A(2) = 2, B(3) = 3 x 3 = 9 and C(4) = 4 x 4 x 4 = 64. \nFind X when B(X) = C(B(2)) + B(2) x C(3) / A(3).",
@@ -55018,7 +55018,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/operation-of-integers/operation-of-integers",
+    "path": "/home/level-2l-1/operation-of-integers/operation-of-integers",
     "slug": "operation-of-integers",
     "title": "Operation of integers /",
     "text": "As for the integer N, it is considered as A(N) = N, B(N) = N x N and C(N) = N x N x N. \nFor example, A(2) = 2, B(3) = 3 x 3 = 9 and C(4) = 4 x 4 x 4 = 64. \nFind X when B(X) = C(B(2)) + B(2) x C(3) / A(3). \nAnswer\n10",
@@ -55107,7 +55107,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/operation-with-fraction-distribution",
+    "path": "/home/level-2l-1/operation-with-fraction-distribution",
     "slug": "operation-with-fraction-distribution",
     "title": "Operation with fraction (distribution)",
     "text": "Find the number in X. \n X/4 - X/7 = 3",
@@ -55196,7 +55196,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/operation-with-fraction-distribution/operation-with-fraction-distribution",
+    "path": "/home/level-2l-1/operation-with-fraction-distribution/operation-with-fraction-distribution",
     "slug": "operation-with-fraction-distribution",
     "title": "Operation with fraction (distribution) /",
     "text": "Find the number in X. \n X/4 - X/7 = 3\nAnswer\n28\nSolution\nX/4 - X/7 = 3\nX x 1/4 - X  x 1/7 = 3\nAccording to the distributive principle, this formula is to be\nX x (1/4 - 1/7) = 3\n1/4 - 1/7 = 3/28\nX x 3/28 = 3\n∴ X = 3 / (3/28) = 28",
@@ -55285,7 +55285,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/overlapped-sector-and-trapezoid",
+    "path": "/home/level-2l-1/overlapped-sector-and-trapezoid",
     "slug": "overlapped-sector-and-trapezoid",
     "title": "Overlapped sector and trapezoid",
     "text": "The figure below is a graphic which overlapped sector with 10 cm in radius, 90 degrees of central angles and trapezoid. \nFind the length of X on condition that the area of A and B is equal.\nPi is assumed to be 3.",
@@ -55374,7 +55374,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/overlapped-sector-and-trapezoid/overlapped-sector-and-trapezoid",
+    "path": "/home/level-2l-1/overlapped-sector-and-trapezoid/overlapped-sector-and-trapezoid",
     "slug": "overlapped-sector-and-trapezoid",
     "title": "Overlapped sector and trapezoid /",
     "text": "The figure below is a graphic which overlapped sector with 10 cm in radius, 90 degrees of central angles and trapezoid. \nFind the length of X on condition that the area of A and B is equal.\nPi is assumed to be 3.",
@@ -55463,7 +55463,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/overlapped-triangle-and-pentagon",
+    "path": "/home/level-2l-1/overlapped-triangle-and-pentagon",
     "slug": "overlapped-triangle-and-pentagon",
     "title": "Overlapped triangle and pentagon",
     "text": "The equilateral triangle and the equilateral pentagon have overlapped, as shown in the figure. \nFind the angle of the angle X.",
@@ -55541,7 +55541,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/overlapped-triangle-and-pentagon/overlapped-triangle-and-pentagon",
+    "path": "/home/level-2l-1/overlapped-triangle-and-pentagon/overlapped-triangle-and-pentagon",
     "slug": "overlapped-triangle-and-pentagon",
     "title": "Overlapped triangle and pentagon /",
     "text": "The equilateral triangle and the equilateral pentagon have overlapped, as shown in the figure. \nFind the angle of the angle X.",
@@ -55614,7 +55614,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/overlapped-two-triangles",
+    "path": "/home/level-2l-1/overlapped-two-triangles",
     "slug": "overlapped-two-triangles",
     "title": "Overlapped two triangles",
     "text": "△DBE and △ABC are overlapped as shown in the figure below.\nAB : DB = 7 : 3 and BC : BE = 8 : 5.\nThe area of △DBE is 15 cm2. \nFind the area of △ABC.",
@@ -55708,7 +55708,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/overlapped-two-triangles/overlapped-two-triangles",
+    "path": "/home/level-2l-1/overlapped-two-triangles/overlapped-two-triangles",
     "slug": "overlapped-two-triangles",
     "title": "Overlapped two triangles /",
     "text": "△DBE and △ABC are overlapped as shown in the figure below.\nAB : DB = 7 : 3 and BC : BE = 8 : 5.\nThe area of △DBE is 15 cm2.\nFind the area of △ABC.",
@@ -55802,7 +55802,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/paint-four-places-by-four-colors",
+    "path": "/home/level-2l-1/paint-four-places-by-four-colors",
     "slug": "paint-four-places-by-four-colors",
     "title": "Paint four places by four colors",
     "text": "As for the method to paint A to D by using all four colors of red, blue, yellow and white to distinguish the border of A,B,C,D in the figure below, how many ways are there?",
@@ -55840,7 +55840,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/paint-four-places-by-four-colors/paint-four-places-by-four-colors",
+    "path": "/home/level-2l-1/paint-four-places-by-four-colors/paint-four-places-by-four-colors",
     "slug": "paint-four-places-by-four-colors",
     "title": "Paint four places by four colors /",
     "text": "As for the method to paint A to D by using all four colors of red, blue, yellow and white to distinguish the border of A,B,C,D in the figure below, how many ways are there?",
@@ -55878,7 +55878,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/paint-four-places-by-three-colors",
+    "path": "/home/level-2l-1/paint-four-places-by-three-colors",
     "slug": "paint-four-places-by-three-colors",
     "title": "Paint four places by three colors",
     "text": "As for the method to paint A to D by using three colors among four colors of red, blue, yellow and white to distinguish the border of A,B,C,D in the figure below, how many ways are there?",
@@ -55924,7 +55924,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/paint-four-places-by-three-colors/paint-four-places-by-three-colors",
+    "path": "/home/level-2l-1/paint-four-places-by-three-colors/paint-four-places-by-three-colors",
     "slug": "paint-four-places-by-three-colors",
     "title": "Paint four places by three colors /",
     "text": "As for the method to paint A to D by using three colors among four colors of red, blue, yellow and white to distinguish the border of A,B,C,D in the figure below, how many ways are there?",
@@ -55970,7 +55970,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/pair-of-two-persons",
+    "path": "/home/level-2l-1/pair-of-two-persons",
     "slug": "pair-of-two-persons",
     "title": "Pair of two persons",
     "text": "Five people of A,B,C,D,E stand in one line of side. \nHow many ways of forming line in case A and B should be side-by-side are there?",
@@ -56019,7 +56019,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/pair-of-two-persons/pair-of-two-persons",
+    "path": "/home/level-2l-1/pair-of-two-persons/pair-of-two-persons",
     "slug": "pair-of-two-persons",
     "title": "Pair of two persons /",
     "text": "Five people of A,B,C,D,E stand in one line of side. \nHow many ways of forming line in case A and B should be side-by-side are there?\nAnswer\n48 ways\nSolution\nSince A and B should be side-by-side, assume A and B with one in a mass. \nThen the number of ways of four people AB, C, D, E stand is 4 x 3 x",
@@ -56108,7 +56108,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/paper-tape-around-the-equator-of-the-earth",
+    "path": "/home/level-2l-1/paper-tape-around-the-equator-of-the-earth",
     "slug": "paper-tape-around-the-equator-of-the-earth",
     "title": "Paper tape around the equator of the earth",
     "text": "Find the area (km2) of the paper tape when an 8 cm wide paper tape is wound around the equator of the earth one round. \nNoted that the earth is to be a sphere radius 6400 km. \nThe answer should be rounded off the 2nd decimal place.",
@@ -56189,7 +56189,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/paper-tape-around-the-equator-of-the-earth/paper-tape-around-the-equator-of-the-earth",
+    "path": "/home/level-2l-1/paper-tape-around-the-equator-of-the-earth/paper-tape-around-the-equator-of-the-earth",
     "slug": "paper-tape-around-the-equator-of-the-earth",
     "title": "Paper tape around the equator of the earth /",
     "text": "Find the area (km2) of the paper tape when an 8 cm wide paper tape is wound around the equator of the earth one round. \nNoted that the earth is to be a sphere radius 6400 km. \nThe answer should be rounded off the 2nd decimal place. \nAnswer\n3.2 km2",
@@ -56278,7 +56278,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/partition-and-area-of-trapezoid",
+    "path": "/home/level-2l-1/partition-and-area-of-trapezoid",
     "slug": "partition-and-area-of-trapezoid",
     "title": "Partition and area of trapezoid",
     "text": "A figure is trapezoid ABCD whose side AD is parallel to the side BC. BE and AC are vertical. \nFind the area of this trapezoid.",
@@ -56324,7 +56324,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/partition-and-area-of-trapezoid/partition-and-area-of-trapezoid",
+    "path": "/home/level-2l-1/partition-and-area-of-trapezoid/partition-and-area-of-trapezoid",
     "slug": "partition-and-area-of-trapezoid",
     "title": "Partition and area of trapezoid /",
     "text": "A figure is trapezoid ABCD whose side AD is parallel to the side BC. BE and AC are vertical. \nFind the area of this trapezoid.",
@@ -56365,7 +56365,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/partition-of-parallelogram",
+    "path": "/home/level-2l-1/partition-of-parallelogram",
     "slug": "partition-of-parallelogram",
     "title": "Partition of parallelogram",
     "text": "In a figure, a quadrangle ABCD is a parallelogram. \n(length of AE) : (length of ED) = 2 : 3. \nThe area of the triangle ABE is 80 cm2. \nFind the area of triangle CDF.",
@@ -56459,7 +56459,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/partition-of-parallelogram-homothetic",
+    "path": "/home/level-2l-1/partition-of-parallelogram-homothetic",
     "slug": "partition-of-parallelogram-homothetic",
     "title": "Partition of parallelogram, homothetic",
     "text": "A quadrangle ABCD is a parallelogram in the figure. \nFind the area of the shadow portion.",
@@ -56497,7 +56497,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/partition-of-parallelogram-homothetic/partition-of-parallelogram-homothetic",
+    "path": "/home/level-2l-1/partition-of-parallelogram-homothetic/partition-of-parallelogram-homothetic",
     "slug": "partition-of-parallelogram-homothetic",
     "title": "Partition of parallelogram, homothetic /",
     "text": "A quadrangle ABCD is a parallelogram in the figure. \nFind the area of the shadow portion.",
@@ -56530,7 +56530,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/partition-of-parallelogram/partition-of-parallelogram",
+    "path": "/home/level-2l-1/partition-of-parallelogram/partition-of-parallelogram",
     "slug": "partition-of-parallelogram",
     "title": "Partition of parallelogram /",
     "text": "In a figure, a quadrangle ABCD is a parallelogram. \n(length of AE) : (length of ED) = 2 : 3. \nThe area of the triangle ABE is 80 cm2. \nFind the area of triangle CDF.",
@@ -56624,7 +56624,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/partition-of-rectangle",
+    "path": "/home/level-2l-1/partition-of-rectangle",
     "slug": "partition-of-rectangle",
     "title": "Partition of rectangle",
     "text": "Figure shows a rectangle 6 cm in vertical length and 10 cm in width. Find the area of a shadow area.",
@@ -56718,7 +56718,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/partition-of-rectangle/partition-of-rectangle",
+    "path": "/home/level-2l-1/partition-of-rectangle/partition-of-rectangle",
     "slug": "partition-of-rectangle",
     "title": "Partition of rectangle /",
     "text": "Figure shows a rectangle 6 cm in vertical length and 10 cm in width. \nFind the area of a shadow area.",
@@ -56807,7 +56807,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/partition-of-trapezoid",
+    "path": "/home/level-2l-1/partition-of-trapezoid",
     "slug": "partition-of-trapezoid",
     "title": "Partition of trapezoid",
     "text": "In trapezoid ABCD as shown in a figure, the point O is an intersection of a diagonal line. \nThe area of △ AOB is 10 cm2 and △ BOC is 25 cm2. \nFind the area of trapezoid ABCD.",
@@ -56873,7 +56873,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/partition-of-trapezoid/partition-of-trapezoid",
+    "path": "/home/level-2l-1/partition-of-trapezoid/partition-of-trapezoid",
     "slug": "partition-of-trapezoid",
     "title": "Partition of trapezoid /",
     "text": "In trapezoid ABCD as shown in a figure, the point O is an intersection of a diagonal line. \nThe area of △ AOB is 10 cm2 and △ BOC is 25 cm2. \nFind the area of trapezoid ABCD.",
@@ -56939,7 +56939,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/partition-of-triangle",
+    "path": "/home/level-2l-1/partition-of-triangle",
     "slug": "partition-of-triangle",
     "title": "Partition of triangle",
     "text": "There is a triangle ABC. \nOn the side AB, there is a point D so as to AD : DB = 2 : 1. \nOn the side BC, there is a point E so as to BE : EC = 3 : 1. \nMoreover, the intersection of AE and CD is set to P and the intersection of extension of BP and AC is set to F. \nThe area of the triangle ABP is 24",
@@ -57033,7 +57033,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/partition-of-triangle/partition-of-triangle",
+    "path": "/home/level-2l-1/partition-of-triangle/partition-of-triangle",
     "slug": "partition-of-triangle",
     "title": "Partition of triangle /",
     "text": "There is a triangle ABC. \nOn the side AB, there is a point D so as to AD : DB = 2 : 1. \nOn the side BC, there is a point E so as to BE : EC = 3 : 1. \nMoreover, the intersection of AE and CD is set to P and the intersection of extension of BP and AC is set to F. \nThe area of the triangle ABP is 24",
@@ -57122,7 +57122,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/passing-each-other-of-trains",
+    "path": "/home/level-2l-1/passing-each-other-of-trains",
     "slug": "passing-each-other-of-trains",
     "title": "Passing each other of trains",
     "text": "How many seconds does it take one train 150 m in length with 10 m/s and another train 250 m in length with 15m/s to pass each other?",
@@ -57175,7 +57175,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/passing-each-other-of-trains/passing-each-other-of-trains",
+    "path": "/home/level-2l-1/passing-each-other-of-trains/passing-each-other-of-trains",
     "slug": "passing-each-other-of-trains",
     "title": "Passing each other of trains /",
     "text": "How many seconds does it take one train 150 m in length with 10 m/s and another train 250 m in length with 15m/s to pass each other? \nAnswer\n16 seconds\nSolution\nThe time concerning two trains passing is time after the head of two trains meets until the end meets.\nAt the time of the head of a train",
@@ -57256,7 +57256,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/pole-in-the-water",
+    "path": "/home/level-2l-1/pole-in-the-water",
     "slug": "pole-in-the-water",
     "title": "Pole in the water",
     "text": "When a pole as shown in Fig. 2 is straight stood to the bottom of the vessel of a rectangular prism as shown in Fig. 1, find the depth of the water ?",
@@ -57350,7 +57350,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/pole-in-the-water/pole-in-the-water",
+    "path": "/home/level-2l-1/pole-in-the-water/pole-in-the-water",
     "slug": "pole-in-the-water",
     "title": "Pole in the water /",
     "text": "When a pole as shown in Fig. 2 is straight stood to the bottom of the vessel of a rectangular prism as shown in Fig. 1, find the depth of the water ?",
@@ -57439,7 +57439,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/price-of-pork-at-butcher",
+    "path": "/home/level-2l-1/price-of-pork-at-butcher",
     "slug": "price-of-pork-at-butcher",
     "title": "Price of pork at butcher",
     "text": "At a certain butcher, the pork of which sales price is 1500 yen of 600 g was sold at a 15% discount. \nThere are 25% of profits of the cost price when it is sold at this discounted price. \nFind the cost price per 100 g of this pork.",
@@ -57456,7 +57456,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/price-of-pork-at-butcher/price-of-pork-at-butcher",
+    "path": "/home/level-2l-1/price-of-pork-at-butcher/price-of-pork-at-butcher",
     "slug": "price-of-pork-at-butcher",
     "title": "Price of pork at butcher /",
     "text": "At a certain butcher, the pork of which sales price is 1500 yen of 600 g was sold at a 15% discount. \nThere are 25% of profits of the cost price when it is sold at this discounted price. \nFind the cost price per 100 g of this pork. \nAnswer\n170 yen",
@@ -57473,7 +57473,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/problems",
+    "path": "/home/level-2l-1/problems",
     "slug": "problems",
     "title": "Problems",
     "text": "Problems",
@@ -57481,7 +57481,7 @@ export const migratedPages = [
     "uploadedImages": []
   },
   {
-    "path": "/home/level-1/problems/answers-and-solutions",
+    "path": "/home/level-2l-1/problems/answers-and-solutions",
     "slug": "answers-and-solutions",
     "title": "Answers and solutions",
     "text": "Answers and solutions",
@@ -57498,7 +57498,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/product-of-numbers-of-two-spots-of-dice",
+    "path": "/home/level-2l-1/product-of-numbers-of-two-spots-of-dice",
     "slug": "product-of-numbers-of-two-spots-of-dice",
     "title": "Product of numbers of two spots of dice",
     "text": "Suppose you roll the dice of two different size once at the same time, how many number of cases in total do you have the product of  numbers of spots of two dice coming out to be 5 or less?",
@@ -57587,7 +57587,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/product-of-numbers-of-two-spots-of-dice/product-of-numbers-of-two-spots-of-dice",
+    "path": "/home/level-2l-1/product-of-numbers-of-two-spots-of-dice/product-of-numbers-of-two-spots-of-dice",
     "slug": "product-of-numbers-of-two-spots-of-dice",
     "title": "Product of numbers of two spots of dice /",
     "text": "Suppose you roll the dice of two different size once at the same time, how many number of cases in total do you have the product of  numbers of spots of two dice coming out to be 5 or less?\nAnswer\nTen\nSolution\n(SizeA, SizeB) = (5, 1), (4, 1), (3, 1), (2, 1), (2, 2), (1, 1), (1, 2), (1, 3),(1, 4),",
@@ -57676,7 +57676,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/product-of-two-integers-is-44448888",
+    "path": "/home/level-2l-1/product-of-two-integers-is-44448888",
     "slug": "product-of-two-integers-is-44448888",
     "title": "Product of two integers is 44448888",
     "text": "A is an integer of 4 figures and each digit is the same number. \nAs for B, each digit consists of two kinds of numbers for the integer of 4 figures. \nThe product of A and B is 44448888.\nFind A and B.",
@@ -57765,7 +57765,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/product-of-two-integers-is-44448888/product-of-two-integers-is-44448888",
+    "path": "/home/level-2l-1/product-of-two-integers-is-44448888/product-of-two-integers-is-44448888",
     "slug": "product-of-two-integers-is-44448888",
     "title": "Product of two integers is 44448888 /",
     "text": "A is an integer of 4 figures and each digit is the same number. \nAs for B, each digit consists of two kinds of numbers for the integer of 4 figures. \nThe product of A and B is 44448888.\nFind A and B. \nAnswer\nA = 6666, B = 6668\nSolution\nAccording to the statement that A is an integer of 4 figures",
@@ -57854,7 +57854,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/product-sold-at-three-stores",
+    "path": "/home/level-2l-1/product-sold-at-three-stores",
     "slug": "product-sold-at-three-stores",
     "title": "Product sold at three stores",
     "text": "A certain product are sold at A store, B store, and C store. \nTotal of 6867 pieces sold in three stores this month and the number of product increased more than the previous month was same in each store. \nIt means that in this month total sales of this product was increased by 15% in A store, 10%",
@@ -57931,7 +57931,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/product-sold-at-three-stores/product-sold-at-three-stores",
+    "path": "/home/level-2l-1/product-sold-at-three-stores/product-sold-at-three-stores",
     "slug": "product-sold-at-three-stores",
     "title": "Product sold at three stores /",
     "text": "A certain product are sold at A store, B store, and C store. \nTotal of 6867 pieces sold in three stores this month and the number of product increased more than the previous month was same in each store. \nIt means that in this month total sales of this product was increased by 15% in A store, 10%",
@@ -58008,7 +58008,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/quadrangle-and-angle",
+    "path": "/home/level-2l-1/quadrangle-and-angle",
     "slug": "quadrangle-and-angle",
     "title": "Quadrangle and angle",
     "text": "As for the quadrangle ABCD of the figure, the length of the side BC and side CD is equal. \nFind the degree of the angle of X.",
@@ -58054,7 +58054,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/quadrangle-and-angle/quadrangle-and-angle",
+    "path": "/home/level-2l-1/quadrangle-and-angle/quadrangle-and-angle",
     "slug": "quadrangle-and-angle",
     "title": "Quadrangle and angle /",
     "text": "As for the quadrangle ABCD of the figure, the length of the side BC and side CD is equal. \nFind the degree of the angle of X.",
@@ -58095,7 +58095,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/questionnaire-to-41-students",
+    "path": "/home/level-2l-1/questionnaire-to-41-students",
     "slug": "questionnaire-to-41-students",
     "title": "Questionnaire to 41 students",
     "text": "I took a questionnaire to 41 students. \nThere were eight students who drunk milk and 28 students who ate bread this morning. \nFind the least number and the most number of the student who did not drink milk nor eat bread this morning.",
@@ -58144,7 +58144,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/questionnaire-to-41-students/questionnaire-to-41-students",
+    "path": "/home/level-2l-1/questionnaire-to-41-students/questionnaire-to-41-students",
     "slug": "questionnaire-to-41-students",
     "title": "Questionnaire to 41 students /",
     "text": "I took a questionnaire to 41 students. \nThere were eight students who drunk milk and 28 students who ate bread this morning. \nFind the least number and the most number of the student who did not drink milk nor eat bread this morning. \nAnswer\n5 persons\n13 persons",
@@ -58233,7 +58233,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/quotient-of-ab-is-smaller-than-x",
+    "path": "/home/level-2l-1/quotient-of-ab-is-smaller-than-x",
     "slug": "quotient-of-ab-is-smaller-than-x",
     "title": "Quotient of A/B is smaller than X",
     "text": "There are two numbers of A and B. \nWhen the first decimal figure is rounded off, A will become 11 and B will become 7. \nIn this case, the quotient of A/B is smaller than X. \nFind the minimum number among numbers applicable to X.",
@@ -58322,7 +58322,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/quotient-of-ab-is-smaller-than-x/quotient-of-ab-is-smaller-than-x",
+    "path": "/home/level-2l-1/quotient-of-ab-is-smaller-than-x/quotient-of-ab-is-smaller-than-x",
     "slug": "quotient-of-ab-is-smaller-than-x",
     "title": "Quotient of A/B is smaller than X /",
     "text": "There are two numbers of A and B. \nWhen the first decimal figure is rounded off, A will become 11 and B will become 7. \nIn this case, the quotient of A/B is smaller than X. \nFind the minimum number among numbers applicable to X. \nAnswer\n23/10",
@@ -58411,7 +58411,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/ratio-of-weight-and-number-of-balls",
+    "path": "/home/level-2l-1/ratio-of-weight-and-number-of-balls",
     "slug": "ratio-of-weight-and-number-of-balls",
     "title": "Ratio of weight and number of balls",
     "text": "There are 215 pieces of 4g and 9g balls in all. \nThe ratio of the weight of all 4g balls and all 9g balls is 3 : 4. \nFind the number of 4g ball.",
@@ -58500,7 +58500,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/ratio-of-weight-and-number-of-balls/ratio-of-weight-and-number-of-balls",
+    "path": "/home/level-2l-1/ratio-of-weight-and-number-of-balls/ratio-of-weight-and-number-of-balls",
     "slug": "ratio-of-weight-and-number-of-balls",
     "title": "Ratio of weight and number of balls /",
     "text": "There are 215 pieces of 4g and 9g balls in all. \nThe ratio of the weight of all 4g balls and all 9g balls is 3 : 4. \nFind the number of 4g ball.\nAnswer\n135 balls\nSolution\nThe ratio of a weight of one piece of 4g ball 9g ball is 4g : 9g = 4 : 9. Moreover, the ratio of the weight of all 4g balls and",
@@ -58589,7 +58589,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/rearrangement-of-ten-coins",
+    "path": "/home/level-2l-1/rearrangement-of-ten-coins",
     "slug": "rearrangement-of-ten-coins",
     "title": "Rearrangement of ten coins",
     "text": "As shown in the figure below, the upward triangle was made with the ten-yen coins. \nIn order for this triangle is carried out downward with the same form, how many coins should be moved with least number of coins ?",
@@ -58659,7 +58659,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/rearrangement-of-ten-coins/rearrangement-of-ten-coins",
+    "path": "/home/level-2l-1/rearrangement-of-ten-coins/rearrangement-of-ten-coins",
     "slug": "rearrangement-of-ten-coins",
     "title": "Rearrangement of ten coins /",
     "text": "As shown in the figure below, the upward triangle was made with the ten-yen coins. \nIn order for this triangle is carried out downward with the same form, how many coins should be moved with least number of coins ?",
@@ -58729,7 +58729,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/reduce-the-speed-on-the-way",
+    "path": "/home/level-2l-1/reduce-the-speed-on-the-way",
     "slug": "reduce-the-speed-on-the-way",
     "title": "Reduce the speed on the way",
     "text": "Taro began to walk toward the place 3200 m far from the starting point. \nWhen he reduced the walking speed by 1/5 at the place where he walked by 1/4 of the distance, he reached 10 minutes later than the schedule. \nAnswer the following questions.\n(1) After reducing speed, how many times is the",
@@ -58818,7 +58818,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/reduce-the-speed-on-the-way/reduce-the-speed-on-the-way",
+    "path": "/home/level-2l-1/reduce-the-speed-on-the-way/reduce-the-speed-on-the-way",
     "slug": "reduce-the-speed-on-the-way",
     "title": "Reduce the speed on the way /",
     "text": "Taro began to walk toward the place 3200 m far from the starting point. \nWhen he reduced the walking speed by 1/5 at the place where he walked by 1/4 of the distance, he reached 10 minutes later than the schedule. \nAnswer the following questions. \n(1) After reducing speed, how many times is the",
@@ -58907,7 +58907,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/relationship-of-three-integers-distribution",
+    "path": "/home/level-2l-1/relationship-of-three-integers-distribution",
     "slug": "relationship-of-three-integers-distribution",
     "title": "Relationship of three integers (distribution)",
     "text": "There are three integers A, B, and C. The product of A and B is 408, the product of A and C is 336, and the sum of B and C is 62. \nFind the integer B.",
@@ -58956,7 +58956,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/relationship-of-three-integers-distribution/relationship-of-three-integers-distribution",
+    "path": "/home/level-2l-1/relationship-of-three-integers-distribution/relationship-of-three-integers-distribution",
     "slug": "relationship-of-three-integers-distribution",
     "title": "Relationship of three integers (distribution) /",
     "text": "There are three integers A, B, and C. The product of A and B is 408, the product of A and C is 336, and the sum of B and C is 62. \nFind the integer B.\nAnswer\n34\nSolution\nThis problem is denoted by a formula, it is \nA x B = 408, A x C = 336, and B + C = 62.\nA x B + A x C = 408 + 336 = 744 According",
@@ -59005,7 +59005,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/repack-oranges-in-the-bag",
+    "path": "/home/level-2l-1/repack-oranges-in-the-bag",
     "slug": "repack-oranges-in-the-bag",
     "title": "Repack oranges in the bag",
     "text": "There are ten oranges per bag in several bags. \nWhen this was repacked to fifteen oranges per bag, four bags remained. \nHow many bags are there?",
@@ -59030,7 +59030,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/repack-oranges-in-the-bag/repack-oranges-in-the-bag",
+    "path": "/home/level-2l-1/repack-oranges-in-the-bag/repack-oranges-in-the-bag",
     "slug": "repack-oranges-in-the-bag",
     "title": "Repack oranges in the bag /",
     "text": "There are ten oranges per bag in several bags. \nWhen this was repacked to fifteen oranges per bag, four bags remained. \nHow many bags are there? \nAnswer\nTwelve\nSolution\nSince the number of oranges does not change, the number of required bags and the number of oranges in one bag becomes an inverse",
@@ -59071,7 +59071,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/represent-9-by-sum-of-three-integers",
+    "path": "/home/level-2l-1/represent-9-by-sum-of-three-integers",
     "slug": "represent-9-by-sum-of-three-integers",
     "title": "Represent 9 by sum of three integers",
     "text": "There are two kinds, “ 1 + 1 + 3 “and “ 1 + 2 + 2 “ which are ways of representing 5 by the sum total of three integers other than zero. \n“ 1 + 3 + 1 “ is considered as the same kind as “ 1 + 1 + 3 “. \nMoreover, in the case of 7, there are four kinds, “1 + 1 + 5 “, “ 1 + 2 + 4 “, “ 1 + 3 + 3 “,",
@@ -59160,7 +59160,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/represent-9-by-sum-of-three-integers/represent-9-by-sum-of-three-integers",
+    "path": "/home/level-2l-1/represent-9-by-sum-of-three-integers/represent-9-by-sum-of-three-integers",
     "slug": "represent-9-by-sum-of-three-integers",
     "title": "Represent 9 by sum of three integers /",
     "text": "There are two kinds, “ 1 + 1 + 3 “and “ 1 + 2 + 2 “ which are ways of representing 5 by the sum total of three integers other than zero. \n“ 1 + 3 + 1 “ is considered as the same kind as “ 1 + 1 + 3 “. \nMoreover, in the case of 7, there are four kinds, “1 + 1 + 5 “, “ 1 + 2 + 4 “, “ 1 + 3 + 3 “,",
@@ -59249,7 +59249,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/rotation-of-square",
+    "path": "/home/level-2l-1/rotation-of-square",
     "slug": "rotation-of-square",
     "title": "Rotation of square",
     "text": "The paper of the square whose length of a diagonal line is 20 cm is placed on the desk. \nThis paper is rotated on the desk by 45 degrees centering on the one vertex. \nFind the area of the portion which this paper passes. \nPi is assumed to be 3.14.",
@@ -59338,7 +59338,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/rotation-of-square/rotation-of-square",
+    "path": "/home/level-2l-1/rotation-of-square/rotation-of-square",
     "slug": "rotation-of-square",
     "title": "Rotation of square /",
     "text": "The paper of the square whose length of a diagonal line is 20 cm is placed on the desk. \nThis paper is rotated on the desk by 45 degrees centering on the one vertex. \nFind the area of the portion which this paper passes. \nPi is assumed to be 3.14. \nAnswer\n357 cm2\nSolution\nWhen rotating 45 degrees",
@@ -59432,7 +59432,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/sales-change-in-three-months",
+    "path": "/home/level-2l-1/sales-change-in-three-months",
     "slug": "sales-change-in-three-months",
     "title": "Sales change in three months",
     "text": "The sales in June of a certain store decreased by 15% compared with May. \nThe sales in July of the store increased 12% compared with June. \nWhat percentage of reduction do the sales in July become compared with May?",
@@ -59481,7 +59481,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/sales-change-in-three-months/sales-change-in-three-months",
+    "path": "/home/level-2l-1/sales-change-in-three-months/sales-change-in-three-months",
     "slug": "sales-change-in-three-months",
     "title": "Sales change in three months /",
     "text": "The sales in June of a certain store decreased by 15% compared with May. \nThe sales in July of the store increased 12% compared with June. \nWhat percentage of reduction do the sales in July become compared with May? \nAnswer\n4.8％",
@@ -59570,7 +59570,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/sales-number-in-three-months",
+    "path": "/home/level-2l-1/sales-number-in-three-months",
     "slug": "sales-number-in-three-months",
     "title": "Sales number in three months",
     "text": "The sales number of a certain goods increased by 5% of the sales number of the last month in two consecutive months of June and July. The sales number in June was 420 pieces. \nIn this case, how many sales number in July increase more than the sales number in May?",
@@ -59659,7 +59659,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/sales-number-in-three-months/sales-number-in-three-months",
+    "path": "/home/level-2l-1/sales-number-in-three-months/sales-number-in-three-months",
     "slug": "sales-number-in-three-months",
     "title": "Sales number in three months /",
     "text": "The sales number of a certain goods increased by 5% of the sales number of the last month in two consecutive months of June and July. \nThe sales number in June was 420 pieces. \nIn this case, how many sales number in July increase more than the sales number in May? \nAnswer\n41 pieces",
@@ -59748,7 +59748,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/salt-solutions-in-two-beakers",
+    "path": "/home/level-2l-1/salt-solutions-in-two-beakers",
     "slug": "salt-solutions-in-two-beakers",
     "title": "Salt solutions in two beakers",
     "text": "40 g of salt solutions are in both of two beakers A and B each. \nThe ratio of the concentration of salt solution of A and B is 3 : 2. \nI add 60 g of water to B and mixed it well and transferred some of salt solutions in B to A. \nFurthermore, I add some water in both of A and B to become 100 g of",
@@ -59837,7 +59837,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/salt-solutions-in-two-beakers/salt-solutions-in-two-beakers",
+    "path": "/home/level-2l-1/salt-solutions-in-two-beakers/salt-solutions-in-two-beakers",
     "slug": "salt-solutions-in-two-beakers",
     "title": "Salt solutions in two beakers /",
     "text": "40 g of salt solutions are in both of two beakers A and B each. \nThe ratio of the concentration of salt solution of A and B is 3 : 2. \nI add 60 g of water to B and mixed it well and transferred some of salt solutions in B to A. \nFurthermore, I add some water in both of A and B to become 100 g of",
@@ -59926,7 +59926,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/same-depth-of-the-water-in-the-vessel",
+    "path": "/home/level-2l-1/same-depth-of-the-water-in-the-vessel",
     "slug": "same-depth-of-the-water-in-the-vessel",
     "title": "Same depth of the water in the vessel",
     "text": "There is water to a depth of 10 cm in A. \nWhen the water of A is put into B and it is the same depth of the water of A and B, what cm is the depth of the water?",
@@ -59976,7 +59976,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/same-depth-of-the-water-in-the-vessel/same-depth-of-the-water-in-the-vessel",
+    "path": "/home/level-2l-1/same-depth-of-the-water-in-the-vessel/same-depth-of-the-water-in-the-vessel",
     "slug": "same-depth-of-the-water-in-the-vessel",
     "title": "Same depth of the water in the vessel /",
     "text": "There is water to a depth of 10 cm in A. \nWhen the water of A is put into B and it is the same depth of the water of A and B, what cm is the depth of the water?",
@@ -60021,7 +60021,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/same-remainder-when-three--integers-divided",
+    "path": "/home/level-2l-1/same-remainder-when-three--integers-divided",
     "slug": "same-remainder-when-three--integers-divided",
     "title": "Same remainder when three  integers divided",
     "text": "There is a certain integer A and even if either 119 or 176 or 328 is divided by A, the remainder is B in any division. B is one or more integers. \nFind A and B.",
@@ -60070,7 +60070,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/same-remainder-when-three--integers-divided/same-remainder-when-three--integers-divided",
+    "path": "/home/level-2l-1/same-remainder-when-three--integers-divided/same-remainder-when-three--integers-divided",
     "slug": "same-remainder-when-three--integers-divided",
     "title": "Same remainder when three  integers divided /",
     "text": "There is a certain integer A and even if either 119 or 176 or 328 is divided by A, the remainder is B in any division. \nB is one or more integers. \nFind A and B. \nAnswer\nA = 19, B = 5",
@@ -60159,7 +60159,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/sequence-without-multiple-of-3-or-5",
+    "path": "/home/level-2l-1/sequence-without-multiple-of-3-or-5",
     "slug": "sequence-without-multiple-of-3-or-5",
     "title": "Sequence without multiple of 3 or 5",
     "text": "The integer which cannot be divided by 3 or 5 is lined up in ascending order as 1, 2, 4, 7, 8....\nFind the 240th number in this sequence.",
@@ -60248,7 +60248,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/sequence-without-multiple-of-3-or-5/sequence-without-multiple-of-3-or-5",
+    "path": "/home/level-2l-1/sequence-without-multiple-of-3-or-5/sequence-without-multiple-of-3-or-5",
     "slug": "sequence-without-multiple-of-3-or-5",
     "title": "Sequence without multiple of 3 or 5 /",
     "text": "The integer which cannot be divided by 3 or 5 is lined up in ascending order as 1, 2, 4, 7, 8.... \nFind the 240th number in this sequence. \nAnswer\n449",
@@ -60337,7 +60337,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/sequences-of-numbers-of-1-2-3",
+    "path": "/home/level-2l-1/sequences-of-numbers-of-1-2-3",
     "slug": "sequences-of-numbers-of-1-2-3",
     "title": "Sequences of numbers of 1, 2, 3",
     "text": "The number of 1, 2, and 3 was put in order 70 pieces in total as 1, 3, 2, 1, 3, 2, 1, 3, 2, 1, 3, 2, ........ \nHow many pieces are there 1 in 70 pieces?",
@@ -60426,7 +60426,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/sequences-of-numbers-of-1-2-3/sequences-of-numbers-of-1-2-3",
+    "path": "/home/level-2l-1/sequences-of-numbers-of-1-2-3/sequences-of-numbers-of-1-2-3",
     "slug": "sequences-of-numbers-of-1-2-3",
     "title": "Sequences of numbers of 1, 2, 3 /",
     "text": "The number of 1, 2, and 3 was put in order 70 pieces in total as 1, 3, 2, 1, 3, 2, 1, 3, 2, 1, 3, 2, ........ \nHow many pieces are there 1 in 70 pieces? \nAnswer\n24 pieces\nSolution\nWhen a number of 1, 3, and 2 arranged in a line are made into one group, in 70 pieces, number of this group is 23",
@@ -60515,7 +60515,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/share-one-cake",
+    "path": "/home/level-2l-1/share-one-cake",
     "slug": "share-one-cake",
     "title": "Share one cake",
     "text": "When two people share one cake, is there any method how both of them are satisfied with (cannot but be satisfied)?",
@@ -60564,7 +60564,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/share-one-cake/share-one-cake",
+    "path": "/home/level-2l-1/share-one-cake/share-one-cake",
     "slug": "share-one-cake",
     "title": "Share one cake /",
     "text": "When two people share one cake, is there any method how both of them are satisfied with (cannot but be satisfied)?\nAnswer\nYes, there is.\nSolution\nThe method is that one person cuts it into two pieces to half and another person chooses. \nAs for the person cutting a cake, since he/she can not choose",
@@ -60629,7 +60629,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/shift-of-decimal-point",
+    "path": "/home/level-2l-1/shift-of-decimal-point",
     "slug": "shift-of-decimal-point",
     "title": "Shift of decimal point",
     "text": "The difference between a certain number A and the number that the position of the decimal point of A is shifted by one digit to the left was 23.76. \nFind A.",
@@ -60678,7 +60678,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/shift-of-decimal-point/shift-of-decimal-point",
+    "path": "/home/level-2l-1/shift-of-decimal-point/shift-of-decimal-point",
     "slug": "shift-of-decimal-point",
     "title": "Shift of decimal point /",
     "text": "The difference between a certain number A and the number that the position of the decimal point of A is shifted by one digit to the left was 23.76. \nFind A. \nAnswer\n26.4",
@@ -60767,7 +60767,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/ship-move-back-and-forth-river",
+    "path": "/home/level-2l-1/ship-move-back-and-forth-river",
     "slug": "ship-move-back-and-forth-river",
     "title": "Ship move back and forth river",
     "text": "There is point A in the upstream and point B in the downstream of the river of 6km per an hour at the speed of the flow. \nIt takes three hours for the ship to go up from B to A and two hours go down from A to B. \nHow much is the distance between A and B?",
@@ -60824,7 +60824,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/ship-move-back-and-forth-river/ship-moves-back-and-forth-river",
+    "path": "/home/level-2l-1/ship-move-back-and-forth-river/ship-moves-back-and-forth-river",
     "slug": "ship-moves-back-and-forth-river",
     "title": "Ship moves back and forth river /",
     "text": "There is point A in the upstream and point B in the downstream of the river of 6km per an hour at the speed of the flow. \nIt takes three hours for the ship to go up from B to A and two hours go down from A to B. \nHow much is the distance between A and B?\nAnswer\n72 km\nSolution\nBecause going up and",
@@ -60881,7 +60881,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/solid-made-by-rotation",
+    "path": "/home/level-2l-1/solid-made-by-rotation",
     "slug": "solid-made-by-rotation",
     "title": "Solid made by rotation",
     "text": "There is a figure which combined right triangle ABC and rectangle BDEC as shown in the figure. \nFind the total surface area of the solid made by making this figure rotate once around the line AE as a rotation axis.",
@@ -60967,7 +60967,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/solid-made-by-rotation/solid-made-by-rotation",
+    "path": "/home/level-2l-1/solid-made-by-rotation/solid-made-by-rotation",
     "slug": "solid-made-by-rotation",
     "title": "Solid made by rotation /",
     "text": "There is a figure which combined right triangle ABC and rectangle BDEC as shown in the figure. \nFind the total surface area of the solid made by making this figure rotate once around the line AE as a rotation axis.",
@@ -61048,7 +61048,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/speed-of-a-car",
+    "path": "/home/level-2l-1/speed-of-a-car",
     "slug": "speed-of-a-car",
     "title": "Speed of a car",
     "text": "Find the speed per hour of the car which moves 12750 m in 17 minutes.",
@@ -61065,7 +61065,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/speed-of-a-car/speed-of-a-car",
+    "path": "/home/level-2l-1/speed-of-a-car/speed-of-a-car",
     "slug": "speed-of-a-car",
     "title": "Speed of a car /",
     "text": "Find the speed per hour of the car which moves 12750 m in 17 minutes.\nAnswer\n45 km/h",
@@ -61082,7 +61082,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/speed-ratio-of-two-persons",
+    "path": "/home/level-2l-1/speed-ratio-of-two-persons",
     "slug": "speed-ratio-of-two-persons",
     "title": "Speed ratio of two persons",
     "text": "While Taro walks seven steps, Jiro walks five steps. \nMoreover, Jiro walks by 11 steps along the distance where Taro walks by ten steps. \nFind the ratio of the speed Taro and Jiro walk by the ratio of the least integer.",
@@ -61163,7 +61163,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/speed-ratio-of-two-persons/speed-ratio-of-two-persons",
+    "path": "/home/level-2l-1/speed-ratio-of-two-persons/speed-ratio-of-two-persons",
     "slug": "speed-ratio-of-two-persons",
     "title": "Speed ratio of two persons /",
     "text": "While Taro walks seven steps, Jiro walks five steps. \nMoreover, Jiro walks by 11 steps along the distance where Taro walks by ten steps. \nFind the ratio of the speed Taro and Jiro walk by the ratio of the least integer. \nAnswer\n77 : 50",
@@ -61244,7 +61244,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/square-with-black-and-white-stones",
+    "path": "/home/level-2l-1/square-with-black-and-white-stones",
     "slug": "square-with-black-and-white-stones",
     "title": "Square with black and white stones",
     "text": "I made the square form by arranging black stones and white stones in order as shown in the figure of which numbers of both stones were same. \nThe square was made when I finished arranging all black stones. \nAt this time, 11 white stones remained. \nFind the number of white stones are there at",
@@ -61338,7 +61338,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/square-with-black-and-white-stones/square-with-black-and-white-stones",
+    "path": "/home/level-2l-1/square-with-black-and-white-stones/square-with-black-and-white-stones",
     "slug": "square-with-black-and-white-stones",
     "title": "Square with black and white stones /",
     "text": "I made the square form by arranging black stones and white stones in order as shown in the figure of which numbers of both stones were same. \nThe square was made when I finished arranging all black stones. \nAt this time, 11 white stones remained. \nFind the number of white stones are there at first.",
@@ -61427,7 +61427,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/stakes-to-the-perimeter-of-the-rectangle-1",
+    "path": "/home/level-2l-1/stakes-to-the-perimeter-of-the-rectangle-1",
     "slug": "stakes-to-the-perimeter-of-the-rectangle-1",
     "title": "Stakes to the perimeter of the rectangle",
     "text": "You drive stakes to the perimeter of the rectangular land of 24 m in length and 42 m in width. \nYou should drive stake at every corner of the rectangle land and at the same interval. \nOn condition that number of stakes should be as few as possible, how many stakes do you need ?",
@@ -61476,7 +61476,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/stakes-to-the-perimeter-of-the-rectangle-1/stakes-to-the-perimeter-of-the-rectangle",
+    "path": "/home/level-2l-1/stakes-to-the-perimeter-of-the-rectangle-1/stakes-to-the-perimeter-of-the-rectangle",
     "slug": "stakes-to-the-perimeter-of-the-rectangle",
     "title": "Stakes to the perimeter of the rectangle /",
     "text": "You drive stakes to the perimeter of the rectangular land of 24 m in length and 42 m in width. \nYou should drive stake at every corner of the rectangle land and at the same interval. \nOn condition that number of stakes should be as few as possible, how many stakes do you need ?",
@@ -61525,7 +61525,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/steps-of-mother-and-child",
+    "path": "/home/level-2l-1/steps-of-mother-and-child",
     "slug": "steps-of-mother-and-child",
     "title": "Steps of mother and child",
     "text": "From home to the post office, mother and her child walked side by side together. \nMother's step was longer than child's step by 20 cm. \nMother took 200 steps and child took 300 steps from home to the post office. \n Find the distance from home to the post office?",
@@ -61566,7 +61566,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/steps-of-mother-and-child/steps-of-mother-and-child",
+    "path": "/home/level-2l-1/steps-of-mother-and-child/steps-of-mother-and-child",
     "slug": "steps-of-mother-and-child",
     "title": "Steps of mother and child /",
     "text": "From home to the post office, mother and her child walked side by side together. \nMother's step was longer than child's step by 20 cm. \nMother took 200 steps and child took 300 steps from home to the post office. \nFind the distance from home to the post office? \nAnswer\n120 m\nSolution\nWhen they",
@@ -61607,7 +61607,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/string-around-the-corn",
+    "path": "/home/level-2l-1/string-around-the-corn",
     "slug": "string-around-the-corn",
     "title": "String around the corn",
     "text": "There is a cone as shown in the figure and I made a string one round on the side from the point A on the circumference at the bottom. \nWhat cm is the string needed at shortest?",
@@ -61653,7 +61653,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/string-around-the-corn/string-around-the-corn",
+    "path": "/home/level-2l-1/string-around-the-corn/string-around-the-corn",
     "slug": "string-around-the-corn",
     "title": "String around the corn /",
     "text": "There is a cone as shown in the figure and I made a string one round on the side from the point A on the circumference at the bottom. \nWhat cm is the string needed at shortest?",
@@ -61694,7 +61694,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/sum-and-product-of-three-integers",
+    "path": "/home/level-2l-1/sum-and-product-of-three-integers",
     "slug": "sum-and-product-of-three-integers",
     "title": "Sum and product of three integers",
     "text": "There are three different integers and the product of the three integers is larger than the sum of the three integers by four. \nThere are two sets of group of such three integers.\nLargest integer is 4 in one group. \nFind the each product of two groups.",
@@ -61783,7 +61783,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/sum-and-product-of-three-integers/sum-and-product-of-three-integers",
+    "path": "/home/level-2l-1/sum-and-product-of-three-integers/sum-and-product-of-three-integers",
     "slug": "sum-and-product-of-three-integers",
     "title": "Sum and product of three integers /",
     "text": "There are three different integers and the product of the three integers is larger than the sum of the three integers by four. \nThere are two sets of group of such three integers. \nLargest integer is 4 in one group. \nFind the each product of two groups. \nAnswer\n12 and 14\nSolution\nThree integers",
@@ -61872,7 +61872,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/sum-of-16-consecutive-integers",
+    "path": "/home/level-2l-1/sum-of-16-consecutive-integers",
     "slug": "sum-of-16-consecutive-integers",
     "title": "Sum of 16 consecutive integers",
     "text": "When the sum total of 16 consecutive integers is 1000, find the first number.",
@@ -61905,7 +61905,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/sum-of-16-consecutive-integers/sum-of-16-consecutive-integers",
+    "path": "/home/level-2l-1/sum-of-16-consecutive-integers/sum-of-16-consecutive-integers",
     "slug": "sum-of-16-consecutive-integers",
     "title": "Sum of 16 consecutive integers /",
     "text": "When the sum total of 16 consecutive integers is 1000, find the first number. \nAnswer\n55",
@@ -61938,7 +61938,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/sum-of-numbers-of-two-spots-of-dice",
+    "path": "/home/level-2l-1/sum-of-numbers-of-two-spots-of-dice",
     "slug": "sum-of-numbers-of-two-spots-of-dice",
     "title": "Sum of numbers of two spots of dice",
     "text": "Suppose you roll the dice of two different size once at the same time, how many number of cases in total do you have the sum of  numbers of each spot of two dice coming out to be 5 ?",
@@ -62027,7 +62027,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/sum-of-numbers-of-two-spots-of-dice/sum-of-numbers-of-two-spots-of-dice",
+    "path": "/home/level-2l-1/sum-of-numbers-of-two-spots-of-dice/sum-of-numbers-of-two-spots-of-dice",
     "slug": "sum-of-numbers-of-two-spots-of-dice",
     "title": "Sum of numbers of two spots of dice /",
     "text": "Suppose you roll the dice of two different size once at the same time, how many number of cases in total do you have the sum of  numbers of each spot of two dice coming out to be 5 ?\nAnswer\nFour\nSolution\n(SizeA, SizeB) = (4, 1), (3, 2), (2, 3), (1, 4)",
@@ -62116,7 +62116,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/sum-of-odd-number-and-even-number",
+    "path": "/home/level-2l-1/sum-of-odd-number-and-even-number",
     "slug": "sum-of-odd-number-and-even-number",
     "title": "Sum of odd number and even number",
     "text": "As for numbers from 1 to a certain integer N, the sum of all the odd number is 9801 and the sum of all the even number is 9702. \nFind a certain integer N.",
@@ -62165,7 +62165,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/sum-of-odd-number-and-even-number/sum-of-odd-number-and-even-number",
+    "path": "/home/level-2l-1/sum-of-odd-number-and-even-number/sum-of-odd-number-and-even-number",
     "slug": "sum-of-odd-number-and-even-number",
     "title": "Sum of odd number and even number /",
     "text": "As for numbers from 1 to a certain integer N, the sum of all the odd number is 9801 and the sum of all the even number is 9702. \nFind a certain integer N. \nAnswer\n197",
@@ -62214,7 +62214,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/sum-of-seven-continuous-integers",
+    "path": "/home/level-2l-1/sum-of-seven-continuous-integers",
     "slug": "sum-of-seven-continuous-integers",
     "title": "Sum of seven continuous integers",
     "text": "When the sum total of seven continuous integers is set to 140, find the last number.",
@@ -62239,7 +62239,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/sum-of-seven-continuous-integers/sum-of-seven-continuous-integers",
+    "path": "/home/level-2l-1/sum-of-seven-continuous-integers/sum-of-seven-continuous-integers",
     "slug": "sum-of-seven-continuous-integers",
     "title": "Sum of seven continuous integers /",
     "text": "When the sum total of seven continuous integers is set to 140, find the last number. \nAnswer\n23",
@@ -62264,7 +62264,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/sweets-sold-at-a-candy-store",
+    "path": "/home/level-2l-1/sweets-sold-at-a-candy-store",
     "slug": "sweets-sold-at-a-candy-store",
     "title": "Sweets sold at a candy store",
     "text": "Sweets of 70 yen per piece are sold at a certain candy store. \nIf you buy the boxed assortment containing 12 pieces, box cost is 50 yen. If you buy five or more boxes containing 12 pieces per box, all the prices of sweets will become a 10% discount. \nMoreover, if you buy 11 or more boxes, the box",
@@ -62321,7 +62321,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/sweets-sold-at-a-candy-store/sweets-sold-at-a-candy-store",
+    "path": "/home/level-2l-1/sweets-sold-at-a-candy-store/sweets-sold-at-a-candy-store",
     "slug": "sweets-sold-at-a-candy-store",
     "title": "Sweets sold at a candy store /",
     "text": "Sweets of 70 yen per piece are sold at a certain candy store. \nIf you buy the boxed assortment containing 12 pieces, box cost is 50 yen. If you buy five or more boxes containing 12 pieces per box, all the prices of sweets will become a 10% discount. \nMoreover, if you buy 11 or more boxes, the box",
@@ -62378,7 +62378,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/test-scores-of-five-persons",
+    "path": "/home/level-2l-1/test-scores-of-five-persons",
     "slug": "test-scores-of-five-persons",
     "title": "Test scores of five persons",
     "text": "The test score of five persons A, B, C, D, and E, was as follows.\n- The average score of A, B, and C is 86 points.\n- The average score of C, D, and E is 77 points.\n- E’s score is 25 points lower than A’s.\n- The sum total of B’s and D’s score is 158 points.\n- A’s score is 10 points higher than",
@@ -62431,7 +62431,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/test-scores-of-five-persons/test-scores-of-five-persons",
+    "path": "/home/level-2l-1/test-scores-of-five-persons/test-scores-of-five-persons",
     "slug": "test-scores-of-five-persons",
     "title": "Test scores of five persons /",
     "text": "The test score of five persons A, B, C, D, and E, was as follows. \n- The average score of A, B, and C is 86 points. \n- The average score of C, D, and E is 77 points. \n- E’s score is 25 points lower than A’s. \n- The sum total of B’s and D’s score is 158 points. \n- A’s score is 10 points higher than",
@@ -62484,7 +62484,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/the-volume-when-water-freezes",
+    "path": "/home/level-2l-1/the-volume-when-water-freezes",
     "slug": "the-volume-when-water-freezes",
     "title": "The volume when water freezes",
     "text": "When water freezes, suppose that the volume increases by one-eleventh. \nInversely, when ice is melted to become water, how much does the volume decrease?",
@@ -62501,7 +62501,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/the-volume-when-water-freezes-1",
+    "path": "/home/level-2l-1/the-volume-when-water-freezes-1",
     "slug": "the-volume-when-water-freezes-1",
     "title": "The volume when water freezes /",
     "text": "When water freezes, suppose that the volume increases by one-eleventh. \nInversely, when ice is melted to become water, how much does the volume decrease?\n<Answer>\nOne-twelfth\n<Solution>\nIt becomes easy to understand that you think with concrete numerical value. Assume the volume of the water is",
@@ -62526,7 +62526,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/three-digit-integer-divide-1570",
+    "path": "/home/level-2l-1/three-digit-integer-divide-1570",
     "slug": "three-digit-integer-divide-1570",
     "title": "Three digit integer divide 1570",
     "text": "When 1570 was divided by the integer of 3 digit, remainder was 23. Find the least integer among such integers.",
@@ -62615,7 +62615,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/three-digit-integer-divide-1570/three-digit-integer-divide-1570",
+    "path": "/home/level-2l-1/three-digit-integer-divide-1570/three-digit-integer-divide-1570",
     "slug": "three-digit-integer-divide-1570",
     "title": "Three digit integer divide 1570 /",
     "text": "When 1570 was divided by the integer of 3 digit, remainder was 23. \nFind the least integer among such integers. \nAnswer\n119",
@@ -62704,7 +62704,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/three-digits-number-out-of-four-cards",
+    "path": "/home/level-2l-1/three-digits-number-out-of-four-cards",
     "slug": "three-digits-number-out-of-four-cards",
     "title": "Three digits number out of four cards",
     "text": "When creating the number of three digits by choosing and putting three sheets in order out of four cards, 1, 2, 4, and 7, how many kinds of multiples of 2 are made?",
@@ -62793,7 +62793,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/three-digits-number-out-of-four-cards/three-digits-number-out-of-four-cards",
+    "path": "/home/level-2l-1/three-digits-number-out-of-four-cards/three-digits-number-out-of-four-cards",
     "slug": "three-digits-number-out-of-four-cards",
     "title": "Three digits number out of four cards",
     "text": "When creating the number of three digits by choosing and putting three sheets in order out of four cards, 1, 2, 4, and 7, how many kinds of multiples of 2 are made?\nAnswer\n12 kinds\nSolution\nSince it comes to be a multiple of 2, ones digit is set to 2 or 4. \nThus, since the number of ones digit is",
@@ -62882,7 +62882,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/three-empty-bottles-for-new-bottle",
+    "path": "/home/level-2l-1/three-empty-bottles-for-new-bottle",
     "slug": "three-empty-bottles-for-new-bottle",
     "title": "Three empty bottles for new bottle",
     "text": "There is juice sold at a store which you can exchange for another new bottle with three empty bottles. \nWhen you buy 20 bottles of juice, how many bottles of juice can you drink in all?",
@@ -62923,7 +62923,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/three-empty-bottles-for-new-bottle/three-empty-bottles-for-new-bottle",
+    "path": "/home/level-2l-1/three-empty-bottles-for-new-bottle/three-empty-bottles-for-new-bottle",
     "slug": "three-empty-bottles-for-new-bottle",
     "title": "Three empty bottles for new bottle /",
     "text": "There is juice sold at a store which you can exchange for another new bottle with three empty bottles. \nWhen you buy 20 bottles of juice, how many bottles of juice can you drink in all?\nAnswer\n29 bottles\nSolution\nWhen you buy 20 bottles of juice, you can get six new bottles since 20 / 3 = 6",
@@ -63012,7 +63012,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/three-kinds-of-fruit-for-children",
+    "path": "/home/level-2l-1/three-kinds-of-fruit-for-children",
     "slug": "three-kinds-of-fruit-for-children",
     "title": "Three kinds of fruit for children",
     "text": "There are some children. \nWhen 60 apples was distributed to every child same number as many as possible, six apples remained. \nAs is in the same as above, when 120 oranges and 75 persimmons were distributed as many as possible, 12 oranges and three persimmons remained. \nFind the number of",
@@ -63089,7 +63089,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/three-kinds-of-fruit-for-children/three-kinds-of-fruit-for-children",
+    "path": "/home/level-2l-1/three-kinds-of-fruit-for-children/three-kinds-of-fruit-for-children",
     "slug": "three-kinds-of-fruit-for-children",
     "title": "Three kinds of fruit for children /",
     "text": "There are some children. \nWhen 60 apples was distributed to every child same number as many as possible, six apples remained. \nAs is in the same as above, when 120 oranges and 75 persimmons were distributed as many as possible, 12 oranges and three persimmons remained. \nFind the number of",
@@ -63166,7 +63166,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/three-needles-in-a-disk",
+    "path": "/home/level-2l-1/three-needles-in-a-disk",
     "slug": "three-needles-in-a-disk",
     "title": "Three needles in a disk",
     "text": "There is a disk as shown in a figure and three needles which continue rotating with a fixed speed clockwise respectively around the center O of the disk. \nThe time concerning a needle rotating one time is 5 minutes, 8 minutes, and 14 minutes sequentially from a long needle. \nAll of three needles",
@@ -63255,7 +63255,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/three-needles-in-a-disk/three-needles-in-a-disk",
+    "path": "/home/level-2l-1/three-needles-in-a-disk/three-needles-in-a-disk",
     "slug": "three-needles-in-a-disk",
     "title": "Three needles in a disk /",
     "text": "There is a disk as shown in a figure and three needles which continue rotating with a fixed speed clockwise respectively around the center O of the disk. \nThe time concerning a needle rotating one time is 5 minutes, 8 minutes, and 14 minutes sequentially from a long needle. \nAll of three needles",
@@ -63349,7 +63349,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/three-persons-100m-race-in-pairs",
+    "path": "/home/level-2l-1/three-persons-100m-race-in-pairs",
     "slug": "three-persons-100m-race-in-pairs",
     "title": "Three persons' 100m race in pairs",
     "text": "Three persons, Taro, Jiro, and Hanako raced in pairs at a time. \nFirstly when Taro and Jiro raced 100 m running and Taro arrived at the goal, Jiro was at 10 m to the goal. \nNext, when Jiro and Hanako raced 100 m running and Jiro arrived at the goal, Hanako was at 10 m to the goal. \nFinally, when",
@@ -63402,7 +63402,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/three-persons-100m-race-in-pairs/three-persons-100m-race-in-pairs",
+    "path": "/home/level-2l-1/three-persons-100m-race-in-pairs/three-persons-100m-race-in-pairs",
     "slug": "three-persons-100m-race-in-pairs",
     "title": "Three persons' 100m race in pairs /",
     "text": "Three persons, Taro, Jiro, and Hanako raced in pairs at a time. \nFirstly when Taro and Jiro raced 100 m running and Taro arrived at the goal, Jiro was at 10 m to the goal. \nNext, when Jiro and Hanako raced 100 m running and Jiro arrived at the goal, Hanako was at 10 m to the goal. \nFinally, when",
@@ -63455,7 +63455,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/three-persons-running-around-the-pond",
+    "path": "/home/level-2l-1/three-persons-running-around-the-pond",
     "slug": "three-persons-running-around-the-pond",
     "title": "Three persons running around the pond",
     "text": "Taro, Jiro and Hanako continue running around the surroundings of a pond with a fixed speed, respectively. \nTaro and Jiro run in the same direction and Hanako runs in an opposite direction. \nTaro passes Jiro every 15 minutes and Jiro meets with Hanako every 2 minutes. \nHanako runs in 8 minutes the",
@@ -63544,7 +63544,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/three-persons-running-around-the-pond/three-persons-running-around-the-pond",
+    "path": "/home/level-2l-1/three-persons-running-around-the-pond/three-persons-running-around-the-pond",
     "slug": "three-persons-running-around-the-pond",
     "title": "Three persons running around the pond /",
     "text": "Taro, Jiro and Hanako continue running around the surroundings of a pond with a fixed speed, respectively. \nTaro and Jiro run in the same direction and Hanako runs in an opposite direction. \nTaro passes Jiro every 15 minutes and Jiro meets with Hanako every 2 minutes. \nHanako runs in 8 minutes the",
@@ -63633,7 +63633,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/time-going-up-by-elevator",
+    "path": "/home/level-2l-1/time-going-up-by-elevator",
     "slug": "time-going-up-by-elevator",
     "title": "Time going up by elevator",
     "text": "There is a building of 25 stories and it took 5 seconds to go up from the first(base) floor to the fifth floor in an elevator.\nHow many seconds does going up by the same speed from the first floor to the 25th floor take?",
@@ -63722,7 +63722,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/time-going-up-by-elevator/time-going-up-by-elevator",
+    "path": "/home/level-2l-1/time-going-up-by-elevator/time-going-up-by-elevator",
     "slug": "time-going-up-by-elevator",
     "title": "Time going up by elevator /",
     "text": "There is a building of 25 stories and it took 5 seconds to go up from the first(base) floor to the fifth floor in an elevator. \nHow many seconds does going up by the same speed from the first floor to the 25th floor take?\nAnswer\n30 seconds\nSolution\n5 seconds are taken in four between stories from",
@@ -63811,7 +63811,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/time-of-overlapping",
+    "path": "/home/level-2l-1/time-of-overlapping",
     "slug": "time-of-overlapping",
     "title": "Time of overlapping",
     "text": "What time is it that the long hand overlaps with the hour hand between 2:00 and 3:00?",
@@ -63900,7 +63900,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/time-of-overlapping/time-of-overlapping",
+    "path": "/home/level-2l-1/time-of-overlapping/time-of-overlapping",
     "slug": "time-of-overlapping",
     "title": "Time of overlapping /",
     "text": "What time is it that the long hand overlaps with the hour hand between 2:00 and 3:00?\nAnswer\n2 o’clock 120/11 minutes\nSolution\nAn angle of the long hand and the hour hand is 30° x 2 = 60 degrees at 2:00 and the long hand will move after the hour hand. Because the long hand goes ahead 360° for one",
@@ -63989,7 +63989,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/time-of-raining",
+    "path": "/home/level-2l-1/time-of-raining",
     "slug": "time-of-raining",
     "title": "Time of raining",
     "text": "The time when raining in one day was 11/16 of the time when not raining. \nFind the time raining in this day by hours , minutes and seconds.",
@@ -64058,7 +64058,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/time-of-raining/time-of-raining",
+    "path": "/home/level-2l-1/time-of-raining/time-of-raining",
     "slug": "time-of-raining",
     "title": "Time of raining /",
     "text": "The time when raining in one day was 11/16 of the time when not raining. \nFind the time raining in this day by hours , minutes and seconds.\nAnswer\n9 hours and 46 minutes and 40 seconds\nSolution\nThe ratio of the time when raining and the time when not raining is 11:16. The ratio at the time when",
@@ -64143,7 +64143,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/time-of-straight-line",
+    "path": "/home/level-2l-1/time-of-straight-line",
     "slug": "time-of-straight-line",
     "title": "Time of straight line",
     "text": "Between 3:00 and 4:00, find the time for the long hand and the hour hand to become in a straight line in the opposite direction.",
@@ -64232,7 +64232,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/time-of-straight-line/time-of-straight-line",
+    "path": "/home/level-2l-1/time-of-straight-line/time-of-straight-line",
     "slug": "time-of-straight-line",
     "title": "Time of straight line /",
     "text": "Between 3:00 and 4:00, find the time for the long hand and the hour hand to become in a straight line in the opposite direction.\nAnswer\n 3 o’clock 540/11 minutes\nSolution\nAt 3:00 the angle of the long hand and the hour hand is 90 degrees(30° x 3 = 60°) and the long hand will move after the hour",
@@ -64321,7 +64321,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/train-moves-among-three-stations",
+    "path": "/home/level-2l-1/train-moves-among-three-stations",
     "slug": "train-moves-among-three-stations",
     "title": "Train moves among three stations",
     "text": "There are A station and B station and another station C is between A and B. \nTrain X will leave A station at 23:10 and will arrive at intermediate C station at 2:10 on the next day. \nAfter stopping for 20 minutes, train X will leave C station at 2:30 and it will arrive at B station at 6:10. \nThe",
@@ -64410,7 +64410,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/train-moves-among-three-stations/train-moves-among-three-stations",
+    "path": "/home/level-2l-1/train-moves-among-three-stations/train-moves-among-three-stations",
     "slug": "train-moves-among-three-stations",
     "title": "Train moves among three stations /",
     "text": "There are A station and B station and another station C is between A and B. \nTrain X will leave A station at 23:10 and will arrive at intermediate C station at 2:10 on the next day. \nAfter stopping for 20 minutes, train X will leave C station at 2:30 and it will arrive at B station at 6:10. \nThe",
@@ -64499,7 +64499,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/trees-planted-along-the-road",
+    "path": "/home/level-2l-1/trees-planted-along-the-road",
     "slug": "trees-planted-along-the-road",
     "title": "Trees planted along the road",
     "text": "Trees are planted from end to end along a road. \nWhen planting every 6 m, ten trees are needed more than the case where it plants every 8 m. \nFind the length of this road.",
@@ -64588,7 +64588,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/trees-planted-along-the-road/trees-planted-along-the-road",
+    "path": "/home/level-2l-1/trees-planted-along-the-road/trees-planted-along-the-road",
     "slug": "trees-planted-along-the-road",
     "title": "Trees planted along the road /",
     "text": "Trees are planted from end to end along a road.\nWhen planting every 6 m, ten trees are needed more than the case where it plants every 8 m.\nFind the length of this road.\nAnswer\n240 m\nSolution\nIn the case where it is planted every 8m and it is planted every 6m, the ratio of the length of the",
@@ -64677,7 +64677,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/triangle-and-angle",
+    "path": "/home/level-2l-1/triangle-and-angle",
     "slug": "triangle-and-angle",
     "title": "Triangle and angle",
     "text": "In the figure, the point C is a point on the straight line BD. \nWhen the length of the side AB is equal to the length of the side DE and the length of the side AC is equal to the length of side CD, find the degree of the angle of X.",
@@ -64755,7 +64755,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/triangle-and-angle/triangle-and-angle",
+    "path": "/home/level-2l-1/triangle-and-angle/triangle-and-angle",
     "slug": "triangle-and-angle",
     "title": "Triangle and angle /",
     "text": "In the figure, the point C is a point on the straight line BD. \nWhen the length of the side AB is equal to the length of the side DE and the length of the side AC is equal to the length of side CD, find the degree of the angle of X.",
@@ -64828,7 +64828,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/triangle-and-three-circles",
+    "path": "/home/level-2l-1/triangle-and-three-circles",
     "slug": "triangle-and-three-circles",
     "title": "Triangle and three circles",
     "text": "In the figure, triangle ABC is an equilateral triangle and all three circles are 3 cm in radius. \nFind the circumferential length and area of a shadow area, respectively. \nPi is assumed to be 3.14.",
@@ -64922,7 +64922,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/triangle-and-three-circles/triangle-and-three-circles",
+    "path": "/home/level-2l-1/triangle-and-three-circles/triangle-and-three-circles",
     "slug": "triangle-and-three-circles",
     "title": "Triangle and three circles /",
     "text": "In the figure, triangle ABC is an equilateral triangle and all three circles are 3 cm in radius. \nFind the circumferential length and area of a shadow area, respectively. \nPi is assumed to be 3.14.",
@@ -65011,7 +65011,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/two-bicycles-in-a-tunnel",
+    "path": "/home/level-2l-1/two-bicycles-in-a-tunnel",
     "slug": "two-bicycles-in-a-tunnel",
     "title": "Two bicycles in a tunnel",
     "text": "The bicycle A went into the tunnel at 4 m/s. After 24 seconds, the bicycle B went into the tunnel from the opposite side at 6 m/s. \nTwo bicycles met in the middle of the tunnel. \nFind the distance of this tunnel at this time.",
@@ -65100,7 +65100,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/two-bicycles-in-a-tunnel/two-bicycles-in-a-tunnel",
+    "path": "/home/level-2l-1/two-bicycles-in-a-tunnel/two-bicycles-in-a-tunnel",
     "slug": "two-bicycles-in-a-tunnel",
     "title": "Two bicycles in a tunnel /",
     "text": "The bicycle A went into the tunnel at 4 m/s. After 24 seconds, the bicycle B went into the tunnel from the opposite side at 6 m/s. \nTwo bicycles met in the middle of the tunnel. \nFind the distance of this tunnel at this time.\nAnswer\n576 m",
@@ -65189,7 +65189,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/two-fractions-whose-numerator-is-1",
+    "path": "/home/level-2l-1/two-fractions-whose-numerator-is-1",
     "slug": "two-fractions-whose-numerator-is-1",
     "title": "Two fractions whose numerator is 1",
     "text": "There are two fractions whose numerator is 1 and the sum of two fractions is 8/15. \nFind 2 pairs of groups of such fractions.",
@@ -65278,7 +65278,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/two-fractions-whose-numerator-is-1/two-fractions-whose-numerator-is-1",
+    "path": "/home/level-2l-1/two-fractions-whose-numerator-is-1/two-fractions-whose-numerator-is-1",
     "slug": "two-fractions-whose-numerator-is-1",
     "title": "Two fractions whose numerator is 1 /",
     "text": "There are two fractions whose numerator is 1 and the sum of two fractions is 8/15. \nFind 2 pairs of groups of such fractions. \nAnswer\n1/2 and 1/30, \n1/3 and 1/5",
@@ -65367,7 +65367,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/volume-ratio-of-alcohol",
+    "path": "/home/level-2l-1/volume-ratio-of-alcohol",
     "slug": "volume-ratio-of-alcohol",
     "title": "Volume ratio of alcohol",
     "text": "There are two beakers A and B, 10L alcohol is in A and 10L water is in B. \nAt first, I take 5L out of A and put it in B and stirred it well. \nNext I take 5L out of B and put it in A. \nIndicate the volume of the alcohol in A and B by the ratio of the least integer.",
@@ -65416,7 +65416,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/volume-ratio-of-alcohol/volume-ratio-of-alcohol",
+    "path": "/home/level-2l-1/volume-ratio-of-alcohol/volume-ratio-of-alcohol",
     "slug": "volume-ratio-of-alcohol",
     "title": "Volume ratio of alcohol /",
     "text": "There are two beakers A and B, 10L alcohol is in A and 10L water is in B. \nAt first, I take 5L out of A and put it in B and stirred it well. \nNext I take 5L out of B and put it in A. \nIndicate the volume of the alcohol in A and B by the ratio of the least integer.\nAnswer\n2 : 1\nSolution\n5L comes",
@@ -65505,7 +65505,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/walk-around-the-pond-2",
+    "path": "/home/level-2l-1/walk-around-the-pond-2",
     "slug": "walk-around-the-pond-2",
     "title": "Walk around the pond",
     "text": "Taro of 50m per minute and Jiro of 30m per minute started at the same time in the same direction around a circular pond. \nWhen Taro who separated Jiro catches up with Jiro in five minutes, find the distance around this pond?",
@@ -65594,7 +65594,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/walk-around-the-pond-2/walk-around-the-pond",
+    "path": "/home/level-2l-1/walk-around-the-pond-2/walk-around-the-pond",
     "slug": "walk-around-the-pond",
     "title": "Walk around the pond /",
     "text": "Taro of 50m per minute and Jiro of 30m per minute started at the same time in the same direction around a circular pond. \nWhen Taro who separated Jiro catches up with Jiro in five minutes, find the distance around this pond?\nAnswer\n100 m\nSolution\nAssume that Taro of one lap of delay catches up",
@@ -65683,7 +65683,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/walk-on-another-escalator",
+    "path": "/home/level-2l-1/walk-on-another-escalator",
     "slug": "walk-on-another-escalator",
     "title": "Walk on another escalator",
     "text": "It takes 60 seconds to go up to the second floor from the first floor to ride the escalator with a 60 steps when it is stopped. \nHow many seconds does it take to the second floor if you walk on this escalator at the speed of 0.5 seconds per step?",
@@ -65772,7 +65772,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/walk-on-another-escalator/walk-on-another-escalator",
+    "path": "/home/level-2l-1/walk-on-another-escalator/walk-on-another-escalator",
     "slug": "walk-on-another-escalator",
     "title": "Walk on another escalator /",
     "text": "It takes 60 seconds to go up to the second floor from the first floor to ride the escalator with a 60 steps when it is stopped. \nHow many seconds does it take to the second floor if you walk on this escalator at the speed of 0.5 seconds per step?\nAnswer\n20 seconds\nSolution\nThe speed of the",
@@ -65861,7 +65861,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/walk-on-the-escalator",
+    "path": "/home/level-2l-1/walk-on-the-escalator",
     "slug": "walk-on-the-escalator",
     "title": "Walk on the escalator",
     "text": "It took 40 seconds to go up from the first floor to the second floor by escalator. \nThe speed to going up will be doubled if you walk along the escalator with the speed of two steps per second. \nHow many steps are there in this escalator?",
@@ -65910,7 +65910,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/walk-on-the-escalator/walk-on-the-escalator",
+    "path": "/home/level-2l-1/walk-on-the-escalator/walk-on-the-escalator",
     "slug": "walk-on-the-escalator",
     "title": "Walk on the escalator /",
     "text": "It took 40 seconds to go up from the first floor to the second floor by escalator. \nThe speed to going up will be doubled if you walk along the escalator with the speed of two steps per second. \nHow many steps are there in this escalator?\nAnswer\n80 steps\nSolution\nThat the speed to going up is",
@@ -65959,7 +65959,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/water-pumped-out-of-tank",
+    "path": "/home/level-2l-1/water-pumped-out-of-tank",
     "slug": "water-pumped-out-of-tank",
     "title": "Water pumped out of tank",
     "text": "There is a water tank which water of 72L is in and water flows into this tank by 3L a minute. \nWhen water is pumped out of this tank with one pump, all water in this tank is pumped out in 24 minutes. \nHow many minutes does it take if water is pumped out with two pumps?",
@@ -66008,7 +66008,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/water-pumped-out-of-tank/water-pumped-out-of-tank",
+    "path": "/home/level-2l-1/water-pumped-out-of-tank/water-pumped-out-of-tank",
     "slug": "water-pumped-out-of-tank",
     "title": "Water pumped out of tank /",
     "text": "There is a water tank which water of 72L is in and water flows into this tank by 3L a minute. \nWhen water is pumped out of this tank with one pump, all water in this tank is pumped out in 24 minutes. \nHow many minutes does it take if water is pumped out with two pumps? \nAnswer\neight",
@@ -66057,7 +66057,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/weight-of-log",
+    "path": "/home/level-2l-1/weight-of-log",
     "slug": "weight-of-log",
     "title": "Weight of log",
     "text": "The 5 m long log whose cut surface is the circle with radius 20 cm weighed 376.8 kg. \nFind the weight of 1 cm3 of this log.",
@@ -66146,7 +66146,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/weight-of-log/weight-of-log",
+    "path": "/home/level-2l-1/weight-of-log/weight-of-log",
     "slug": "weight-of-log",
     "title": "Weight of log /",
     "text": "The 5 m long log whose cut surface is the circle with radius 20 cm weighed 376.8 kg. \nFind the weight of 1 cm3 of this log. \nAnswer\n0.6 g",
@@ -66235,7 +66235,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/weight-of-the-salt-solution",
+    "path": "/home/level-2l-1/weight-of-the-salt-solution",
     "slug": "weight-of-the-salt-solution",
     "title": "Weight of the salt solution",
     "text": "8% of salt solution was mixed with 5% of salt solution 250 g to become 6.8% of salt solution. \nFind the weight of the salt solution made.",
@@ -66324,7 +66324,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/weight-of-the-salt-solution/weight-of-the-salt-solution",
+    "path": "/home/level-2l-1/weight-of-the-salt-solution/weight-of-the-salt-solution",
     "slug": "weight-of-the-salt-solution",
     "title": "Weight of the salt solution /",
     "text": "8% of salt solution was mixed with 5% of salt solution 250 g to become 6.8% of salt solution. \nFind the weight of the salt solution made.\nAnswer\n625 g",
@@ -66413,7 +66413,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/what-day-of-the-month",
+    "path": "/home/level-2l-1/what-day-of-the-month",
     "slug": "what-day-of-the-month",
     "title": "What day of the month",
     "text": "January 1, 2008 of the leap year was Tuesday. \nWhat day is it the last Tuesday of January, 2010?",
@@ -66502,7 +66502,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/what-day-of-the-month/what-day-of-the-month",
+    "path": "/home/level-2l-1/what-day-of-the-month/what-day-of-the-month",
     "slug": "what-day-of-the-month",
     "title": "What day of the month /",
     "text": "January 1, 2008 of the leap year was Tuesday. \nWhat day is it the last Tuesday of January, 2010? \nAnswer\n26th",
@@ -66591,7 +66591,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/what-day-of-the-week",
+    "path": "/home/level-2l-1/what-day-of-the-week",
     "slug": "what-day-of-the-week",
     "title": "What day of the week",
     "text": "May 11 of a certain year was Tuesday. \nWhat day of the week is October 7 of this certain year?",
@@ -66680,7 +66680,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/what-day-of-the-week-six-years-later",
+    "path": "/home/level-2l-1/what-day-of-the-week-six-years-later",
     "slug": "what-day-of-the-week-six-years-later",
     "title": "What day of the week six years later",
     "text": "February 2, 2009 is Monday. \nFind the day of the week of February 28, 2015. \nNoted that there is 29th in February in the year when the number of the year is divided by 4.",
@@ -66769,7 +66769,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/what-day-of-the-week-six-years-later/what-day-of-the-week-six-years-later",
+    "path": "/home/level-2l-1/what-day-of-the-week-six-years-later/what-day-of-the-week-six-years-later",
     "slug": "what-day-of-the-week-six-years-later",
     "title": "What day of the week six years later /",
     "text": "February 2, 2009 is Monday. \nFind the day of the week of February 28, 2015. \nNoted that there is 29th in February in the year when the number of the year is divided by 4.\nAnswer\nSaturday",
@@ -66858,7 +66858,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/what-day-of-the-week/what-day-of-the-week",
+    "path": "/home/level-2l-1/what-day-of-the-week/what-day-of-the-week",
     "slug": "what-day-of-the-week",
     "title": "What day of the week /",
     "text": "May 11 of a certain year was Tuesday. \nWhat day of the week is October 7 of this certain year?\nAnswer\nThursday\nSolution\nThe number of days from May 11 to October 7 is to be counted. \nIn May there are 21 days including May 11 and number of days from September 1 to October 7 is 30(June) + 31(July) +",
@@ -66947,7 +66947,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/white-and-black-stones",
+    "path": "/home/level-2l-1/white-and-black-stones",
     "slug": "white-and-black-stones",
     "title": "White and black stones",
     "text": "How many ways of arranging five white stones and three black stones in one row are there?",
@@ -66980,7 +66980,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/white-and-black-stones/white-and-black-stones",
+    "path": "/home/level-2l-1/white-and-black-stones/white-and-black-stones",
     "slug": "white-and-black-stones",
     "title": "White and black stones /",
     "text": "How many ways of arranging five white stones and three black stones in one row are there?\nAnswer\n56 ways\nSolution\nIt is the same as considering how to put three black stones into the eight boxes arranged. \nIt becomes the way of choosing which chooses three boxes from eight boxes for putting three",
@@ -67029,7 +67029,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/work-done-by-three",
+    "path": "/home/level-2l-1/work-done-by-three",
     "slug": "work-done-by-three",
     "title": "Work done by two persons",
     "text": "To finish a certain work, it will take 12 days by A and 15 days by B. \nA and B jointly started to finish the work but B rested a number of days. \n It took 8 days to finish the work. How many days did B rest ?",
@@ -67118,7 +67118,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/work-done-by-three/work-done-by-three-persons",
+    "path": "/home/level-2l-1/work-done-by-three/work-done-by-three-persons",
     "slug": "work-done-by-three-persons",
     "title": "Work done by two persons /",
     "text": "To finish a certain work, it will take 12 days by Taro and 15 days by Jiro.\nTaro and Jiro jointly started to finish the work but Jiro rested a number of days.\n It took 8 days to finish the work. \nHow many days did Jiro rest ?\nAnswer\n3 days\nSolution\nThe volume of this work is set to 1. \nThe daily",
@@ -67207,7 +67207,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/wrong-scale-of-tape-measures",
+    "path": "/home/level-2l-1/wrong-scale-of-tape-measures",
     "slug": "wrong-scale-of-tape-measures",
     "title": "Wrong scale of tape measures",
     "text": "I measured the distance between two points by the tape measure of the A and B with the scale of 50m.\nAs a result of having measured by A, it was 833m having measured by B, it was 835m.\nWhen there was the deviation in these two tape measures and compared length of A and B, there was a difference of",
@@ -67284,7 +67284,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-1/wrong-scale-of-tape-measures/wrong-scale-of-tape-measures",
+    "path": "/home/level-2l-1/wrong-scale-of-tape-measures/wrong-scale-of-tape-measures",
     "slug": "wrong-scale-of-tape-measures",
     "title": "Wrong scale of tape measures /",
     "text": "I measured the distance between two points by the tape measure of the A and B with the scale of 50m.\nAs a result of having measured by A, it was 833m having measured by B, it was 835m.\nWhen there was the deviation in these two tape measures and compared length of A and B, there was a difference of",
@@ -67361,7 +67361,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3",
+    "path": "/home/level-2l-3",
     "slug": "level-3",
     "title": "Level 3",
     "text": "Operations\n    AAA.1     \nProperties\n    BBB.1\nRatios and proportions\n    CCC.1       \nProblem solving (Velocity)\n    DDD.1    Replacement of long hand and hour hand           \n    DDD.2    Three persons moving on a circular pond          \n    DDD.3    The 3rd hand on a circular clock",
@@ -67450,7 +67450,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/365-cards-with-date-of-one-year",
+    "path": "/home/level-2l-3/365-cards-with-date-of-one-year",
     "slug": "365-cards-with-date-of-one-year",
     "title": "365 cards with date of one year",
     "text": "There are 365 cards piled up on which the date of the non-leap year is written. \nIt is written to the 1st card as January 1, to the 2nd card as January 2, to the 3rd card as January 3rd and to the 365th card as December 31. Answer the following questions.\n(1) Remove even-numbered cards counted",
@@ -67539,7 +67539,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/365-cards-with-date-of-one-year/365-cards-with-date-of-one-year",
+    "path": "/home/level-2l-3/365-cards-with-date-of-one-year/365-cards-with-date-of-one-year",
     "slug": "365-cards-with-date-of-one-year",
     "title": "365 cards with date of one year /",
     "text": "There are 365 cards piled up on which the date of the non-leap year is written. \nIt is written to the 1st card as January 1, to the 2nd card as January 2, to the 3rd card as January 3rd and to the 365th card as December 31. Answer the following questions.\n(1) Remove even-numbered cards counted",
@@ -67628,7 +67628,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/area-ratio-divided-in-parallelogram",
+    "path": "/home/level-2l-3/area-ratio-divided-in-parallelogram",
     "slug": "area-ratio-divided-in-parallelogram",
     "title": "Area ratio divided in parallelogram",
     "text": "The quadrangle ABCD of the figure is a parallelogram. E, P and G are points on the sides AB, CD and DA, respectively and AE = EB and AG=GD and DF : FC = 4 : 1. \nMoreover, the point H is an intersection of EF and BG. \nThe point I is an intersection of EF and CG. \nAnswer the following questions.",
@@ -67722,7 +67722,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/area-ratio-divided-in-parallelogram/area-ratio-divided-in-parallelogram",
+    "path": "/home/level-2l-3/area-ratio-divided-in-parallelogram/area-ratio-divided-in-parallelogram",
     "slug": "area-ratio-divided-in-parallelogram",
     "title": "Area ratio divided in parallelogram /",
     "text": "The quadrangle ABCD of the figure is a parallelogram. E, P and G are points on the sides AB, CD and DA, respectively and AE = EB and AG=GD and DF : FC = 4 : 1. \nMoreover, the point H is an intersection of EF and BG. \nThe point I is an intersection of EF and CG. \nAnswer the following questions.",
@@ -67832,7 +67832,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/area-ratio-divided-in-sector",
+    "path": "/home/level-2l-3/area-ratio-divided-in-sector",
     "slug": "area-ratio-divided-in-sector",
     "title": "Area ratio divided in sector",
     "text": "There is the sector OAB which is 1/4 part a circle. \nAnswer the following questions.\n(1) Find the ratio of the area of a shadow area and the sector OAB in Fig. 1. \nNoted that the straight lines OA, CD, and EF are parallel.\n(2) As shown in Fig. 2, the straight line parallel to OA was drawn from",
@@ -67930,7 +67930,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/area-ratio-divided-in-sector/area-ratio-divided-in-sector",
+    "path": "/home/level-2l-3/area-ratio-divided-in-sector/area-ratio-divided-in-sector",
     "slug": "area-ratio-divided-in-sector",
     "title": "Area ratio divided in sector /",
     "text": "There is the sector OAB which is 1/4 part a circle. \nAnswer the following questions. \n(1) Find the ratio of the area of a shadow area and the sector OAB in Fig. 1. \nNoted that the straight lines OA, CD, and EF are parallel. \n(2) As shown in Fig. 2, the straight line parallel to OA was drawn from",
@@ -68040,7 +68040,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/area-ratio-divided-in-triangle",
+    "path": "/home/level-2l-3/area-ratio-divided-in-triangle",
     "slug": "area-ratio-divided-in-triangle",
     "title": "Area ratio divided in triangle",
     "text": "In a figure, AE : EC = 2 : 3, AF : FB = 3 : 1 and the area ratio of the triangle ABC and the triangle DEF is 40 : 9. \nAnswer the following questions.\n(1) Find the area ratio of the triangle BEF and the triangle DEF by the ratio of the least integer.\n(2) Find the area ratio of the triangle DEF and",
@@ -68134,7 +68134,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/area-ratio-divided-in-triangle/area-ratio-divided-in-triangle",
+    "path": "/home/level-2l-3/area-ratio-divided-in-triangle/area-ratio-divided-in-triangle",
     "slug": "area-ratio-divided-in-triangle",
     "title": "Area ratio divided in triangle /",
     "text": "In a figure, AE : EC = 2 : 3, AF : FB = 3 : 1 and the area ratio of the triangle ABC and the triangle DEF is 40 : 9. \nAnswer the following questions. \n(1) Find the area ratio of the triangle BEF and the triangle DEF by the ratio of the least integer. \n(2) Find the area ratio of the triangle DEF",
@@ -68236,7 +68236,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/area-ration-divided-in-parallelogram",
+    "path": "/home/level-2l-3/area-ration-divided-in-parallelogram",
     "slug": "area-ration-divided-in-parallelogram",
     "title": "Area ratio divided in parallelogram",
     "text": "The quadrangle ABCD of the figure is a parallelogram. E, P and G are points on the sides AB, CD and DA, respectively and AE = EB and AG=GD and DF : FC = 4 : 1. \nMoreover, the point H is an intersection of EF and BG. \nThe point I is an intersection of EF and CG. \nAnswer the following questions.",
@@ -68330,7 +68330,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/arrangement-of-squares-in-order",
+    "path": "/home/level-2l-3/arrangement-of-squares-in-order",
     "slug": "arrangement-of-squares-in-order",
     "title": "Arrangement of squares in order",
     "text": "According to the order as shown in a figure, a figure is made by adding a square whose one side is 1cm one by one.",
@@ -68368,7 +68368,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/arrangement-of-squares-in-order/arrangement-of-squares-in-order",
+    "path": "/home/level-2l-3/arrangement-of-squares-in-order/arrangement-of-squares-in-order",
     "slug": "arrangement-of-squares-in-order",
     "title": "Arrangement of squares in order /",
     "text": "According to the order as shown in a figure, a figure is made by adding a square whose one side is 1cm one by one.",
@@ -68422,7 +68422,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/candies-for-children-gathering",
+    "path": "/home/level-2l-3/candies-for-children-gathering",
     "slug": "candies-for-children-gathering",
     "title": "Candies for children gathering",
     "text": "It decided to give away candies to an attendant in children gathering. Since the number of participants was not found, a certain number was planned and three bags of candies were prepared. \nThe number of candies in each bag is same. \nAnswer the following questions.\n(1) Is the number of",
@@ -68511,7 +68511,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/candies-for-children-gathering/candies-for-children-gathering",
+    "path": "/home/level-2l-3/candies-for-children-gathering/candies-for-children-gathering",
     "slug": "candies-for-children-gathering",
     "title": "Candies for children gathering /",
     "text": "It decided to give away candies to an attendant in children gathering. \nSince the number of participants was not found, a certain number was planned and three bags of candies were prepared. \nThe number of candies in each bag is same. \nAnswer the following questions. \n(1) Is the number of",
@@ -68600,7 +68600,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/change-of-gas-rate-in-several-months",
+    "path": "/home/level-2l-3/change-of-gas-rate-in-several-months",
     "slug": "change-of-gas-rate-in-several-months",
     "title": "Change of gas rate in several months",
     "text": "The gas rate of every month of a certain gas company is the sum total of the fixed amount of basic charge and the charge corresponding to the amount of the gas used. \nThe charge corresponding to the amount used is calculated from the unit price per m3 provided in stages corresponding to the amount",
@@ -68625,7 +68625,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/change-of-gas-rate-in-several-months/change-of-gas-rate-in-several-months",
+    "path": "/home/level-2l-3/change-of-gas-rate-in-several-months/change-of-gas-rate-in-several-months",
     "slug": "change-of-gas-rate-in-several-months",
     "title": "Change of gas rate in several months /",
     "text": "The gas rate of every month of a certain gas company is the sum total of the fixed amount of basic charge and the charge corresponding to the amount of the gas used. \nThe charge corresponding to the amount used is calculated from the unit price per m3 provided in stages corresponding to the amount",
@@ -68650,7 +68650,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/circle-moving-around-a-figure",
+    "path": "/home/level-2l-3/circle-moving-around-a-figure",
     "slug": "circle-moving-around-a-figure",
     "title": "Circle moving around a figure",
     "text": "The shadow area of a figure is a figure which is a combination of three equilateral triangles with 6 cm one side cm and three sectors 6 cm in radius. \nWhen a circle 1 cm in radius takes one round touching the circumference of this figure, find the area of the portion along which this circle",
@@ -68744,7 +68744,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/circle-moving-around-a-figure/circle-moving-around-a-figure",
+    "path": "/home/level-2l-3/circle-moving-around-a-figure/circle-moving-around-a-figure",
     "slug": "circle-moving-around-a-figure",
     "title": "Circle moving around a figure /",
     "text": "The shadow area of a figure is a figure which is a combination of three equilateral triangles with 6 cm one side cm and three sectors 6 cm in radius. \nWhen a circle 1 cm in radius takes one round touching the circumference of this figure, find the area of the portion along which this circle",
@@ -68846,7 +68846,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/circle-moving-around-hexagon",
+    "path": "/home/level-2l-3/circle-moving-around-hexagon",
     "slug": "circle-moving-around-hexagon",
     "title": "Circle moving around hexagon",
     "text": "There is an equilateral pentagon whose length of one side is 4 cm. \nAs shown in a figure, five arcs passing through each vertex with a radius of 4 cm are drawn in the inside of the equilateral pentagon. \nA disk 1 cm in diameter moves one round touching five arcs. \nIn this case, find the area of",
@@ -68940,7 +68940,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/circle-moving-around-hexagon/circle-moving-around-hexagon",
+    "path": "/home/level-2l-3/circle-moving-around-hexagon/circle-moving-around-hexagon",
     "slug": "circle-moving-around-hexagon",
     "title": "Circle moving around hexagon /",
     "text": "There is an equilateral pentagon whose length of one side is 4 cm. \nAs shown in a figure, five arcs passing through each vertex with a radius of 4 cm are drawn in the inside of the equilateral pentagon. \nA disk 1 cm in diameter moves one round touching five arcs. \nIn this case, find the area of",
@@ -69038,7 +69038,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/compare-area-of-black-and-white-square",
+    "path": "/home/level-2l-3/compare-area-of-black-and-white-square",
     "slug": "compare-area-of-black-and-white-square",
     "title": "Compare area of black and white square",
     "text": "Black and white squares whose length of one side is 1 cm are spread as shown in a figure. \nIn each figure of (1) to (3) shown by the bold line, comparing the area of black(shadow) and white, which is larger by how much or same?",
@@ -69140,7 +69140,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/compare-area-of-black-and-white-square/compare-area-of-black-and-white-square",
+    "path": "/home/level-2l-3/compare-area-of-black-and-white-square/compare-area-of-black-and-white-square",
     "slug": "compare-area-of-black-and-white-square",
     "title": "Compare area of black and white square /",
     "text": "Black and white squares whose length of one side is 1 cm are spread as shown in a figure. \nIn each figure of (1) to (3) shown by the bold line, comparing the area of black(shadow) and white, which is larger by how much or same?",
@@ -69262,7 +69262,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/connected-parallelograms",
+    "path": "/home/level-2l-3/connected-parallelograms",
     "slug": "connected-parallelograms",
     "title": "Connected parallelograms",
     "text": "There are some parallelograms whose length of two sides is 2 cm and 1 cm, and one inside angle is 60 degrees. \nThese are connected at the vertex so that all of the 2 cm sides are parallel as shown in Fig.1 and Fig.2. \n(1) A and B were connected as shown in Fig.1. \nFind the area ratio of the sum of",
@@ -69360,7 +69360,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/connected-parallelograms/connected-parallelograms",
+    "path": "/home/level-2l-3/connected-parallelograms/connected-parallelograms",
     "slug": "connected-parallelograms",
     "title": "Connected parallelograms /",
     "text": "There are some parallelograms whose length of two sides is 2 cm and 1 cm, and one inside angle is 60 degrees. \nThese are connected at the vertex so that all of the 2 cm sides are parallel as shown in Fig.1 and Fig.2. \n(1) A and B were connected as shown in Fig.1. \nFind the area ratio of the sum of",
@@ -69470,7 +69470,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/cut-another-quadrangular-pyramid",
+    "path": "/home/level-2l-3/cut-another-quadrangular-pyramid",
     "slug": "cut-another-quadrangular-pyramid",
     "title": "Cut another quadrangular pyramid",
     "text": "As for quadrangular pyramid O-ABCD in a figure, the bottom is a square and all the length of OA, OB, OC and OD is equal. K, L, M, N, P, Q, R, and S are the middle points of each side.\nThis quadrangular pyramid is cut by three planes of the plane which passes along P, K, N, R and the plane which",
@@ -69535,7 +69535,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/cut-another-quadrangular-pyramid/cut-another-quadrangular-pyramid",
+    "path": "/home/level-2l-3/cut-another-quadrangular-pyramid/cut-another-quadrangular-pyramid",
     "slug": "cut-another-quadrangular-pyramid",
     "title": "Cut another quadrangular pyramid /",
     "text": "As for quadrangular pyramid O-ABCD in a figure, the bottom is a square and all the length of OA, OB, OC and OD is equal. K, L, M, N, P, Q, R, and S are the middle points of each side. \nThis quadrangular pyramid is cut by three planes of the plane which passes along P, K, N, R and the plane which",
@@ -69600,7 +69600,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/cut-piling-up-eight-cubes",
+    "path": "/home/level-2l-3/cut-piling-up-eight-cubes",
     "slug": "cut-piling-up-eight-cubes",
     "title": "Cut piling up eight cubes",
     "text": "As shown in a figure, eight cubes of 1 cm3 in volume are accumulated. When this solid is cut by the plane which passes along the side AB and CD, find the volume of the solid of the smaller one.",
@@ -69694,7 +69694,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/cut-piling-up-eight-cubes/cut-piling-up-eight-cubes",
+    "path": "/home/level-2l-3/cut-piling-up-eight-cubes/cut-piling-up-eight-cubes",
     "slug": "cut-piling-up-eight-cubes",
     "title": "Cut piling up eight cubes /",
     "text": "As shown in a figure, eight cubes of 1 cm3 in volume are accumulated. \nWhen this solid is cut by the plane which passes along the side AB and CD, find the volume of the solid of the smaller one.",
@@ -69796,7 +69796,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/cut-rectangular-prism-with-planes-parallel-to-faces",
+    "path": "/home/level-2l-3/cut-rectangular-prism-with-planes-parallel-to-faces",
     "slug": "cut-rectangular-prism-with-planes-parallel-to-faces",
     "title": "Cut rectangular prism with planes parallel to faces",
     "text": "There is a rectangular prism 3 cm in length, 4 cm in width and 5 cm in height. \nAs for faces of this rectangular prism, the face of the rectangle with 3cm and 4cm side is set to face A, the face with 4cm and 5cm is set to face B and the face with 5cm and 3cm is set to face C.",
@@ -69890,7 +69890,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/cut-rectangular-prism-with-planes-parallel-to-faces/cut-rectangular-prism-with-planes-parallel-to-faces",
+    "path": "/home/level-2l-3/cut-rectangular-prism-with-planes-parallel-to-faces/cut-rectangular-prism-with-planes-parallel-to-faces",
     "slug": "cut-rectangular-prism-with-planes-parallel-to-faces",
     "title": "Cut rectangular prism with planes parallel to faces /",
     "text": "There is a rectangular prism 3 cm in length, 4 cm in width and 5 cm in height. \nAs for faces of this rectangular prism, the face of the rectangle with 3cm and 4cm side is set to face A, the face with 4cm and 5cm is set to face B and the face with 5cm and 3cm is set to face C.",
@@ -69988,7 +69988,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/cut-right-quadrangular-pyramid",
+    "path": "/home/level-2l-3/cut-right-quadrangular-pyramid",
     "slug": "cut-right-quadrangular-pyramid",
     "title": "Cut right quadrangular pyramid",
     "text": "Solid O-ABCD in a figure is a right quadrangular pyramid. \nThe bottom is a square and all the length of OA, OB, OC and OD is equal. \nMoreover, E and F divide OB and OD into the ratio of 3 : 1, respectively. \nThe intersection of the plane which passes along three point A, E, F and the side OC is",
@@ -70077,7 +70077,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/cut-right-quadrangular-pyramid/cut-right-quadrangular-pyramid",
+    "path": "/home/level-2l-3/cut-right-quadrangular-pyramid/cut-right-quadrangular-pyramid",
     "slug": "cut-right-quadrangular-pyramid",
     "title": "Cut right quadrangular pyramid /",
     "text": "Solid O-ABCD in a figure is a right quadrangular pyramid. \nThe bottom is a square and all the length of OA, OB, OC and OD is equal. \nMoreover, E and F divide OB and OD into the ratio of 3 : 1, respectively. \nThe intersection of the plane which passes along three point A, E, F and the side OC is",
@@ -70166,7 +70166,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/cut-surface-of-cube",
+    "path": "/home/level-2l-3/cut-surface-of-cube",
     "slug": "cut-surface-of-cube",
     "title": "Cut surface of cube",
     "text": "The (Example) and ①, ② and ③ in Fig. P are the figures which cut off a 3cm cube as shown in a lower figure at one plane and looked at the solid below a cut surface from the direction of A (right above) and B (front). \nThe portion into which the cut surface is in sight is shaded by slant line. \nAs",
@@ -70199,7 +70199,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/cut-surface-of-cube/cut-surface-of-cube",
+    "path": "/home/level-2l-3/cut-surface-of-cube/cut-surface-of-cube",
     "slug": "cut-surface-of-cube",
     "title": "Cut surface of cube /",
     "text": "The (Example) and ①, ② and ③ in Fig. P are the figures which cut off a 3cm cube as shown in a lower figure at one plane and looked at the solid below a cut surface from the direction of A (right above) and B (front). \nThe portion into which the cut surface is in sight is shaded by slant line. \nAs",
@@ -70232,7 +70232,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/cutting-line-based-on-development-view",
+    "path": "/home/level-2l-3/cutting-line-based-on-development-view",
     "slug": "cutting-line-based-on-development-view",
     "title": "Cutting line based on development view",
     "text": "When the cube of Fig. 1 is opened up by cutting by the bold line of Fig. 2, the development view become Fig. 3. \nHow should it be cut respectively, in order for the development view of each cube to become as shown in (1) and (2)? \nAs shown in Fig. 2, write a bold line in the sketch of the cube.",
@@ -70342,7 +70342,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/cutting-line-based-on-development-view/cutting-line-based-on-development-view",
+    "path": "/home/level-2l-3/cutting-line-based-on-development-view/cutting-line-based-on-development-view",
     "slug": "cutting-line-based-on-development-view",
     "title": "Cutting line based on development view /",
     "text": "When the cube of Fig. 1 is opened up by cutting by the bold line of Fig. 2, the development view become Fig. 3. \nHow should it be cut respectively, in order for the development view of each cube to become as shown in (1) and (2)? \nAs shown in Fig. 2, write a bold line in the sketch of the cube.",
@@ -70476,7 +70476,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/development-view-of-solid-with-six-faces-of-lozenge",
+    "path": "/home/level-2l-3/development-view-of-solid-with-six-faces-of-lozenge",
     "slug": "development-view-of-solid-with-six-faces-of-lozenge",
     "title": "Development view of solid with six faces of lozenge",
     "text": "Draw the development view of the solid which are surrounded by six faces of lozenge in which degree of the angle of one pair of angles which face each other is 60 degrees. \nDraw within the area in the figure using the dotted line.",
@@ -70522,7 +70522,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/development-view-of-solid-with-six-faces-of-lozenge/development-view-of-solid-with-six-faces-of-lozenge",
+    "path": "/home/level-2l-3/development-view-of-solid-with-six-faces-of-lozenge/development-view-of-solid-with-six-faces-of-lozenge",
     "slug": "development-view-of-solid-with-six-faces-of-lozenge",
     "title": "Development view of solid with six faces of lozenge /",
     "text": "Draw the development view of the solid which are surrounded by six faces of lozenge in which degree of the angle of one pair of angles which face each other is 60 degrees. \nDraw within the area in the figure using the dotted line.",
@@ -70580,7 +70580,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/election-of-class-representative",
+    "path": "/home/level-2l-3/election-of-class-representative",
     "slug": "election-of-class-representative",
     "title": "Election of class representative",
     "text": "In a certain class of 40 students, three class representatives will be decided by an election. \nAll 40 students voted someone of this class by one vote per person. \nAs a result, Taro was in the 1st place, Jiro was in the 2nd place and Hanako was in the 3rd place. \nThe number of votes of three",
@@ -70645,7 +70645,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/election-of-class-representative/election-of-class-representative",
+    "path": "/home/level-2l-3/election-of-class-representative/election-of-class-representative",
     "slug": "election-of-class-representative",
     "title": "Election of class representative /",
     "text": "In a certain class of 40 students, three class representatives will be decided by an election. \nAll 40 students voted someone of this class by one vote per person. \nAs a result, Taro was in the 1st place, Jiro was in the 2nd place and Hanako was in the 3rd place. \nThe number of votes of three",
@@ -70710,7 +70710,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/find-the-road-to-paradise",
+    "path": "/home/level-2l-3/find-the-road-to-paradise",
     "slug": "find-the-road-to-paradise",
     "title": "Find the road to paradise",
     "text": "While wandering about the wilderness without any water and food and it had been utterly ruined, there are right and left roads toward hell or paradise and JIZO (the guardian deity of children) was standing there. \nThe way of reply of JIZO to your inquiry is only shaking or nodding its head and",
@@ -70751,7 +70751,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/find-the-road-to-paradise/find-the-road-to-paradise",
+    "path": "/home/level-2l-3/find-the-road-to-paradise/find-the-road-to-paradise",
     "slug": "find-the-road-to-paradise",
     "title": "Find the road to paradise /",
     "text": "While wandering about the wilderness without any water and food and it had been utterly ruined, there are right and left roads toward hell or paradise and JIZO (the guardian deity of children) was standing there. \nThe way of reply of JIZO to your inquiry is only shaking or nodding its head and",
@@ -70792,7 +70792,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/find-the-way-to-go",
+    "path": "/home/level-2l-3/find-the-way-to-go",
     "slug": "find-the-way-to-go",
     "title": "Find the way to go",
     "text": "I come to the fork in the road you do not know which way to go to A town, either way to B town. \nThere are two persons, one is Taro who always tell or do the truth and another is Jiro who always say or do the contrary to the truth. I do not know which person is Taro. \nFind out the question I can",
@@ -70841,7 +70841,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/find-the-way-to-go/find-the-way-to-go",
+    "path": "/home/level-2l-3/find-the-way-to-go/find-the-way-to-go",
     "slug": "find-the-way-to-go",
     "title": "Find the way to go /",
     "text": "I come to the fork in the road you do not know which way to go to A town, either way to B town. \nThere are two persons, one is Taro who always tell or do the truth and another is Jiro who always say or do the contrary to the truth. \nI do not know which person is Taro. \nFind out the question I can",
@@ -70890,7 +70890,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/going-back-and-forth-two-points",
+    "path": "/home/level-2l-3/going-back-and-forth-two-points",
     "slug": "going-back-and-forth-two-points",
     "title": "Going back and forth two points",
     "text": "Taro and Jiro are going back and forth between A point and B point with a fixed speed respectively by the bicycle. \nThey turn up immediately at A point and B point without taking a rest. \nTaro started from A point and Jiro started from B point at the same time. \nThey passed at the point of 7 km",
@@ -70979,7 +70979,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/going-back-and-forth-two-points/going-back-and-forth-two-points",
+    "path": "/home/level-2l-3/going-back-and-forth-two-points/going-back-and-forth-two-points",
     "slug": "going-back-and-forth-two-points",
     "title": "Going back and forth two points /",
     "text": "Taro and Jiro are going back and forth between A point and B point with a fixed speed respectively by the bicycle. \nThey turn up immediately at A point and B point without taking a rest. \nTaro started from A point and Jiro started from B point at the same time. \nThey passed at the point of 7 km",
@@ -71085,7 +71085,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/hollowing-out-rectangular-prism",
+    "path": "/home/level-2l-3/hollowing-out-rectangular-prism",
     "slug": "hollowing-out-rectangular-prism",
     "title": "Hollowing out rectangular prism",
     "text": "Answer the following questions.",
@@ -71123,7 +71123,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/hollowing-out-rectangular-prism/hollowing-out-rectangular-prism",
+    "path": "/home/level-2l-3/hollowing-out-rectangular-prism/hollowing-out-rectangular-prism",
     "slug": "hollowing-out-rectangular-prism",
     "title": "Hollowing out rectangular prism /",
     "text": "Answer the following questions.",
@@ -71173,7 +71173,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/hour-hand-minute-hand-and-second-hand",
+    "path": "/home/level-2l-3/hour-hand-minute-hand-and-second-hand",
     "slug": "hour-hand-minute-hand-and-second-hand",
     "title": "Hour hand, minute hand and second hand",
     "text": "Answer the following questions about the hour hand (short hand), the minute hand (long hand) and the second hand of the clock in 60 minutes from 10:10 to 11:10. \n(1) Find the time when an hour hand and the minute hand overlap. The second only should answer using a fraction.\n(2) Considering the",
@@ -71267,7 +71267,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/hour-hand-minute-hand-and-second-hand/hour-hand-minute-hand-and-second-hand",
+    "path": "/home/level-2l-3/hour-hand-minute-hand-and-second-hand/hour-hand-minute-hand-and-second-hand",
     "slug": "hour-hand-minute-hand-and-second-hand",
     "title": "Hour hand, minute hand and second hand /",
     "text": "Answer the following questions about the hour hand (short hand), the minute hand (long hand) and the second hand of the clock in 60 minutes from 10:10 to 11:10. \n(1) Find the time when an hour hand and the minute hand overlap. The second only should answer using a fraction. \n(2) Considering the",
@@ -71377,7 +71377,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/lottery-of-amidakuji",
+    "path": "/home/level-2l-3/lottery-of-amidakuji",
     "slug": "lottery-of-amidakuji",
     "title": "Lottery of \"Amidakuji\"",
     "text": "The rows of letters can be put in order using a Lottery “Amidakuji”. For example, the row ABCDE of letters is replaced along with the row of letters ECDBA with the Lottery of Fig. 1.\nThe thick line in the figure is a route showing the way of A.",
@@ -71475,7 +71475,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/lottery-of-amidakuji/lottery-of-amidakuji",
+    "path": "/home/level-2l-3/lottery-of-amidakuji/lottery-of-amidakuji",
     "slug": "lottery-of-amidakuji",
     "title": "Lottery of \"Amidakuji\" /",
     "text": "The rows of letters can be put in order using a Lottery “Amidakuji”. For example, the row ABCDE of letters is replaced along with the row of letters ECDBA with the Lottery of Fig. 1.\nThe thick line in the figure is a route showing the way of A.",
@@ -71585,7 +71585,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/multiple-of-continued-integers",
+    "path": "/home/level-2l-3/multiple-of-continued-integers",
     "slug": "multiple-of-continued-integers",
     "title": "Multiple of continued integers",
     "text": "Answer the following questions.\n(1) When all the integers from 1 to 2007 are multiplied, how many is 0 lined continuously from ones digit?\n(2) When all continuous integers from A to B are multiplied, it is expressed as (A,B) that the number other than 0 appears first in the multiplied number",
@@ -71674,7 +71674,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/multiple-of-continued-integers/multiple-of-continued-integers",
+    "path": "/home/level-2l-3/multiple-of-continued-integers/multiple-of-continued-integers",
     "slug": "multiple-of-continued-integers",
     "title": "Multiple of continued integers /",
     "text": "Answer the following questions.\n(1) When all the integers from 1 to 2007 are multiplied, how many is 0 lined continuously from ones digit? \n(2) When all continuous integers from A to B are multiplied, it is expressed as (A,B) that the number other than 0 appears first in the multiplied number",
@@ -71763,7 +71763,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/multiple-of-every-number-of-each-digit",
+    "path": "/home/level-2l-3/multiple-of-every-number-of-each-digit",
     "slug": "multiple-of-every-number-of-each-digit",
     "title": "Multiple of every number of each digit",
     "text": "Answer the following questions.\n(1) As for two digit integers of 10, 11, 12.13, -----, 99, I make make 90 pieces of numbers by multiplying the number of tens digit and ones digit together, respectively. \nFind the sum total of 90 numbers.\n(2) As for four digit integers of 1000, 1001, 1002.1003,",
@@ -71852,7 +71852,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/multiple-of-every-number-of-each-digit/multiple-of-every-number-of-each-digit",
+    "path": "/home/level-2l-3/multiple-of-every-number-of-each-digit/multiple-of-every-number-of-each-digit",
     "slug": "multiple-of-every-number-of-each-digit",
     "title": "Multiple of every number of each digit /",
     "text": "Answer the following questions.\n(1) As for two digit integers of 10, 11, 12.13, -----, 99, I make make 90 pieces of numbers by multiplying the number of tens digit and ones digit together, respectively. \nFind the sum total of 90 numbers. \n(2) As for four digit integers of 1000, 1001, 1002.1003,",
@@ -71941,7 +71941,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/number-of-cut-to-make-development-view",
+    "path": "/home/level-2l-3/number-of-cut-to-make-development-view",
     "slug": "number-of-cut-to-make-development-view",
     "title": "Number of cut to make development view",
     "text": "Fig.1 is a solid of which surface consists of four equilateral triangles of the same size and this solid is called a regular tetrahedron.\nFig. 2 is a solid of which surface consists of six squares of the same size and this solid is called a cube.\nFig. 3 is a solid of which surface consists of",
@@ -72039,7 +72039,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/number-of-cut-to-make-development-view/number-of-cut-to-make-development-view",
+    "path": "/home/level-2l-3/number-of-cut-to-make-development-view/number-of-cut-to-make-development-view",
     "slug": "number-of-cut-to-make-development-view",
     "title": "Number of cut to make development view /",
     "text": "Fig.1 is a solid of which surface consists of four equilateral triangles of the same size and this solid is called a regular tetrahedron. \nFig. 2 is a solid of which surface consists of six squares of the same size and this solid is called a cube. \nFig. 3 is a solid of which surface consists of",
@@ -72157,7 +72157,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/number-of-dice-to-be-cut-or-not",
+    "path": "/home/level-2l-3/number-of-dice-to-be-cut-or-not",
     "slug": "number-of-dice-to-be-cut-or-not",
     "title": "Number of dice to be cut or not",
     "text": "Make a large cube of 5cm one side by piling up 125 dices of 1cm one side without a gap.\nThis large cube is cut by the plane passing through the three vertex of the cube as shown in a figure. \nAs for the portion of the triangular pyramid below the cutting plane, find the following each number.",
@@ -72222,7 +72222,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/number-of-dice-to-be-cut-or-not/number-of-dice-to-be-cut-or-not",
+    "path": "/home/level-2l-3/number-of-dice-to-be-cut-or-not/number-of-dice-to-be-cut-or-not",
     "slug": "number-of-dice-to-be-cut-or-not",
     "title": "Number of dice to be cut or not /",
     "text": "Make a large cube of 5cm one side by piling up 125 dices of 1cm one side without a gap.\nThis large cube is cut by the plane passing through the three vertex of the cube as shown in a figure. \nAs for the portion of the triangular pyramid below the cutting plane, find the following each number.",
@@ -72287,7 +72287,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/number-of-inverse-order",
+    "path": "/home/level-2l-3/number-of-inverse-order",
     "slug": "number-of-inverse-order",
     "title": "Number of inverse order",
     "text": "I arrange four number of 1,2,3,4 to one line. \nFor example, I arrange it as \"2,4,1,3\". \nConsidering a set of two numbers, there are three cases that big number is on the left side than small number which is \"2 and 1\", \"4 and 1\", and \"4 and 3\". \nThis case is called that “the number of  inverse",
@@ -72381,7 +72381,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/number-of-inverse-order/number-of-inverse-order",
+    "path": "/home/level-2l-3/number-of-inverse-order/number-of-inverse-order",
     "slug": "number-of-inverse-order",
     "title": "Number of inverse order /",
     "text": "I arrange four number of 1,2,3,4 to one line. \nFor example, I arrange it as \"2,4,1,3\". \nConsidering a set of two numbers, there are three cases that big number is on the left side than small number which is \"2 and 1\", \"4 and 1\", and \"4 and 3\". \nThis case is called that “the number of  inverse",
@@ -72475,7 +72475,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/number-of-songs-at-concerts",
+    "path": "/home/level-2l-3/number-of-songs-at-concerts",
     "slug": "number-of-songs-at-concerts",
     "title": "Number of songs at concerts",
     "text": "A singer performed concert 3 times and sang ten songs in each concert. \nOut of ten songs in each concert he sang five songs which he did not sing in other two concerts. \n In case the same song sung even twice or more is counted as one song, how many songs the most did this singer sing in three",
@@ -72540,7 +72540,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/number-of-songs-at-concerts/number-of-songs-at-concerts",
+    "path": "/home/level-2l-3/number-of-songs-at-concerts/number-of-songs-at-concerts",
     "slug": "number-of-songs-at-concerts",
     "title": "Number of songs at concerts /",
     "text": "A singer performed concert 3 times and sang ten songs in each concert. \nOut of ten songs in each concert he sang five songs which he did not sing in other two concerts. \n In case the same song sung even twice or more is counted as one song, how many songs the most did this singer sing in three",
@@ -72605,7 +72605,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/overlapping-hexagon-and-heptagon",
+    "path": "/home/level-2l-3/overlapping-hexagon-and-heptagon",
     "slug": "overlapping-hexagon-and-heptagon",
     "title": "Overlapping hexagon and heptagon",
     "text": "As shown in a figure, there are the right hexagon ABCDEF and a right heptagon ABGHIJK. Find the angle of X and Y.",
@@ -72651,7 +72651,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/overlapping-hexagon-and-heptagon/overlapping-hexagon-and-heptagon",
+    "path": "/home/level-2l-3/overlapping-hexagon-and-heptagon/overlapping-hexagon-and-heptagon",
     "slug": "overlapping-hexagon-and-heptagon",
     "title": "Overlapping hexagon and heptagon /",
     "text": "As shown in a figure, there are the right hexagon ABCDEF and a right heptagon ABGHIJK. \nFind the angle of X and Y.",
@@ -72701,7 +72701,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/paint-inside-of-rectangular-prism",
+    "path": "/home/level-2l-3/paint-inside-of-rectangular-prism",
     "slug": "paint-inside-of-rectangular-prism",
     "title": "Paint inside of rectangular prism",
     "text": "ABCDEFGH in a figure is a box of rectangular prism 60cm in length, 80cm in width and 40cm in height and there is no lid. \nThere is a 40cm high pillar is straightly erected on the intersection M of a diagonal line of the bottom. \nThe vertex O of the pillar and chalk are tied up with string 50cm in",
@@ -72766,7 +72766,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/paint-inside-of-rectangular-prism/paint-inside-of-rectangular-prism",
+    "path": "/home/level-2l-3/paint-inside-of-rectangular-prism/paint-inside-of-rectangular-prism",
     "slug": "paint-inside-of-rectangular-prism",
     "title": "Paint inside of rectangular prism /",
     "text": "ABCD-EFGH in a figure is a box of rectangular prism 60cm in length, 80cm in width and 40cm in height and there is no lid. \nThere is a 40cm high pillar is straightly erected on the intersection M of a diagonal line of the bottom. \nThe vertex O of the pillar and chalk are tied up with string 50cm in",
@@ -72831,7 +72831,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/partition-of-right-triangle",
+    "path": "/home/level-2l-3/partition-of-right-triangle",
     "slug": "partition-of-right-triangle",
     "title": "Partition of right triangle",
     "text": "Triangle ABC is a right triangle of AB = 18 cm, AC = 24 cm and BC = 30 cm. \nThe points P and Q are points on the bisectors of angle B and angle C, respectively. \nPQ is parallel to BC. PH and AB, QK and AC are vertical respectively. The area of pentagon AHPQK is half of the area of triangle ABC.",
@@ -72901,7 +72901,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/partition-of-right-triangle/partition-of-right-triangle",
+    "path": "/home/level-2l-3/partition-of-right-triangle/partition-of-right-triangle",
     "slug": "partition-of-right-triangle",
     "title": "Partition of right triangle /",
     "text": "Triangle ABC is a right triangle of AB = 18 cm, AC = 24 cm and BC = 30 cm. \nThe points P and Q are points on the bisectors of angle B and angle C, respectively. \nPQ is parallel to BC. PH and AB, QK and AC are vertical respectively. \nThe area of pentagon AHPQK is half of the area of triangle ABC.",
@@ -72983,7 +72983,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/piling-up-cubes-and-cut",
+    "path": "/home/level-2l-3/piling-up-cubes-and-cut",
     "slug": "piling-up-cubes-and-cut",
     "title": "Piling up cubes and cut",
     "text": "As shown in Fig. 1, a cube whose one side is 8 cm is made by accumulating small cubes whose one side is 1 cm.",
@@ -73077,7 +73077,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/piling-up-cubes-and-cut/piling-up-cubes-and-cut",
+    "path": "/home/level-2l-3/piling-up-cubes-and-cut/piling-up-cubes-and-cut",
     "slug": "piling-up-cubes-and-cut",
     "title": "Piling up cubes and cut /",
     "text": "As shown in Fig. 1, a cube whose one side is 8 cm is made by accumulating small cubes whose one side is 1 cm.",
@@ -73187,7 +73187,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/piling-up-cubes-and-put-red-seals",
+    "path": "/home/level-2l-3/piling-up-cubes-and-put-red-seals",
     "slug": "piling-up-cubes-and-put-red-seals",
     "title": "Piling up cubes and put red seals",
     "text": "There is a square mat board one side 5cm as shown in the figure and it is partitioned into grid square 25.\nI pile up cubes of one side 1cm on the square by the number written in the each square.\nIn faces of the cube, attach a red square seal of one side 1cm on each surface visible from the",
@@ -73220,7 +73220,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/piling-up-cubes-and-put-red-seals/piling-up-cubes-and-put-red-seals",
+    "path": "/home/level-2l-3/piling-up-cubes-and-put-red-seals/piling-up-cubes-and-put-red-seals",
     "slug": "piling-up-cubes-and-put-red-seals",
     "title": "Piling up cubes and put red seals /",
     "text": "There is a square mat board one side 5cm as shown in the figure and it is partitioned into grid square 25. \nI pile up cubes of one side 1cm on the square by the number written in the each square. \nIn faces of the cube, attach a red square seal of one side 1cm on each surface visible from the",
@@ -73253,7 +73253,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/put-18-in-a-frame",
+    "path": "/home/level-2l-3/put-18-in-a-frame",
     "slug": "put-18-in-a-frame",
     "title": "Put 1~8 in a frame",
     "text": "Put one number from 1 to 8 in each frame. \nEvery number is put in so that it should be smaller than the number of right under and smaller than the number of right-hand side. \nHow many ways are there to put in numbers?",
@@ -73347,7 +73347,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/put-18-in-a-frame/put-18-in-a-frame",
+    "path": "/home/level-2l-3/put-18-in-a-frame/put-18-in-a-frame",
     "slug": "put-18-in-a-frame",
     "title": "Put 1~8 in a frame /",
     "text": "Put one number from 1 to 8 in each frame. \nEvery number is put in so that it should be smaller than the number of right under and smaller than the number of right-hand side. \nHow many ways are there to put in numbers?",
@@ -73445,7 +73445,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/put-48-balls-into-five-boxes",
+    "path": "/home/level-2l-3/put-48-balls-into-five-boxes",
     "slug": "put-48-balls-into-five-boxes",
     "title": "Put 48 balls into five boxes",
     "text": "There are 48 balls. \nThese balls are put into five boxes so that it may be applied to the following conditions 1 and 2.\n<Condition 1> \nFive or more balls are put into every box.\n<Condition 2> \nAs for every two boxes, the common divisor of the number of ball in each box is 1 only.\nFind all groups",
@@ -73534,7 +73534,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/put-48-balls-into-five-boxes/put-48-balls-into-five-boxes",
+    "path": "/home/level-2l-3/put-48-balls-into-five-boxes/put-48-balls-into-five-boxes",
     "slug": "put-48-balls-into-five-boxes",
     "title": "Put 48 balls into five boxes /",
     "text": "There are 48 balls. \nThese balls are put into five boxes so that it may be applied to the following conditions 1 and 2. \n<Condition 1> \nFive or more balls are put into every box. \n<Condition 2> \nAs for every two boxes, the common divisor of the number of ball in each box is 1 only.\nFind all groups",
@@ -73628,7 +73628,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/put-water-in-four-vessels",
+    "path": "/home/level-2l-3/put-water-in-four-vessels",
     "slug": "put-water-in-four-vessels",
     "title": "Put water in four vessels",
     "text": "There are the vessels A, B, C, D, and E. \nThe capacity of A is 200 mL and B is 40mL. \nAnswer the following questions. \nWhen you put water into a vessel, suppose that water is full in vessel.\n(1) When it was repeated that water in C moving into empty A, A filled in the middle of the 4th time",
@@ -73717,7 +73717,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/put-water-in-four-vessels/put-water-in-four-vessels",
+    "path": "/home/level-2l-3/put-water-in-four-vessels/put-water-in-four-vessels",
     "slug": "put-water-in-four-vessels",
     "title": "Put water in four vessels /",
     "text": "There are the vessels A, B, C, D, and E. \nThe capacity of A is 200 mL and B is 40mL. \nAnswer the following questions. \nWhen you put water into a vessel, suppose that water is full in vessel. \n(1) When it was repeated that water in C moving into empty A, A filled in the middle of the 4th time",
@@ -73806,7 +73806,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/questionnaire-on-three-subjects",
+    "path": "/home/level-2l-3/questionnaire-on-three-subjects",
     "slug": "questionnaire-on-three-subjects",
     "title": "Questionnaire on three subjects",
     "text": "The questionnaire survey was conducted on 40 sixth graders in an elementary school. \nThe questionnaire was as for three subjects, language, mathematics (Sansue) and science, if they like it, mark o, if they do not like it, mark x. \n The grand total of o was 100 and that of x was 20. \nThere was no",
@@ -73855,7 +73855,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/questionnaire-on-three-subjects/questionnaire-on-three-subjects",
+    "path": "/home/level-2l-3/questionnaire-on-three-subjects/questionnaire-on-three-subjects",
     "slug": "questionnaire-on-three-subjects",
     "title": "Questionnaire on three subjects /",
     "text": "The questionnaire survey was conducted on 40 sixth graders in an elementary school. \nThe questionnaire was as for three subjects, language, mathematics (Sansue) and science, if they like it, mark ○, if they do not like it, mark ×. \n The grand total of ○ was 100 and that of × was 20. \nThere was no",
@@ -73909,7 +73909,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/quotient-is-rounded-off-at-1st-decimal-place",
+    "path": "/home/level-2l-3/quotient-is-rounded-off-at-1st-decimal-place",
     "slug": "quotient-is-rounded-off-at-1st-decimal-place",
     "title": "Quotient is rounded off at 1st decimal place",
     "text": "Division process is carried out and quotient is to be calculated to the 1st decimal place and rounds off the 1st decimal place. \nTwo calculation was made, one calculation was rounded off the 1st decimal place of the quotient when a certain integer of double digit was divided by 7 and another",
@@ -73990,7 +73990,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/quotient-is-rounded-off-at-1st-decimal-place/quotient-is-rounded-off-at-1st-decimal-place",
+    "path": "/home/level-2l-3/quotient-is-rounded-off-at-1st-decimal-place/quotient-is-rounded-off-at-1st-decimal-place",
     "slug": "quotient-is-rounded-off-at-1st-decimal-place",
     "title": "Quotient is rounded off at 1st decimal place /",
     "text": "Division process is carried out and quotient is to be calculated to the 1st decimal place and rounds off the 1st decimal place. \nTwo calculation was made, one calculation was rounded off the 1st decimal place of the quotient when a certain integer of double digit was divided by 7 and another",
@@ -74071,7 +74071,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/rectangle-moves-and-overlaps-triangle",
+    "path": "/home/level-2l-3/rectangle-moves-and-overlaps-triangle",
     "slug": "rectangle-moves-and-overlaps-triangle",
     "title": "Rectangle moves and overlaps triangle",
     "text": "A rectangle departs from the position in a figure and is moving in the direction of an arrow at 2 cm/s.",
@@ -74165,7 +74165,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/rectangle-moves-and-overlaps-triangle/rectangle-moves-and-overlaps-triangle",
+    "path": "/home/level-2l-3/rectangle-moves-and-overlaps-triangle/rectangle-moves-and-overlaps-triangle",
     "slug": "rectangle-moves-and-overlaps-triangle",
     "title": "Rectangle moves and overlaps triangle /",
     "text": "A rectangle departs from the position in a figure and is moving in the direction of an arrow at 2 cm/s.",
@@ -74271,7 +74271,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/rectangular-prism-and-triangular-pyramid",
+    "path": "/home/level-2l-3/rectangular-prism-and-triangular-pyramid",
     "slug": "rectangular-prism-and-triangular-pyramid",
     "title": "Rectangular prism and triangular pyramid",
     "text": "There is a rectangular prism as shown in a figure. \nI is a point on the side FG. AB = 1 cm, AD = 6 cm, AE = 2 cm, GI = 1.5 cm. \nThe intersection of the plane which passes along the three points A, H, and I, and the side BF is sets to J. \nThe intersection of the plane which passes along the three",
@@ -74365,7 +74365,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/rectangular-prism-and-triangular-pyramid/rectangular-prism-and-triangular-pyramid",
+    "path": "/home/level-2l-3/rectangular-prism-and-triangular-pyramid/rectangular-prism-and-triangular-pyramid",
     "slug": "rectangular-prism-and-triangular-pyramid",
     "title": "Rectangular prism and triangular pyramid /",
     "text": "There is a rectangular prism as shown in a figure. \nI is a point on the side FG. AB = 1 cm, AD = 6 cm, AE = 2 cm, GI = 1.5 cm. \nThe intersection of the plane which passes along the three points A, H, and I, and the side BF is sets to J. \nThe intersection of the plane which passes along the three",
@@ -74471,7 +74471,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/reflection-in-rectangle",
+    "path": "/home/level-2l-3/reflection-in-rectangle",
     "slug": "reflection-in-rectangle",
     "title": "Reflection in rectangle",
     "text": "There are two rectangles whose horizontal length is 40 cm. \nAs shown in Fig. 1, a straight line is drawn toward B from A. \nA straight line is drawn for the angle of ① and ②, and the angle of ③ and ④ to become equal, respectively.",
@@ -74569,7 +74569,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/reflection-in-rectangle/reflection-in-rectangle",
+    "path": "/home/level-2l-3/reflection-in-rectangle/reflection-in-rectangle",
     "slug": "reflection-in-rectangle",
     "title": "Reflection in rectangle /",
     "text": "There are two rectangles whose horizontal length is 40 cm. \nAs shown in Fig. 1, a straight line is drawn toward B from A. \nA straight line is drawn for the angle of ① and ②, and the angle of ③ and ④ to become equal, respectively.",
@@ -74675,7 +74675,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/removing-cards-based-on-the-rule",
+    "path": "/home/level-2l-3/removing-cards-based-on-the-rule",
     "slug": "removing-cards-based-on-the-rule",
     "title": "Removing cards based on the rule",
     "text": "N sheets of card in which 1, 2, 3, ...., N is written each are clockwise arranged in the small order of the number circularly. \nWhen removing one card at a time in accordance with the following rule, it is considered which card remains at the end.\n<Rule 1>\nThe card in which 1 is written is removed",
@@ -74773,7 +74773,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/removing-cards-based-on-the-rule/removing-cards-based-on-the-rule",
+    "path": "/home/level-2l-3/removing-cards-based-on-the-rule/removing-cards-based-on-the-rule",
     "slug": "removing-cards-based-on-the-rule",
     "title": "Removing cards based on the rule /",
     "text": "N sheets of card in which 1, 2, 3, ...., N is written each are clockwise arranged in the small order of the number circularly. \nWhen removing one card at a time in accordance with the following rule, it is considered which card remains at the end. \n<Rule 1>\nThe card in which 1 is written is",
@@ -74871,7 +74871,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/replacement-of-long-hand-and-hour-hand",
+    "path": "/home/level-2l-3/replacement-of-long-hand-and-hour-hand",
     "slug": "replacement-of-long-hand-and-hour-hand",
     "title": "Replacement of long hand and hour hand",
     "text": "I looked at the clock when I went out of the house, the long hand pointed between 5:35 and 5:40. \nWhen I came home within two hours, the position of the long hand and the hour hand was just replaced from the position when I went out. \nWhat time was it when I came home ?",
@@ -74960,7 +74960,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/replacement-of-long-hand-and-hour-hand/replacement-of-long-hand-and-hour-hand",
+    "path": "/home/level-2l-3/replacement-of-long-hand-and-hour-hand/replacement-of-long-hand-and-hour-hand",
     "slug": "replacement-of-long-hand-and-hour-hand",
     "title": "Replacement of long hand and hour hand /",
     "text": "I looked at the clock when I went out of the house, the long hand pointed between 5:35 and 5:40. \nWhen I came home within two hours, the position of the long hand and the hour hand was just replaced from the position when I went out. \nWhat time was it when I came home ?\nAnswer\n7 o'clock and",
@@ -75049,7 +75049,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/right-dodecagon",
+    "path": "/home/level-2l-3/right-dodecagon",
     "slug": "right-dodecagon",
     "title": "Right dodecagon",
     "text": "Answer the following questions about a right dodecagon. \n(1) Find the number of a diagonal line.",
@@ -75147,7 +75147,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/right-dodecagon/right-dodecagon",
+    "path": "/home/level-2l-3/right-dodecagon/right-dodecagon",
     "slug": "right-dodecagon",
     "title": "Right dodecagon /",
     "text": "Answer the following questions about a right dodecagon. \n(1) Find the number of a diagonal line.",
@@ -75249,7 +75249,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/same-birthday-in-the-class-of-50-people",
+    "path": "/home/level-2l-3/same-birthday-in-the-class-of-50-people",
     "slug": "same-birthday-in-the-class-of-50-people",
     "title": "Same birthday in the class of 50 people",
     "text": "Bet is made on \"Are there the two persons with same birthday in the class of 50 people or not?\" \nShould I bet on \"Yes\" ?",
@@ -75298,7 +75298,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/same-birthday-in-the-class-of-50-people/same-birthday-in-the-class-of-50-people",
+    "path": "/home/level-2l-3/same-birthday-in-the-class-of-50-people/same-birthday-in-the-class-of-50-people",
     "slug": "same-birthday-in-the-class-of-50-people",
     "title": "Same birthday in the class of 50 people /",
     "text": "Bet is made on \"Are there the two persons with same birthday in the class of 50 people or not?\" \nShould I bet on \"Yes\" ? \nAnswer\nYes, you should.\nSolution\nThe probability that birthday of two people is not the same, should be subtracted from 1. \nThen you can find the probability that there are two",
@@ -75387,7 +75387,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/shadow-of-block-by-streetlight",
+    "path": "/home/level-2l-3/shadow-of-block-by-streetlight",
     "slug": "shadow-of-block-by-streetlight",
     "title": "Shadow of block by streetlight",
     "text": "As shown in a figure, there is a concrete block of a rectangular prism and a streetlight which stands at right angles from point A on the level ground. \nWhen the light of the streetlight is on, express the portion (except for the ground on which the concrete block is put) of the shadow of the",
@@ -75429,7 +75429,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/shadow-of-block-by-streetlight/shadow-of-block-by-streetlight",
+    "path": "/home/level-2l-3/shadow-of-block-by-streetlight/shadow-of-block-by-streetlight",
     "slug": "shadow-of-block-by-streetlight",
     "title": "Shadow of block by streetlight /",
     "text": "As shown in a figure, there is a concrete block of a rectangular prism and a streetlight which stands at right angles from point A on the level ground. \nWhen the light of the streetlight is on, express the portion (except for the ground on which the concrete block is put) of the shadow of the",
@@ -75483,7 +75483,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/shadow-of-box-by-stand-light",
+    "path": "/home/level-2l-3/shadow-of-box-by-stand-light",
     "slug": "shadow-of-box-by-stand-light",
     "title": "Shadow of box by stand light",
     "text": "As shown in Fig. 1, the box of a rectangular prism is placed on a flat desk. \nA stand 8cm in height is stood at right angle to the place 4 cm from the middle point of the side AB and the miniature bulb on the top of the stand is turned on. \nThen, there is a shadow of the box as shown in Fig. 2.",
@@ -75577,7 +75577,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/shadow-of-box-by-stand-light/shadow-of-box-by-stand-light",
+    "path": "/home/level-2l-3/shadow-of-box-by-stand-light/shadow-of-box-by-stand-light",
     "slug": "shadow-of-box-by-stand-light",
     "title": "Shadow of box by stand light /",
     "text": "As shown in Fig. 1, the box of a rectangular prism is placed on a flat desk. \nA stand 8cm in height is stood at right angle to the place 4 cm from the middle point of the side AB and the miniature bulb on the top of the stand is turned on. \nThen, there is a shadow of the box as shown in Fig. 2.",
@@ -75683,7 +75683,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/shadow-of-rectangular-wall",
+    "path": "/home/level-2l-3/shadow-of-rectangular-wall",
     "slug": "shadow-of-rectangular-wall",
     "title": "Shadow of rectangular wall",
     "text": "As shown in Fig.1, there are three point A, B and P on the even ground. \nThere are ABCD of a 3m-high rectangular wall and PQ of a 9m-high pillar standing on the ground straight. \nFig.2 shows the picture looked at these from right above. \nWall ABCD is illuminated by the electric light in the",
@@ -75772,7 +75772,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/shadow-of-rectangular-wall/shadow-of-rectangular-wall",
+    "path": "/home/level-2l-3/shadow-of-rectangular-wall/shadow-of-rectangular-wall",
     "slug": "shadow-of-rectangular-wall",
     "title": "Shadow of rectangular wall /",
     "text": "As shown in Fig.1, there are three point A, B and P on the even ground. \nThere are ABCD of a 3m-high rectangular wall and PQ of a 9m-high pillar standing on the ground straight. \nFig.2 shows the picture looked at these from right above. \nWall ABCD is illuminated by the electric light in the",
@@ -75861,7 +75861,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/solid-made-by-cutting-cylinder",
+    "path": "/home/level-2l-3/solid-made-by-cutting-cylinder",
     "slug": "solid-made-by-cutting-cylinder",
     "title": "Solid made by cutting cylinder",
     "text": "In the figure, A, B, C, D, E, F and P, Q, R, S, T, U are 6 points dividing the each circumference of the bottom of the cylinder into six equally respectively. \nEach of AP, BQ, CR, DS, ET and FU is vertical to the bottom. \nThe area of triangle ACE is 3 cm2 and the height of the pillar is 5 cm. Find",
@@ -75950,7 +75950,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/solid-made-by-cutting-cylinder/solid-made-by-cutting-cylinder",
+    "path": "/home/level-2l-3/solid-made-by-cutting-cylinder/solid-made-by-cutting-cylinder",
     "slug": "solid-made-by-cutting-cylinder",
     "title": "Solid made by cutting cylinder /",
     "text": "In the figure, A, B, C, D, E, F and P, Q, R, S, T, U are 6 points dividing the each circumference of the bottom of the cylinder into six equally respectively. \nEach of AP, BQ, CR, DS, ET and FU is vertical to the bottom. \nThe area of triangle ACE is 3 cm2 and the height of the pillar is 5 cm.",
@@ -76039,7 +76039,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/square-moves-in-a-triangle",
+    "path": "/home/level-2l-3/square-moves-in-a-triangle",
     "slug": "square-moves-in-a-triangle",
     "title": "Square moves in a triangle",
     "text": "There is right-angled isosceles triangle ABC in which both the length of the sides AB and AC is 12 cm as shown in a figure. \nThe square PQRS whose length of a diagonal line is 2 cm is in the inside of triangle ABC. \nThis square moved touching the triangular side within the triangle, while side PS",
@@ -76133,7 +76133,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/square-moves-in-a-triangle/square-moves-in-a-triangle",
+    "path": "/home/level-2l-3/square-moves-in-a-triangle/square-moves-in-a-triangle",
     "slug": "square-moves-in-a-triangle",
     "title": "Square moves in a triangle /",
     "text": "There is right-angled isosceles triangle ABC in which both the length of the sides AB and AC is 12 cm as shown in a figure. \nThe square PQRS whose length of a diagonal line is 2 cm is in the inside of triangle ABC. \nThis square moved touching the triangular side within the triangle, while side PS",
@@ -76231,7 +76231,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/square-pyramid-and-homothetic-ratio",
+    "path": "/home/level-2l-3/square-pyramid-and-homothetic-ratio",
     "slug": "square-pyramid-and-homothetic-ratio",
     "title": "Square pyramid and homothetic ratio",
     "text": "There is a square pyramid with a square In the bottom and an isosceles triangle in the side as shown in Fig. 1. \nThe intersection of AC and BD is set to O. \nWhen O is connected to the vertex P, PO will become vertical to AC and BD, respectively. \nThe point in the middle of PO is set to M. \nThe",
@@ -76333,7 +76333,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/square-pyramid-and-homothetic-ratio/square-pyramid-and-homothetic-ratio",
+    "path": "/home/level-2l-3/square-pyramid-and-homothetic-ratio/square-pyramid-and-homothetic-ratio",
     "slug": "square-pyramid-and-homothetic-ratio",
     "title": "Square pyramid and homothetic ratio /",
     "text": "There is a square pyramid with a square In the bottom and an isosceles triangle in the side as shown in Fig. 1. \nThe intersection of AC and BD is set to O. \nWhen O is connected to the vertex P, PO will become vertical to AC and BD, respectively. \nThe point in the middle of PO is set to M. \nThe",
@@ -76451,7 +76451,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/straight-line-dividing-figure-into-three",
+    "path": "/home/level-2l-3/straight-line-dividing-figure-into-three",
     "slug": "straight-line-dividing-figure-into-three",
     "title": "Straight line dividing figure into three",
     "text": "The straight line L of the figure divides the shadow area into three parts with an equal area. \nFind the length of AB.",
@@ -76521,7 +76521,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/straight-line-dividing-figure-into-three/straight-line-dividing-figure-into-three",
+    "path": "/home/level-2l-3/straight-line-dividing-figure-into-three/straight-line-dividing-figure-into-three",
     "slug": "straight-line-dividing-figure-into-three",
     "title": "Straight line dividing figure into three /",
     "text": "The straight line L of the figure divides the shadow area into three parts with an equal area. \nFind the length of AB.",
@@ -76599,7 +76599,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/sum-total-of-every-number-of-each-digit",
+    "path": "/home/level-2l-3/sum-total-of-every-number-of-each-digit",
     "slug": "sum-total-of-every-number-of-each-digit",
     "title": "Sum total of every number of each digit",
     "text": "Answer the following questions.\n(1) In the integers from one to 999, there are some integers whose sum total of the number of each digit is 5. \nFind the sum total which added all of those integers.\n(2) In the integers from one to 9999, there are some integers whose sum total of the number of each",
@@ -76688,7 +76688,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/sum-total-of-every-number-of-each-digit/sum-total-of-every-number-of-each-digit",
+    "path": "/home/level-2l-3/sum-total-of-every-number-of-each-digit/sum-total-of-every-number-of-each-digit",
     "slug": "sum-total-of-every-number-of-each-digit",
     "title": "Sum total of every number of each digit /",
     "text": "Answer the following questions. \n(1) In the integers from one to 999, there are some integers whose sum total of the number of each digit is 5. \nFind the sum total which added all of those integers. \n(2) In the integers from one to 9999, there are some integers whose sum total of the number of",
@@ -76777,7 +76777,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/table-of-integers-written-clockwise",
+    "path": "/home/level-2l-3/table-of-integers-written-clockwise",
     "slug": "table-of-integers-written-clockwise",
     "title": "Table of integers written clockwise",
     "text": "The number of integer from 0 is written down clockwise in whorl to small order in a grid as shown in a figure as 0, 1, 2, -----, 26, 27, --------. \nIt is considered eight directions which added slanting direction to the direction of vertical and horizontal. \nFor example, 27 is located three grids",
@@ -76871,7 +76871,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/table-of-integers-written-clockwise/table-of-integers-written-clockwise",
+    "path": "/home/level-2l-3/table-of-integers-written-clockwise/table-of-integers-written-clockwise",
     "slug": "table-of-integers-written-clockwise",
     "title": "Table of integers written clockwise /",
     "text": "The number of integer from 0 is written down clockwise in whorl to small order in a grid as shown in a figure as 0, 1, 2, -----, 26, 27, --------. \nIt is considered eight directions which added slanting direction to the direction of vertical and horizontal. \nFor example, 27 is located three grids",
@@ -76973,7 +76973,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/take-out-balls-from-the-bag",
+    "path": "/home/level-2l-3/take-out-balls-from-the-bag",
     "slug": "take-out-balls-from-the-bag",
     "title": "Take out balls from the bag",
     "text": "There is a bag in which four balls with different weight are. \nWhen I took one ball and took another ball out of this bag without putting the first one back, the second ball was heavier than the first one. \nFind the probability that the second ball is heaviest in four ?",
@@ -77030,7 +77030,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/take-out-balls-from-the-bag/take-out-balls-from-the-bag",
+    "path": "/home/level-2l-3/take-out-balls-from-the-bag/take-out-balls-from-the-bag",
     "slug": "take-out-balls-from-the-bag",
     "title": "Take out balls from the bag /",
     "text": "There is a bag in which four balls with different weight are. \nWhen I took one ball and took another ball out of this bag without putting the first one back, the second ball was heavier than the first one. \nFind the probability that the second ball is heaviest in four ?\nAnswer\n1/2\nSolution\nSuppose",
@@ -77119,7 +77119,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/tape-winded-around-rectangular-board",
+    "path": "/home/level-2l-3/tape-winded-around-rectangular-board",
     "slug": "tape-winded-around-rectangular-board",
     "title": "Tape winded around rectangular board",
     "text": "As shown in a figure, there is a translucent red tape in which the end is cut at 45 degrees and there is a line drawn in the center of the tape. Moreover, as shown in a figure, there is a rectangular transparent board and the point P is set on the side BC so as to BP = 3cm. \nAs shown in Fig. 1,",
@@ -77221,7 +77221,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/tape-winded-around-rectangular-board/tape-winded-around-rectangular-board",
+    "path": "/home/level-2l-3/tape-winded-around-rectangular-board/tape-winded-around-rectangular-board",
     "slug": "tape-winded-around-rectangular-board",
     "title": "Tape winded around rectangular board /",
     "text": "As shown in a figure, there is a translucent red tape in which the end is cut at 45 degrees and there is a line drawn in the center of the tape. Moreover, as shown in a figure, there is a rectangular transparent board and the point P is set on the side BC so as to BP = 3cm. \nAs shown in Fig. 1,",
@@ -77335,7 +77335,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/taxi-fare-of-two-types-of-cars",
+    "path": "/home/level-2l-3/taxi-fare-of-two-types-of-cars",
     "slug": "taxi-fare-of-two-types-of-cars",
     "title": "Taxi fare of two types of cars",
     "text": "As for the meter of the taxi fare, until 2000 m from starting point, it is 450 yen by a downsized car and 470 yen by a standard car. \nWhen it exceeds 2000 m, 70 yen is added to the fare in both size of car and it is changed to 520 yen until 2400 m by a downsized car and to 540 yen until 2370 m by",
@@ -77368,7 +77368,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/taxi-fare-of-two-types-of-cars/taxi-fare-of-two-types-of-cars",
+    "path": "/home/level-2l-3/taxi-fare-of-two-types-of-cars/taxi-fare-of-two-types-of-cars",
     "slug": "taxi-fare-of-two-types-of-cars",
     "title": "Taxi fare of two types of cars /",
     "text": "As for the meter of the taxi fare, until 2000 m from starting point, it is 450 yen by a downsized car and 470 yen by a standard car. \nWhen it exceeds 2000 m, 70 yen is added to the fare in both size of car and it is changed to 520 yen until 2400 m by a downsized car and to 540 yen until 2370 m by",
@@ -77401,7 +77401,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/ten-students-roll-three-dice",
+    "path": "/home/level-2l-3/ten-students-roll-three-dice",
     "slug": "ten-students-roll-three-dice",
     "title": "Ten students roll three dice",
     "text": "Ten students roll three dice respectively and consider a number of sums which come out as the person's score. \nThe sum total of the ten persons' score was 100. \nMoreover, after dividing total score of each student by 3 and omitting below the decimal point, ten students’ sum total was 30. \nAfter",
@@ -77458,7 +77458,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/ten-students-roll-three-dice/ten-students-roll-three-dice",
+    "path": "/home/level-2l-3/ten-students-roll-three-dice/ten-students-roll-three-dice",
     "slug": "ten-students-roll-three-dice",
     "title": "Ten students roll three dice /",
     "text": "Ten students roll three dice respectively and consider a number of sums which come out as the person's score. \nThe sum total of the ten persons' score was 100. \nMoreover, after dividing total score of each student by 3 and omitting below the decimal point, ten students’ sum total was 30. \nAfter",
@@ -77515,7 +77515,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/the-3rd-hand-on-a-circular-clock",
+    "path": "/home/level-2l-3/the-3rd-hand-on-a-circular-clock",
     "slug": "the-3rd-hand-on-a-circular-clock",
     "title": "The 3rd hand on a circular clock",
     "text": "There is a circular clock. \nThere is a scale showing the “minutes” which divided the circumference into 60 equally in the dial plate.\n(1) Choose all the cases where both the hour hand and the long hand have indicated the scale among the following time.\n①0:15 a.m. ②2:36 a.m. ③4:44 a.m. ④8:03 a.m.",
@@ -77604,7 +77604,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/the-3rd-hand-on-a-circular-clock/the-3rd-hand-on-a-circular-clock",
+    "path": "/home/level-2l-3/the-3rd-hand-on-a-circular-clock/the-3rd-hand-on-a-circular-clock",
     "slug": "the-3rd-hand-on-a-circular-clock",
     "title": "The 3rd hand on a circular clock /",
     "text": "There is a circular clock. \nThere is a scale showing the “minutes” which divided the circumference into 60 equally in the dial plate. \n(1) Choose all the cases where both the hour hand and the long hand have indicated the scale among the following time. \n①0:15 a.m. ②2:36 a.m. ③4:44 a.m. ④8:03 a.m.",
@@ -77693,7 +77693,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/three-blue-cards-and-five-red-cards",
+    "path": "/home/level-2l-3/three-blue-cards-and-five-red-cards",
     "slug": "three-blue-cards-and-five-red-cards",
     "title": "Three blue cards and five red cards",
     "text": "There are eight color cards with number, three blue cards blue1, blue1, blue1 and red cards red1, red1, red2, red2, red3. \nI arrange them in a line. \nAnswer the following questions about the way of arrangement that there are just four places where the card of different color adjoins each other",
@@ -77782,7 +77782,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/three-blue-cards-and-five-red-cards/three-blue-cards-and-five-red-cards",
+    "path": "/home/level-2l-3/three-blue-cards-and-five-red-cards/three-blue-cards-and-five-red-cards",
     "slug": "three-blue-cards-and-five-red-cards",
     "title": "Three blue cards and five red cards /",
     "text": "There are eight color cards with number, three blue cards blue1, blue1, blue1 and red cards red1, red1, red2, red2, red3. \nI arrange them in a line. \nAnswer the following questions about the way of arrangement that there are just four places where the card of different color adjoins each other",
@@ -77871,7 +77871,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/three-persons-moving-on-a-circular-pond",
+    "path": "/home/level-2l-3/three-persons-moving-on-a-circular-pond",
     "slug": "three-persons-moving-on-a-circular-pond",
     "title": "Three persons moving on a circular pond",
     "text": "A, B and C are in the surroundings of a circular pond as shown in a figure at equal intervals. \nThey began to run at the same time in the direction of the arrow in a figure respectively with the same speed. \nWhen two of three persons meet, the two persons run with the speed same for opposite.",
@@ -77941,7 +77941,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/three-persons-moving-on-a-circular-pond/three-persons-moving-on-a-circular-pond",
+    "path": "/home/level-2l-3/three-persons-moving-on-a-circular-pond/three-persons-moving-on-a-circular-pond",
     "slug": "three-persons-moving-on-a-circular-pond",
     "title": "Three persons moving on a circular pond /",
     "text": "A, B and C are in the surroundings of a circular pond as shown in a figure at equal intervals. \nThey began to run at the same time in the direction of the arrow in a figure respectively with the same speed. \nWhen two of three persons meet, the two persons run with the speed same for opposite.",
@@ -78027,7 +78027,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/three-points-moving-on-a-circumference",
+    "path": "/home/level-2l-3/three-points-moving-on-a-circumference",
     "slug": "three-points-moving-on-a-circumference",
     "title": "Three points moving on a circumference",
     "text": "There are three points A, B, and C which move around on the one circumference with a fixed speed, respectively. \nA and B move to the same direction and C moves to the opposite direction of A and B. \nThese three points A, B, and C departed from the same point exactly at 1:00. \nA and C met at 1:02",
@@ -78116,7 +78116,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/three-points-moving-on-a-circumference/three-points-moving-on-a-circumference",
+    "path": "/home/level-2l-3/three-points-moving-on-a-circumference/three-points-moving-on-a-circumference",
     "slug": "three-points-moving-on-a-circumference",
     "title": "Three points moving on a circumference /",
     "text": "There are three points A, B, and C which move around on the one circumference with a fixed speed, respectively. \nA and B move to the same direction and C moves to the opposite direction of A and B. \nThese three points A, B, and C departed from the same point exactly at 1:00. \nA and C met at 1:02",
@@ -78205,7 +78205,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/three-points-moving-on-a-rectangle",
+    "path": "/home/level-2l-3/three-points-moving-on-a-rectangle",
     "slug": "three-points-moving-on-a-rectangle",
     "title": "Three points moving on a rectangle",
     "text": "As shown in Fig. 1, there is a rectangle ABCD whose length of side AB is 18 cm and length of side AD is 42 cm. \nThe point P leaves A and moves at the speed of 3 cm/s clockwise rotation on the side of rectangle ABCD as A -> D -> C -> B -> A. \nIt will stop when it arrives at A again. \nThe point Q",
@@ -78303,7 +78303,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/three-points-moving-on-a-rectangle/three-points-moving-on-a-rectangle",
+    "path": "/home/level-2l-3/three-points-moving-on-a-rectangle/three-points-moving-on-a-rectangle",
     "slug": "three-points-moving-on-a-rectangle",
     "title": "Three points moving on a rectangle /",
     "text": "As shown in Fig. 1, there is a rectangle ABCD whose length of side AB is 18 cm and length of side AD is 42 cm.\nThe point P leaves A and moves at the speed of 3 cm/s clockwise rotation on the side of rectangle ABCD as A -> D -> C -> B -> A.\nIt will stop when it arrives at A again.\nThe point Q",
@@ -78421,7 +78421,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/time-of-display-of-crossing-for-trains",
+    "path": "/home/level-2l-3/time-of-display-of-crossing-for-trains",
     "slug": "time-of-display-of-crossing-for-trains",
     "title": "Time of display of crossing for trains",
     "text": "There is a crossing between A station and B station. \nTrains bound for A station in every 5 minutes and trains bound for B station in every 6 minutes passes along this crossing.\nThe crossing is closed anytime a train passes. \nWhile being closed, The display A and B is turned on in fixed time when",
@@ -78510,7 +78510,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/time-of-display-of-crossing-for-trains/time-of-display-of-crossing-for-trains",
+    "path": "/home/level-2l-3/time-of-display-of-crossing-for-trains/time-of-display-of-crossing-for-trains",
     "slug": "time-of-display-of-crossing-for-trains",
     "title": "Time of display of crossing for trains /",
     "text": "There is a crossing between A station and B station.\nTrains bound for A station in every 5 minutes and trains bound for B station in every 6 minutes passes along this crossing.\nThe crossing is closed anytime a train passes.\nWhile being closed, The display A and B is turned on in fixed time when",
@@ -78608,7 +78608,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/triangle-covered-by-squares",
+    "path": "/home/level-2l-3/triangle-covered-by-squares",
     "slug": "triangle-covered-by-squares",
     "title": "Triangle covered by squares",
     "text": "As shown in a figure, the right triangle was covered with the square tile 10 cm in one side. \nFind the least number of sheets of tiles required to cover a right triangle with sides of length 3 m and 4 m in the same way.",
@@ -78702,7 +78702,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/triangle-covered-by-squares/triangle-covered-by-squares",
+    "path": "/home/level-2l-3/triangle-covered-by-squares/triangle-covered-by-squares",
     "slug": "triangle-covered-by-squares",
     "title": "Triangle covered by squares /",
     "text": "As shown in a figure, the right triangle was covered with the square tile 10 cm in one side. \nFind the least number of sheets of tiles required to cover a right triangle with sides of length 3 m and 4 m in the same way.",
@@ -78800,7 +78800,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/triangle-of-integers-written-counterclockwise",
+    "path": "/home/level-2l-3/triangle-of-integers-written-counterclockwise",
     "slug": "triangle-of-integers-written-counterclockwise",
     "title": "Triangle of integers written counterclockwise",
     "text": "As shown in a figure, an integer is arranged sequentially from 1. \nThe case where 2007 steps are put in order is considered.\n(1) Find the largest number.\n(2) In which steps from the top and which number from the left is the largest number ?",
@@ -78902,7 +78902,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/triangle-of-integers-written-counterclockwise/triangle-of-integers-written-counterclockwise",
+    "path": "/home/level-2l-3/triangle-of-integers-written-counterclockwise/triangle-of-integers-written-counterclockwise",
     "slug": "triangle-of-integers-written-counterclockwise",
     "title": "Triangle of integers written counterclockwise /",
     "text": "As shown in a figure, an integer is arranged sequentially from 1. \nThe case where 2007 steps are put in order is considered. \n(1) Find the largest number. \n(2) In which steps from the top and which number from the left is the largest number ?",
@@ -79008,7 +79008,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/two-circles-moving-in-triangle",
+    "path": "/home/level-2l-3/two-circles-moving-in-triangle",
     "slug": "two-circles-moving-in-triangle",
     "title": "Two circles moving in triangle",
     "text": "Fig. 1 shows the figure which put two disks 1 cm in radius together at the point A. \nPlace this figure into the frame of the right triangle of Fig. 2 and when you move this figure so as not to protrude from the frame, find the area of the range where the point A can move.",
@@ -79102,7 +79102,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/two-circles-moving-in-triangle/two-circles-moving-in-triangle",
+    "path": "/home/level-2l-3/two-circles-moving-in-triangle/two-circles-moving-in-triangle",
     "slug": "two-circles-moving-in-triangle",
     "title": "Two circles moving in triangle /",
     "text": "Fig. 1 shows the figure which put two disks 1 cm in radius together at the point A. \nPlace this figure into the frame of the right triangle of Fig. 2 and when you move this figure so as not to protrude from the frame, find the area of the range where the point A can move.",
@@ -79208,7 +79208,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/two-machines-displaying-numbers-on-the-rule",
+    "path": "/home/level-2l-3/two-machines-displaying-numbers-on-the-rule",
     "slug": "two-machines-displaying-numbers-on-the-rule",
     "title": "Two machines displaying numbers on the rule",
     "text": "There is the machine A which displays the number of double-digit figures, and when a switch is turned on, a number will be displayed as the following rule for every second.\n[Rule]\nAs for tens digit, it changes every second in order of 1, 2, 3, 4, 5, 6, 7, 8 and after 8 it return to 1 again. It",
@@ -79297,7 +79297,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/two-machines-displaying-numbers-on-the-rule/two-machines-displaying-numbers-on-the-rule",
+    "path": "/home/level-2l-3/two-machines-displaying-numbers-on-the-rule/two-machines-displaying-numbers-on-the-rule",
     "slug": "two-machines-displaying-numbers-on-the-rule",
     "title": "Two machines displaying numbers on the rule /",
     "text": "There is the machine A which displays the number of double-digit figures, and when a switch is turned on, a number will be displayed as the following rule for every second.\n[Rule]\nAs for tens digit, it changes every second in order of 1, 2, 3, 4, 5, 6, 7, 8 and after 8 it return to 1 again. It",
@@ -79386,7 +79386,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/two-persons-moving-on-an-annular-road",
+    "path": "/home/level-2l-3/two-persons-moving-on-an-annular-road",
     "slug": "two-persons-moving-on-an-annular-road",
     "title": "Two persons moving on an annular road",
     "text": "There is an annular road as shown in the figure passing along P point and Q point. \nThe distance between P and Q is the same in a clockwise rotation or a counterclockwise rotation. \nTaro moves from P clockwise and Jiro moves from Q counterclockwise on the road. \nThey leave simultaneously and",
@@ -79424,7 +79424,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/two-persons-moving-on-an-annular-road/two-persons-moving-on-an-annular-road",
+    "path": "/home/level-2l-3/two-persons-moving-on-an-annular-road/two-persons-moving-on-an-annular-road",
     "slug": "two-persons-moving-on-an-annular-road",
     "title": "Two persons moving on an annular road /",
     "text": "There is an annular road as shown in the figure passing along P point and Q point. \nThe distance between P and Q is the same in a clockwise rotation or a counterclockwise rotation. \nTaro moves from P clockwise and Jiro moves from Q counterclockwise on the road. \nThey leave simultaneously and",
@@ -79470,7 +79470,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/two-persons-walking-on-a-moving-walkway",
+    "path": "/home/level-2l-3/two-persons-walking-on-a-moving-walkway",
     "slug": "two-persons-walking-on-a-moving-walkway",
     "title": "Two persons walking on a moving walkway",
     "text": "There are A point and B point and there is a moving walkway with a fixed speed between A and B. \nTaro and Jiro began to walk at the same time on this moving walkway with a fixed speed respectively from A point. \nWhile Taro walks four steps, Jiro walks three steps. \nThe step length of Jiro is 48 cm",
@@ -79543,7 +79543,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/two-persons-walking-on-a-moving-walkway/two-persons-walking-on-a-moving-walkway",
+    "path": "/home/level-2l-3/two-persons-walking-on-a-moving-walkway/two-persons-walking-on-a-moving-walkway",
     "slug": "two-persons-walking-on-a-moving-walkway",
     "title": "Two persons walking on a moving walkway /",
     "text": "There are A point and B point and there is a moving walkway with a fixed speed between A and B. \nTaro and Jiro began to walk at the same time on this moving walkway with a fixed speed respectively from A point. \nWhile Taro walks four steps, Jiro walks three steps. \nThe step length of Jiro is 48 cm",
@@ -79616,7 +79616,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/two-points-moving-in-a-square",
+    "path": "/home/level-2l-3/two-points-moving-in-a-square",
     "slug": "two-points-moving-in-a-square",
     "title": "Two points moving in a square",
     "text": "There is a square ABCD whose length of one side is 10 cm. E, F, G, and H of the figure are the middle points of square side, respectively. \nThe point O is the intersection of EF and GH. \nFrom the point A, the point P starts from point A at 1 cm/s and moves on the line of the figure as A - E - O -",
@@ -79714,7 +79714,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/two-points-moving-in-a-square/two-points-moving-in-a-square",
+    "path": "/home/level-2l-3/two-points-moving-in-a-square/two-points-moving-in-a-square",
     "slug": "two-points-moving-in-a-square",
     "title": "Two points moving in a square /",
     "text": "There is a square ABCD whose length of one side is 10 cm. E, F, G, and H of the figure are the middle points of square side, respectively. \nThe point O is the intersection of EF and GH. \nFrom the point A, the point P starts from point A at 1 cm/s and moves on the line of the figure as A - E - O -",
@@ -79824,7 +79824,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/vessel-water-and-bar",
+    "path": "/home/level-2l-3/vessel-water-and-bar",
     "slug": "vessel-water-and-bar",
     "title": "Vessel, water and bar",
     "text": "Water is contained in the vessel of a rectangular prism to a certain height as shown in Fig.1. \nThe bar of a rectangular prism whose length and width at the bottom is 10 cm and 6 cm respectively was put into this vessel to 24 cm from the bottom of the vessel for the both bottom might be parallel.",
@@ -79918,7 +79918,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/vessel-water-and-bar/vessel-water-and-bar",
+    "path": "/home/level-2l-3/vessel-water-and-bar/vessel-water-and-bar",
     "slug": "vessel-water-and-bar",
     "title": "Vessel, water and bar /",
     "text": "Water is contained in the vessel of a rectangular prism to a certain height as shown in Fig.1. \nThe bar of a rectangular prism whose length and width at the bottom is 10 cm and 6 cm respectively was put into this vessel to 24 cm from the bottom of the vessel for the both bottom might be parallel.",
@@ -80016,7 +80016,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/volleyball-tournament-of-five-teams",
+    "path": "/home/level-2l-3/volleyball-tournament-of-five-teams",
     "slug": "volleyball-tournament-of-five-teams",
     "title": "Volleyball tournament of five teams",
     "text": "In a volleyball tournament the league match (round-robin matches) of 5 teams, A, B, C, D, and E is held. \nThere is one court and the schedule is for two days. \nThe game of this tournament is organized in accordance with the following administration rules.\n<Rule 1>\nIn addition to two teams under",
@@ -80105,7 +80105,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/volleyball-tournament-of-five-teams/volleyball-tournament-of-five-teams",
+    "path": "/home/level-2l-3/volleyball-tournament-of-five-teams/volleyball-tournament-of-five-teams",
     "slug": "volleyball-tournament-of-five-teams",
     "title": "Volleyball tournament of five teams /",
     "text": "In a volleyball tournament the league match (round-robin matches) of 5 teams, A, B, C, D, and E is held.\nThere is one court and the schedule is for two days.\nThe game of this tournament is organized in accordance with the following administration rules.\n<Rule 1>\nIn addition to two teams under",
@@ -80194,7 +80194,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/volume-ratio-after-cutting-rectangular-prism",
+    "path": "/home/level-2l-3/volume-ratio-after-cutting-rectangular-prism",
     "slug": "volume-ratio-after-cutting-rectangular-prism",
     "title": "Volume ratio after cutting rectangular prism",
     "text": "A figure is a rectangular prism and AB = 5cm, AD = 6cm, and AE = 8cm. \nMoreover, BF = 4 cm, AG = 2cm. \nA rectangular prism is divided into two solids by the plane which passes along three point C, F, and G. \nFind the ratio of the volume of a large solid to the volume of a small solid.",
@@ -80283,7 +80283,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/volume-ratio-after-cutting-rectangular-prism/volume-ratio-after-cutting-rectangular-prism",
+    "path": "/home/level-2l-3/volume-ratio-after-cutting-rectangular-prism/volume-ratio-after-cutting-rectangular-prism",
     "slug": "volume-ratio-after-cutting-rectangular-prism",
     "title": "Volume ratio after cutting rectangular prism /",
     "text": "A figure is a rectangular prism and AB = 5cm, AD = 6cm, and AE = 8cm. \nMoreover, BF = 4 cm, AG = 2cm. \nA rectangular prism is divided into two solids by the plane which passes along three point C, F, and G. \nFind the ratio of the volume of a large solid to the volume of a small solid.",
@@ -80372,7 +80372,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/way-of-putting-spots-on-the-die",
+    "path": "/home/level-2l-3/way-of-putting-spots-on-the-die",
     "slug": "way-of-putting-spots-on-the-die",
     "title": "Way of putting spots on the die",
     "text": "As for the dice, the sum of the number of spots of the surface and the opposite side is seven. \nTaking into account this fact, how many ways to make a spot on the surface of the dice are there ? \nAs for the spots of 1, 4, and 5, it is same when you look at the dice from any direction, but as for",
@@ -80461,7 +80461,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-3/way-of-putting-spots-on-the-die/way-of-putting-spots-on-the-die",
+    "path": "/home/level-2l-3/way-of-putting-spots-on-the-die/way-of-putting-spots-on-the-die",
     "slug": "way-of-putting-spots-on-the-die",
     "title": "Way of putting spots on the die /",
     "text": "As for the dice, the sum of the number of spots of the surface and the opposite side is seven. \nTaking into account this fact, how many ways to make a spot on the surface of the dice are there ? \nAs for the spots of 1, 4, and 5, it is same when you look at the dice from any direction, but as for",
@@ -80550,7 +80550,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-4",
+    "path": "/home/level-2l-4",
     "slug": "level-4",
     "title": "Level 4",
     "text": "Operations\n    AAAA.1    Round the 3rd digit from the top of number               \nProperties\n    BBBB.1\nRatios and proportions\n    CCCC.1        \nProblem solving (Velocity)\n    DDDD.1             \nTransformations\n    EEEE.1\nProblem solving (Sum and difference)\n    FFFF.1           \nNumber sense /",
@@ -80639,7 +80639,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-4/image-solid-from-development-view",
+    "path": "/home/level-2l-4/image-solid-from-development-view",
     "slug": "image-solid-from-development-view",
     "title": "Image solid from development view",
     "text": "Find the volume of the solid which is made by assembling the development view of the figure. \nEach triangular face is an equilateral triangle. \nEach face of a hexagon is a made figure where one side cuts out two right-angled isosceles triangles whose equal lengths of two sides are 1 cm from the",
@@ -80733,7 +80733,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-4/image-solid-from-development-view/image-solid-from-development-view",
+    "path": "/home/level-2l-4/image-solid-from-development-view/image-solid-from-development-view",
     "slug": "image-solid-from-development-view",
     "title": "Image solid from development view /",
     "text": "Find the volume of the solid which is made by assembling the development view of the figure. \nEach triangular face is an equilateral triangle. \nEach face of a hexagon is a made figure where one side cuts out two right-angled isosceles triangles whose equal lengths of two sides are 1 cm from the",
@@ -80831,7 +80831,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-4/round-the-3rd-digit-from-the-top-of-number",
+    "path": "/home/level-2l-4/round-the-3rd-digit-from-the-top-of-number",
     "slug": "round-the-3rd-digit-from-the-top-of-number",
     "title": "Round the 3rd digit from the top of number",
     "text": "I round the third digit from the top of the number which is product of 2 is multiplied by 123 times.\nFind a two-digit number from the top of that number.",
@@ -80920,7 +80920,7 @@ export const migratedPages = [
     ]
   },
   {
-    "path": "/home/level-4/round-the-3rd-digit-from-the-top-of-number/round-the-3rd-digit-from-the-top-of-number",
+    "path": "/home/level-2l-4/round-the-3rd-digit-from-the-top-of-number/round-the-3rd-digit-from-the-top-of-number",
     "slug": "round-the-3rd-digit-from-the-top-of-number",
     "title": "Round the 3rd digit from the top of number /",
     "text": "I round the third digit from the top of the number which is product of 2 is multiplied by 123 times. \nFind a two-digit number from the top of that number.\nAnswer\n11\nSolution\n210 express multiplying 2 10 times.\n210＝2 × 2 × 2 × 2 × 2 × 2 × 2 × 2 × 2 × 2 = 1024\n220＝210 × 210\n220＝1024 × 1024 =",
